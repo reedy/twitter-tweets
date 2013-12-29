@@ -15,7 +15,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2312580449",
-  "text" : "Uncool. @msofficeus is using Word to render emails in Outlook, killing standards support. See http://fixoutlook.org and RT",
+  "text" : "Uncool. @msofficeus is using Word to render emails in Outlook, killing standards support. See http:\/\/fixoutlook.org and RT",
   "id" : 2312580449,
   "created_at" : "2009-06-24 00:00:00 +0000",
   "user" : {
@@ -23,7 +23,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -54,7 +54,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -76,7 +76,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }

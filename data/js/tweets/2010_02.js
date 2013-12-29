@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2010_02 = 
  [ {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Wes Mason",
@@ -28,12 +28,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Doug Winter",
@@ -48,9 +48,9 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9781203389",
-  "text" : "RT @winjer: oh dear, this is a proper noob error http://bit.ly/a0SgrA",
+  "text" : "RT @winjer: oh dear, this is a proper noob error http:\/\/bit.ly\/a0SgrA",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.brizzly.com\" rel=\"nofollow\">Brizzly</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -59,7 +59,7 @@ Grailbird.data.tweets_2010_02 =
     },
     "geo" : { },
     "id_str" : "9771011599",
-    "text" : "oh dear, this is a proper noob error http://bit.ly/a0SgrA",
+    "text" : "oh dear, this is a proper noob error http:\/\/bit.ly\/a0SgrA",
     "id" : 9771011599,
     "created_at" : "2010-02-28 09:43:30 +0000",
     "user" : {
@@ -67,7 +67,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "winjer",
       "protected" : false,
       "id_str" : "957411",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000359600875/f1280b873be77978c066fb554e1f39c0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000359600875\/f1280b873be77978c066fb554e1f39c0_normal.jpeg",
       "id" : 957411,
       "verified" : false
     }
@@ -79,12 +79,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Phil Cluff",
@@ -112,12 +112,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -137,12 +137,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "orta",
@@ -170,12 +170,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Robin",
@@ -203,7 +203,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -217,7 +217,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9694447519",
-  "text" : "http://nextround.net/2010/02/25/predator-vs-predator/ lool",
+  "text" : "http:\/\/nextround.net\/2010\/02\/25\/predator-vs-predator\/ lool",
   "id" : 9694447519,
   "created_at" : "2010-02-26 00:00:00 +0000",
   "user" : {
@@ -225,7 +225,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -251,9 +251,9 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9627013332",
-  "text" : "RT @KarooBroadband: RT Karoo users please sign up @Raymond_Mcfee To all Hull residents: help Ofcom test broadband speed claims http://bi ...",
+  "text" : "RT @KarooBroadband: RT Karoo users please sign up @Raymond_Mcfee To all Hull residents: help Ofcom test broadband speed claims http:\/\/bi ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Raymond Mcfee",
@@ -268,7 +268,7 @@ Grailbird.data.tweets_2010_02 =
     },
     "geo" : { },
     "id_str" : "9626833995",
-    "text" : "RT Karoo users please sign up @Raymond_Mcfee To all Hull residents: help Ofcom test broadband speed claims http://bit.ly/d5yfaD",
+    "text" : "RT Karoo users please sign up @Raymond_Mcfee To all Hull residents: help Ofcom test broadband speed claims http:\/\/bit.ly\/d5yfaD",
     "id" : 9626833995,
     "created_at" : "2010-02-25 14:08:11 +0000",
     "user" : {
@@ -276,7 +276,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "_KCHome",
       "protected" : false,
       "id_str" : "22005301",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3506145027/50c1fd8189c61de1dfd422fcb5cd44ab_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3506145027\/50c1fd8189c61de1dfd422fcb5cd44ab_normal.png",
       "id" : 22005301,
       "verified" : false
     }
@@ -288,12 +288,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonty Wareing",
@@ -316,7 +316,7 @@ Grailbird.data.tweets_2010_02 =
   "id_str" : "9632920667",
   "text" : "RT @jonty: \"I hate the whole concept of polystyrene. Except when it has shiny computer bits inside, then I can deal with it.\" -- @jonocole",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+    "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jono Cole",
@@ -339,7 +339,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "jonty",
       "protected" : false,
       "id_str" : "1856851",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1152283654/avatar-gbcam_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1152283654\/avatar-gbcam_normal.png",
       "id" : 1856851,
       "verified" : false
     }
@@ -351,12 +351,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tom Lawrence",
@@ -371,9 +371,9 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9638565511",
-  "text" : "RT @tjlawrence: Mind the Ethernet cables: http://twitpic.com/1598b4",
+  "text" : "RT @tjlawrence: Mind the Ethernet cables: http:\/\/twitpic.com\/1598b4",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -382,7 +382,7 @@ Grailbird.data.tweets_2010_02 =
     },
     "geo" : { },
     "id_str" : "9627943638",
-    "text" : "Mind the Ethernet cables: http://twitpic.com/1598b4",
+    "text" : "Mind the Ethernet cables: http:\/\/twitpic.com\/1598b4",
     "id" : 9627943638,
     "created_at" : "2010-02-25 14:36:02 +0000",
     "user" : {
@@ -390,7 +390,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "tjlawrence",
       "protected" : false,
       "id_str" : "28587521",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/774180995/icon_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774180995\/icon_normal.jpg",
       "id" : 28587521,
       "verified" : false
     }
@@ -402,7 +402,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -425,7 +425,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9640940727",
-  "text" : "I'm now a member of the @PiratePartyUK - Ya ha fiddle de dee! http://bit.ly/bui7Em #fb",
+  "text" : "I'm now a member of the @PiratePartyUK - Ya ha fiddle de dee! http:\/\/bit.ly\/bui7Em #fb",
   "id" : 9640940727,
   "created_at" : "2010-02-25 00:00:00 +0000",
   "user" : {
@@ -433,12 +433,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Phil Cluff",
@@ -455,7 +455,7 @@ Grailbird.data.tweets_2010_02 =
   "id_str" : "9598642059",
   "text" : "RT @GeneticGenesis: Eugh, can't we go back to the days where everyone on the internet knew how to use it?",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -472,7 +472,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "GeneticGenesis",
       "protected" : false,
       "id_str" : "22054297",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/910782703/philsm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/910782703\/philsm_normal.jpg",
       "id" : 22054297,
       "verified" : false
     }
@@ -484,7 +484,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -492,7 +492,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex",
+      "name" : "Alex 'Rantchards'",
       "screen_name" : "spr33",
       "indices" : [ 3, 9 ],
       "id_str" : "8596732",
@@ -504,9 +504,9 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9523628398",
-  "text" : "RT @spr33: Tech heads: https://www.dabs.com/formviewer.aspx?formid=event2010 - free tickets to a tech event in Manchester and London.",
+  "text" : "RT @spr33: Tech heads: https:\/\/www.dabs.com\/formviewer.aspx?formid=event2010 - free tickets to a tech event in Manchester and London.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+    "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -515,15 +515,15 @@ Grailbird.data.tweets_2010_02 =
     },
     "geo" : { },
     "id_str" : "9487496441",
-    "text" : "Tech heads: https://www.dabs.com/formviewer.aspx?formid=event2010 - free tickets to a tech event in Manchester and London.",
+    "text" : "Tech heads: https:\/\/www.dabs.com\/formviewer.aspx?formid=event2010 - free tickets to a tech event in Manchester and London.",
     "id" : 9487496441,
     "created_at" : "2010-02-22 18:36:06 +0000",
     "user" : {
-      "name" : "Alex",
+      "name" : "Alex 'Rantchards'",
       "screen_name" : "spr33",
       "protected" : false,
       "id_str" : "8596732",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3356806230/3b1a9c110b07e10492b8398cd8248548_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3356806230\/3b1a9c110b07e10492b8398cd8248548_normal.jpeg",
       "id" : 8596732,
       "verified" : false
     }
@@ -535,12 +535,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Apache Friends",
@@ -558,9 +558,9 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9531779006",
-  "text" : "RT @apachefriends: Today is the 15th Anniversary of the #Apache HTTP Server -- Powering More than 112 Million Websites! http://bit.ly/9c ...",
+  "text" : "RT @apachefriends: Today is the 15th Anniversary of the #Apache HTTP Server -- Powering More than 112 Million Websites! http:\/\/bit.ly\/9c ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Apache - The ASF",
@@ -578,7 +578,7 @@ Grailbird.data.tweets_2010_02 =
     },
     "geo" : { },
     "id_str" : "9528557832",
-    "text" : "Today is the 15th Anniversary of the #Apache HTTP Server -- Powering More than 112 Million Websites! http://bit.ly/9cwYHZ (via @TheASF)",
+    "text" : "Today is the 15th Anniversary of the #Apache HTTP Server -- Powering More than 112 Million Websites! http:\/\/bit.ly\/9cwYHZ (via @TheASF)",
     "id" : 9528557832,
     "created_at" : "2010-02-23 14:52:53 +0000",
     "user" : {
@@ -586,7 +586,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "apachefriends",
       "protected" : false,
       "id_str" : "8356022",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/68202503/AF-Twitter-Logo2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/68202503\/AF-Twitter-Logo2_normal.jpg",
       "id" : 8356022,
       "verified" : false
     }
@@ -598,12 +598,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Pirate Party UK",
@@ -618,9 +618,9 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9535101206",
-  "text" : "RT @PiratePartyUK: It costs just \u00A310/year to join (\u00A32 if you're under 21!) every \u00A3 helps us fight for your rights! Join here: http://bit ...",
+  "text" : "RT @PiratePartyUK: It costs just \u00A310\/year to join (\u00A32 if you're under 21!) every \u00A3 helps us fight for your rights! Join here: http:\/\/bit ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -629,7 +629,7 @@ Grailbird.data.tweets_2010_02 =
     },
     "geo" : { },
     "id_str" : "9534527767",
-    "text" : "It costs just \u00A310/year to join (\u00A32 if you're under 21!) every \u00A3 helps us fight for your rights! Join here: http://bit.ly/bQ8J3C",
+    "text" : "It costs just \u00A310\/year to join (\u00A32 if you're under 21!) every \u00A3 helps us fight for your rights! Join here: http:\/\/bit.ly\/bQ8J3C",
     "id" : 9534527767,
     "created_at" : "2010-02-23 17:24:41 +0000",
     "user" : {
@@ -637,7 +637,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "PiratePartyUK",
       "protected" : false,
       "id_str" : "38447898",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1341800824/PPUK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1341800824\/PPUK_normal.png",
       "id" : 38447898,
       "verified" : false
     }
@@ -649,7 +649,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -677,7 +677,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -702,7 +702,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -719,7 +719,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9499944990",
-  "text" : "http://ie6funeral.com/ #fb",
+  "text" : "http:\/\/ie6funeral.com\/ #fb",
   "id" : 9499944990,
   "created_at" : "2010-02-22 00:00:00 +0000",
   "user" : {
@@ -727,7 +727,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -747,7 +747,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9431763936",
-  "text" : "Anyone used/can recommend a decent picture/print framing company in Hull/surrounding areas? @GeneticGenesis and I could do with one! Ta :)",
+  "text" : "Anyone used\/can recommend a decent picture\/print framing company in Hull\/surrounding areas? @GeneticGenesis and I could do with one! Ta :)",
   "id" : 9431763936,
   "created_at" : "2010-02-21 00:00:00 +0000",
   "user" : {
@@ -755,7 +755,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -788,12 +788,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Last.fm",
@@ -822,12 +822,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonty Wareing",
@@ -855,7 +855,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -869,7 +869,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9385854830",
-  "text" : "http://bit.ly/d2fIk4v - Elliot Minor cover of Owl City Fireflies - \"A jock strap around my head, a dildo under my bed\"!?!?!",
+  "text" : "http:\/\/bit.ly\/d2fIk4v - Elliot Minor cover of Owl City Fireflies - \"A jock strap around my head, a dildo under my bed\"!?!?!",
   "id" : 9385854830,
   "created_at" : "2010-02-20 00:00:00 +0000",
   "user" : {
@@ -877,12 +877,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -891,7 +891,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9388011838",
-  "text" : "Blue screen of fail at pcworld http://yfrog.com/4i6u7jdj",
+  "text" : "Blue screen of fail at pcworld http:\/\/yfrog.com\/4i6u7jdj",
   "id" : 9388011838,
   "created_at" : "2010-02-20 00:00:00 +0000",
   "user" : {
@@ -899,7 +899,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -932,7 +932,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -946,7 +946,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9356578937",
-  "text" : "Anyone fancy a co-located mac mini? http://www.macminicolo.net/",
+  "text" : "Anyone fancy a co-located mac mini? http:\/\/www.macminicolo.net\/",
   "id" : 9356578937,
   "created_at" : "2010-02-19 00:00:00 +0000",
   "user" : {
@@ -954,7 +954,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -982,7 +982,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1014,9 +1014,9 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9332587056",
-  "text" : "RT @orta: RT @winjer: this drives me completely round the bend http://bit.ly/bDogen (via @1stvamp)",
+  "text" : "RT @orta: RT @winjer: this drives me completely round the bend http:\/\/bit.ly\/bDogen (via @1stvamp)",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Doug Winter",
@@ -1037,7 +1037,7 @@ Grailbird.data.tweets_2010_02 =
     },
     "geo" : { },
     "id_str" : "9327933130",
-    "text" : "RT @winjer: this drives me completely round the bend http://bit.ly/bDogen (via @1stvamp)",
+    "text" : "RT @winjer: this drives me completely round the bend http:\/\/bit.ly\/bDogen (via @1stvamp)",
     "id" : 9327933130,
     "created_at" : "2010-02-19 09:36:22 +0000",
     "user" : {
@@ -1045,7 +1045,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "orta",
       "protected" : false,
       "id_str" : "2569881",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3756520008/d2c470f0749aa2d8ee91498f9eb41703_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000512098797\/1aeee47d72fd9ca503ec29365b09200f_normal.jpeg",
       "id" : 2569881,
       "verified" : false
     }
@@ -1057,7 +1057,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1077,9 +1077,9 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9334146578",
-  "text" : "RT @bbctech: Millions of Internet Explorer users in Europe will get the chance to change their web browser from 1 March. http://bit.ly/9 ...",
+  "text" : "RT @bbctech: Millions of Internet Explorer users in Europe will get the chance to change their web browser from 1 March. http:\/\/bit.ly\/9 ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\"\u003Etwitterfeed\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1088,7 +1088,7 @@ Grailbird.data.tweets_2010_02 =
     },
     "geo" : { },
     "id_str" : "9333302894",
-    "text" : "Millions of Internet Explorer users in Europe will get the chance to change their web browser from 1 March. http://bit.ly/9jySCs",
+    "text" : "Millions of Internet Explorer users in Europe will get the chance to change their web browser from 1 March. http:\/\/bit.ly\/9jySCs",
     "id" : 9333302894,
     "created_at" : "2010-02-19 13:00:22 +0000",
     "user" : {
@@ -1096,7 +1096,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2415722176/0joo5f32yuw0juszwjx4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2415722176\/0joo5f32yuw0juszwjx4_normal.jpeg",
       "id" : 621583,
       "verified" : false
     }
@@ -1108,12 +1108,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Simon Seagrave",
@@ -1129,7 +1129,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : { },
   "id_str" : "9335029783",
   "in_reply_to_user_id" : 779050,
-  "text" : "@Kiwi_Si Raid migration, e200 from mirror to raid 5, on a ml115. Need a full linux/windows install, for the array config util? Ta",
+  "text" : "@Kiwi_Si Raid migration, e200 from mirror to raid 5, on a ml115. Need a full linux\/windows install, for the array config util? Ta",
   "id" : 9335029783,
   "created_at" : "2010-02-19 00:00:00 +0000",
   "in_reply_to_screen_name" : "Kiwi_Si",
@@ -1139,12 +1139,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sam Reed",
@@ -1170,12 +1170,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "thebigboo ",
@@ -1209,7 +1209,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "thebigboo",
       "protected" : false,
       "id_str" : "15866848",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/537056450/Cam0Pic09-11-21_14.22.29_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/537056450\/Cam0Pic09-11-21_14.22.29_normal.jpg",
       "id" : 15866848,
       "verified" : false
     }
@@ -1221,12 +1221,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "thebigboo ",
@@ -1260,7 +1260,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "thebigboo",
       "protected" : false,
       "id_str" : "15866848",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/537056450/Cam0Pic09-11-21_14.22.29_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/537056450\/Cam0Pic09-11-21_14.22.29_normal.jpg",
       "id" : 15866848,
       "verified" : false
     }
@@ -1272,12 +1272,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Phil Cluff",
@@ -1311,7 +1311,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "GeneticGenesis",
       "protected" : false,
       "id_str" : "22054297",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/910782703/philsm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/910782703\/philsm_normal.jpg",
       "id" : 22054297,
       "verified" : false
     }
@@ -1323,12 +1323,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1345,12 +1345,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1362,7 +1362,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9336673895",
-  "text" : "So, it is possible to make cider have a head.... http://yfrog.com/1evw2fj #fb",
+  "text" : "So, it is possible to make cider have a head.... http:\/\/yfrog.com\/1evw2fj #fb",
   "id" : 9336673895,
   "created_at" : "2010-02-19 00:00:00 +0000",
   "user" : {
@@ -1370,12 +1370,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1387,7 +1387,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9336741825",
-  "text" : "Sausage fap anyone? http://yfrog.com/4eaqsyj #fb",
+  "text" : "Sausage fap anyone? http:\/\/yfrog.com\/4eaqsyj #fb",
   "id" : 9336741825,
   "created_at" : "2010-02-19 00:00:00 +0000",
   "user" : {
@@ -1395,7 +1395,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1428,7 +1428,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1461,12 +1461,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Darren Kitchen",
@@ -1494,7 +1494,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1533,7 +1533,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "GeneticGenesis",
       "protected" : false,
       "id_str" : "22054297",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/910782703/philsm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/910782703\/philsm_normal.jpg",
       "id" : 22054297,
       "verified" : false
     }
@@ -1545,7 +1545,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1576,7 +1576,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1598,7 +1598,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : { },
   "id_str" : "9231842530",
   "in_reply_to_user_id" : 779050,
-  "text" : "@Kiwi_Si Hey.. Any idea where I can get a ML115 G5 ILO for a reasonable price? eBay may be cheaper from AUS.. http://bit.ly/a1RsX Ta!",
+  "text" : "@Kiwi_Si Hey.. Any idea where I can get a ML115 G5 ILO for a reasonable price? eBay may be cheaper from AUS.. http:\/\/bit.ly\/a1RsX Ta!",
   "id" : 9231842530,
   "in_reply_to_status_id" : 9199744842,
   "created_at" : "2010-02-17 00:00:00 +0000",
@@ -1609,7 +1609,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1631,7 +1631,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : { },
   "id_str" : "9235181259",
   "in_reply_to_user_id" : 779050,
-  "text" : "@Kiwi_Si http://bit.ly/a1RsX6 even. I've emailed about shipping.. Might be able to get a better discount if you fancied doubling up?",
+  "text" : "@Kiwi_Si http:\/\/bit.ly\/a1RsX6 even. I've emailed about shipping.. Might be able to get a better discount if you fancied doubling up?",
   "id" : 9235181259,
   "in_reply_to_status_id" : 9235072716,
   "created_at" : "2010-02-17 00:00:00 +0000",
@@ -1642,7 +1642,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1667,7 +1667,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1689,7 +1689,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : { },
   "id_str" : "9241537086",
   "in_reply_to_user_id" : 16170178,
-  "text" : "@digininja Isn't it on http://bit.ly/b2Y7fI ?",
+  "text" : "@digininja Isn't it on http:\/\/bit.ly\/b2Y7fI ?",
   "id" : 9241537086,
   "in_reply_to_status_id" : 9241372211,
   "created_at" : "2010-02-17 00:00:00 +0000",
@@ -1700,7 +1700,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1725,7 +1725,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1758,7 +1758,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1791,12 +1791,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Simon Seagrave",
@@ -1811,9 +1811,9 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9180744921",
-  "text" : "RT @Kiwi_Si: New TechHead Post: \"In Pictures: The HP hardware behind the movie Avatar\" http://bit.ly/b4hso1",
+  "text" : "RT @Kiwi_Si: New TechHead Post: \"In Pictures: The HP hardware behind the movie Avatar\" http:\/\/bit.ly\/b4hso1",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1822,7 +1822,7 @@ Grailbird.data.tweets_2010_02 =
     },
     "geo" : { },
     "id_str" : "9180383982",
-    "text" : "New TechHead Post: \"In Pictures: The HP hardware behind the movie Avatar\" http://bit.ly/b4hso1",
+    "text" : "New TechHead Post: \"In Pictures: The HP hardware behind the movie Avatar\" http:\/\/bit.ly\/b4hso1",
     "id" : 9180383982,
     "created_at" : "2010-02-16 10:48:10 +0000",
     "user" : {
@@ -1830,7 +1830,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "Kiwi_Si",
       "protected" : false,
       "id_str" : "779050",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3054249291/757d32aec9b5330c162733186c1b2c3f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000821276721\/46c30db80a17cc8f3dd75d7daa41386a_normal.jpeg",
       "id" : 779050,
       "verified" : false
     }
@@ -1842,7 +1842,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -1864,12 +1864,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mintty T. Cygwin",
@@ -1920,7 +1920,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "mintty_cygwin",
       "protected" : false,
       "id_str" : "37492156",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1938877716/terminal-256_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1938877716\/terminal-256_normal.png",
       "id" : 37492156,
       "verified" : false
     }
@@ -1932,12 +1932,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mintty T. Cygwin",
@@ -1965,12 +1965,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1990,12 +1990,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2015,12 +2015,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2032,7 +2032,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "9137403879",
-  "text" : "Hu1 3/10 #uksnow",
+  "text" : "Hu1 3\/10 #uksnow",
   "id" : 9137403879,
   "created_at" : "2010-02-15 00:00:00 +0000",
   "user" : {
@@ -2040,15 +2040,15 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinster",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -2073,12 +2073,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Darren Kitchen",
@@ -2106,12 +2106,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2131,12 +2131,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2156,12 +2156,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2178,12 +2178,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Rob Miles",
@@ -2198,9 +2198,9 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "8969719229",
-  "text" : "RT @robmiles: New blog post: http://tinyurl.com/y98jl6p - Hull Students: Freeside Needs You",
+  "text" : "RT @robmiles: New blog post: http:\/\/tinyurl.com\/y98jl6p - Hull Students: Freeside Needs You",
   "retweeted_status" : {
-    "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+    "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2209,7 +2209,7 @@ Grailbird.data.tweets_2010_02 =
     },
     "geo" : { },
     "id_str" : "8968487097",
-    "text" : "New blog post: http://tinyurl.com/y98jl6p - Hull Students: Freeside Needs You",
+    "text" : "New blog post: http:\/\/tinyurl.com\/y98jl6p - Hull Students: Freeside Needs You",
     "id" : 8968487097,
     "created_at" : "2010-02-11 16:54:36 +0000",
     "user" : {
@@ -2217,7 +2217,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "robmiles",
       "protected" : false,
       "id_str" : "2479801",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/150108107/me2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/150108107\/me2_normal.jpg",
       "id" : 2479801,
       "verified" : false
     }
@@ -2229,12 +2229,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "hulldigital",
@@ -2257,7 +2257,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -2265,7 +2265,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joseph BettellHiggin",
+      "name" : "Joseph ",
       "screen_name" : "dueledge",
       "indices" : [ 3, 12 ],
       "id_str" : "25743312",
@@ -2292,11 +2292,11 @@ Grailbird.data.tweets_2010_02 =
     "id" : 8919920178,
     "created_at" : "2010-02-10 21:32:51 +0000",
     "user" : {
-      "name" : "Joseph BettellHiggin",
+      "name" : "Joseph ",
       "screen_name" : "dueledge",
       "protected" : false,
       "id_str" : "25743312",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/555296657/profilepic_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000511438505\/402dfc40d176adc5410419c8f51d315a_normal.jpeg",
       "id" : 25743312,
       "verified" : false
     }
@@ -2308,15 +2308,15 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinster",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -2341,12 +2341,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Simon Butcher",
@@ -2374,12 +2374,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Leonard Challis",
@@ -2407,12 +2407,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2432,12 +2432,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2449,7 +2449,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "8631443518",
-  "text" : "@GeneticGenisis in lecture http://yfrog.com/4ipogdj #fb",
+  "text" : "@GeneticGenisis in lecture http:\/\/yfrog.com\/4ipogdj #fb",
   "id" : 8631443518,
   "created_at" : "2010-02-04 00:00:00 +0000",
   "user" : {
@@ -2457,12 +2457,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2482,15 +2482,15 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joseph BettellHiggin",
+      "name" : "Joseph ",
       "screen_name" : "dueledge",
       "indices" : [ 3, 12 ],
       "id_str" : "25743312",
@@ -2504,7 +2504,7 @@ Grailbird.data.tweets_2010_02 =
   "id_str" : "8646107409",
   "text" : "RT @dueledge: Chavs; because rednecks can't survive our harsh winters",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2517,11 +2517,11 @@ Grailbird.data.tweets_2010_02 =
     "id" : 8644805227,
     "created_at" : "2010-02-04 19:38:44 +0000",
     "user" : {
-      "name" : "Joseph BettellHiggin",
+      "name" : "Joseph ",
       "screen_name" : "dueledge",
       "protected" : false,
       "id_str" : "25743312",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/555296657/profilepic_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000511438505\/402dfc40d176adc5410419c8f51d315a_normal.jpeg",
       "id" : 25743312,
       "verified" : false
     }
@@ -2533,12 +2533,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2550,7 +2550,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "8646324237",
-  "text" : "Why is the lube dildo shaped? http://yfrog.com/3n907uj #fb",
+  "text" : "Why is the lube dildo shaped? http:\/\/yfrog.com\/3n907uj #fb",
   "id" : 8646324237,
   "created_at" : "2010-02-04 00:00:00 +0000",
   "user" : {
@@ -2558,12 +2558,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2575,7 +2575,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "8596708181",
-  "text" : "#uksnow Ls27 5/10",
+  "text" : "#uksnow Ls27 5\/10",
   "id" : 8596708181,
   "created_at" : "2010-02-03 00:00:00 +0000",
   "user" : {
@@ -2583,12 +2583,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2600,7 +2600,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "8598736922",
-  "text" : "#uksnow yo8 3/10",
+  "text" : "#uksnow yo8 3\/10",
   "id" : 8598736922,
   "created_at" : "2010-02-03 00:00:00 +0000",
   "user" : {
@@ -2608,12 +2608,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2625,7 +2625,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "8598747601",
-  "text" : "#uksnow hu5 2/10",
+  "text" : "#uksnow hu5 2\/10",
   "id" : 8598747601,
   "created_at" : "2010-02-03 00:00:00 +0000",
   "user" : {
@@ -2633,7 +2633,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -2655,7 +2655,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : { },
   "id_str" : "8600524715",
   "in_reply_to_user_id" : 22054297,
-  "text" : "@GeneticGenesis http://bit.ly/c3pSsY - Browser stats for WMF. 54% IE, 11.7% IE6 :(",
+  "text" : "@GeneticGenesis http:\/\/bit.ly\/c3pSsY - Browser stats for WMF. 54% IE, 11.7% IE6 :(",
   "id" : 8600524715,
   "in_reply_to_status_id" : 8598863362,
   "created_at" : "2010-02-03 00:00:00 +0000",
@@ -2666,12 +2666,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Wes Mason",
@@ -2692,9 +2692,9 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "8581423050",
-  "text" : "RT @1stvamp: RT @bassdread: http://bit.ly/dkRnco boycott the homophobic little fella",
+  "text" : "RT @1stvamp: RT @bassdread: http:\/\/bit.ly\/dkRnco boycott the homophobic little fella",
   "retweeted_status" : {
-    "source" : "<a href=\"https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic\" rel=\"nofollow\">Silver Bird</a>",
+    "source" : "\u003Ca href=\"https:\/\/chrome.google.com\/extensions\/detail\/encaiiljifbdbjlphpgpiimidegddhic\" rel=\"nofollow\"\u003ESilver Bird\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "bassdread",
@@ -2709,7 +2709,7 @@ Grailbird.data.tweets_2010_02 =
     },
     "geo" : { },
     "id_str" : "8581107638",
-    "text" : "RT @bassdread: http://bit.ly/dkRnco boycott the homophobic little fella",
+    "text" : "RT @bassdread: http:\/\/bit.ly\/dkRnco boycott the homophobic little fella",
     "id" : 8581107638,
     "created_at" : "2010-02-03 09:12:27 +0000",
     "user" : {
@@ -2717,7 +2717,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "1stvamp",
       "protected" : false,
       "id_str" : "1856171",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1585349211/profile_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1585349211\/profile_normal.jpeg",
       "id" : 1856171,
       "verified" : false
     }
@@ -2729,12 +2729,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Simon Butcher",
@@ -2751,7 +2751,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : { },
   "id_str" : "8524277239",
   "in_reply_to_user_id" : 50338462,
-  "text" : "@simonbutcher but as its accidental damage... Warranty isn't going to cover it.. Is it? :-/",
+  "text" : "@simonbutcher but as its accidental damage... Warranty isn't going to cover it.. Is it? :-\/",
   "id" : 8524277239,
   "in_reply_to_status_id" : 8511553944,
   "created_at" : "2010-02-02 00:00:00 +0000",
@@ -2762,7 +2762,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -2787,7 +2787,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -2804,7 +2804,7 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "8546471848",
-  "text" : "On the lookout for a new IRC Client. Win/Linux.. XChat has a char limit on channels, KVIrc results in me being kicked from freenode... #fb",
+  "text" : "On the lookout for a new IRC Client. Win\/Linux.. XChat has a char limit on channels, KVIrc results in me being kicked from freenode... #fb",
   "id" : 8546471848,
   "created_at" : "2010-02-02 00:00:00 +0000",
   "user" : {
@@ -2812,7 +2812,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -2845,7 +2845,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -2878,7 +2878,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -2911,7 +2911,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -2933,7 +2933,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : { },
   "id_str" : "8548234267",
   "in_reply_to_user_id" : 50338462,
-  "text" : "@simonbutcher So see what dixon have to say (for ins company)... Any idea what i should do regarding backup/wiping the hd?",
+  "text" : "@simonbutcher So see what dixon have to say (for ins company)... Any idea what i should do regarding backup\/wiping the hd?",
   "id" : 8548234267,
   "in_reply_to_status_id" : 8548048288,
   "created_at" : "2010-02-02 00:00:00 +0000",
@@ -2944,7 +2944,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -2952,7 +2952,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinster",
       "screen_name" : "shinaku",
       "indices" : [ 3, 11 ],
       "id_str" : "14355014",
@@ -2979,11 +2979,11 @@ Grailbird.data.tweets_2010_02 =
     "id" : 8554127998,
     "created_at" : "2010-02-02 19:13:25 +0000",
     "user" : {
-      "name" : "Shin",
+      "name" : "Shinster",
       "screen_name" : "shinaku",
       "protected" : false,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3724353449/49f6422e07d8dfc7bc45563e93dc0cda_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000788246565\/a2f0bab47b6e248ee908e5e5fa92dbef_normal.jpeg",
       "id" : 14355014,
       "verified" : false
     }
@@ -2995,7 +2995,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
@@ -3015,9 +3015,9 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "8554545367",
-  "text" : "RT @apachefriends: HipHop: PHP to C++ Compiler? Brilliant idea or just another Wave? http://developers.facebook.com/news.php?blog=1&stor ...",
+  "text" : "RT @apachefriends: HipHop: PHP to C++ Compiler? Brilliant idea or just another Wave? http:\/\/developers.facebook.com\/news.php?blog=1&stor ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3026,7 +3026,7 @@ Grailbird.data.tweets_2010_02 =
     },
     "geo" : { },
     "id_str" : "8553925452",
-    "text" : "HipHop: PHP to C++ Compiler? Brilliant idea or just another Wave? http://developers.facebook.com/news.php?blog=1&story=358",
+    "text" : "HipHop: PHP to C++ Compiler? Brilliant idea or just another Wave? http:\/\/developers.facebook.com\/news.php?blog=1&story=358",
     "id" : 8553925452,
     "created_at" : "2010-02-02 19:07:14 +0000",
     "user" : {
@@ -3034,7 +3034,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "apachefriends",
       "protected" : false,
       "id_str" : "8356022",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/68202503/AF-Twitter-Logo2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/68202503\/AF-Twitter-Logo2_normal.jpg",
       "id" : 8356022,
       "verified" : false
     }
@@ -3046,12 +3046,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tom Lawrence",
@@ -3072,9 +3072,9 @@ Grailbird.data.tweets_2010_02 =
   },
   "geo" : { },
   "id_str" : "8500336828",
-  "text" : "RT @tjlawrence: @tehreedy's having a wonderful start to the semester http://twitpic.com/10v22b",
+  "text" : "RT @tjlawrence: @tehreedy's having a wonderful start to the semester http:\/\/twitpic.com\/10v22b",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Sam Reed",
@@ -3090,7 +3090,7 @@ Grailbird.data.tweets_2010_02 =
     "geo" : { },
     "id_str" : "8499535636",
     "in_reply_to_user_id" : 19903171,
-    "text" : "@tehreedy's having a wonderful start to the semester http://twitpic.com/10v22b",
+    "text" : "@tehreedy's having a wonderful start to the semester http:\/\/twitpic.com\/10v22b",
     "id" : 8499535636,
     "created_at" : "2010-02-01 14:09:24 +0000",
     "in_reply_to_screen_name" : "tehreedy",
@@ -3100,7 +3100,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "tjlawrence",
       "protected" : false,
       "id_str" : "28587521",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/774180995/icon_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774180995\/icon_normal.jpg",
       "id" : 28587521,
       "verified" : false
     }
@@ -3112,12 +3112,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Simon Butcher",
@@ -3134,7 +3134,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : { },
   "id_str" : "8500459278",
   "in_reply_to_user_id" : 50338462,
-  "text" : "@simonbutcher Hard drive fell on it, from a shelf :-/. Not good!",
+  "text" : "@simonbutcher Hard drive fell on it, from a shelf :-\/. Not good!",
   "id" : 8500459278,
   "in_reply_to_status_id" : 8500383077,
   "created_at" : "2010-02-01 00:00:00 +0000",
@@ -3145,12 +3145,12 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
+  "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tom Wardill",
@@ -3178,7 +3178,7 @@ Grailbird.data.tweets_2010_02 =
     "screen_name" : "tehreedy",
     "protected" : false,
     "id_str" : "19903171",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1386168731/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
     "id" : 19903171,
     "verified" : false
   }
