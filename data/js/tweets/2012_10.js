@@ -12,12 +12,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "mysqlperformanceblog.com/2008/02/04/fin\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263723537808891904",
   "text" : "Finding out largest tables on MySQL Server http://t.co/BA6GNNGG",
   "id" : 263723537808891904,
-  "created_at" : "Wed Oct 31 19:26:05 +0000 2012",
+  "created_at" : "2012-10-31 19:26:05 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -42,14 +41,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "263666033833947136",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263666125483696130",
   "in_reply_to_user_id" : 20662765,
   "text" : "@Ebuyer Wow, $4.05? That's a bargain!",
   "id" : 263666125483696130,
   "in_reply_to_status_id" : 263666033833947136,
-  "created_at" : "Wed Oct 31 15:37:57 +0000 2012",
+  "created_at" : "2012-10-31 15:37:57 +0000",
   "in_reply_to_screen_name" : "Ebuyer",
   "in_reply_to_user_id_str" : "20662765",
   "user" : {
@@ -80,12 +78,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "bit.ly/TtdAt8"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263459306119245824",
   "text" : "Sooo, the @wikidata database for http://t.co/ldpY7J0O is already over 100MB....",
   "id" : 263459306119245824,
-  "created_at" : "Wed Oct 31 01:56:08 +0000 2012",
+  "created_at" : "2012-10-31 01:56:08 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -109,12 +106,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263408725233123329",
   "text" : ".@stephenfry It would look like you've caused a (unintentional?) DDoS of the christwire site....",
   "id" : 263408725233123329,
-  "created_at" : "Tue Oct 30 22:35:08 +0000 2012",
+  "created_at" : "2012-10-30 22:35:08 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -144,13 +140,12 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263358198768091139",
   "in_reply_to_user_id" : 112745660,
   "text" : "@JeroenDeDauw @timodescamps Is most of Belgium closed on a Sunday?",
   "id" : 263358198768091139,
-  "created_at" : "Tue Oct 30 19:14:22 +0000 2012",
+  "created_at" : "2012-10-30 19:14:22 +0000",
   "in_reply_to_screen_name" : "JeroenDeDauw",
   "in_reply_to_user_id_str" : "112745660",
   "user" : {
@@ -163,7 +158,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -173,12 +168,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263280098453647360",
   "text" : "Apache attack helicopters flying around over Goole... #fb",
   "id" : 263280098453647360,
-  "created_at" : "Tue Oct 30 14:04:01 +0000 2012",
+  "created_at" : "2012-10-30 14:04:01 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -207,8 +201,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "cnet.co/U366cT"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262952381581496320",
   "text" : "RT @CNET: Google infringes on Apple's patent for losing prototype phones in bars http://t.co/RXC4us0c",
   "retweeted_status" : {
@@ -224,12 +217,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "cnet.co/U366cT"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "262950975516577792",
     "text" : "Google infringes on Apple's patent for losing prototype phones in bars http://t.co/RXC4us0c",
     "id" : 262950975516577792,
-    "created_at" : "Mon Oct 29 16:16:12 +0000 2012",
+    "created_at" : "2012-10-29 16:16:12 +0000",
     "user" : {
       "name" : "CNET",
       "screen_name" : "CNET",
@@ -241,7 +233,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 262952381581496320,
-  "created_at" : "Mon Oct 29 16:21:47 +0000 2012",
+  "created_at" : "2012-10-29 16:21:47 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -261,7 +253,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "14735827",
       "id" : 14735827
     }, {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 15, 30 ],
       "id_str" : "28117032",
@@ -277,14 +269,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "262852041817325568",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262920076292939778",
   "in_reply_to_user_id" : 14735827,
   "text" : "@beermerchants @boomerangmouth It would seem to be a Carlsberg product - http://t.co/gqKi5yEN Thanks!",
   "id" : 262920076292939778,
   "in_reply_to_status_id" : 262852041817325568,
-  "created_at" : "Mon Oct 29 14:13:25 +0000 2012",
+  "created_at" : "2012-10-29 14:13:25 +0000",
   "in_reply_to_screen_name" : "beermerchants",
   "in_reply_to_user_id_str" : "14735827",
   "user" : {
@@ -311,14 +302,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "262473569668308993",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262679701376614400",
   "in_reply_to_user_id" : 35737385,
   "text" : "@BTCare Replied! Don't need a phone call. Just if you can advise. Having to wait till the end of the month, then poke my ISP after. Thanks!",
   "id" : 262679701376614400,
   "in_reply_to_status_id" : 262473569668308993,
-  "created_at" : "Sun Oct 28 22:18:15 +0000 2012",
+  "created_at" : "2012-10-28 22:18:15 +0000",
   "in_reply_to_screen_name" : "BTCare",
   "in_reply_to_user_id_str" : "35737385",
   "user" : {
@@ -350,14 +340,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "262669421842149376",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262673041975300097",
   "in_reply_to_user_id" : 4889121,
   "text" : "@matthewsteeples http://t.co/UxJD9Im5",
   "id" : 262673041975300097,
   "in_reply_to_status_id" : 262669421842149376,
-  "created_at" : "Sun Oct 28 21:51:48 +0000 2012",
+  "created_at" : "2012-10-28 21:51:48 +0000",
   "in_reply_to_screen_name" : "matthewsteeples",
   "in_reply_to_user_id_str" : "4889121",
   "user" : {
@@ -385,12 +374,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "bit.ly/jPWQAY"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262659244069904384",
   "text" : "My Top 1 #lastfm Artists: One Direction (4) http://t.co/Yj11ell8",
   "id" : 262659244069904384,
-  "created_at" : "Sun Oct 28 20:56:58 +0000 2012",
+  "created_at" : "2012-10-28 20:56:58 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -411,12 +399,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262610537035210753",
   "text" : "Can anyone recommend an oil certified plumber? Need a boiler servicing and also some radiator valves replacing. #fb",
   "id" : 262610537035210753,
-  "created_at" : "Sun Oct 28 17:43:25 +0000 2012",
+  "created_at" : "2012-10-28 17:43:25 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -437,12 +424,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262564971349696512",
   "text" : "Currently 13.3C in my office room.... #fb",
   "id" : 262564971349696512,
-  "created_at" : "Sun Oct 28 14:42:22 +0000 2012",
+  "created_at" : "2012-10-28 14:42:22 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -460,12 +446,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262348681578168320",
   "text" : "My laptop says it's 01:22, my phone says it's 01:00. Do Google understand daylight savings time etc?",
   "id" : 262348681578168320,
-  "created_at" : "Sun Oct 28 00:22:54 +0000 2012",
+  "created_at" : "2012-10-28 00:22:54 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -485,7 +470,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "14735827",
       "id" : 14735827
     }, {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 79, 94 ],
       "id_str" : "28117032",
@@ -495,13 +480,12 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262340045564960768",
   "in_reply_to_user_id" : 14735827,
   "text" : "@beermerchants Hey. Are you guys able to source the Finnish beer Karhu? I know @boomerangmouth would really love you guys for it... Thanks!",
   "id" : 262340045564960768,
-  "created_at" : "Sat Oct 27 23:48:35 +0000 2012",
+  "created_at" : "2012-10-27 23:48:35 +0000",
   "in_reply_to_screen_name" : "beermerchants",
   "in_reply_to_user_id_str" : "14735827",
   "user" : {
@@ -528,14 +512,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "262321752426807298",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262322261044912131",
   "in_reply_to_user_id" : 139748938,
   "text" : "@timodescamps Do you have a crystal ball now?",
   "id" : 262322261044912131,
   "in_reply_to_status_id" : 262321752426807298,
-  "created_at" : "Sat Oct 27 22:37:55 +0000 2012",
+  "created_at" : "2012-10-27 22:37:55 +0000",
   "in_reply_to_screen_name" : "timodescamps",
   "in_reply_to_user_id_str" : "139748938",
   "user" : {
@@ -561,13 +544,12 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262317329461952512",
   "in_reply_to_user_id" : 139748938,
   "text" : "@timodescamps Are yo0u alive? :P Where are you/what're you doing on 9th November through 12th November?",
   "id" : 262317329461952512,
-  "created_at" : "Sat Oct 27 22:18:19 +0000 2012",
+  "created_at" : "2012-10-27 22:18:19 +0000",
   "in_reply_to_screen_name" : "timodescamps",
   "in_reply_to_user_id_str" : "139748938",
   "user" : {
@@ -587,12 +569,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262313211196481537",
   "text" : "I seem to have lost my first poppy of this year. Didn't even have it for 12 hours...",
   "id" : 262313211196481537,
-  "created_at" : "Sat Oct 27 22:01:57 +0000 2012",
+  "created_at" : "2012-10-27 22:01:57 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -617,14 +598,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "262296148109295617",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262296356922744833",
   "in_reply_to_user_id" : 15866848,
   "text" : "@thebigboo Indeed. It happens from time to time accidentally when people speed up/slow down (understandable). Actively undertaking though...",
   "id" : 262296356922744833,
   "in_reply_to_status_id" : 262296148109295617,
-  "created_at" : "Sat Oct 27 20:54:59 +0000 2012",
+  "created_at" : "2012-10-27 20:54:59 +0000",
   "in_reply_to_screen_name" : "thebigboo",
   "in_reply_to_user_id_str" : "15866848",
   "user" : {
@@ -651,14 +631,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "261822041852874752",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262293587092455425",
   "in_reply_to_user_id" : 35737385,
   "text" : "@BTCare Again? It is quite a while since my last contact ;)",
   "id" : 262293587092455425,
   "in_reply_to_status_id" : 261822041852874752,
-  "created_at" : "Sat Oct 27 20:43:58 +0000 2012",
+  "created_at" : "2012-10-27 20:43:58 +0000",
   "in_reply_to_screen_name" : "BTCare",
   "in_reply_to_user_id_str" : "35737385",
   "user" : {
@@ -678,12 +657,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262293322142453760",
   "text" : "ADSL 2+ Annex-M broadband upstream ... of 1Mbps and downstream ... of 6Mbps; typically the downstream ... between 3.5Mbps and 8.5Mbps.",
   "id" : 262293322142453760,
-  "created_at" : "Sat Oct 27 20:42:55 +0000 2012",
+  "created_at" : "2012-10-27 20:42:55 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -701,12 +679,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262293108505591808",
   "text" : "...line currently supports an estimated ADSL2+ broadband line speed of 6Mbps; typically ... would range between 3.5Mbps and 8.5Mbps",
   "id" : 262293108505591808,
-  "created_at" : "Sat Oct 27 20:42:04 +0000 2012",
+  "created_at" : "2012-10-27 20:42:04 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -731,14 +708,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "262288765840658432",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262290148803375106",
   "in_reply_to_user_id" : 1856171,
   "text" : "@1stvamp BT Infinity 160Mb. GOGOGOGO",
   "id" : 262290148803375106,
   "in_reply_to_status_id" : 262288765840658432,
-  "created_at" : "Sat Oct 27 20:30:19 +0000 2012",
+  "created_at" : "2012-10-27 20:30:19 +0000",
   "in_reply_to_screen_name" : "1stvamp",
   "in_reply_to_user_id_str" : "1856171",
   "user" : {
@@ -765,14 +741,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "262288765840658432",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262289786411298816",
   "in_reply_to_user_id" : 1856171,
   "text" : "@1stvamp I've no idea when the cabs went in Checked the BT Wholesale ADSL Availability Checker? And/or the \"Can I get BT Infinity?\" checker?",
   "id" : 262289786411298816,
   "in_reply_to_status_id" : 262288765840658432,
-  "created_at" : "Sat Oct 27 20:28:52 +0000 2012",
+  "created_at" : "2012-10-27 20:28:52 +0000",
   "in_reply_to_screen_name" : "1stvamp",
   "in_reply_to_user_id_str" : "1856171",
   "user" : {
@@ -792,12 +767,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262284778412326912",
   "text" : "Steam keeps crashing out. Fail",
   "id" : 262284778412326912,
-  "created_at" : "Sat Oct 27 20:08:58 +0000 2012",
+  "created_at" : "2012-10-27 20:08:58 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -822,14 +796,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "262278352159797248",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262284258025013250",
   "in_reply_to_user_id" : 1856171,
   "text" : "@1stvamp I've seen 2 so far. Aren't you close enough to get Fibre To The Exchange? :P",
   "id" : 262284258025013250,
   "in_reply_to_status_id" : 262278352159797248,
-  "created_at" : "Sat Oct 27 20:06:54 +0000 2012",
+  "created_at" : "2012-10-27 20:06:54 +0000",
   "in_reply_to_screen_name" : "1stvamp",
   "in_reply_to_user_id_str" : "1856171",
   "user" : {
@@ -842,7 +815,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -879,12 +852,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262274850318589953",
   "text" : "Looks like BT have started to fibre up Selby http://t.co/kZ8Wkt1e",
   "id" : 262274850318589953,
-  "created_at" : "Sat Oct 27 19:29:33 +0000 2012",
+  "created_at" : "2012-10-27 19:29:33 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -895,7 +867,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Raspberry Pi",
@@ -914,14 +886,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "262224653387440128",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262269320577564673",
   "in_reply_to_user_id" : 302666251,
   "text" : "@Raspberry_Pi .co.uk http://t.co/mFs3Mcwo",
   "id" : 262269320577564673,
   "in_reply_to_status_id" : 262224653387440128,
-  "created_at" : "Sat Oct 27 19:07:33 +0000 2012",
+  "created_at" : "2012-10-27 19:07:33 +0000",
   "in_reply_to_screen_name" : "Raspberry_Pi",
   "in_reply_to_user_id_str" : "302666251",
   "user" : {
@@ -934,7 +905,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -944,12 +915,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262268764291227648",
   "text" : "Can anyone tell me when undertaking was made legal on motorways in the Midlands? Thanks! #fb",
   "id" : 262268764291227648,
-  "created_at" : "Sat Oct 27 19:05:20 +0000 2012",
+  "created_at" : "2012-10-27 19:05:20 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -967,12 +937,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261947483217854464",
   "text" : "Annnnnd O2 seem to have decided they don't want to provide any service",
   "id" : 261947483217854464,
-  "created_at" : "Fri Oct 26 21:48:41 +0000 2012",
+  "created_at" : "2012-10-26 21:48:41 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -993,12 +962,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261945344739401728",
   "text" : "YO8 1/10 #uksnow",
   "id" : 261945344739401728,
-  "created_at" : "Fri Oct 26 21:40:11 +0000 2012",
+  "created_at" : "2012-10-26 21:40:11 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1022,13 +990,12 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261801700241850368",
   "in_reply_to_user_id" : 35737385,
   "text" : "@BTCare Is there an easy way to find out if 21CN has been completed yet? MYBUB is due by 30/11/12, but wondering if I can find out if early",
   "id" : 261801700241850368,
-  "created_at" : "Fri Oct 26 12:09:24 +0000 2012",
+  "created_at" : "2012-10-26 12:09:24 +0000",
   "in_reply_to_screen_name" : "BTCare",
   "in_reply_to_user_id_str" : "35737385",
   "user" : {
@@ -1051,12 +1018,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261792679069884416",
   "text" : "Anyone any suggestions for reasonably cheap (and to run) colour inkjet printer? Photo and A4. Compact would be good... #fb",
   "id" : 261792679069884416,
-  "created_at" : "Fri Oct 26 11:33:33 +0000 2012",
+  "created_at" : "2012-10-26 11:33:33 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1083,12 +1049,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261777098681769984",
   "text" : "Aww, no @QuicklineUK wireless based broadband for me today. It seems there is Drax power station between me and the transmitter... #fb",
   "id" : 261777098681769984,
-  "created_at" : "Fri Oct 26 10:31:38 +0000 2012",
+  "created_at" : "2012-10-26 10:31:38 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1113,14 +1078,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "260766817675530242",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260899538422886400",
   "in_reply_to_user_id" : 115180931,
   "text" : "@webide I guess there's gonna be a 5.0.4 ;)",
   "id" : 260899538422886400,
   "in_reply_to_status_id" : 260766817675530242,
-  "created_at" : "Wed Oct 24 00:24:31 +0000 2012",
+  "created_at" : "2012-10-24 00:24:31 +0000",
   "in_reply_to_screen_name" : "phpstorm",
   "in_reply_to_user_id_str" : "115180931",
   "user" : {
@@ -1133,7 +1097,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -1173,12 +1137,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260475165778010112",
   "text" : "Git all the things! #fb http://t.co/spHgyJGl",
   "id" : 260475165778010112,
-  "created_at" : "Mon Oct 22 20:18:14 +0000 2012",
+  "created_at" : "2012-10-22 20:18:14 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1192,7 +1155,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Harrison",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -1203,14 +1166,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "260468314629865473",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260468768914931712",
   "in_reply_to_user_id" : 14355014,
   "text" : "@shinaku Check Reddit.",
   "id" : 260468768914931712,
   "in_reply_to_status_id" : 260468314629865473,
-  "created_at" : "Mon Oct 22 19:52:48 +0000 2012",
+  "created_at" : "2012-10-22 19:52:48 +0000",
   "in_reply_to_screen_name" : "shinaku",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
@@ -1250,13 +1212,12 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "bit.ly/RWdIB3"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260330551955845120",
   "in_reply_to_user_id" : 155286834,
   "text" : "@LiamMars RT @newscientist: When in Rome, you get a little hit of #cocaine with every breath http://t.co/UqBPumPC",
   "id" : 260330551955845120,
-  "created_at" : "Mon Oct 22 10:43:34 +0000 2012",
+  "created_at" : "2012-10-22 10:43:34 +0000",
   "in_reply_to_screen_name" : "kindacromulent",
   "in_reply_to_user_id_str" : "155286834",
   "user" : {
@@ -1276,12 +1237,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260326512136421376",
   "text" : "Why do people purposely park directly on the other side of the road to you? I was there first, and had to move my car for the dustbin wagon",
   "id" : 260326512136421376,
-  "created_at" : "Mon Oct 22 10:27:31 +0000 2012",
+  "created_at" : "2012-10-22 10:27:31 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1307,12 +1267,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "bit.ly/jPWQAY"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260203522136608769",
   "text" : "My Top 3 #lastfm Artists: Jake Bugg (26), One Direction (7) &amp; The Primitives (2) http://t.co/Yj11ell8",
   "id" : 260203522136608769,
-  "created_at" : "Mon Oct 22 02:18:48 +0000 2012",
+  "created_at" : "2012-10-22 02:18:48 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1356,12 +1315,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "change.org/en-GB/petition\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259723526586634240",
   "text" : "Get Griffin (@nickgriffinmep) off @Twitter #BanGriffin http://t.co/4tJcqNZ0 via @change",
   "id" : 259723526586634240,
-  "created_at" : "Sat Oct 20 18:31:28 +0000 2012",
+  "created_at" : "2012-10-20 18:31:28 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1385,13 +1343,12 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259340299111907328",
   "in_reply_to_user_id" : 139748938,
   "text" : "@timodescamps Where are you/what are you doing the weekend of 9th-11th November?",
   "id" : 259340299111907328,
-  "created_at" : "Fri Oct 19 17:08:40 +0000 2012",
+  "created_at" : "2012-10-19 17:08:40 +0000",
   "in_reply_to_screen_name" : "timodescamps",
   "in_reply_to_user_id_str" : "139748938",
   "user" : {
@@ -1414,12 +1371,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259283344448184321",
   "text" : "Why is it so hard to get some companies to take your money? I WANT YOUR PRODUCT/SERVICE, take my fscking money and GIEF IT #fb",
   "id" : 259283344448184321,
-  "created_at" : "Fri Oct 19 13:22:21 +0000 2012",
+  "created_at" : "2012-10-19 13:22:21 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1449,14 +1405,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "259062777581297664",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259063079462121474",
   "in_reply_to_user_id" : 72163,
   "text" : "@alanjclark How about \u00A360k+ ? http://t.co/A60DjWlZ",
   "id" : 259063079462121474,
   "in_reply_to_status_id" : 259062777581297664,
-  "created_at" : "Thu Oct 18 22:47:05 +0000 2012",
+  "created_at" : "2012-10-18 22:47:05 +0000",
   "in_reply_to_screen_name" : "alanjclark",
   "in_reply_to_user_id_str" : "72163",
   "user" : {
@@ -1483,14 +1438,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "259061834110353408",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259062408822259712",
   "in_reply_to_user_id" : 72163,
   "text" : "@alanjclark Isn't it a pretty well paid job?",
   "id" : 259062408822259712,
   "in_reply_to_status_id" : 259061834110353408,
-  "created_at" : "Thu Oct 18 22:44:26 +0000 2012",
+  "created_at" : "2012-10-18 22:44:26 +0000",
   "in_reply_to_screen_name" : "alanjclark",
   "in_reply_to_user_id_str" : "72163",
   "user" : {
@@ -1521,8 +1475,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "cnet.co/TyXrPd"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259038802134302720",
   "text" : "RT @CNETNews: HSBC was hit by a denial-of-service attack that knocked its online banking service offline http://t.co/nxodhgG8",
   "retweeted_status" : {
@@ -1538,12 +1491,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "cnet.co/TyXrPd"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "259035966243762177",
     "text" : "HSBC was hit by a denial-of-service attack that knocked its online banking service offline http://t.co/nxodhgG8",
     "id" : 259035966243762177,
-    "created_at" : "Thu Oct 18 20:59:21 +0000 2012",
+    "created_at" : "2012-10-18 20:59:21 +0000",
     "user" : {
       "name" : "CNET News",
       "screen_name" : "CNETNews",
@@ -1551,11 +1503,11 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "819800",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1580505142/News_normal.jpg",
       "id" : 819800,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 259038802134302720,
-  "created_at" : "Thu Oct 18 21:10:37 +0000 2012",
+  "created_at" : "2012-10-18 21:10:37 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1578,12 +1530,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "bit.ly/Qx3VwQ"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258977589857767424",
   "text" : "http://t.co/MfRJN7sj \"Ubuntu 21.10 - the current stable version, released in October 2012, codenamed Precise Pangolin.\" 21.10!? FUCK YES",
   "id" : 258977589857767424,
-  "created_at" : "Thu Oct 18 17:07:23 +0000 2012",
+  "created_at" : "2012-10-18 17:07:23 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1613,8 +1564,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258971644742230016",
   "text" : "RT @JakeBuggFans: RT this tweet to let you know Jake Bugg!\n\n@JakeBugg",
   "retweeted_status" : {
@@ -1631,13 +1581,12 @@ Grailbird.data.tweets_2012_10 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "258969271663730688",
     "in_reply_to_user_id" : 224267898,
     "text" : "RT this tweet to let you know Jake Bugg!\n\n@JakeBugg",
     "id" : 258969271663730688,
-    "created_at" : "Thu Oct 18 16:34:20 +0000 2012",
+    "created_at" : "2012-10-18 16:34:20 +0000",
     "in_reply_to_screen_name" : "JakeBugg",
     "in_reply_to_user_id_str" : "224267898",
     "user" : {
@@ -1651,7 +1600,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 258971644742230016,
-  "created_at" : "Thu Oct 18 16:43:46 +0000 2012",
+  "created_at" : "2012-10-18 16:43:46 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1669,12 +1618,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258971167031951361",
   "text" : "Come on Ubuntu, release 12.10; I want to &lt;s&gt;break&lt;/s&gt; upgrade my development virtual machines!",
   "id" : 258971167031951361,
-  "created_at" : "Thu Oct 18 16:41:52 +0000 2012",
+  "created_at" : "2012-10-18 16:41:52 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1695,12 +1643,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258962467261145089",
   "text" : "Apparently I'm due an eye test. #fb",
   "id" : 258962467261145089,
-  "created_at" : "Thu Oct 18 16:07:18 +0000 2012",
+  "created_at" : "2012-10-18 16:07:18 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1744,8 +1691,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "twitpic.com/b584ma"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258912307898376193",
   "text" : "RT @AngryBirds: Tomorrow, Friday October 19,\u00A012pm GMT:\u00A0http://t.co/Ca3Suu9t\u00A0#Win #AngryBirdsStarWars #StarWars @StarWars",
   "retweeted_status" : {
@@ -1776,24 +1722,23 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "twitpic.com/b584ma"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "258911951667732482",
     "text" : "Tomorrow, Friday October 19,\u00A012pm GMT:\u00A0http://t.co/Ca3Suu9t\u00A0#Win #AngryBirdsStarWars #StarWars @StarWars",
     "id" : 258911951667732482,
-    "created_at" : "Thu Oct 18 12:46:34 +0000 2012",
+    "created_at" : "2012-10-18 12:46:34 +0000",
     "user" : {
       "name" : "Angry Birds",
       "screen_name" : "AngryBirds",
       "protected" : false,
       "id_str" : "17337554",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3666824129/d09117e148922949d61c0a05882ab90e_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000447386570/1005eee539461f8e5a2cd333b1620159_normal.png",
       "id" : 17337554,
       "verified" : true
     }
   },
   "id" : 258912307898376193,
-  "created_at" : "Thu Oct 18 12:47:59 +0000 2012",
+  "created_at" : "2012-10-18 12:47:59 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1818,14 +1763,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258898337212801024",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258900937177985024",
   "in_reply_to_user_id" : 155286834,
   "text" : "@LiamMars Though shalt not Graduate if thou doth not hath white bow tie?",
   "id" : 258900937177985024,
   "in_reply_to_status_id" : 258898337212801024,
-  "created_at" : "Thu Oct 18 12:02:48 +0000 2012",
+  "created_at" : "2012-10-18 12:02:48 +0000",
   "in_reply_to_screen_name" : "kindacromulent",
   "in_reply_to_user_id_str" : "155286834",
   "user" : {
@@ -1838,7 +1782,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "The Tech Report",
@@ -1856,8 +1800,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "goo.gl/fb/F6NnP"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258896632928665600",
   "text" : "RT @thetechreport: Zero-day security hole found in Steam http://t.co/rCPqaLf9",
   "retweeted_status" : {
@@ -1873,12 +1816,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "goo.gl/fb/F6NnP"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "258888667916038145",
     "text" : "Zero-day security hole found in Steam http://t.co/rCPqaLf9",
     "id" : 258888667916038145,
-    "created_at" : "Thu Oct 18 11:14:03 +0000 2012",
+    "created_at" : "2012-10-18 11:14:03 +0000",
     "user" : {
       "name" : "The Tech Report",
       "screen_name" : "thetechreport",
@@ -1890,7 +1832,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 258896632928665600,
-  "created_at" : "Thu Oct 18 11:45:42 +0000 2012",
+  "created_at" : "2012-10-18 11:45:42 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1901,7 +1843,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Android Police",
@@ -1919,8 +1861,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "andp.lc/OJwHyh"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258739325448118274",
   "text" : "RT @AndroidPolice: Play Store Wish lists Are Rolling Out Right Now! http://t.co/dr6RLRZ0",
   "retweeted_status" : {
@@ -1936,12 +1877,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "andp.lc/OJwHyh"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "258738552022654976",
     "text" : "Play Store Wish lists Are Rolling Out Right Now! http://t.co/dr6RLRZ0",
     "id" : 258738552022654976,
-    "created_at" : "Thu Oct 18 01:17:32 +0000 2012",
+    "created_at" : "2012-10-18 01:17:32 +0000",
     "user" : {
       "name" : "Android Police",
       "screen_name" : "AndroidPolice",
@@ -1953,7 +1893,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 258739325448118274,
-  "created_at" : "Thu Oct 18 01:20:36 +0000 2012",
+  "created_at" : "2012-10-18 01:20:36 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1964,7 +1904,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1974,12 +1914,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258738455331340288",
   "text" : "How is Cambridge buying CS freshers a raspberry pi \"generous\"? Less than \u00A330 of equipment to go with a \u00A39k+ year tuition fee? Fuckers #fb",
   "id" : 258738455331340288,
-  "created_at" : "Thu Oct 18 01:17:09 +0000 2012",
+  "created_at" : "2012-10-18 01:17:09 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2009,14 +1948,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "258713413096706048",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258713827422662658",
   "in_reply_to_user_id" : 18152276,
   "text" : "@ajblum http://t.co/KbcyM1iK",
   "id" : 258713827422662658,
   "in_reply_to_status_id" : 258713413096706048,
-  "created_at" : "Wed Oct 17 23:39:17 +0000 2012",
+  "created_at" : "2012-10-17 23:39:17 +0000",
   "in_reply_to_screen_name" : "ajblum",
   "in_reply_to_user_id_str" : "18152276",
   "user" : {
@@ -2053,8 +1991,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "ow.ly/eyj3r"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258608096950226944",
   "text" : "RT @BoeingAirplanes: 777 to the rescue. Congrats to our friends @AirCanada for finding a yacht in distress.  http://t.co/9B5kaure",
   "retweeted_status" : {
@@ -2076,12 +2013,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "ow.ly/eyj3r"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "258607871955185664",
     "text" : "777 to the rescue. Congrats to our friends @AirCanada for finding a yacht in distress.  http://t.co/9B5kaure",
     "id" : 258607871955185664,
-    "created_at" : "Wed Oct 17 16:38:16 +0000 2012",
+    "created_at" : "2012-10-17 16:38:16 +0000",
     "user" : {
       "name" : "Boeing Airplanes",
       "screen_name" : "BoeingAirplanes",
@@ -2093,7 +2029,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 258608096950226944,
-  "created_at" : "Wed Oct 17 16:39:09 +0000 2012",
+  "created_at" : "2012-10-17 16:39:09 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2117,12 +2053,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258596548882096129",
   "text" : "\"Air France temporarily deployed its A380s ... between London and Paris\" - that's rather cool, and @British_Airways will follow suit...",
   "id" : 258596548882096129,
-  "created_at" : "Wed Oct 17 15:53:16 +0000 2012",
+  "created_at" : "2012-10-17 15:53:16 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2158,13 +2093,12 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258337099693047809",
   "in_reply_to_user_id" : 20752767,
   "text" : "@PercyBlakeney63 @Bit_Gamer @Get_Games And still be cheaper than most sources?",
   "id" : 258337099693047809,
-  "created_at" : "Tue Oct 16 22:42:18 +0000 2012",
+  "created_at" : "2012-10-16 22:42:18 +0000",
   "in_reply_to_screen_name" : "PercyBlakeney63",
   "in_reply_to_user_id_str" : "20752767",
   "user" : {
@@ -2191,14 +2125,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258299294153601024",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258299520729894912",
   "in_reply_to_user_id" : 72163,
   "text" : "@alanjclark Heh. If I'm lucky, I'll have BT based ADSL2 (21CN) at home by the end of November.. Might get from 5-6 meg upto 9 if I'm lucky!",
   "id" : 258299520729894912,
   "in_reply_to_status_id" : 258299294153601024,
-  "created_at" : "Tue Oct 16 20:12:59 +0000 2012",
+  "created_at" : "2012-10-16 20:12:59 +0000",
   "in_reply_to_screen_name" : "alanjclark",
   "in_reply_to_user_id_str" : "72163",
   "user" : {
@@ -2230,14 +2163,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "258296995289128960",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258298120486666240",
   "in_reply_to_user_id" : 72163,
   "text" : "@alanjclark There was also NextGenUs, but they're now in administration.. And there is Sure Broadband http://t.co/PBjWY3Qr... At least!",
   "id" : 258298120486666240,
   "in_reply_to_status_id" : 258296995289128960,
-  "created_at" : "Tue Oct 16 20:07:25 +0000 2012",
+  "created_at" : "2012-10-16 20:07:25 +0000",
   "in_reply_to_screen_name" : "alanjclark",
   "in_reply_to_user_id_str" : "72163",
   "user" : {
@@ -2269,14 +2201,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "258296995289128960",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258297213594267648",
   "in_reply_to_user_id" : 72163,
   "text" : "@alanjclark You might also be interested in http://t.co/aHP1v7IE \"East Riding of Yorkshire Local Broadband Plan September 2012\"",
   "id" : 258297213594267648,
   "in_reply_to_status_id" : 258296995289128960,
-  "created_at" : "Tue Oct 16 20:03:49 +0000 2012",
+  "created_at" : "2012-10-16 20:03:49 +0000",
   "in_reply_to_screen_name" : "alanjclark",
   "in_reply_to_user_id_str" : "72163",
   "user" : {
@@ -2302,12 +2233,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258296736974503936",
   "text" : "Wonder how long it takes @QuicklineUK to reply to an enquiry...",
   "id" : 258296736974503936,
-  "created_at" : "Tue Oct 16 20:01:55 +0000 2012",
+  "created_at" : "2012-10-16 20:01:55 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2331,12 +2261,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258293803830632448",
   "text" : "Note to self: Be aware when @gilesdavis is about to make an online purchase, and in those cases, provide him with a voucher before checkout",
   "id" : 258293803830632448,
-  "created_at" : "Tue Oct 16 19:50:16 +0000 2012",
+  "created_at" : "2012-10-16 19:50:16 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2361,14 +2290,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258289472255442945",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258289747087200256",
   "in_reply_to_user_id" : 21489569,
   "text" : "@gilesdavis Buy something else? :p You can claim it and put it on your account for later use either way :D",
   "id" : 258289747087200256,
   "in_reply_to_status_id" : 258289472255442945,
-  "created_at" : "Tue Oct 16 19:34:09 +0000 2012",
+  "created_at" : "2012-10-16 19:34:09 +0000",
   "in_reply_to_screen_name" : "gilesdavis",
   "in_reply_to_user_id_str" : "21489569",
   "user" : {
@@ -2396,12 +2324,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "bit.ly/P7SFfF"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258289348397645824",
   "text" : "Free \u00A32 Voucher for Amazon MP3. Just login with your amazon account - http://t.co/pfzP0Ddj (not spam!) #fb",
   "id" : 258289348397645824,
-  "created_at" : "Tue Oct 16 19:32:34 +0000 2012",
+  "created_at" : "2012-10-16 19:32:34 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2419,12 +2346,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258007470524489728",
   "text" : "Ah, Android 4.1.2!",
   "id" : 258007470524489728,
-  "created_at" : "Tue Oct 16 00:52:29 +0000 2012",
+  "created_at" : "2012-10-16 00:52:29 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2442,12 +2368,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258007241930719232",
   "text" : "Oooh, software update for the Nexus 7...",
   "id" : 258007241930719232,
-  "created_at" : "Tue Oct 16 00:51:34 +0000 2012",
+  "created_at" : "2012-10-16 00:51:34 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2465,12 +2390,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258004542896091136",
   "text" : "Damn. I've run out of A4 printer paper...",
   "id" : 258004542896091136,
-  "created_at" : "Tue Oct 16 00:40:51 +0000 2012",
+  "created_at" : "2012-10-16 00:40:51 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2494,12 +2418,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257999082101039105",
   "text" : "Interesting that @QuicklineUK have appeared from nowhere, and potentially have WIFI coverage where I live... Lets see what they say!",
   "id" : 257999082101039105,
-  "created_at" : "Tue Oct 16 00:19:09 +0000 2012",
+  "created_at" : "2012-10-16 00:19:09 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2517,12 +2440,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257996702861111296",
   "text" : "God help the ISP who can't make their website load in a reasonable time....",
   "id" : 257996702861111296,
-  "created_at" : "Tue Oct 16 00:09:41 +0000 2012",
+  "created_at" : "2012-10-16 00:09:41 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2551,8 +2473,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "imgur.com/59rw6"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257956098227712000",
   "text" : "RT @mikos: Felix Baumgartner, first man to travel faster than the speed of light, according to MSNBC - http://t.co/YoXW4WRC",
   "retweeted_status" : {
@@ -2568,12 +2489,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "imgur.com/59rw6"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "257954128343470080",
     "text" : "Felix Baumgartner, first man to travel faster than the speed of light, according to MSNBC - http://t.co/YoXW4WRC",
     "id" : 257954128343470080,
-    "created_at" : "Mon Oct 15 21:20:31 +0000 2012",
+    "created_at" : "2012-10-15 21:20:31 +0000",
     "user" : {
       "name" : "Mike Carter",
       "screen_name" : "mikos",
@@ -2585,7 +2505,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 257956098227712000,
-  "created_at" : "Mon Oct 15 21:28:21 +0000 2012",
+  "created_at" : "2012-10-15 21:28:21 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2616,14 +2536,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "257932001347268608",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257932347800944640",
   "in_reply_to_user_id" : 14908404,
   "text" : "@veeam @RickVanover HTTP code 500: Server internal error",
   "id" : 257932347800944640,
   "in_reply_to_status_id" : 257932001347268608,
-  "created_at" : "Mon Oct 15 19:53:58 +0000 2012",
+  "created_at" : "2012-10-15 19:53:58 +0000",
   "in_reply_to_screen_name" : "veeam",
   "in_reply_to_user_id_str" : "14908404",
   "user" : {
@@ -2650,14 +2569,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "257591073927475201",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257592331547594752",
   "in_reply_to_user_id" : 1856171,
   "text" : "@1stvamp Lol. The amusing thing is I just got an email notification from them for your tweet reply...",
   "id" : 257592331547594752,
   "in_reply_to_status_id" : 257591073927475201,
-  "created_at" : "Sun Oct 14 21:22:52 +0000 2012",
+  "created_at" : "2012-10-14 21:22:52 +0000",
   "in_reply_to_screen_name" : "1stvamp",
   "in_reply_to_user_id_str" : "1856171",
   "user" : {
@@ -2677,12 +2595,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257589481530601472",
   "text" : "So, apparently twitter are unable to send me emails...",
   "id" : 257589481530601472,
-  "created_at" : "Sun Oct 14 21:11:32 +0000 2012",
+  "created_at" : "2012-10-14 21:11:32 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2696,11 +2613,11 @@ Grailbird.data.tweets_2012_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stun \u2620",
-      "screen_name" : "57UN",
+      "name" : "Anonymous",
+      "screen_name" : "57un",
       "indices" : [ 0, 5 ],
-      "id_str" : "210127211",
-      "id" : 210127211
+      "id_str" : "1486092307",
+      "id" : 1486092307
     }, {
       "name" : "Felix Baumgartner",
       "screen_name" : "BaumgartnFelix",
@@ -2717,17 +2634,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "bit.ly/RJcxC8"
     } ]
   },
-  "in_reply_to_status_id_str" : "257547773975601152",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257588268147826688",
-  "in_reply_to_user_id" : 210127211,
   "text" : "@57UN @BaumgartnFelix Who owns the photo? It'd be awesome to get it onto the Wikimedia Commons, and then onto Wikipedia http://t.co/iMaLuNqK",
   "id" : 257588268147826688,
-  "in_reply_to_status_id" : 257547773975601152,
-  "created_at" : "Sun Oct 14 21:06:43 +0000 2012",
-  "in_reply_to_screen_name" : "57UN",
-  "in_reply_to_user_id_str" : "210127211",
+  "created_at" : "2012-10-14 21:06:43 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2748,12 +2659,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257566243903647746",
   "text" : "So, what did you do today? I watched a man fall from space... #stratos",
   "id" : 257566243903647746,
-  "created_at" : "Sun Oct 14 19:39:12 +0000 2012",
+  "created_at" : "2012-10-14 19:39:12 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2779,12 +2689,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "win.gs/QPw1rf"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257543977652334592",
   "text" : "It's a shame we can't see the cameras on his body while he falls... #LiveJump http://t.co/8Cr7IFil",
   "id" : 257543977652334592,
-  "created_at" : "Sun Oct 14 18:10:43 +0000 2012",
+  "created_at" : "2012-10-14 18:10:43 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2813,12 +2722,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "win.gs/QPw1rf"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257505107711754240",
   "text" : "Watch Red Bull Stratos #LiveJump http://t.co/8Cr7IFil #fb",
   "id" : 257505107711754240,
-  "created_at" : "Sun Oct 14 15:36:16 +0000 2012",
+  "created_at" : "2012-10-14 15:36:16 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2839,12 +2747,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257133593640443904",
   "text" : "Your recalculated balance is \u00A324,740.15. Thanks student loan company! #fb",
   "id" : 257133593640443904,
-  "created_at" : "Sat Oct 13 15:00:00 +0000 2012",
+  "created_at" : "2012-10-13 15:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2855,7 +2762,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -2895,12 +2802,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257126373141929987",
   "text" : "My car seems to be crying bird poo... #fb http://t.co/G9Lpt2FG",
   "id" : 257126373141929987,
-  "created_at" : "Sat Oct 13 14:31:20 +0000 2012",
+  "created_at" : "2012-10-13 14:31:20 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2926,12 +2832,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "bit.ly/SQkJ6z"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256801582715379713",
   "text" : "Yup, O2 is having an outage. Again http://t.co/5HFOlnRD #fb",
   "id" : 256801582715379713,
-  "created_at" : "Fri Oct 12 17:00:43 +0000 2012",
+  "created_at" : "2012-10-12 17:00:43 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2956,14 +2861,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "256773721887502336",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256799327874334720",
   "in_reply_to_user_id" : 20401912,
   "text" : "@David_ONeill_ If it is, I'm certainly not reaping any of the benefits of it!!",
   "id" : 256799327874334720,
   "in_reply_to_status_id" : 256773721887502336,
-  "created_at" : "Fri Oct 12 16:51:45 +0000 2012",
+  "created_at" : "2012-10-12 16:51:45 +0000",
   "in_reply_to_screen_name" : "David_ONeill_",
   "in_reply_to_user_id_str" : "20401912",
   "user" : {
@@ -2983,12 +2887,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256798821584097280",
   "text" : "Is O2 having another service outage?",
   "id" : 256798821584097280,
-  "created_at" : "Fri Oct 12 16:49:44 +0000 2012",
+  "created_at" : "2012-10-12 16:49:44 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3009,12 +2912,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256761322207842306",
   "text" : "It would seem that I apparently have a 5 star credit rating... #fb",
   "id" : 256761322207842306,
-  "created_at" : "Fri Oct 12 14:20:44 +0000 2012",
+  "created_at" : "2012-10-12 14:20:44 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3039,14 +2941,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "256116517421318144",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256118097575018497",
   "in_reply_to_user_id" : 334953605,
   "text" : "@MotorolaSupport Amazon UK have it for \u00A311.95",
   "id" : 256118097575018497,
   "in_reply_to_status_id" : 256116517421318144,
-  "created_at" : "Wed Oct 10 19:44:47 +0000 2012",
+  "created_at" : "2012-10-10 19:44:47 +0000",
   "in_reply_to_screen_name" : "MotorolaSupport",
   "in_reply_to_user_id_str" : "334953605",
   "user" : {
@@ -3073,14 +2974,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "256116517421318144",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256116797185593346",
   "in_reply_to_user_id" : 334953605,
   "text" : "@MotorolaSupport I'm not in the US unfortunately. And not due back any time soon either...",
   "id" : 256116797185593346,
   "in_reply_to_status_id" : 256116517421318144,
-  "created_at" : "Wed Oct 10 19:39:37 +0000 2012",
+  "created_at" : "2012-10-10 19:39:37 +0000",
   "in_reply_to_screen_name" : "MotorolaSupport",
   "in_reply_to_user_id_str" : "334953605",
   "user" : {
@@ -3111,8 +3011,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "bit.ly/Th0ElV"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256109375129800704",
   "text" : "RT @johannhari101: Your working assumption, when you meet a homophobe, should be that they are gay: http://t.co/m67Rzptr",
   "retweeted_status" : {
@@ -3128,12 +3027,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "bit.ly/Th0ElV"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "256099864721625088",
     "text" : "Your working assumption, when you meet a homophobe, should be that they are gay: http://t.co/m67Rzptr",
     "id" : 256099864721625088,
-    "created_at" : "Wed Oct 10 18:32:20 +0000 2012",
+    "created_at" : "2012-10-10 18:32:20 +0000",
     "user" : {
       "name" : "Johann Hari",
       "screen_name" : "johannhari101",
@@ -3145,7 +3043,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 256109375129800704,
-  "created_at" : "Wed Oct 10 19:10:07 +0000 2012",
+  "created_at" : "2012-10-10 19:10:07 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3176,14 +3074,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "256086611736014849",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256093673526292480",
   "in_reply_to_user_id" : 49753110,
   "text" : "@Motorola @MotorolaSupport The Xoom Power supply design is awful! I can't charge my Xoom due to the cable end getting bent and broken! :(",
   "id" : 256093673526292480,
   "in_reply_to_status_id" : 256086611736014849,
-  "created_at" : "Wed Oct 10 18:07:44 +0000 2012",
+  "created_at" : "2012-10-10 18:07:44 +0000",
   "in_reply_to_screen_name" : "Motorola",
   "in_reply_to_user_id_str" : "49753110",
   "user" : {
@@ -3203,12 +3100,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256069759425200130",
   "text" : "Ok, what the hell keeps correcting wikimedia to wikipedia!?",
   "id" : 256069759425200130,
-  "created_at" : "Wed Oct 10 16:32:42 +0000 2012",
+  "created_at" : "2012-10-10 16:32:42 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3232,12 +3128,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256061076993609728",
   "text" : "Why does the @Motorola Xoom have such a crap power connection? Never mind it not being something like micro/mini USB...",
   "id" : 256061076993609728,
-  "created_at" : "Wed Oct 10 15:58:12 +0000 2012",
+  "created_at" : "2012-10-10 15:58:12 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3261,13 +3156,12 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256059702507614210",
   "in_reply_to_user_id" : 689273,
   "text" : "@opendns Even more annoying when it's a valid domain that you have in your cache, and only SOMETIMES corrects it :/",
   "id" : 256059702507614210,
-  "created_at" : "Wed Oct 10 15:52:45 +0000 2012",
+  "created_at" : "2012-10-10 15:52:45 +0000",
   "in_reply_to_screen_name" : "opendns",
   "in_reply_to_user_id_str" : "689273",
   "user" : {
@@ -3303,12 +3197,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "fdc.wikipedia.org"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256059481144832000",
   "text" : "Why is @opendns correcting my attempts (http://t.co/g0lglk7Q to http://t.co/My4AfFA0) to visit a site when Enable typo correction is off :-(",
   "id" : 256059481144832000,
-  "created_at" : "Wed Oct 10 15:51:52 +0000 2012",
+  "created_at" : "2012-10-10 15:51:52 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3339,14 +3232,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "255784556504952833",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255784808872038401",
   "in_reply_to_user_id" : 60264283,
   "text" : "@jamgregory @verge Well, it finally replaces the 24 hour refund window there previously was...",
   "id" : 255784808872038401,
   "in_reply_to_status_id" : 255784556504952833,
-  "created_at" : "Tue Oct 09 21:40:25 +0000 2012",
+  "created_at" : "2012-10-09 21:40:25 +0000",
   "in_reply_to_screen_name" : "jamgregory",
   "in_reply_to_user_id_str" : "60264283",
   "user" : {
@@ -3369,12 +3261,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255693002859753472",
   "text" : "I'm not slacking, someone else's tests are failing... #fb",
   "id" : 255693002859753472,
-  "created_at" : "Tue Oct 09 15:35:37 +0000 2012",
+  "created_at" : "2012-10-09 15:35:37 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3403,8 +3294,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "is.gd/MKrEQ4"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255471409051095042",
   "text" : "RT @digininja: Samsung have created a new filesystem aimed at Android http://t.co/qWu1xyYC",
   "retweeted_status" : {
@@ -3420,12 +3310,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "is.gd/MKrEQ4"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "255470821399744515",
     "text" : "Samsung have created a new filesystem aimed at Android http://t.co/qWu1xyYC",
     "id" : 255470821399744515,
-    "created_at" : "Tue Oct 09 00:52:44 +0000 2012",
+    "created_at" : "2012-10-09 00:52:44 +0000",
     "user" : {
       "name" : "Robin",
       "screen_name" : "digininja",
@@ -3437,7 +3326,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 255471409051095042,
-  "created_at" : "Tue Oct 09 00:55:05 +0000 2012",
+  "created_at" : "2012-10-09 00:55:05 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3464,8 +3353,7 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255438609908371456",
   "text" : "RT @serverdensity: First rule of on-call is never mention how quiet on-call may have been recently #devops",
   "retweeted_status" : {
@@ -3479,24 +3367,23 @@ Grailbird.data.tweets_2012_10 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "255436158492897280",
     "text" : "First rule of on-call is never mention how quiet on-call may have been recently #devops",
     "id" : 255436158492897280,
-    "created_at" : "Mon Oct 08 22:35:00 +0000 2012",
+    "created_at" : "2012-10-08 22:35:00 +0000",
     "user" : {
       "name" : "Server Density",
       "screen_name" : "serverdensity",
       "protected" : false,
       "id_str" : "23840756",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2966524772/ddef4728bbbd3697bd68055759098900_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000020006731/5ef6368825fd982b2d1a9518b8b16520_normal.jpeg",
       "id" : 23840756,
       "verified" : true
     }
   },
   "id" : 255438609908371456,
-  "created_at" : "Mon Oct 08 22:44:45 +0000 2012",
+  "created_at" : "2012-10-08 22:44:45 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3526,13 +3413,12 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255414973738672128",
   "in_reply_to_user_id" : 12297172,
   "text" : "@aaronrussell @pollingj Popup?",
   "id" : 255414973738672128,
-  "created_at" : "Mon Oct 08 21:10:49 +0000 2012",
+  "created_at" : "2012-10-08 21:10:49 +0000",
   "in_reply_to_screen_name" : "aaronrussell",
   "in_reply_to_user_id_str" : "12297172",
   "user" : {
@@ -3559,14 +3445,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "255368803905589248",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255369206705565698",
   "in_reply_to_user_id" : 153519739,
   "text" : "@hgould Do your lecturers not have anything better to do?",
   "id" : 255369206705565698,
   "in_reply_to_status_id" : 255368803905589248,
-  "created_at" : "Mon Oct 08 18:08:58 +0000 2012",
+  "created_at" : "2012-10-08 18:08:58 +0000",
   "in_reply_to_screen_name" : "hgould",
   "in_reply_to_user_id_str" : "153519739",
   "user" : {
@@ -3592,12 +3477,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255366113221804032",
   "text" : "Apparently @Barclaycard will only let you have 1 B/C Visa or Maestro. I have 2 B/C Visas now...",
   "id" : 255366113221804032,
-  "created_at" : "Mon Oct 08 17:56:40 +0000 2012",
+  "created_at" : "2012-10-08 17:56:40 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3622,14 +3506,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "254952713723449346",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254952871605465088",
   "in_reply_to_user_id" : 112745660,
   "text" : "@JeroenDeDauw Nah. Still on SVN for this project ;) Email, pastebin, wikipage WFM :P",
   "id" : 254952871605465088,
   "in_reply_to_status_id" : 254952713723449346,
-  "created_at" : "Sun Oct 07 14:34:36 +0000 2012",
+  "created_at" : "2012-10-07 14:34:36 +0000",
   "in_reply_to_screen_name" : "JeroenDeDauw",
   "in_reply_to_user_id_str" : "112745660",
   "user" : {
@@ -3642,19 +3525,18 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254951778276233216",
   "text" : "If its so easy to fix, why haven't you provided a patch to fix it?",
   "id" : 254951778276233216,
-  "created_at" : "Sun Oct 07 14:30:15 +0000 2012",
+  "created_at" : "2012-10-07 14:30:15 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3672,12 +3554,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254603755713097728",
   "text" : "With BT, It's then more amusing they don't do stuff without getting handouts from the Government.",
   "id" : 254603755713097728,
-  "created_at" : "Sat Oct 06 15:27:20 +0000 2012",
+  "created_at" : "2012-10-06 15:27:20 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3695,12 +3576,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254603657310507009",
   "text" : "BT made over \u00A32 Million profit last year. So line rental is going up 85p a month. \"None of our ... prices will go up by more than 5.9%\"",
   "id" : 254603657310507009,
-  "created_at" : "Sat Oct 06 15:26:56 +0000 2012",
+  "created_at" : "2012-10-06 15:26:56 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3725,14 +3605,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "254299617590652929",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254300250754408449",
   "in_reply_to_user_id" : 16019962,
   "text" : "@mrwizrd Also, it's hardly a new affair. It was around centuries before they were born!",
   "id" : 254300250754408449,
   "in_reply_to_status_id" : 254299617590652929,
-  "created_at" : "Fri Oct 05 19:21:19 +0000 2012",
+  "created_at" : "2012-10-05 19:21:19 +0000",
   "in_reply_to_screen_name" : "mrwizrd",
   "in_reply_to_user_id_str" : "16019962",
   "user" : {
@@ -3758,13 +3637,12 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254227199446634497",
   "in_reply_to_user_id" : 14146389,
   "text" : "@jetbrains Your HTTPS website is including HTTP content :(",
   "id" : 254227199446634497,
-  "created_at" : "Fri Oct 05 14:31:02 +0000 2012",
+  "created_at" : "2012-10-05 14:31:02 +0000",
   "in_reply_to_screen_name" : "jetbrains",
   "in_reply_to_user_id_str" : "14146389",
   "user" : {
@@ -3791,14 +3669,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "254198389217042433",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254198492891856896",
   "in_reply_to_user_id" : 22090282,
   "text" : "@BoeingAirplanes I didn't realise Charleston was in Australia!!",
   "id" : 254198492891856896,
   "in_reply_to_status_id" : 254198389217042433,
-  "created_at" : "Fri Oct 05 12:36:58 +0000 2012",
+  "created_at" : "2012-10-05 12:36:58 +0000",
   "in_reply_to_screen_name" : "BoeingAirplanes",
   "in_reply_to_user_id_str" : "22090282",
   "user" : {
@@ -3825,14 +3702,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "253920009045299201",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253922634276958208",
   "in_reply_to_user_id" : 712685130,
   "text" : "@tindie \"This one time, at Band Camp...\"",
   "id" : 253922634276958208,
   "in_reply_to_status_id" : 253920009045299201,
-  "created_at" : "Thu Oct 04 18:20:48 +0000 2012",
+  "created_at" : "2012-10-04 18:20:48 +0000",
   "in_reply_to_screen_name" : "tindie",
   "in_reply_to_user_id_str" : "712685130",
   "user" : {
@@ -3858,13 +3734,12 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253900677917601792",
   "in_reply_to_user_id" : 21489569,
   "text" : "@gilesdavis Ahh. I also note when my exchange gets 21CN'd A&amp;A ADSL prices drop quite a bit on peak time units...",
   "id" : 253900677917601792,
-  "created_at" : "Thu Oct 04 16:53:33 +0000 2012",
+  "created_at" : "2012-10-04 16:53:33 +0000",
   "in_reply_to_screen_name" : "gilesdavis",
   "in_reply_to_user_id_str" : "21489569",
   "user" : {
@@ -3902,14 +3777,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "253898861544894464",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253899191980523520",
   "in_reply_to_user_id" : 2004411,
   "text" : "@tomwardill I was just noted of http://t.co/m9fuP0I7 by @gilesdavis. ADSL24 offer a line for 1.70 less a month, no daft packages ontop",
   "id" : 253899191980523520,
   "in_reply_to_status_id" : 253898861544894464,
-  "created_at" : "Thu Oct 04 16:47:39 +0000 2012",
+  "created_at" : "2012-10-04 16:47:39 +0000",
   "in_reply_to_screen_name" : "tomwardill",
   "in_reply_to_user_id_str" : "2004411",
   "user" : {
@@ -3929,12 +3803,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253898210102366208",
   "text" : "Why don't BT/other people offer a \"broadband only telephone line\"? I want ADSL provisioned on it, but I don't want to make calls etc on it..",
   "id" : 253898210102366208,
-  "created_at" : "Thu Oct 04 16:43:45 +0000 2012",
+  "created_at" : "2012-10-04 16:43:45 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3964,14 +3837,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "253863953329954817",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253864359787388929",
   "in_reply_to_user_id" : 15838969,
   "text" : "@Gogo Some of mine from the last couple of years... http://t.co/MYlZG320",
   "id" : 253864359787388929,
   "in_reply_to_status_id" : 253863953329954817,
-  "created_at" : "Thu Oct 04 14:29:14 +0000 2012",
+  "created_at" : "2012-10-04 14:29:14 +0000",
   "in_reply_to_screen_name" : "Gogo",
   "in_reply_to_user_id_str" : "15838969",
   "user" : {
@@ -3998,14 +3870,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "253848040669069312",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253857460966813697",
   "in_reply_to_user_id" : 60264283,
   "text" : "@jamgregory Luckily, the camera before this one failed near the end of its warranty period. So I got a brand new camera about 2 years ago!",
   "id" : 253857460966813697,
   "in_reply_to_status_id" : 253848040669069312,
-  "created_at" : "Thu Oct 04 14:01:49 +0000 2012",
+  "created_at" : "2012-10-04 14:01:49 +0000",
   "in_reply_to_screen_name" : "jamgregory",
   "in_reply_to_user_id_str" : "60264283",
   "user" : {
@@ -4032,14 +3903,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "253848040669069312",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253857117222617088",
   "in_reply_to_user_id" : 60264283,
   "text" : "@jamgregory Have to wait and see how much it costs ;). Not sure I \"need\" (yes, technology screws that) a new camera just at the moment..",
   "id" : 253857117222617088,
   "in_reply_to_status_id" : 253848040669069312,
-  "created_at" : "Thu Oct 04 14:00:27 +0000 2012",
+  "created_at" : "2012-10-04 14:00:27 +0000",
   "in_reply_to_screen_name" : "jamgregory",
   "in_reply_to_user_id_str" : "60264283",
   "user" : {
@@ -4066,14 +3936,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "253847493295607808",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253847593321373696",
   "in_reply_to_user_id" : 60264283,
   "text" : "@jamgregory Also known as a \"Mobile Phone\"? :p",
   "id" : 253847593321373696,
   "in_reply_to_status_id" : 253847493295607808,
-  "created_at" : "Thu Oct 04 13:22:37 +0000 2012",
+  "created_at" : "2012-10-04 13:22:37 +0000",
   "in_reply_to_screen_name" : "jamgregory",
   "in_reply_to_user_id_str" : "60264283",
   "user" : {
@@ -4100,14 +3969,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "253845745545912320",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253846501925736448",
   "in_reply_to_user_id" : 60264283,
   "text" : "@jamgregory \"the\"? Google suggests there are many gps cameras available ;)",
   "id" : 253846501925736448,
   "in_reply_to_status_id" : 253845745545912320,
-  "created_at" : "Thu Oct 04 13:18:16 +0000 2012",
+  "created_at" : "2012-10-04 13:18:16 +0000",
   "in_reply_to_screen_name" : "jamgregory",
   "in_reply_to_user_id_str" : "60264283",
   "user" : {
@@ -4127,12 +3995,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253844898162307073",
   "text" : "Would be really useful to have GPS locations attached to images I take with my digital camera (not my phone!)",
   "id" : 253844898162307073,
-  "created_at" : "Thu Oct 04 13:11:54 +0000 2012",
+  "created_at" : "2012-10-04 13:11:54 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4157,14 +4024,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "253570319070146562",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253571721825763328",
   "in_reply_to_user_id" : 15838969,
   "text" : "@Gogo Does it have to be exactly 10,000 feet?",
   "id" : 253571721825763328,
   "in_reply_to_status_id" : 253570319070146562,
-  "created_at" : "Wed Oct 03 19:06:24 +0000 2012",
+  "created_at" : "2012-10-03 19:06:24 +0000",
   "in_reply_to_screen_name" : "Gogo",
   "in_reply_to_user_id_str" : "15838969",
   "user" : {
@@ -4189,12 +4055,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "facebook.com/Multiplay?sk=a\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253512034673627139",
   "text" : "I want to win a War of the Roses key from Multiplay! http://t.co/Q10LKJXB",
   "id" : 253512034673627139,
-  "created_at" : "Wed Oct 03 15:09:13 +0000 2012",
+  "created_at" : "2012-10-03 15:09:13 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4215,12 +4080,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253291297580920832",
   "text" : "Why doesn't everything have upgradeable firmware? #fb",
   "id" : 253291297580920832,
-  "created_at" : "Wed Oct 03 00:32:05 +0000 2012",
+  "created_at" : "2012-10-03 00:32:05 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4249,8 +4113,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "bit.ly/QmMscn"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253167230936829952",
   "text" : "RT @autocar: Driven: all-new Volkswagen Golf Mk7 -  http://t.co/ABMHVgE4",
   "retweeted_status" : {
@@ -4266,12 +4129,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "bit.ly/QmMscn"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "253105126947041280",
     "text" : "Driven: all-new Volkswagen Golf Mk7 -  http://t.co/ABMHVgE4",
     "id" : 253105126947041280,
-    "created_at" : "Tue Oct 02 12:12:19 +0000 2012",
+    "created_at" : "2012-10-02 12:12:19 +0000",
     "user" : {
       "name" : "Autocar",
       "screen_name" : "autocar",
@@ -4283,7 +4145,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 253167230936829952,
-  "created_at" : "Tue Oct 02 16:19:06 +0000 2012",
+  "created_at" : "2012-10-02 16:19:06 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4318,8 +4180,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "ow.ly/e9czG"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253071912136232960",
   "text" : "RT @Fon: UK average download speed was 17 Mbps in September. What about yours? http://t.co/VKusL45C via @telecompaper",
   "retweeted_status" : {
@@ -4341,12 +4202,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "ow.ly/e9czG"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "253064145589645312",
     "text" : "UK average download speed was 17 Mbps in September. What about yours? http://t.co/VKusL45C via @telecompaper",
     "id" : 253064145589645312,
-    "created_at" : "Tue Oct 02 09:29:28 +0000 2012",
+    "created_at" : "2012-10-02 09:29:28 +0000",
     "user" : {
       "name" : "Fon",
       "screen_name" : "Fon",
@@ -4358,7 +4218,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 253071912136232960,
-  "created_at" : "Tue Oct 02 10:00:20 +0000 2012",
+  "created_at" : "2012-10-02 10:00:20 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4389,14 +4249,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "253064145589645312",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253071389488197632",
   "in_reply_to_user_id" : 28318016,
   "text" : "@Fon @telecompaper That sounds far too ambitious. It would be hella nice if it was...",
   "id" : 253071389488197632,
   "in_reply_to_status_id" : 253064145589645312,
-  "created_at" : "Tue Oct 02 09:58:15 +0000 2012",
+  "created_at" : "2012-10-02 09:58:15 +0000",
   "in_reply_to_screen_name" : "Fon",
   "in_reply_to_user_id_str" : "28318016",
   "user" : {
@@ -4419,12 +4278,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253071059950133249",
   "text" : "This \"Double Dip recession\" is really bullshit. We never got out of the first recession! #fb",
   "id" : 253071059950133249,
-  "created_at" : "Tue Oct 02 09:56:57 +0000 2012",
+  "created_at" : "2012-10-02 09:56:57 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4435,7 +4293,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4445,12 +4303,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253021092610977792",
   "text" : "Arrgh! I hate it when people do that. Even more so when it makes you want it, pretty badly. :-/ #fb",
   "id" : 253021092610977792,
-  "created_at" : "Tue Oct 02 06:38:24 +0000 2012",
+  "created_at" : "2012-10-02 06:38:24 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4468,12 +4325,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252899546424832002",
   "text" : "iPad has GPS. Only a measly one time per sec, this tells you more or less where you are, with pretty questionable accuracy and consistency.",
   "id" : 252899546424832002,
-  "created_at" : "Mon Oct 01 22:35:25 +0000 2012",
+  "created_at" : "2012-10-01 22:35:25 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4498,14 +4354,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252888674860138496",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252898558250995712",
   "in_reply_to_user_id" : 155286834,
   "text" : "@LiamMars Though, for a lot of people it's the accents that do it...",
   "id" : 252898558250995712,
   "in_reply_to_status_id" : 252888674860138496,
-  "created_at" : "Mon Oct 01 22:31:29 +0000 2012",
+  "created_at" : "2012-10-01 22:31:29 +0000",
   "in_reply_to_screen_name" : "kindacromulent",
   "in_reply_to_user_id_str" : "155286834",
   "user" : {
@@ -4532,14 +4387,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252888674860138496",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252898438402949120",
   "in_reply_to_user_id" : 155286834,
   "text" : "@LiamMars I am. I was amused by facebook identifying it as a person, and asking who. Your friends are right, doesn't resemble you at all",
   "id" : 252898438402949120,
   "in_reply_to_status_id" : 252888674860138496,
-  "created_at" : "Mon Oct 01 22:31:00 +0000 2012",
+  "created_at" : "2012-10-01 22:31:00 +0000",
   "in_reply_to_screen_name" : "kindacromulent",
   "in_reply_to_user_id_str" : "155286834",
   "user" : {
@@ -4566,14 +4420,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252881585609789440",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252885234813661184",
   "in_reply_to_user_id" : 155286834,
   "text" : "@LiamMars What about gestures?",
   "id" : 252885234813661184,
   "in_reply_to_status_id" : 252881585609789440,
-  "created_at" : "Mon Oct 01 21:38:33 +0000 2012",
+  "created_at" : "2012-10-01 21:38:33 +0000",
   "in_reply_to_screen_name" : "kindacromulent",
   "in_reply_to_user_id_str" : "155286834",
   "user" : {
@@ -4593,12 +4446,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252881218910183425",
   "text" : "\"If you're the kind of person who reads source code, you might be a great fit at salesforce com!\" If you say so...",
   "id" : 252881218910183425,
-  "created_at" : "Mon Oct 01 21:22:35 +0000 2012",
+  "created_at" : "2012-10-01 21:22:35 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4621,12 +4473,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "Salesforce.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252881064601722880",
   "text" : "How is Salesforce \"Not software\"? Then have on their site &lt;title&gt;CRM Software &amp; Online / Web CRM Systems - http://t.co/8BYJNyiT UK&lt;/title&gt;",
   "id" : 252881064601722880,
-  "created_at" : "Mon Oct 01 21:21:58 +0000 2012",
+  "created_at" : "2012-10-01 21:21:58 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4651,14 +4502,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252879260719673344",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252879529859764225",
   "in_reply_to_user_id" : 779050,
   "text" : "@Kiwi_Si @ljcrewe Who do Oracle think they are!?",
   "id" : 252879529859764225,
   "in_reply_to_status_id" : 252879260719673344,
-  "created_at" : "Mon Oct 01 21:15:52 +0000 2012",
+  "created_at" : "2012-10-01 21:15:52 +0000",
   "in_reply_to_screen_name" : "Kiwi_Si",
   "in_reply_to_user_id_str" : "779050",
   "user" : {
@@ -4695,14 +4545,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "252878575592669184",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252879436981088256",
   "in_reply_to_user_id" : 20236006,
   "text" : "@mickster04 http://t.co/WKAW2MGR http://t.co/nWQBREZX Haha.",
   "id" : 252879436981088256,
   "in_reply_to_status_id" : 252878575592669184,
-  "created_at" : "Mon Oct 01 21:15:30 +0000 2012",
+  "created_at" : "2012-10-01 21:15:30 +0000",
   "in_reply_to_screen_name" : "mickster04",
   "in_reply_to_user_id_str" : "20236006",
   "user" : {
@@ -4732,14 +4581,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252876665351446529",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252876837502468097",
   "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr They must have big problems with people stealing watches, army knives and chocolate. #srsbizness",
   "id" : 252876837502468097,
   "in_reply_to_status_id" : 252876665351446529,
-  "created_at" : "Mon Oct 01 21:05:10 +0000 2012",
+  "created_at" : "2012-10-01 21:05:10 +0000",
   "in_reply_to_screen_name" : "olivarrr",
   "in_reply_to_user_id_str" : "33717982",
   "user" : {
@@ -4766,14 +4614,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252876377282449409",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252876577778569216",
   "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Die Schweizer Luftwaffe",
   "id" : 252876577778569216,
   "in_reply_to_status_id" : 252876377282449409,
-  "created_at" : "Mon Oct 01 21:04:09 +0000 2012",
+  "created_at" : "2012-10-01 21:04:09 +0000",
   "in_reply_to_screen_name" : "olivarrr",
   "in_reply_to_user_id_str" : "33717982",
   "user" : {
@@ -4793,12 +4640,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252875911937003520",
   "text" : "Switzerland have an Air Force?",
   "id" : 252875911937003520,
-  "created_at" : "Mon Oct 01 21:01:30 +0000 2012",
+  "created_at" : "2012-10-01 21:01:30 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4816,12 +4662,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252873978211872768",
   "text" : "Dear Gitweb, YUSOSLOW?!",
   "id" : 252873978211872768,
-  "created_at" : "Mon Oct 01 20:53:49 +0000 2012",
+  "created_at" : "2012-10-01 20:53:49 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4850,8 +4695,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "huff.to/QSHqn5"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252834226280488960",
   "text" : "RT @huffpostgay: If being gay is genetic and gay sex doesn't produce kids, why don't those genes die off? http://t.co/7uOwcGfl",
   "retweeted_status" : {
@@ -4867,12 +4711,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "huff.to/QSHqn5"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "252834036798590976",
     "text" : "If being gay is genetic and gay sex doesn't produce kids, why don't those genes die off? http://t.co/7uOwcGfl",
     "id" : 252834036798590976,
-    "created_at" : "Mon Oct 01 18:15:06 +0000 2012",
+    "created_at" : "2012-10-01 18:15:06 +0000",
     "user" : {
       "name" : "huffpostgay",
       "screen_name" : "huffpostgay",
@@ -4884,7 +4727,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 252834226280488960,
-  "created_at" : "Mon Oct 01 18:15:51 +0000 2012",
+  "created_at" : "2012-10-01 18:15:51 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4909,14 +4752,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252831942586793984",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252832267557302272",
   "in_reply_to_user_id" : 15838969,
   "text" : "@Gogo You do realise it's Monday, right? ;)",
   "id" : 252832267557302272,
   "in_reply_to_status_id" : 252831942586793984,
-  "created_at" : "Mon Oct 01 18:08:04 +0000 2012",
+  "created_at" : "2012-10-01 18:08:04 +0000",
   "in_reply_to_screen_name" : "Gogo",
   "in_reply_to_user_id_str" : "15838969",
   "user" : {
@@ -4942,12 +4784,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252831801473634304",
   "text" : ".@XPlaneOfficial \"As long as you text me on your way down, admitting that I was right before you hit the ground, I will be perfectly happy.\"",
   "id" : 252831801473634304,
-  "created_at" : "Mon Oct 01 18:06:13 +0000 2012",
+  "created_at" : "2012-10-01 18:06:13 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4978,14 +4819,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252778862579163136",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252780915468681217",
   "in_reply_to_user_id" : 82386866,
   "text" : "@ChrisDearden @veeam Install on VM? And I guess, what that needs as dependencies. SQL Server? (Or am I getting this confused with VeeamOne?)",
   "id" : 252780915468681217,
   "in_reply_to_status_id" : 252778862579163136,
-  "created_at" : "Mon Oct 01 14:44:01 +0000 2012",
+  "created_at" : "2012-10-01 14:44:01 +0000",
   "in_reply_to_screen_name" : "ChrisDearden",
   "in_reply_to_user_id_str" : "82386866",
   "user" : {
@@ -5018,14 +4858,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252778862579163136",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252780591039266817",
   "in_reply_to_user_id" : 82386866,
   "text" : "@ChrisDearden @veeam I've looked at veeam_backup_free_6_1.pdf, which seems to skip initial installation of console. \"Where\" to install?",
   "id" : 252780591039266817,
   "in_reply_to_status_id" : 252778862579163136,
-  "created_at" : "Mon Oct 01 14:42:43 +0000 2012",
+  "created_at" : "2012-10-01 14:42:43 +0000",
   "in_reply_to_screen_name" : "ChrisDearden",
   "in_reply_to_user_id_str" : "82386866",
   "user" : {
@@ -5051,13 +4890,12 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252778149287440384",
   "in_reply_to_user_id" : 14908404,
   "text" : "@veeam Is there anywhere that actually details what's needed (dependencies) to setup Veeam Backup?",
   "id" : 252778149287440384,
-  "created_at" : "Mon Oct 01 14:33:01 +0000 2012",
+  "created_at" : "2012-10-01 14:33:01 +0000",
   "in_reply_to_screen_name" : "veeam",
   "in_reply_to_user_id_str" : "14908404",
   "user" : {
@@ -5077,12 +4915,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252761027643584512",
   "text" : "I'm still not slacking, git is finding sources now.",
   "id" : 252761027643584512,
-  "created_at" : "Mon Oct 01 13:24:59 +0000 2012",
+  "created_at" : "2012-10-01 13:24:59 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5107,14 +4944,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252760227139710976",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252760279170031618",
   "in_reply_to_user_id" : 824065,
   "text" : "@yuvipanda HOLY SHIT.",
   "id" : 252760279170031618,
   "in_reply_to_status_id" : 252760227139710976,
-  "created_at" : "Mon Oct 01 13:22:01 +0000 2012",
+  "created_at" : "2012-10-01 13:22:01 +0000",
   "in_reply_to_screen_name" : "yuvipanda",
   "in_reply_to_user_id_str" : "824065",
   "user" : {
@@ -5134,12 +4970,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252760077952499714",
   "text" : "ALSO. Install varnish != problem solved.",
   "id" : 252760077952499714,
-  "created_at" : "Mon Oct 01 13:21:13 +0000 2012",
+  "created_at" : "2012-10-01 13:21:13 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5160,12 +4995,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252760005797892096",
   "text" : "I'm not slacking, git is counting objects. #fb",
   "id" : 252760005797892096,
-  "created_at" : "Mon Oct 01 13:20:56 +0000 2012",
+  "created_at" : "2012-10-01 13:20:56 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

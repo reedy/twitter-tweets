@@ -4,5 +4,5 @@ var user_details =  {
   "full_name" : "Sam Reed",
   "bio" : "MEng MBCS. (Software|Release) Engineer at Wikimedia Foundation.",
   "id" : "19903171",
-  "created_at" : "Mon Feb 02 11:55:12 +0000 2009"
+  "created_at" : "2009-02-02 11:55:12 +0000"
 }

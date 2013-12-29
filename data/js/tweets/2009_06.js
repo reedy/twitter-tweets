@@ -13,12 +13,11 @@ Grailbird.data.tweets_2009_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "2312580449",
   "text" : "Uncool. @msofficeus is using Word to render emails in Outlook, killing standards support. See http://fixoutlook.org and RT",
   "id" : 2312580449,
-  "created_at" : "Wed Jun 24 16:33:18 +0000 2009",
+  "created_at" : "2009-06-24 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -42,13 +41,12 @@ Grailbird.data.tweets_2009_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "2005053541",
   "in_reply_to_user_id" : 1856171,
   "text" : "@1stvamp 1stvamp.org did not respond with MX records for 'freeside.co.uk'",
   "id" : 2005053541,
-  "created_at" : "Tue Jun 02 16:08:28 +0000 2009",
+  "created_at" : "2009-06-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "1stvamp",
   "in_reply_to_user_id_str" : "1856171",
   "user" : {
@@ -68,12 +66,11 @@ Grailbird.data.tweets_2009_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "1997172747",
   "text" : "lolcat fails",
   "id" : 1997172747,
-  "created_at" : "Mon Jun 01 23:22:57 +0000 2009",
+  "created_at" : "2009-06-01 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

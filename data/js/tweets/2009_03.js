@@ -13,13 +13,12 @@ Grailbird.data.tweets_2009_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "1387840040",
   "in_reply_to_user_id" : 2309461,
   "text" : "@freeside OHAIDER",
   "id" : 1387840040,
-  "created_at" : "Wed Mar 25 13:24:02 +0000 2009",
+  "created_at" : "2009-03-25 00:00:00 +0000",
   "in_reply_to_screen_name" : "freeside",
   "in_reply_to_user_id_str" : "2309461",
   "user" : {
