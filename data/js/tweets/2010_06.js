@@ -145,7 +145,7 @@ Grailbird.data.tweets_2010_06 =
   "geo" : {
   },
   "id_str" : "17402696658",
-  "text" : "RT @NovatechLtd: If you follow Novatech & Retweet this message you could WIN a Foxconn Flaming Blade X58 GTI Motherboard worth £135 Winn ...",
+  "text" : "RT @NovatechLtd: If you follow Novatech & Retweet this message you could WIN a Foxconn Flaming Blade X58 GTI Motherboard worth \u00A3135 Winn ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -157,7 +157,7 @@ Grailbird.data.tweets_2010_06 =
     "geo" : {
     },
     "id_str" : "17399310848",
-    "text" : "If you follow Novatech & Retweet this message you could WIN a Foxconn Flaming Blade X58 GTI Motherboard worth £135 Winner Drawn 02/06/10",
+    "text" : "If you follow Novatech & Retweet this message you could WIN a Foxconn Flaming Blade X58 GTI Motherboard worth \u00A3135 Winner Drawn 02/06/10",
     "id" : 17399310848,
     "created_at" : "Wed Jun 30 08:07:56 +0000 2010",
     "user" : {
@@ -336,11 +336,11 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "138008469",
       "id" : 138008469
     }, {
-      "name" : "phpstorm",
+      "name" : "PhpStorm",
       "screen_name" : "phpstorm",
       "indices" : [ 14, 23 ],
-      "id_str" : "115181416",
-      "id" : 115181416
+      "id_str" : "115180931",
+      "id" : 115180931
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -553,7 +553,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd (original)</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver",
+      "name" : "Revilo",
       "screen_name" : "olivarrr",
       "indices" : [ 0, 9 ],
       "id_str" : "33717982",
@@ -600,7 +600,7 @@ Grailbird.data.tweets_2010_06 =
   "geo" : {
   },
   "id_str" : "17096634681",
-  "text" : "Pint of lemonade, £2.60. It'd be cheaper to get drunk. #rage #fb",
+  "text" : "Pint of lemonade, \u00A32.60. It'd be cheaper to get drunk. #rage #fb",
   "id" : 17096634681,
   "created_at" : "Sat Jun 26 15:01:58 +0000 2010",
   "user" : {
@@ -835,7 +835,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "hhariri",
       "protected" : false,
       "id_str" : "15797140",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2353246412/djyb8r2yn1igzb09sp0d_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3594928413/66f03a09e6224219792c04f481177593_normal.png",
       "id" : 15797140,
       "verified" : false
     }
@@ -1003,7 +1003,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2853788692/c1755dafd18d01770bb94f16980ec7a1_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3639643936/70881ca457c4eee80aa8e77d5fb2268e_normal.jpeg",
       "id" : 94178695,
       "verified" : false
     }
@@ -1553,7 +1553,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "andytuk",
       "protected" : false,
       "id_str" : "14919826",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2624637103/image_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3437282790/b3676d9ff36b97940a0ec21f3ac8b1e2_normal.jpeg",
       "id" : 14919826,
       "verified" : false
     }
@@ -2282,7 +2282,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "id_str" : "16210729061",
   "in_reply_to_user_id" : 15866848,
-  "text" : "@thebigboo Recent offer presumably? It's wanting £50 from me!",
+  "text" : "@thebigboo Recent offer presumably? It's wanting \u00A350 from me!",
   "id" : 16210729061,
   "in_reply_to_status_id" : 16170095833,
   "created_at" : "Tue Jun 15 08:48:30 +0000 2010",
@@ -2923,7 +2923,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15852277937,
     "created_at" : "Thu Jun 10 14:04:44 +0000 2010",
     "user" : {
-      "name" : "Fred Nix",
+      "name" : "FRED \uFF2EIX",
       "screen_name" : "NixFred",
       "protected" : false,
       "id_str" : "119019349",
@@ -3880,7 +3880,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "7905122",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/77733135/guardiantechlogo_normal.jpg",
       "id" : 7905122,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 15180736169,

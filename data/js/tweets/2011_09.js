@@ -151,7 +151,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "119759088602198018",
-  "text" : "Ahhh, npower.  Send me a letter in the post saying I'm £50 in credit. I ring you up and I'm apparently £150 in debit. Arrrrgh #fb",
+  "text" : "Ahhh, npower.  Send me a letter in the post saying I'm \u00A350 in credit. I ring you up and I'm apparently \u00A3150 in debit. Arrrrgh #fb",
   "id" : 119759088602198018,
   "created_at" : "Fri Sep 30 13:02:46 +0000 2011",
   "user" : {
@@ -176,7 +176,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 79, 99 ],
       "url" : "http://t.co/woZLKOCI",
       "expanded_url" : "http://www.bbc.co.uk/newsbeat/15125121",
-      "display_url" : "bbc.co.uk/newsbeat/15125…"
+      "display_url" : "bbc.co.uk/newsbeat/15125\u2026"
     } ]
   },
   "geo" : {
@@ -598,7 +598,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "119401885143797760",
-  "text" : "Jees. Buying 5 x 3TB WD Caviar Greens in the uk £564.96 from @DabsDotCom , bought from NewEgg in the US £431.48, £462.71 with tax",
+  "text" : "Jees. Buying 5 x 3TB WD Caviar Greens in the uk \u00A3564.96 from @DabsDotCom , bought from NewEgg in the US \u00A3431.48, \u00A3462.71 with tax",
   "id" : 119401885143797760,
   "created_at" : "Thu Sep 29 13:23:22 +0000 2011",
   "user" : {
@@ -680,7 +680,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2853788692/c1755dafd18d01770bb94f16980ec7a1_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3639643936/70881ca457c4eee80aa8e77d5fb2268e_normal.jpeg",
       "id" : 94178695,
       "verified" : false
     }
@@ -854,7 +854,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "118716830293565441",
-  "text" : "Hmm £138.52 sat in my @DabsDotCom basket. Can I find another £12 or so to use the £10 off coupon...",
+  "text" : "Hmm \u00A3138.52 sat in my @DabsDotCom basket. Can I find another \u00A312 or so to use the \u00A310 off coupon...",
   "id" : 118716830293565441,
   "created_at" : "Tue Sep 27 16:01:12 +0000 2011",
   "user" : {
@@ -969,7 +969,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Veeam® Software",
+      "name" : "Veeam\u00AE Software",
       "screen_name" : "veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
@@ -1003,7 +1003,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Veeam® Software",
+      "name" : "Veeam\u00AE Software",
       "screen_name" : "veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
@@ -1037,7 +1037,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Veeam® Software",
+      "name" : "Veeam\u00AE Software",
       "screen_name" : "veeam",
       "indices" : [ 9, 15 ],
       "id_str" : "14908404",
@@ -1972,7 +1972,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 9, 29 ],
       "url" : "http://t.co/sH0ui2uc",
       "expanded_url" : "http://www.battlefield.com/battlefield3/1/beta",
-      "display_url" : "battlefield.com/battlefield3/1…"
+      "display_url" : "battlefield.com/battlefield3/1\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "118358967155032065",
@@ -2059,7 +2059,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "118323141650026496",
-  "text" : "3rd party sellers on Amazon, list it on your own site at £80.10, list it at amazon at 87.24 + shipping",
+  "text" : "3rd party sellers on Amazon, list it on your own site at \u00A380.10, list it at amazon at 87.24 + shipping",
   "id" : 118323141650026496,
   "created_at" : "Mon Sep 26 13:56:49 +0000 2011",
   "user" : {
@@ -2298,7 +2298,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "16254149",
       "id" : 16254149
     }, {
-      "name" : "Veeam® Software",
+      "name" : "Veeam\u00AE Software",
       "screen_name" : "veeam",
       "indices" : [ 21, 27 ],
       "id_str" : "14908404",
@@ -2718,7 +2718,7 @@ Grailbird.data.tweets_2011_09 =
   },
   "id_str" : "117942154843783168",
   "in_reply_to_user_id" : 57938220,
-  "text" : "@LcawteWikia is asking for trouble. Could excess baggage them (£34 for extra)/buy a large suitcase out there. CPU, graphics card might be ok",
+  "text" : "@LcawteWikia is asking for trouble. Could excess baggage them (\u00A334 for extra)/buy a large suitcase out there. CPU, graphics card might be ok",
   "id" : 117942154843783168,
   "in_reply_to_status_id" : 117941563627282432,
   "created_at" : "Sun Sep 25 12:42:55 +0000 2011",
@@ -2854,7 +2854,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "117750029527158784",
-  "text" : "Circa £37 saving still on the CPU buying it in the states....",
+  "text" : "Circa \u00A337 saving still on the CPU buying it in the states....",
   "id" : 117750029527158784,
   "created_at" : "Sat Sep 24 23:59:29 +0000 2011",
   "user" : {
@@ -3911,8 +3911,8 @@ Grailbird.data.tweets_2011_09 =
       "name" : "PhpStorm/WebStorm",
       "screen_name" : "webide",
       "indices" : [ 3, 10 ],
-      "id_str" : "115180931",
-      "id" : 115180931
+      "id_str" : "115181416",
+      "id" : 115181416
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3937,8 +3937,8 @@ Grailbird.data.tweets_2011_09 =
     "id" : 116476614816169984,
     "created_at" : "Wed Sep 21 11:39:23 +0000 2011",
     "user" : {
-      "name" : "PhpStorm/WebStorm",
-      "screen_name" : "webide",
+      "name" : "PhpStorm",
+      "screen_name" : "phpstorm",
       "protected" : false,
       "id_str" : "115180931",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2938576625/c2a11c8bd11f88ca8a69f3999785b94e_normal.png",
@@ -4001,7 +4001,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "22090282",
       "id" : 22090282
     }, {
-      "name" : "MOM",
+      "name" : "CHRISTOPHERCROSSFADE",
       "screen_name" : "djromes",
       "indices" : [ 90, 98 ],
       "id_str" : "18334046",
@@ -4019,7 +4019,7 @@ Grailbird.data.tweets_2011_09 =
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MOM",
+        "name" : "CHRISTOPHERCROSSFADE",
         "screen_name" : "djromes",
         "indices" : [ 69, 77 ],
         "id_str" : "18334046",
@@ -4318,7 +4318,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "drobo",
       "protected" : false,
       "id_str" : "14721260",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3116923798/4a1050cb1ba776a5338de7b507a68114_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3439214724/9d27d5401765ddbaa19afe0358b631a2_normal.jpeg",
       "id" : 14721260,
       "verified" : false
     }
@@ -5037,7 +5037,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "114353320507875328",
-  "text" : "How is it possible for a drug dealer to have £1285 in £20 notes?",
+  "text" : "How is it possible for a drug dealer to have \u00A31285 in \u00A320 notes?",
   "id" : 114353320507875328,
   "created_at" : "Thu Sep 15 15:02:10 +0000 2011",
   "user" : {
@@ -5355,7 +5355,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "113759414506360833",
-  "text" : "RT @ibooduk: Today's iBOOD: Drobo® FS 5-bay File Sharing server with Gigabit Ethernet, Self-Healing and BeyondRAID™ technology http://t. ...",
+  "text" : "RT @ibooduk: Today's iBOOD: Drobo\u00AE FS 5-bay File Sharing server with Gigabit Ethernet, Self-Healing and BeyondRAID\u2122 technology http://t. ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
     "entities" : {
@@ -5372,7 +5372,7 @@ Grailbird.data.tweets_2011_09 =
     "geo" : {
     },
     "id_str" : "113756485787467776",
-    "text" : "Today's iBOOD: Drobo® FS 5-bay File Sharing server with Gigabit Ethernet, Self-Healing and BeyondRAID™ technology http://t.co/oNtcxEz",
+    "text" : "Today's iBOOD: Drobo\u00AE FS 5-bay File Sharing server with Gigabit Ethernet, Self-Healing and BeyondRAID\u2122 technology http://t.co/oNtcxEz",
     "id" : 113756485787467776,
     "created_at" : "Tue Sep 13 23:30:34 +0000 2011",
     "user" : {
@@ -6129,7 +6129,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "112526138110251009",
-  "text" : "£75.00 for 53.23 litres of diesel to fill my golf. Might be able to hit £80 as it will take another 1.77 litres... #fb",
+  "text" : "\u00A375.00 for 53.23 litres of diesel to fill my golf. Might be able to hit \u00A380 as it will take another 1.77 litres... #fb",
   "id" : 112526138110251009,
   "created_at" : "Sat Sep 10 14:01:36 +0000 2011",
   "user" : {
@@ -6222,7 +6222,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "111957328022077441",
-  "text" : "RT @fibrestream: BDUK 1 Cumbria 0: Pity poor Cumbria County Council whose hands are tied they say by BDUK.\nForced to spend £17 Mi... htt ...",
+  "text" : "RT @fibrestream: BDUK 1 Cumbria 0: Pity poor Cumbria County Council whose hands are tied they say by BDUK.\nForced to spend \u00A317 Mi... htt ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
     "entities" : {
@@ -6239,7 +6239,7 @@ Grailbird.data.tweets_2011_09 =
     "geo" : {
     },
     "id_str" : "111955901354741762",
-    "text" : "BDUK 1 Cumbria 0: Pity poor Cumbria County Council whose hands are tied they say by BDUK.\nForced to spend £17 Mi... http://t.co/5O40pk8",
+    "text" : "BDUK 1 Cumbria 0: Pity poor Cumbria County Council whose hands are tied they say by BDUK.\nForced to spend \u00A317 Mi... http://t.co/5O40pk8",
     "id" : 111955901354741762,
     "created_at" : "Fri Sep 09 00:15:41 +0000 2011",
     "user" : {
@@ -6426,7 +6426,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "rewiredstate",
       "protected" : false,
       "id_str" : "17950167",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/66680232/rs_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3507307128/b4c724c426ddd8e067983060ac6321a2_normal.png",
       "id" : 17950167,
       "verified" : false
     }
@@ -6458,7 +6458,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 48, 67 ],
       "url" : "http://t.co/iT8kb5y",
       "expanded_url" : "http://blog.jetbrains.com/pycharm/2011/09/pycharm-2-0-eap-open/",
-      "display_url" : "blog.jetbrains.com/pycharm/2011/0…"
+      "display_url" : "blog.jetbrains.com/pycharm/2011/0\u2026"
     } ]
   },
   "geo" : {
@@ -6475,7 +6475,7 @@ Grailbird.data.tweets_2011_09 =
         "indices" : [ 35, 54 ],
         "url" : "http://t.co/iT8kb5y",
         "expanded_url" : "http://blog.jetbrains.com/pycharm/2011/09/pycharm-2-0-eap-open/",
-        "display_url" : "blog.jetbrains.com/pycharm/2011/0…"
+        "display_url" : "blog.jetbrains.com/pycharm/2011/0\u2026"
       } ]
     },
     "geo" : {
@@ -7802,7 +7802,7 @@ Grailbird.data.tweets_2011_09 =
   },
   "id_str" : "110381150375124993",
   "in_reply_to_user_id" : 15866848,
-  "text" : "@thebigboo Power over Ethernet for everything? ;) Suppose it's whether it's worth £12.50 for the \"official\" PSU, or loo elsewhere..",
+  "text" : "@thebigboo Power over Ethernet for everything? ;) Suppose it's whether it's worth \u00A312.50 for the \"official\" PSU, or loo elsewhere..",
   "id" : 110381150375124993,
   "in_reply_to_status_id" : 110379893530959872,
   "created_at" : "Sun Sep 04 15:58:11 +0000 2011",
@@ -8262,8 +8262,8 @@ Grailbird.data.tweets_2011_09 =
       "name" : "PhpStorm/WebStorm",
       "screen_name" : "webide",
       "indices" : [ 0, 7 ],
-      "id_str" : "115180931",
-      "id" : 115180931
+      "id_str" : "115181416",
+      "id" : 115181416
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8276,7 +8276,7 @@ Grailbird.data.tweets_2011_09 =
   "text" : "@webide Is there a way I can get PhpStorm to do a diff between 2 open tabs? Can't see anything obvious...",
   "id" : 109301210263207937,
   "created_at" : "Thu Sep 01 16:26:53 +0000 2011",
-  "in_reply_to_screen_name" : "webide",
+  "in_reply_to_screen_name" : "phpstorm",
   "in_reply_to_user_id_str" : "115180931",
   "user" : {
     "name" : "Sam Reed",
@@ -8291,7 +8291,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DANNNNNERZ  ",
+      "name" : "DANNNNNERZ \uF8FF",
       "screen_name" : "appleboyy",
       "indices" : [ 0, 10 ],
       "id_str" : "102098295",
@@ -8426,7 +8426,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DANNNNNERZ  ",
+      "name" : "DANNNNNERZ \uF8FF",
       "screen_name" : "appleboyy",
       "indices" : [ 0, 10 ],
       "id_str" : "102098295",
@@ -8473,7 +8473,7 @@ Grailbird.data.tweets_2011_09 =
   },
   "id_str" : "109269343057100801",
   "in_reply_to_user_id" : 28117032,
-  "text" : "@120789 Nothing, didn't declare them. You do have a limit... Apparently £390 from non EU countries",
+  "text" : "@120789 Nothing, didn't declare them. You do have a limit... Apparently \u00A3390 from non EU countries",
   "id" : 109269343057100801,
   "in_reply_to_status_id" : 109259935891726337,
   "created_at" : "Thu Sep 01 14:20:16 +0000 2011",
@@ -8633,7 +8633,7 @@ Grailbird.data.tweets_2011_09 =
   },
   "id_str" : "109213070890512384",
   "in_reply_to_user_id" : 87652326,
-  "text" : "@bittech @NVIDIA_UK Shame your premium player pc works out £500 cheaper with the dollar price converted to pounds :-(",
+  "text" : "@bittech @NVIDIA_UK Shame your premium player pc works out \u00A3500 cheaper with the dollar price converted to pounds :-(",
   "id" : 109213070890512384,
   "in_reply_to_status_id" : 109209684203941888,
   "created_at" : "Thu Sep 01 10:36:39 +0000 2011",

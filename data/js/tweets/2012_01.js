@@ -49,7 +49,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -62,7 +62,7 @@ Grailbird.data.tweets_2012_01 =
   "geo" : {
   },
   "id_str" : "164366618716143616",
-  "text" : "Should have really got an oyster card when I was last in London. Would've already paid for itself. Oh well. £5 for the card #fb",
+  "text" : "Should have really got an oyster card when I was last in London. Would've already paid for itself. Oh well. \u00A35 for the card #fb",
   "id" : 164366618716143616,
   "created_at" : "Tue Jan 31 15:17:10 +0000 2012",
   "user" : {
@@ -75,7 +75,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -103,7 +103,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -126,7 +126,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -152,7 +152,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -178,7 +178,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -201,7 +201,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Yuvi Panda",
@@ -235,7 +235,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Yuvi Panda",
@@ -269,7 +269,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -300,7 +300,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -323,7 +323,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -346,7 +346,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt",
@@ -862,7 +862,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -890,7 +890,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Benj ",
@@ -1221,7 +1221,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1262,7 +1262,7 @@ Grailbird.data.tweets_2012_01 =
   "geo" : {
   },
   "id_str" : "162567001867419648",
-  "text" : "http://t.co/ns1i6D7G Why was a policeman even \"test driving\" a car at just before 2am? Never mind it was worth £33k... #fb",
+  "text" : "http://t.co/ns1i6D7G Why was a policeman even \"test driving\" a car at just before 2am? Never mind it was worth \u00A333k... #fb",
   "id" : 162567001867419648,
   "created_at" : "Thu Jan 26 16:06:08 +0000 2012",
   "user" : {
@@ -1275,7 +1275,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1629,7 +1629,7 @@ Grailbird.data.tweets_2012_01 =
   },
   "id_str" : "161871548586795008",
   "in_reply_to_user_id" : 28117032,
-  "text" : "@boomerangmouth From £39.95 rather than from £50, £60, £70.. Granted you probably won't get the £40 rate, but still..",
+  "text" : "@boomerangmouth From \u00A339.95 rather than from \u00A350, \u00A360, \u00A370.. Granted you probably won't get the \u00A340 rate, but still..",
   "id" : 161871548586795008,
   "in_reply_to_status_id" : 161871155676983297,
   "created_at" : "Tue Jan 24 18:02:39 +0000 2012",
@@ -1965,7 +1965,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "andnotnull",
@@ -1990,7 +1990,7 @@ Grailbird.data.tweets_2012_01 =
   "geo" : {
   },
   "id_str" : "160755855485186049",
-  "text" : "“@andnotnull @tehreedy #OccupySomewhereThatIsNotSF”",
+  "text" : "\u201C@andnotnull @tehreedy #OccupySomewhereThatIsNotSF\u201D",
   "id" : 160755855485186049,
   "created_at" : "Sat Jan 21 16:09:17 +0000 2012",
   "user" : {
@@ -2097,7 +2097,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -2405,7 +2405,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2678,7 +2678,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "htc",
       "protected" : false,
       "id_str" : "15818391",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/493643662/logo_twitter_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3278294089/fc3b21c32692e290a6774b4e8e5b0e9c_normal.png",
       "id" : 15818391,
       "verified" : true
     }
@@ -2710,7 +2710,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 44, 64 ],
       "url" : "http://t.co/NrXVeWgc",
       "expanded_url" : "http://channel9.msdn.com/achievements/visualstudio",
-      "display_url" : "channel9.msdn.com/achievements/v…"
+      "display_url" : "channel9.msdn.com/achievements/v\u2026"
     } ]
   },
   "geo" : {
@@ -2727,7 +2727,7 @@ Grailbird.data.tweets_2012_01 =
         "indices" : [ 33, 53 ],
         "url" : "http://t.co/NrXVeWgc",
         "expanded_url" : "http://channel9.msdn.com/achievements/visualstudio",
-        "display_url" : "channel9.msdn.com/achievements/v…"
+        "display_url" : "channel9.msdn.com/achievements/v\u2026"
       } ]
     },
     "geo" : {
@@ -3644,7 +3644,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -3675,7 +3675,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3698,10 +3698,10 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -3732,7 +3732,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chad H.",
@@ -3766,7 +3766,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",
@@ -3798,7 +3798,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3821,7 +3821,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3844,7 +3844,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3867,7 +3867,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",
@@ -3899,7 +3899,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3968,7 +3968,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "andrewgould",
       "protected" : false,
       "id_str" : "14683371",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1881457324/461CC6C6-E9FD-437F-B35D-2719F2E1D758_normal",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3178874015/c9b15fd3abf54b89e77fcaae1ec51edf_normal.jpeg",
       "id" : 14683371,
       "verified" : false
     }
@@ -4008,7 +4008,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4034,7 +4034,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4060,7 +4060,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BBC Technology",
@@ -4081,7 +4081,7 @@ Grailbird.data.tweets_2012_01 =
   "geo" : {
   },
   "id_str" : "159459419896287233",
-  "text" : "RT\"@BBCTech VIDEO: Wikipedia co-founder defends shut down http://t.co/PMG8phCd”",
+  "text" : "RT\"@BBCTech VIDEO: Wikipedia co-founder defends shut down http://t.co/PMG8phCd\u201D",
   "id" : 159459419896287233,
   "created_at" : "Wed Jan 18 02:17:42 +0000 2012",
   "user" : {
@@ -4398,7 +4398,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 69, 89 ],
       "url" : "http://t.co/mBduhlis",
       "expanded_url" : "http://www.astrogaming.co.uk/a40-audio-system-astro-edition",
-      "display_url" : "astrogaming.co.uk/a40-audio-syst…"
+      "display_url" : "astrogaming.co.uk/a40-audio-syst\u2026"
     } ]
   },
   "geo" : {
@@ -4877,7 +4877,7 @@ Grailbird.data.tweets_2012_01 =
   "geo" : {
   },
   "id_str" : "159266575743062016",
-  "text" : "Yay, just won £25 on the premium bonds! #fb",
+  "text" : "Yay, just won \u00A325 on the premium bonds! #fb",
   "id" : 159266575743062016,
   "created_at" : "Tue Jan 17 13:31:25 +0000 2012",
   "user" : {
@@ -4924,7 +4924,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tom Goulden",
@@ -4958,7 +4958,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tom Goulden",
@@ -5386,13 +5386,13 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 49, 70 ],
       "url" : "https://t.co/KPtFqbRs",
       "expanded_url" : "https://bitbucket.org/iimarckus/pokered/src",
-      "display_url" : "bitbucket.org/iimarckus/poke…"
+      "display_url" : "bitbucket.org/iimarckus/poke\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "159090447627718656",
-  "text" : "RT @hackernewsbot: Disassembly of Pokémon Red... https://t.co/KPtFqbRs",
+  "text" : "RT @hackernewsbot: Disassembly of Pok\u00E9mon Red... https://t.co/KPtFqbRs",
   "retweeted_status" : {
     "source" : "<a href=\"http://news.ycombinator.com/\" rel=\"nofollow\">Hacker News Bot</a>",
     "entities" : {
@@ -5403,13 +5403,13 @@ Grailbird.data.tweets_2012_01 =
         "indices" : [ 30, 51 ],
         "url" : "https://t.co/KPtFqbRs",
         "expanded_url" : "https://bitbucket.org/iimarckus/pokered/src",
-        "display_url" : "bitbucket.org/iimarckus/poke…"
+        "display_url" : "bitbucket.org/iimarckus/poke\u2026"
       } ]
     },
     "geo" : {
     },
     "id_str" : "159088067205013504",
-    "text" : "Disassembly of Pokémon Red... https://t.co/KPtFqbRs",
+    "text" : "Disassembly of Pok\u00E9mon Red... https://t.co/KPtFqbRs",
     "id" : 159088067205013504,
     "created_at" : "Tue Jan 17 01:42:05 +0000 2012",
     "user" : {
@@ -5919,7 +5919,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5951,8 +5951,8 @@ Grailbird.data.tweets_2012_01 =
       "name" : "PhpStorm/WebStorm",
       "screen_name" : "webide",
       "indices" : [ 0, 7 ],
-      "id_str" : "115180931",
-      "id" : 115180931
+      "id_str" : "115181416",
+      "id" : 115181416
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5965,7 +5965,7 @@ Grailbird.data.tweets_2012_01 =
   "text" : "@webide Can you guys not make multiple builds have the same installer location? 2 at 3.0.1 is just a pita. Use the build number? :/",
   "id" : 159000998369705985,
   "created_at" : "Mon Jan 16 19:56:06 +0000 2012",
-  "in_reply_to_screen_name" : "webide",
+  "in_reply_to_screen_name" : "phpstorm",
   "in_reply_to_user_id_str" : "115180931",
   "user" : {
     "name" : "Sam Reed",
@@ -7201,7 +7201,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 0, 21 ],
       "url" : "https://t.co/UIvMPVfa",
       "expanded_url" : "https://www.strongspace.com/reedy/public/steamvouchers.png",
-      "display_url" : "strongspace.com/reedy/public/s…"
+      "display_url" : "strongspace.com/reedy/public/s\u2026"
     } ]
   },
   "geo" : {
@@ -7439,7 +7439,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7462,7 +7462,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7488,7 +7488,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Harrison",
@@ -7522,7 +7522,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",
@@ -7873,7 +7873,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8009,8 +8009,8 @@ Grailbird.data.tweets_2012_01 =
       "name" : "PhpStorm/WebStorm",
       "screen_name" : "webide",
       "indices" : [ 0, 7 ],
-      "id_str" : "115180931",
-      "id" : 115180931
+      "id_str" : "115181416",
+      "id" : 115181416
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8023,7 +8023,7 @@ Grailbird.data.tweets_2012_01 =
   "text" : "@webide When is the next EAP for PhpStorm likely to be out? Thanks!",
   "id" : 157107190950400000,
   "created_at" : "Wed Jan 11 14:30:47 +0000 2012",
-  "in_reply_to_screen_name" : "webide",
+  "in_reply_to_screen_name" : "phpstorm",
   "in_reply_to_user_id_str" : "115180931",
   "user" : {
     "name" : "Sam Reed",
@@ -8167,7 +8167,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",
@@ -8280,7 +8280,7 @@ Grailbird.data.tweets_2012_01 =
   "geo" : {
   },
   "id_str" : "156856527389589504",
-  "text" : "Shame they couldn't be manufactured in the UK RT @hackernewsbot: Raspberry Pi: We’ve started manufacture... bit.ly/zLZIl4 #fb",
+  "text" : "Shame they couldn't be manufactured in the UK RT @hackernewsbot: Raspberry Pi: We\u2019ve started manufacture... bit.ly/zLZIl4 #fb",
   "id" : 156856527389589504,
   "created_at" : "Tue Jan 10 21:54:45 +0000 2012",
   "user" : {
@@ -8892,7 +8892,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joseph BettellHiggin",
@@ -9095,14 +9095,39 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "14235323",
       "id" : 14235323
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
+    "media" : [ {
+      "expanded_url" : "https://twitter.com/#!/johnsw/status/153975004286025728/photo/1",
       "indices" : [ 68, 89 ],
       "url" : "https://t.co/G6wyX8J7",
-      "expanded_url" : "https://twitter.com/#!/johnsw/status/153975004286025728/photo/1",
+      "media_url" : "http://pbs.twimg.com/media/AiMHc1sCAAAbAZS.jpg",
+      "id_str" : "153975004290220032",
+      "id" : 153975004290220032,
+      "media_url_https" : "https://pbs.twimg.com/media/AiMHc1sCAAAbAZS.jpg",
+      "sizes" : [ {
+        "h" : 1003,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 1003,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1003,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 568,
+        "resize" : "fit",
+        "w" : 340
+      } ],
       "display_url" : "pic.twitter.com/G6wyX8J7"
-    } ]
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : {
   },
@@ -9124,14 +9149,39 @@ Grailbird.data.tweets_2012_01 =
         "id_str" : "14235323",
         "id" : 14235323
       } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
+      "media" : [ {
+        "expanded_url" : "https://twitter.com/#!/johnsw/status/153975004286025728/photo/1",
         "indices" : [ 54, 75 ],
         "url" : "https://t.co/G6wyX8J7",
-        "expanded_url" : "https://twitter.com/#!/johnsw/status/153975004286025728/photo/1",
+        "media_url" : "http://pbs.twimg.com/media/AiMHc1sCAAAbAZS.jpg",
+        "id_str" : "153975004290220032",
+        "id" : 153975004290220032,
+        "media_url_https" : "https://pbs.twimg.com/media/AiMHc1sCAAAbAZS.jpg",
+        "sizes" : [ {
+          "h" : 1003,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 1003,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1003,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 568,
+          "resize" : "fit",
+          "w" : 340
+        } ],
         "display_url" : "pic.twitter.com/G6wyX8J7"
-      } ]
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
     },
     "geo" : {
     },
@@ -9634,7 +9684,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",
@@ -9668,7 +9718,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",
@@ -9702,7 +9752,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",
@@ -9736,7 +9786,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",
@@ -9770,7 +9820,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9796,7 +9846,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",
@@ -9828,7 +9878,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -10060,7 +10110,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",
@@ -10094,7 +10144,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",
@@ -10128,7 +10178,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",
@@ -10162,7 +10212,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",
@@ -10196,7 +10246,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Sneddon",

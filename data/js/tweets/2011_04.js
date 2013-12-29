@@ -266,7 +266,7 @@ Grailbird.data.tweets_2011_04 =
   "geo" : {
   },
   "id_str" : "64027924151533568",
-  "text" : ".@tomwardill £1000+ !?",
+  "text" : ".@tomwardill \u00A31000+ !?",
   "id" : 64027924151533568,
   "created_at" : "Fri Apr 29 18:07:01 +0000 2011",
   "user" : {
@@ -537,7 +537,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ryan Lane",
@@ -1476,7 +1476,7 @@ Grailbird.data.tweets_2011_04 =
   "geo" : {
   },
   "id_str" : "57958118319063040",
-  "text" : ".@humphreybc @d0od Encoding on omgubuntu looks screwed up... http://bit.ly/ej6g6c \" â€˜qtnxâ€˜\" etc etc",
+  "text" : ".@humphreybc @d0od Encoding on omgubuntu looks screwed up... http://bit.ly/ej6g6c \" \u00E2\u20AC\u02DCqtnx\u00E2\u20AC\u02DC\" etc etc",
   "id" : 57958118319063040,
   "created_at" : "Wed Apr 13 00:07:46 +0000 2011",
   "user" : {
@@ -1639,8 +1639,8 @@ Grailbird.data.tweets_2011_04 =
       "name" : "PhpStorm/WebStorm",
       "screen_name" : "webide",
       "indices" : [ 3, 10 ],
-      "id_str" : "115180931",
-      "id" : 115180931
+      "id_str" : "115181416",
+      "id" : 115181416
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1665,8 +1665,8 @@ Grailbird.data.tweets_2011_04 =
     "id" : 57435165273763840,
     "created_at" : "Mon Apr 11 13:29:45 +0000 2011",
     "user" : {
-      "name" : "PhpStorm/WebStorm",
-      "screen_name" : "webide",
+      "name" : "PhpStorm",
+      "screen_name" : "phpstorm",
       "protected" : false,
       "id_str" : "115180931",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2938576625/c2a11c8bd11f88ca8a69f3999785b94e_normal.png",
@@ -1686,7 +1686,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BBC Technology",
@@ -1702,7 +1702,7 @@ Grailbird.data.tweets_2011_04 =
   "geo" : {
   },
   "id_str" : "57256354041176065",
-  "text" : "RT @BBCTech Mobile users 'overpaying by £200' http://bbc.in/hmLSud I spent nearly twice the average...",
+  "text" : "RT @BBCTech Mobile users 'overpaying by \u00A3200' http://bbc.in/hmLSud I spent nearly twice the average...",
   "id" : 57256354041176065,
   "created_at" : "Mon Apr 11 01:39:13 +0000 2011",
   "user" : {
@@ -1741,7 +1741,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Timo Descamps",
@@ -1775,7 +1775,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Timo Descamps",
@@ -1902,7 +1902,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Open Rights Group",
@@ -1988,7 +1988,7 @@ Grailbird.data.tweets_2011_04 =
   "geo" : {
   },
   "id_str" : "56294089573924864",
-  "text" : "My phone bill cost me £716.87 in the last year... @vodafoneuk  #ouch #fb",
+  "text" : "My phone bill cost me \u00A3716.87 in the last year... @vodafoneuk  #ouch #fb",
   "id" : 56294089573924864,
   "created_at" : "Fri Apr 08 09:55:31 +0000 2011",
   "user" : {
@@ -2067,7 +2067,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Bugzilla",
@@ -2194,7 +2194,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tom Dewey",
@@ -2228,7 +2228,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tom Dewey",
@@ -2322,7 +2322,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2442,7 +2442,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BBC Technology",
@@ -2587,7 +2587,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver",
+      "name" : "Revilo",
       "screen_name" : "olivarrr",
       "indices" : [ 0, 9 ],
       "id_str" : "33717982",
@@ -2618,7 +2618,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2679,7 +2679,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "USC ICT",
@@ -2744,7 +2744,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2804,7 +2804,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2827,7 +2827,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stuart Hicks",
@@ -2861,7 +2861,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Harrison",
@@ -2895,7 +2895,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Simon Butcher",
@@ -2929,7 +2929,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2955,7 +2955,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Phil Cluff",
@@ -2989,7 +2989,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brion Vibber",
@@ -3023,7 +3023,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Harrison",
@@ -3057,7 +3057,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd</a>",
+  "source" : "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon  Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joseph BettellHiggin",

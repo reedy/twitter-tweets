@@ -34,9 +34,9 @@ Grailbird.data.tweets_2009_12 =
     "user" : {
       "name" : "John Harrison",
       "screen_name" : "shinaku",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2961913827/9260407459ec59516ec09bfceecdf417_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3641177741/5de9831420e12cf4fd7baafaf8608756_normal.jpeg",
       "id" : 14355014,
       "verified" : false
     }
@@ -104,7 +104,7 @@ Grailbird.data.tweets_2009_12 =
   "geo" : {
   },
   "id_str" : "7120914490",
-  "text" : "RT @GeneticGenesis: The university are charging me £35/hour next semester (Making a few assumptions)... #outraged #fscktuitionfees #fb",
+  "text" : "RT @GeneticGenesis: The university are charging me \u00A335/hour next semester (Making a few assumptions)... #outraged #fscktuitionfees #fb",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
@@ -125,7 +125,7 @@ Grailbird.data.tweets_2009_12 =
     "geo" : {
     },
     "id_str" : "7104219010",
-    "text" : "The university are charging me £35/hour next semester (Making a few assumptions)... #outraged #fscktuitionfees #fb",
+    "text" : "The university are charging me \u00A335/hour next semester (Making a few assumptions)... #outraged #fscktuitionfees #fb",
     "id" : 7104219010,
     "created_at" : "Sun Dec 27 23:45:44 +0000 2009",
     "user" : {
@@ -236,7 +236,7 @@ Grailbird.data.tweets_2009_12 =
   },
   "id_str" : "7095150459",
   "in_reply_to_user_id" : 19058966,
-  "text" : "@stuarthicks We might've... But its 45 x £0.98 :(",
+  "text" : "@stuarthicks We might've... But its 45 x \u00A30.98 :(",
   "id" : 7095150459,
   "in_reply_to_status_id" : 7095110310,
   "created_at" : "Sun Dec 27 17:26:27 +0000 2009",
@@ -255,11 +255,11 @@ Grailbird.data.tweets_2009_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Karoo Broadband",
+      "name" : "KarooBroadband",
       "screen_name" : "KarooBroadband",
       "indices" : [ 63, 78 ],
-      "id_str" : "22005301",
-      "id" : 22005301
+      "id_str" : "356720556",
+      "id" : 356720556
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -439,7 +439,7 @@ Grailbird.data.tweets_2009_12 =
   "geo" : {
   },
   "id_str" : "7035404032",
-  "text" : "£50 note. Don't see those everyday! http://yfrog.com/37a5koj",
+  "text" : "\u00A350 note. Don't see those everyday! http://yfrog.com/37a5koj",
   "id" : 7035404032,
   "created_at" : "Fri Dec 25 16:05:31 +0000 2009",
   "user" : {
@@ -1244,7 +1244,7 @@ Grailbird.data.tweets_2009_12 =
   },
   "id_str" : "6958901663",
   "in_reply_to_user_id" : 28117032,
-  "text" : "@120789 -6°c going to work yesterday!",
+  "text" : "@120789 -6\u00B0c going to work yesterday!",
   "id" : 6958901663,
   "in_reply_to_status_id" : 6958801344,
   "created_at" : "Wed Dec 23 08:36:39 +0000 2009",
@@ -1544,7 +1544,7 @@ Grailbird.data.tweets_2009_12 =
   "geo" : {
   },
   "id_str" : "6872492813",
-  "text" : "RT @PiratePartyUK: Who needs a record company when 1 man and a facebook page can get you to Xmas #1? £66k donated to Shelter too, well d ...",
+  "text" : "RT @PiratePartyUK: Who needs a record company when 1 man and a facebook page can get you to Xmas #1? \u00A366k donated to Shelter too, well d ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
@@ -1562,7 +1562,7 @@ Grailbird.data.tweets_2009_12 =
     "geo" : {
     },
     "id_str" : "6872410036",
-    "text" : "Who needs a record company when 1 man and a facebook page can get you to Xmas #1? £66k donated to Shelter too, well done RAtM via @AndyPPUK",
+    "text" : "Who needs a record company when 1 man and a facebook page can get you to Xmas #1? \u00A366k donated to Shelter too, well done RAtM via @AndyPPUK",
     "id" : 6872410036,
     "created_at" : "Sun Dec 20 21:59:25 +0000 2009",
     "user" : {
@@ -2746,7 +2746,7 @@ Grailbird.data.tweets_2009_12 =
   "geo" : {
   },
   "id_str" : "6760531985",
-  "text" : "Just won a brand new #hp E200 on #eBay for £100, with cables and BBWC. FUCKING BARGAIN. @Kiwi_Si :D http://bit.ly/7oKHP5",
+  "text" : "Just won a brand new #hp E200 on #eBay for \u00A3100, with cables and BBWC. FUCKING BARGAIN. @Kiwi_Si :D http://bit.ly/7oKHP5",
   "id" : 6760531985,
   "created_at" : "Thu Dec 17 10:32:18 +0000 2009",
   "user" : {
@@ -3323,7 +3323,7 @@ Grailbird.data.tweets_2009_12 =
   },
   "id_str" : "6693836185",
   "in_reply_to_user_id" : 20504542,
-  "text" : "@IVSoftware http://bit.ly/91FLUo £0.29 at Amazon!",
+  "text" : "@IVSoftware http://bit.ly/91FLUo \u00A30.29 at Amazon!",
   "id" : 6693836185,
   "in_reply_to_status_id" : 6693753012,
   "created_at" : "Tue Dec 15 11:56:42 +0000 2009",
@@ -4042,7 +4042,7 @@ Grailbird.data.tweets_2009_12 =
   "geo" : {
   },
   "id_str" : "6570917918",
-  "text" : "http://bit.ly/4UhVor - The Savvy Granny ‘Cloud’ Trilogy @Kiwi_Si #lol",
+  "text" : "http://bit.ly/4UhVor - The Savvy Granny \u2018Cloud\u2019 Trilogy @Kiwi_Si #lol",
   "id" : 6570917918,
   "created_at" : "Fri Dec 11 16:19:32 +0000 2009",
   "user" : {
@@ -4663,8 +4663,8 @@ Grailbird.data.tweets_2009_12 =
       "name" : "joinRED",
       "screen_name" : "joinRED",
       "indices" : [ 3, 11 ],
-      "id_str" : "16423109",
-      "id" : 16423109
+      "id_str" : "13632",
+      "id" : 13632
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -4679,7 +4679,7 @@ Grailbird.data.tweets_2009_12 =
   "geo" : {
   },
   "id_str" : "6233482951",
-  "text" : "RT @joinred: It’s World AIDS Day. Turn Twitter (RED) - literally! Use #red or #laceupsavelives & turn tweets the color red. ONE COLOR UN ...",
+  "text" : "RT @joinred: It\u2019s World AIDS Day. Turn Twitter (RED) - literally! Use #red or #laceupsavelives & turn tweets the color red. ONE COLOR UN ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -4697,17 +4697,17 @@ Grailbird.data.tweets_2009_12 =
     "geo" : {
     },
     "id_str" : "6229398069",
-    "text" : "It’s World AIDS Day. Turn Twitter (RED) - literally! Use #red or #laceupsavelives & turn tweets the color red. ONE COLOR UNITES US. Pls RT.",
+    "text" : "It\u2019s World AIDS Day. Turn Twitter (RED) - literally! Use #red or #laceupsavelives & turn tweets the color red. ONE COLOR UNITES US. Pls RT.",
     "id" : 6229398069,
     "created_at" : "Tue Dec 01 08:10:00 +0000 2009",
     "user" : {
-      "name" : "joinRED",
-      "screen_name" : "joinRED",
+      "name" : "(RED)",
+      "screen_name" : "RED",
       "protected" : false,
       "id_str" : "16423109",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2888242912/3c7d3757aada66f04c9e915ea6979caf_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3463490875/94f6e716d25fb6e1e21585f453aefdb2_normal.jpeg",
       "id" : 16423109,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 6233482951,

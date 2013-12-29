@@ -29,7 +29,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">TwidroydPRO</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver",
+      "name" : "Revilo",
       "screen_name" : "olivarrr",
       "indices" : [ 0, 9 ],
       "id_str" : "33717982",
@@ -926,7 +926,7 @@ Grailbird.data.tweets_2011_08 =
   "geo" : {
   },
   "id_str" : "107406821874073600",
-  "text" : "Amazon just emailed to tell me I saved £13.02 by preordering Deus Ex Human Revolution from them with their price guarantee. Nice!",
+  "text" : "Amazon just emailed to tell me I saved \u00A313.02 by preordering Deus Ex Human Revolution from them with their price guarantee. Nice!",
   "id" : 107406821874073600,
   "created_at" : "Sat Aug 27 10:59:16 +0000 2011",
   "user" : {
@@ -1843,7 +1843,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 61, 80 ],
       "url" : "http://t.co/jcHpRX3",
       "expanded_url" : "http://www.geek.com/articles/geek-cetera/google-fiber-shows-its-potential-with-151mbps-download-speeds-20110823/",
-      "display_url" : "geek.com/articles/geek-…"
+      "display_url" : "geek.com/articles/geek-\u2026"
     } ]
   },
   "geo" : {
@@ -1860,7 +1860,7 @@ Grailbird.data.tweets_2011_08 =
         "indices" : [ 42, 61 ],
         "url" : "http://t.co/jcHpRX3",
         "expanded_url" : "http://www.geek.com/articles/geek-cetera/google-fiber-shows-its-potential-with-151mbps-download-speeds-20110823/",
-        "display_url" : "geek.com/articles/geek-…"
+        "display_url" : "geek.com/articles/geek-\u2026"
       } ]
     },
     "geo" : {
@@ -1953,7 +1953,7 @@ Grailbird.data.tweets_2011_08 =
   },
   "id_str" : "106021968452648961",
   "in_reply_to_user_id" : 28587521,
-  "text" : "@tjlawrence Yeah £2949.90. But doing it as a pre-order, so will cancel if they don't drop the price! http://t.co/2ogPXWr",
+  "text" : "@tjlawrence Yeah \u00A32949.90. But doing it as a pre-order, so will cancel if they don't drop the price! http://t.co/2ogPXWr",
   "id" : 106021968452648961,
   "in_reply_to_status_id" : 106017286896369664,
   "created_at" : "Tue Aug 23 15:16:21 +0000 2011",
@@ -2609,7 +2609,7 @@ Grailbird.data.tweets_2011_08 =
   "geo" : {
   },
   "id_str" : "105734780376727552",
-  "text" : "Why do certain computer parts look to have become more expensive over the last few years, but others dropped.  24GB ram for &lt; £190...!?",
+  "text" : "Why do certain computer parts look to have become more expensive over the last few years, but others dropped.  24GB ram for &lt; \u00A3190...!?",
   "id" : 105734780376727552,
   "created_at" : "Mon Aug 22 20:15:10 +0000 2011",
   "user" : {
@@ -2877,7 +2877,7 @@ Grailbird.data.tweets_2011_08 =
   },
   "id_str" : "105686812697165824",
   "in_reply_to_user_id" : 14822382,
-  "text" : "@d0od Amazon are selling them for £312, not &lt; £100 like suggest elsewhere... http://t.co/TaaWqLd",
+  "text" : "@d0od Amazon are selling them for \u00A3312, not &lt; \u00A3100 like suggest elsewhere... http://t.co/TaaWqLd",
   "id" : 105686812697165824,
   "in_reply_to_status_id" : 105686632346300416,
   "created_at" : "Mon Aug 22 17:04:34 +0000 2011",
@@ -3238,7 +3238,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "d0od",
       "protected" : false,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3110132782/3eab903c10ee80a1cd44ef1b1dce1733_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3641801949/9636ceddf53aa4078bf3a34178d78370_normal.jpeg",
       "id" : 14822382,
       "verified" : false
     }
@@ -3782,7 +3782,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 54, 73 ],
       "url" : "http://t.co/gHd27td",
       "expanded_url" : "https://market.android.com/details?id=com.mojang.minecraftpe",
-      "display_url" : "market.android.com/details?id=com…"
+      "display_url" : "market.android.com/details?id=com\u2026"
     } ]
   },
   "geo" : {
@@ -3799,7 +3799,7 @@ Grailbird.data.tweets_2011_08 =
         "indices" : [ 35, 54 ],
         "url" : "http://t.co/gHd27td",
         "expanded_url" : "https://market.android.com/details?id=com.mojang.minecraftpe",
-        "display_url" : "market.android.com/details?id=com…"
+        "display_url" : "market.android.com/details?id=com\u2026"
       } ]
     },
     "geo" : {
@@ -4287,7 +4287,7 @@ Grailbird.data.tweets_2011_08 =
   "geo" : {
   },
   "id_str" : "102839580805435393",
-  "text" : "Hell yeah. Deus Ex: Human Revolution is a steamworks game. Preorder at Amazon UK the Augmented edition for £24.99, steam want £40 for it",
+  "text" : "Hell yeah. Deus Ex: Human Revolution is a steamworks game. Preorder at Amazon UK the Augmented edition for \u00A324.99, steam want \u00A340 for it",
   "id" : 102839580805435393,
   "created_at" : "Sun Aug 14 20:30:41 +0000 2011",
   "user" : {
@@ -5149,7 +5149,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "CaliLewis",
       "protected" : false,
       "id_str" : "774096",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1877121081/Cali-closeheadshot_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3604942165/c627f87223f01f7e7e1293b8ef70cafd_normal.jpeg",
       "id" : 774096,
       "verified" : true
     }
@@ -5293,7 +5293,7 @@ Grailbird.data.tweets_2011_08 =
         "indices" : [ 117, 136 ],
         "url" : "http://t.co/sLV485z",
         "expanded_url" : "http://www.ex-parrot.com/pdw/Mail-RFC822-Address.html",
-        "display_url" : "ex-parrot.com/pdw/Mail-RFC82…"
+        "display_url" : "ex-parrot.com/pdw/Mail-RFC82\u2026"
       } ]
     },
     "geo" : {
@@ -5861,7 +5861,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "d0od",
       "protected" : false,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3110132782/3eab903c10ee80a1cd44ef1b1dce1733_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3641801949/9636ceddf53aa4078bf3a34178d78370_normal.jpeg",
       "id" : 14822382,
       "verified" : false
     }
@@ -6619,7 +6619,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "7905122",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/77733135/guardiantechlogo_normal.jpg",
       "id" : 7905122,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 99963068657831937,

@@ -32,7 +32,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -118,7 +118,7 @@ Grailbird.data.tweets_2012_02 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -149,7 +149,7 @@ Grailbird.data.tweets_2012_02 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Battlefield",
@@ -179,7 +179,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "172675743581609987",
-  "text" : "“@Battlefield “@zh1nt0 Confirmed fixes and tweaks - New post up on Battlelog: http://t.co/yDbfEcR8 #BF3””",
+  "text" : "\u201C@Battlefield \u201C@zh1nt0 Confirmed fixes and tweaks - New post up on Battlelog: http://t.co/yDbfEcR8 #BF3\u201D\u201D",
   "id" : 172675743581609987,
   "created_at" : "Thu Feb 23 13:34:40 +0000 2012",
   "user" : {
@@ -297,7 +297,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 29, 50 ],
       "url" : "https://t.co/uS8C6dFa",
       "expanded_url" : "https://commons.wikimedia.org/wiki/File:Qantas_Boeing_747-400_VH-OJU_over_Starbeyevo_Kustov.jpg",
-      "display_url" : "commons.wikimedia.org/wiki/File:Qant…"
+      "display_url" : "commons.wikimedia.org/wiki/File:Qant\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "172103717057863680",
@@ -345,7 +345,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "171948229032804352",
-  "text" : "“RT @BBCTech: Text apps 'lost networks $13.9bn' http://t.co/kVKsCeY7” Haha. Nice! #fb",
+  "text" : "\u201CRT @BBCTech: Text apps 'lost networks $13.9bn' http://t.co/kVKsCeY7\u201D Haha. Nice! #fb",
   "id" : 171948229032804352,
   "created_at" : "Tue Feb 21 13:23:47 +0000 2012",
   "user" : {
@@ -361,7 +361,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -464,8 +464,8 @@ Grailbird.data.tweets_2012_02 =
       "name" : "PhpStorm/WebStorm",
       "screen_name" : "webide",
       "indices" : [ 3, 10 ],
-      "id_str" : "115180931",
-      "id" : 115180931
+      "id_str" : "115181416",
+      "id" : 115181416
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -500,8 +500,8 @@ Grailbird.data.tweets_2012_02 =
     "id" : 171580626695225344,
     "created_at" : "Mon Feb 20 13:03:03 +0000 2012",
     "user" : {
-      "name" : "PhpStorm/WebStorm",
-      "screen_name" : "webide",
+      "name" : "PhpStorm",
+      "screen_name" : "phpstorm",
       "protected" : false,
       "id_str" : "115180931",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2938576625/c2a11c8bd11f88ca8a69f3999785b94e_normal.png",
@@ -534,7 +534,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "171574095824166913",
-  "text" : "Samsung Galaxy Nexus 16GB for £399.99?  Tempting! #fb",
+  "text" : "Samsung Galaxy Nexus 16GB for \u00A3399.99?  Tempting! #fb",
   "id" : 171574095824166913,
   "created_at" : "Mon Feb 20 12:37:06 +0000 2012",
   "user" : {
@@ -631,7 +631,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "16184339",
       "id" : 16184339
     }, {
-      "name" : "popey",
+      "name" : "Alan Pope \u32DB",
       "screen_name" : "popey",
       "indices" : [ 30, 36 ],
       "id_str" : "12325402",
@@ -683,7 +683,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "16184339",
       "id" : 16184339
     }, {
-      "name" : "popey",
+      "name" : "Alan Pope \u32DB",
       "screen_name" : "popey",
       "indices" : [ 30, 36 ],
       "id_str" : "12325402",
@@ -729,7 +729,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "16184339",
       "id" : 16184339
     }, {
-      "name" : "popey",
+      "name" : "Alan Pope \u32DB",
       "screen_name" : "popey",
       "indices" : [ 32, 38 ],
       "id_str" : "12325402",
@@ -790,7 +790,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -1063,7 +1063,7 @@ Grailbird.data.tweets_2012_02 =
   },
   "id_str" : "170167235955011585",
   "in_reply_to_user_id" : 57938220,
-  "text" : "@Lcawte Over £100 on Amazon...",
+  "text" : "@Lcawte Over \u00A3100 on Amazon...",
   "id" : 170167235955011585,
   "in_reply_to_status_id" : 170167076441436160,
   "created_at" : "Thu Feb 16 15:26:45 +0000 2012",
@@ -1574,7 +1574,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "JeroenDeDauw",
       "protected" : false,
       "id_str" : "112745660",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2949456451/dddfd48191524f3fda0bf93fc047cfa1_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3263076370/27097c7514e0bf985ccbe9a8ccd2a550_normal.jpeg",
       "id" : 112745660,
       "verified" : false
     }
@@ -1620,7 +1620,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -1657,10 +1657,10 @@ Grailbird.data.tweets_2012_02 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -2108,7 +2108,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -2576,7 +2576,7 @@ Grailbird.data.tweets_2012_02 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2605,7 +2605,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JamesTaylorUnwin",
+      "name" : "JT",
       "screen_name" : "ju110257",
       "indices" : [ 0, 9 ],
       "id_str" : "204395187",
@@ -2639,7 +2639,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JamesTaylorUnwin",
+      "name" : "JT",
       "screen_name" : "ju110257",
       "indices" : [ 0, 9 ],
       "id_str" : "204395187",
@@ -2673,7 +2673,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JamesTaylorUnwin",
+      "name" : "JT",
       "screen_name" : "ju110257",
       "indices" : [ 0, 9 ],
       "id_str" : "204395187",
@@ -2813,7 +2813,7 @@ Grailbird.data.tweets_2012_02 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Daniel Kinzler",
@@ -2847,7 +2847,7 @@ Grailbird.data.tweets_2012_02 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

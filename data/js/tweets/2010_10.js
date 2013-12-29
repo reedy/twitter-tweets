@@ -203,7 +203,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Misco_UK",
       "protected" : false,
       "id_str" : "28564572",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/696785134/miscocouk_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3220701383/c00ab1f9b194035f23ae53dff056b467_normal.jpeg",
       "id" : 28564572,
       "verified" : false
     }
@@ -807,7 +807,7 @@ Grailbird.data.tweets_2010_10 =
   "geo" : {
   },
   "id_str" : "27733902669",
-  "text" : "Yay, I won £25 on the premium bonds. Beats the interest I would've received from a bank.... #fb",
+  "text" : "Yay, I won \u00A325 on the premium bonds. Beats the interest I would've received from a bank.... #fb",
   "id" : 27733902669,
   "created_at" : "Mon Oct 18 13:25:31 +0000 2010",
   "user" : {
@@ -908,7 +908,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "hhariri",
       "protected" : false,
       "id_str" : "15797140",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2353246412/djyb8r2yn1igzb09sp0d_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3594928413/66f03a09e6224219792c04f481177593_normal.png",
       "id" : 15797140,
       "verified" : false
     }
@@ -954,7 +954,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver",
+      "name" : "Revilo",
       "screen_name" : "olivarrr",
       "indices" : [ 0, 9 ],
       "id_str" : "33717982",
@@ -994,11 +994,11 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "19058966",
       "id" : 19058966
     }, {
-      "name" : "Karoo Broadband",
+      "name" : "KarooBroadband",
       "screen_name" : "KarooBroadband",
       "indices" : [ 60, 75 ],
-      "id_str" : "22005301",
-      "id" : 22005301
+      "id_str" : "356720556",
+      "id" : 356720556
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1743,9 +1743,9 @@ Grailbird.data.tweets_2010_10 =
     "user" : {
       "name" : "John Harrison",
       "screen_name" : "shinaku",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2961913827/9260407459ec59516ec09bfceecdf417_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3641177741/5de9831420e12cf4fd7baafaf8608756_normal.jpeg",
       "id" : 14355014,
       "verified" : false
     }
@@ -1896,13 +1896,13 @@ Grailbird.data.tweets_2010_10 =
       "indices" : [ 57, 76 ],
       "url" : "http://t.co/b7h7vi8",
       "expanded_url" : "http://www.omgubuntu.co.uk/2010/10/ubuntu-10-10-maverick-meerkat-released/",
-      "display_url" : "omgubuntu.co.uk/2010/10/ubuntu…"
+      "display_url" : "omgubuntu.co.uk/2010/10/ubuntu\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "26929447462",
-  "text" : "RT @humphreybc: Ubuntu 10.10 \"Maverick Meerkat” released http://t.co/b7h7vi8 via @omgubuntu #ubuntu",
+  "text" : "RT @humphreybc: Ubuntu 10.10 \"Maverick Meerkat\u201D released http://t.co/b7h7vi8 via @omgubuntu #ubuntu",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
     "entities" : {
@@ -1922,13 +1922,13 @@ Grailbird.data.tweets_2010_10 =
         "indices" : [ 41, 60 ],
         "url" : "http://t.co/b7h7vi8",
         "expanded_url" : "http://www.omgubuntu.co.uk/2010/10/ubuntu-10-10-maverick-meerkat-released/",
-        "display_url" : "omgubuntu.co.uk/2010/10/ubuntu…"
+        "display_url" : "omgubuntu.co.uk/2010/10/ubuntu\u2026"
       } ]
     },
     "geo" : {
     },
     "id_str" : "26925521507",
-    "text" : "Ubuntu 10.10 \"Maverick Meerkat” released http://t.co/b7h7vi8 via @omgubuntu #ubuntu",
+    "text" : "Ubuntu 10.10 \"Maverick Meerkat\u201D released http://t.co/b7h7vi8 via @omgubuntu #ubuntu",
     "id" : 26925521507,
     "created_at" : "Sun Oct 10 10:16:57 +0000 2010",
     "user" : {
@@ -1936,7 +1936,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2853788692/c1755dafd18d01770bb94f16980ec7a1_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3639643936/70881ca457c4eee80aa8e77d5fb2268e_normal.jpeg",
       "id" : 94178695,
       "verified" : false
     }
@@ -2056,7 +2056,7 @@ Grailbird.data.tweets_2010_10 =
   "geo" : {
   },
   "id_str" : "26739765266",
-  "text" : "WD Caviar Black prices have dropped. Majorly. 2TB for £106 from @ebuyer. That can only really mean 4TB drives are around the corner... #fb",
+  "text" : "WD Caviar Black prices have dropped. Majorly. 2TB for \u00A3106 from @ebuyer. That can only really mean 4TB drives are around the corner... #fb",
   "id" : 26739765266,
   "created_at" : "Fri Oct 08 11:35:04 +0000 2010",
   "user" : {
@@ -2105,7 +2105,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "firefox",
       "protected" : false,
       "id_str" : "2142731",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/267099709/firefox-for-twitter_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3302774296/606a53ef3edfe9633c6f08a4076a5664_normal.png",
       "id" : 2142731,
       "verified" : true
     }
@@ -2318,7 +2318,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver",
+      "name" : "Revilo",
       "screen_name" : "olivarrr",
       "indices" : [ 0, 9 ],
       "id_str" : "33717982",
@@ -2553,7 +2553,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "26485334104",
   "text" : "RT @stuarthicks: Correction; since some time before 4pm. Oh how the time does fly...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2612,7 +2612,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "26485083088",
   "text" : "RT @stuarthicks: Freeside: Going crazy and getting drunk since 5:15pm. Special mention to @brikkb",
   "retweeted_status" : {
-    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Kamilla Bremeraunet",

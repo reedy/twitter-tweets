@@ -9,7 +9,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 43, 63 ],
       "url" : "http://t.co/BA6GNNGG",
       "expanded_url" : "http://www.mysqlperformanceblog.com/2008/02/04/finding-out-largest-tables-on-mysql-server/",
-      "display_url" : "mysqlperformanceblog.com/2008/02/04/fin…"
+      "display_url" : "mysqlperformanceblog.com/2008/02/04/fin\u2026"
     } ]
   },
   "geo" : {
@@ -163,7 +163,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -842,7 +842,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -895,7 +895,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Raspberry Pi",
@@ -934,7 +934,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1105,8 +1105,8 @@ Grailbird.data.tweets_2012_10 =
       "name" : "PhpStorm/WebStorm",
       "screen_name" : "webide",
       "indices" : [ 0, 7 ],
-      "id_str" : "115180931",
-      "id" : 115180931
+      "id_str" : "115181416",
+      "id" : 115181416
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1121,7 +1121,7 @@ Grailbird.data.tweets_2012_10 =
   "id" : 260899538422886400,
   "in_reply_to_status_id" : 260766817675530242,
   "created_at" : "Wed Oct 24 00:24:31 +0000 2012",
-  "in_reply_to_screen_name" : "webide",
+  "in_reply_to_screen_name" : "phpstorm",
   "in_reply_to_user_id_str" : "115180931",
   "user" : {
     "name" : "Sam Reed",
@@ -1133,7 +1133,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -1353,7 +1353,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 55, 75 ],
       "url" : "http://t.co/4tJcqNZ0",
       "expanded_url" : "http://www.change.org/en-GB/petitions/get-griffin-nickgriffinmep-off-twitter-bangriffin?share_id=kelmAeuNws&utm_campaign=action_box&utm_medium=twitter&utm_source=share_petition&utm_source=share_petition&utm_medium=twitter",
-      "display_url" : "change.org/en-GB/petition…"
+      "display_url" : "change.org/en-GB/petition\u2026"
     } ]
   },
   "geo" : {
@@ -1453,7 +1453,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "259063079462121474",
   "in_reply_to_user_id" : 72163,
-  "text" : "@alanjclark How about £60k+ ? http://t.co/A60DjWlZ",
+  "text" : "@alanjclark How about \u00A360k+ ? http://t.co/A60DjWlZ",
   "id" : 259063079462121474,
   "in_reply_to_status_id" : 259062777581297664,
   "created_at" : "Thu Oct 18 22:47:05 +0000 2012",
@@ -1747,7 +1747,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "258912307898376193",
-  "text" : "RT @AngryBirds: Tomorrow, Friday October 19, 12pm GMT: http://t.co/Ca3Suu9t #Win #AngryBirdsStarWars #StarWars @StarWars",
+  "text" : "RT @AngryBirds: Tomorrow, Friday October 19,\u00A012pm GMT:\u00A0http://t.co/Ca3Suu9t\u00A0#Win #AngryBirdsStarWars #StarWars @StarWars",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.exacttarget.com/social\" rel=\"nofollow\">SocialEngage</a>",
     "entities" : {
@@ -1779,7 +1779,7 @@ Grailbird.data.tweets_2012_10 =
     "geo" : {
     },
     "id_str" : "258911951667732482",
-    "text" : "Tomorrow, Friday October 19, 12pm GMT: http://t.co/Ca3Suu9t #Win #AngryBirdsStarWars #StarWars @StarWars",
+    "text" : "Tomorrow, Friday October 19,\u00A012pm GMT:\u00A0http://t.co/Ca3Suu9t\u00A0#Win #AngryBirdsStarWars #StarWars @StarWars",
     "id" : 258911951667732482,
     "created_at" : "Thu Oct 18 12:46:34 +0000 2012",
     "user" : {
@@ -1787,7 +1787,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "AngryBirds",
       "protected" : false,
       "id_str" : "17337554",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3090373859/508eeb7434bdb10c7ec540aafc117841_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3666824129/d09117e148922949d61c0a05882ab90e_normal.png",
       "id" : 17337554,
       "verified" : true
     }
@@ -1838,7 +1838,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "The Tech Report",
@@ -1901,7 +1901,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Android Police",
@@ -1964,7 +1964,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1977,7 +1977,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "258738455331340288",
-  "text" : "How is Cambridge buying CS freshers a raspberry pi \"generous\"? Less than £30 of equipment to go with a £9k+ year tuition fee? Fuckers #fb",
+  "text" : "How is Cambridge buying CS freshers a raspberry pi \"generous\"? Less than \u00A330 of equipment to go with a \u00A39k+ year tuition fee? Fuckers #fb",
   "id" : 258738455331340288,
   "created_at" : "Thu Oct 18 01:17:09 +0000 2012",
   "user" : {
@@ -2399,7 +2399,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "258289348397645824",
-  "text" : "Free £2 Voucher for Amazon MP3. Just login with your amazon account - http://t.co/pfzP0Ddj (not spam!) #fb",
+  "text" : "Free \u00A32 Voucher for Amazon MP3. Just login with your amazon account - http://t.co/pfzP0Ddj (not spam!) #fb",
   "id" : 258289348397645824,
   "created_at" : "Tue Oct 16 19:32:34 +0000 2012",
   "user" : {
@@ -2599,7 +2599,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Veeam® Software",
+      "name" : "Veeam\u00AE Software",
       "screen_name" : "veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
@@ -2696,11 +2696,17 @@ Grailbird.data.tweets_2012_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stun ☠",
+      "name" : "Stun \u2620",
       "screen_name" : "57UN",
       "indices" : [ 0, 5 ],
       "id_str" : "210127211",
       "id" : 210127211
+    }, {
+      "name" : "Felix Baumgartner",
+      "screen_name" : "BaumgartnFelix",
+      "indices" : [ 6, 21 ],
+      "id_str" : "72636009",
+      "id" : 72636009
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2836,7 +2842,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "257133593640443904",
-  "text" : "Your recalculated balance is £24,740.15. Thanks student loan company! #fb",
+  "text" : "Your recalculated balance is \u00A324,740.15. Thanks student loan company! #fb",
   "id" : 257133593640443904,
   "created_at" : "Sat Oct 13 15:00:00 +0000 2012",
   "user" : {
@@ -2849,7 +2855,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -2939,7 +2945,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "O'Neill",
+      "name" : "David O'Neill",
       "screen_name" : "David_ONeill_",
       "indices" : [ 0, 14 ],
       "id_str" : "20401912",
@@ -3037,7 +3043,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "256118097575018497",
   "in_reply_to_user_id" : 334953605,
-  "text" : "@MotorolaSupport Amazon UK have it for £11.95",
+  "text" : "@MotorolaSupport Amazon UK have it for \u00A311.95",
   "id" : 256118097575018497,
   "in_reply_to_status_id" : 256116517421318144,
   "created_at" : "Wed Oct 10 19:44:47 +0000 2012",
@@ -3133,7 +3139,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "johannhari101",
       "protected" : false,
       "id_str" : "78890225",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2370650687/49nsinfgjt0q4uuu4am2_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3496235303/cfa67bb5ab6a5ab4fc493e91a3313e68_normal.jpeg",
       "id" : 78890225,
       "verified" : true
     }
@@ -3316,7 +3322,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -3486,7 +3492,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "23840756",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2966524772/ddef4728bbbd3697bd68055759098900_normal.png",
       "id" : 23840756,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 255438609908371456,
@@ -3636,7 +3642,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3692,7 +3698,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "254603657310507009",
-  "text" : "BT made over £2 Million profit last year. So line rental is going up 85p a month. \"None of our ... prices will go up by more than 5.9%\"",
+  "text" : "BT made over \u00A32 Million profit last year. So line rental is going up 85p a month. \"None of our ... prices will go up by more than 5.9%\"",
   "id" : 254603657310507009,
   "created_at" : "Sat Oct 06 15:26:56 +0000 2012",
   "user" : {
@@ -3981,7 +3987,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -4015,7 +4021,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -4049,7 +4055,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -4083,7 +4089,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -4180,7 +4186,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 53, 73 ],
       "url" : "http://t.co/Q10LKJXB",
       "expanded_url" : "http://www.facebook.com/Multiplay?sk=app_228910107186452",
-      "display_url" : "facebook.com/Multiplay?sk=a…"
+      "display_url" : "facebook.com/Multiplay?sk=a\u2026"
     } ]
   },
   "geo" : {
@@ -4271,7 +4277,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "autocar",
       "protected" : false,
       "id_str" : "17537057",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/116081613/autocar_A_normal.gif",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3371535572/d08a03b775e7ac42ee44648e6d84b373_normal.jpeg",
       "id" : 17537057,
       "verified" : false
     }
@@ -4346,7 +4352,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "Fon",
       "protected" : false,
       "id_str" : "28318016",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2626023770/k9d70zmxbbhin0ijlnvz_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3303923220/ae2092d20afe2b749560f33783fa3eaa_normal.png",
       "id" : 28318016,
       "verified" : false
     }
@@ -4429,7 +4435,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4712,7 +4718,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver",
+      "name" : "Revilo",
       "screen_name" : "olivarrr",
       "indices" : [ 0, 9 ],
       "id_str" : "33717982",
@@ -4749,7 +4755,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver",
+      "name" : "Revilo",
       "screen_name" : "olivarrr",
       "indices" : [ 0, 9 ],
       "id_str" : "33717982",
@@ -4872,7 +4878,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "huffpostgay",
       "protected" : false,
       "id_str" : "366606110",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2755185069/ba72b024f54aa1737f4961e5f06c9437_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3434397523/dc19ca87056bcdbe5448f88bb7efd33e_normal.png",
       "id" : 366606110,
       "verified" : true
     }
@@ -4961,7 +4967,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "82386866",
       "id" : 82386866
     }, {
-      "name" : "Veeam® Software",
+      "name" : "Veeam\u00AE Software",
       "screen_name" : "veeam",
       "indices" : [ 14, 20 ],
       "id_str" : "14908404",
@@ -5001,7 +5007,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "82386866",
       "id" : 82386866
     }, {
-      "name" : "Veeam® Software",
+      "name" : "Veeam\u00AE Software",
       "screen_name" : "veeam",
       "indices" : [ 14, 20 ],
       "id_str" : "14908404",
@@ -5035,7 +5041,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Veeam® Software",
+      "name" : "Veeam\u00AE Software",
       "screen_name" : "veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",

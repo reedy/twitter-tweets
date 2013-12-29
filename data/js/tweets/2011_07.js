@@ -443,7 +443,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 101, 120 ],
       "url" : "http://t.co/idgtrJd",
       "expanded_url" : "http://serverfault.com/questions/293217/our-security-auditor-is-an-idiot-how-do-i-give-him-the-information-he-wants",
-      "display_url" : "serverfault.com/questions/2932…"
+      "display_url" : "serverfault.com/questions/2932\u2026"
     } ]
   },
   "geo" : {
@@ -460,7 +460,7 @@ Grailbird.data.tweets_2011_07 =
         "indices" : [ 85, 104 ],
         "url" : "http://t.co/idgtrJd",
         "expanded_url" : "http://serverfault.com/questions/293217/our-security-auditor-is-an-idiot-how-do-i-give-him-the-information-he-wants",
-        "display_url" : "serverfault.com/questions/2932…"
+        "display_url" : "serverfault.com/questions/2932\u2026"
       } ]
     },
     "geo" : {
@@ -474,7 +474,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2853788692/c1755dafd18d01770bb94f16980ec7a1_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3639643936/70881ca457c4eee80aa8e77d5fb2268e_normal.jpeg",
       "id" : 94178695,
       "verified" : false
     }
@@ -1099,7 +1099,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "TheOnion",
       "protected" : false,
       "id_str" : "14075928",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1683182196/onion_logo_03_L_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3654358881/476bd54bd9c2bc0f9a38b4e097ce6af5_normal.jpeg",
       "id" : 14075928,
       "verified" : true
     }
@@ -1129,7 +1129,7 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "95892483380224001",
-  "text" : "Just realised that my prescription prepayment card for the year, based on 3 items every fortnight, will save me at least over £500... #fb",
+  "text" : "Just realised that my prescription prepayment card for the year, based on 3 items every fortnight, will save me at least over \u00A3500... #fb",
   "id" : 95892483380224001,
   "created_at" : "Tue Jul 26 16:25:24 +0000 2011",
   "user" : {
@@ -2613,7 +2613,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "htc_uk",
       "protected" : false,
       "id_str" : "20506279",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2322094672/9st6p5kiqsz6k17rt3df_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3243878622/33713f233cfea8adc78a0de9b3986a2a_normal.png",
       "id" : 20506279,
       "verified" : true
     }
@@ -2905,7 +2905,7 @@ Grailbird.data.tweets_2011_07 =
   },
   "id_str" : "93714794426810368",
   "in_reply_to_user_id" : 14822382,
-  "text" : "@d0od Damn. You're boring. \"10 things Ubuntu didn't cost you £20.99 to get\"?",
+  "text" : "@d0od Damn. You're boring. \"10 things Ubuntu didn't cost you \u00A320.99 to get\"?",
   "id" : 93714794426810368,
   "in_reply_to_status_id" : 93714458681163776,
   "created_at" : "Wed Jul 20 16:12:02 +0000 2011",
@@ -3127,7 +3127,7 @@ Grailbird.data.tweets_2011_07 =
   },
   "id_str" : "93702545406562304",
   "in_reply_to_user_id" : 15589895,
-  "text" : "@schofieldchris http://bit.ly/rdudLw Crucial are nice for this... Unbuffered but EEC shown there £90 for 8GB sounds Try elsewhere, cheaper",
+  "text" : "@schofieldchris http://bit.ly/rdudLw Crucial are nice for this... Unbuffered but EEC shown there \u00A390 for 8GB sounds Try elsewhere, cheaper",
   "id" : 93702545406562304,
   "in_reply_to_status_id" : 93700952976134145,
   "created_at" : "Wed Jul 20 15:23:22 +0000 2011",
@@ -3263,7 +3263,7 @@ Grailbird.data.tweets_2011_07 =
   },
   "id_str" : "93682070697684993",
   "in_reply_to_user_id" : 15589895,
-  "text" : "@schofieldchris Quad Opteron. Got it for a bargain from ebuyer 2-3 years ago. The ML110 G6 seems well priced, £100 cashback on atm",
+  "text" : "@schofieldchris Quad Opteron. Got it for a bargain from ebuyer 2-3 years ago. The ML110 G6 seems well priced, \u00A3100 cashback on atm",
   "id" : 93682070697684993,
   "in_reply_to_status_id" : 93681627447820291,
   "created_at" : "Wed Jul 20 14:02:00 +0000 2011",
@@ -3839,8 +3839,8 @@ Grailbird.data.tweets_2011_07 =
       "name" : "PhpStorm/WebStorm",
       "screen_name" : "webide",
       "indices" : [ 0, 7 ],
-      "id_str" : "115180931",
-      "id" : 115180931
+      "id_str" : "115181416",
+      "id" : 115181416
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3853,7 +3853,7 @@ Grailbird.data.tweets_2011_07 =
   "text" : "@webide when you release multiple \"versions\" under the same major version (ie 2.1.2), can you differentiate them for the installer please?",
   "id" : 93341571608625152,
   "created_at" : "Tue Jul 19 15:28:59 +0000 2011",
-  "in_reply_to_screen_name" : "webide",
+  "in_reply_to_screen_name" : "phpstorm",
   "in_reply_to_user_id_str" : "115180931",
   "user" : {
     "name" : "Sam Reed",
@@ -4159,7 +4159,7 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "93004907535282176",
-  "text" : "Dear @TheAA_News (or whoever), I am not paying you £200 for breakdown cover renewal, when it's £180 on your website and was £143 last year..",
+  "text" : "Dear @TheAA_News (or whoever), I am not paying you \u00A3200 for breakdown cover renewal, when it's \u00A3180 on your website and was \u00A3143 last year..",
   "id" : 93004907535282176,
   "created_at" : "Mon Jul 18 17:11:12 +0000 2011",
   "user" : {
@@ -4219,7 +4219,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 33, 52 ],
       "url" : "http://t.co/acPLqHg",
       "expanded_url" : "http://gigaom.com/2011/07/17/the-internet-of-things-infographic/",
-      "display_url" : "gigaom.com/2011/07/17/the…"
+      "display_url" : "gigaom.com/2011/07/17/the\u2026"
     } ]
   },
   "geo" : {
@@ -4236,7 +4236,7 @@ Grailbird.data.tweets_2011_07 =
         "indices" : [ 24, 43 ],
         "url" : "http://t.co/acPLqHg",
         "expanded_url" : "http://gigaom.com/2011/07/17/the-internet-of-things-infographic/",
-        "display_url" : "gigaom.com/2011/07/17/the…"
+        "display_url" : "gigaom.com/2011/07/17/the\u2026"
       } ]
     },
     "geo" : {
@@ -4250,7 +4250,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "Fon",
       "protected" : false,
       "id_str" : "28318016",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2626023770/k9d70zmxbbhin0ijlnvz_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3303923220/ae2092d20afe2b749560f33783fa3eaa_normal.png",
       "id" : 28318016,
       "verified" : false
     }
@@ -4481,7 +4481,7 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "92725076268560384",
-  "text" : "My Top 3 #lastfm Artists: Jimmy Eat World (15), Sigur Rós (6) & Iglu & Hartly (3) http://bit.ly/jPWQAY",
+  "text" : "My Top 3 #lastfm Artists: Jimmy Eat World (15), Sigur R\u00F3s (6) & Iglu & Hartly (3) http://bit.ly/jPWQAY",
   "id" : 92725076268560384,
   "created_at" : "Sun Jul 17 22:39:15 +0000 2011",
   "user" : {
@@ -7130,7 +7130,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Veeam® Software",
+      "name" : "Veeam\u00AE Software",
       "screen_name" : "veeam",
       "indices" : [ 90, 96 ],
       "id_str" : "14908404",

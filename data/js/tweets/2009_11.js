@@ -365,7 +365,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "6099403345",
-  "text" : "RT @fibrestream TeleTimms Tax: In a stunning act of double regression, as The Times reported today £6 broadband.. http://bit.ly/8WjBeW",
+  "text" : "RT @fibrestream TeleTimms Tax: In a stunning act of double regression, as The Times reported today \u00A36 broadband.. http://bit.ly/8WjBeW",
   "id" : 6099403345,
   "created_at" : "Fri Nov 27 01:58:26 +0000 2009",
   "user" : {

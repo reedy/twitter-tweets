@@ -114,7 +114,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4415239508",
-  "text" : "RT @CCLcomputers 1TB Western Digital Caviar Black 3.5\" Hard Disk Drive @ £63.99inc http://bit.ly/1HqZ7e lol. I paid 95 6 months ago",
+  "text" : "RT @CCLcomputers 1TB Western Digital Caviar Black 3.5\" Hard Disk Drive @ \u00A363.99inc http://bit.ly/1HqZ7e lol. I paid 95 6 months ago",
   "id" : 4415239508,
   "created_at" : "Sun Sep 27 11:36:38 +0000 2009",
   "user" : {
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4313111653",
-  "text" : "RT @guardiantech £6 broadband tax to be made law before election, minister says http://bit.ly/16bixv Badtimes. Not bad if get fast web",
+  "text" : "RT @guardiantech \u00A36 broadband tax to be made law before election, minister says http://bit.ly/16bixv Badtimes. Not bad if get fast web",
   "id" : 4313111653,
   "created_at" : "Wed Sep 23 11:15:57 +0000 2009",
   "user" : {

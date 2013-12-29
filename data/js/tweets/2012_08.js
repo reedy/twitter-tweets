@@ -63,7 +63,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver",
+      "name" : "Revilo",
       "screen_name" : "olivarrr",
       "indices" : [ 0, 9 ],
       "id_str" : "33717982",
@@ -97,7 +97,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -308,7 +308,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tom Lawrence",
@@ -626,7 +626,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -652,7 +652,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -837,7 +837,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -889,7 +889,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Giles Davis",
@@ -923,7 +923,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Giles Davis",
@@ -1075,7 +1075,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BT",
@@ -1688,7 +1688,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeffrey Rosen",
+      "name" : "Humble Bundle",
       "screen_name" : "humble",
       "indices" : [ 5, 12 ],
       "id_str" : "11167502",
@@ -1900,7 +1900,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1926,7 +1926,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lenovo Forums",
@@ -1966,7 +1966,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1995,7 +1995,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver",
+      "name" : "Revilo",
       "screen_name" : "olivarrr",
       "indices" : [ 0, 9 ],
       "id_str" : "33717982",
@@ -2351,7 +2351,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 97, 117 ],
       "url" : "http://t.co/Sclly2Kj",
       "expanded_url" : "http://m.guardian.co.uk/ms/p/gnm/op/view.m?id=15&gid=%2Fworld%2Fus-news-blog%2F2012%2Faug%2F17%2Fhow-to-be-gay-in-10-steps&cat=world#.UDFALytlPql.twitter",
-      "display_url" : "m.guardian.co.uk/ms/p/gnm/op/vi…"
+      "display_url" : "m.guardian.co.uk/ms/p/gnm/op/vi\u2026"
     } ]
   },
   "geo" : {
@@ -2723,7 +2723,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 54, 74 ],
       "url" : "http://t.co/oeQPoxIv",
       "expanded_url" : "http://www.patheos.com/blogs/friendlyatheist/2012/08/16/mitt-romney-might-not-be-on-the-washington-state-ballot-in-november/",
-      "display_url" : "patheos.com/blogs/friendly…"
+      "display_url" : "patheos.com/blogs/friendly\u2026"
     } ]
   },
   "geo" : {
@@ -3169,8 +3169,8 @@ Grailbird.data.tweets_2012_08 =
       "name" : "PhpStorm/WebStorm",
       "screen_name" : "webide",
       "indices" : [ 3, 10 ],
-      "id_str" : "115180931",
-      "id" : 115180931
+      "id_str" : "115181416",
+      "id" : 115181416
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3205,8 +3205,8 @@ Grailbird.data.tweets_2012_08 =
     "id" : 235517990005796865,
     "created_at" : "Tue Aug 14 23:27:19 +0000 2012",
     "user" : {
-      "name" : "PhpStorm/WebStorm",
-      "screen_name" : "webide",
+      "name" : "PhpStorm",
+      "screen_name" : "phpstorm",
       "protected" : false,
       "id_str" : "115180931",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2938576625/c2a11c8bd11f88ca8a69f3999785b94e_normal.png",
@@ -3507,7 +3507,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "235375129704669184",
-  "text" : "Oh noes, my car road tax is going to cost a whole £20 for the next year!",
+  "text" : "Oh noes, my car road tax is going to cost a whole \u00A320 for the next year!",
   "id" : 235375129704669184,
   "created_at" : "Tue Aug 14 13:59:38 +0000 2012",
   "user" : {
@@ -3779,7 +3779,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver",
+      "name" : "Revilo",
       "screen_name" : "olivarrr",
       "indices" : [ 0, 9 ],
       "id_str" : "33717982",
@@ -4549,7 +4549,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -4617,7 +4617,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James 「ジャム」 Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -4731,7 +4731,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

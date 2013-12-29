@@ -230,7 +230,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "WeldPond",
       "protected" : false,
       "id_str" : "14090906",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733233605/ae1a467709e97ff1c1a3a226afbb32dc_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3253784862/16c87cf3e7562c3e0189124217ebbc48_normal.png",
       "id" : 14090906,
       "verified" : false
     }
@@ -285,7 +285,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "7905122",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/77733135/guardiantechlogo_normal.jpg",
       "id" : 7905122,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 9314630765645825,
@@ -1147,9 +1147,9 @@ Grailbird.data.tweets_2010_11 =
     "user" : {
       "name" : "John Harrison",
       "screen_name" : "shinaku",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2961913827/9260407459ec59516ec09bfceecdf417_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3641177741/5de9831420e12cf4fd7baafaf8608756_normal.jpeg",
       "id" : 14355014,
       "verified" : false
     }
@@ -1352,7 +1352,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2853788692/c1755dafd18d01770bb94f16980ec7a1_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3639643936/70881ca457c4eee80aa8e77d5fb2268e_normal.jpeg",
       "id" : 94178695,
       "verified" : false
     }
@@ -1378,11 +1378,11 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "7508362",
       "id" : 7508362
     }, {
-      "name" : "Karoo Broadband",
+      "name" : "KarooBroadband",
       "screen_name" : "KarooBroadband",
       "indices" : [ 23, 38 ],
-      "id_str" : "22005301",
-      "id" : 22005301
+      "id_str" : "356720556",
+      "id" : 356720556
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1399,11 +1399,11 @@ Grailbird.data.tweets_2010_11 =
     "source" : "<a href=\"http://mobileways.de/gravity\" rel=\"nofollow\">Gravity</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Karoo Broadband",
+        "name" : "KarooBroadband",
         "screen_name" : "KarooBroadband",
         "indices" : [ 9, 24 ],
-        "id_str" : "22005301",
-        "id" : 22005301
+        "id_str" : "356720556",
+        "id" : 356720556
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -1453,7 +1453,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "7145403233341440",
-  "text" : "Why do people go to the petrol station, and put £5 worth of fuel in. It's not going to get you far really, is it? #fb",
+  "text" : "Why do people go to the petrol station, and put \u00A35 worth of fuel in. It's not going to get you far really, is it? #fb",
   "id" : 7145403233341440,
   "created_at" : "Tue Nov 23 18:56:11 +0000 2010",
   "user" : {
@@ -1669,7 +1669,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "7045437181665280",
-  "text" : "£50 cashback, or 3 year warranty on the printer I bought.... #fb",
+  "text" : "\u00A350 cashback, or 3 year warranty on the printer I bought.... #fb",
   "id" : 7045437181665280,
   "created_at" : "Tue Nov 23 12:18:57 +0000 2010",
   "user" : {
@@ -2061,7 +2061,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "id_str" : "6670687200612353",
   "in_reply_to_user_id" : 80528911,
-  "text" : "@cpwcares Cancel my online order from elsewhere.. There's a £50 saving to be made. Surely this is false advertising then? Instore & mag :(",
+  "text" : "@cpwcares Cancel my online order from elsewhere.. There's a \u00A350 saving to be made. Surely this is false advertising then? Instore & mag :(",
   "id" : 6670687200612353,
   "in_reply_to_status_id" : 6650018580668416,
   "created_at" : "Mon Nov 22 11:29:50 +0000 2010",
@@ -2468,11 +2468,11 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd (original)</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Karoo Broadband",
+      "name" : "KarooBroadband",
       "screen_name" : "KarooBroadband",
       "indices" : [ 9, 24 ],
-      "id_str" : "22005301",
-      "id" : 22005301
+      "id_str" : "356720556",
+      "id" : 356720556
     }, {
       "name" : "John Polling",
       "screen_name" : "pollingj",
@@ -2623,7 +2623,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver",
+      "name" : "Revilo",
       "screen_name" : "olivarrr",
       "indices" : [ 0, 9 ],
       "id_str" : "33717982",
@@ -2757,11 +2757,11 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "15205083",
       "id" : 15205083
     }, {
-      "name" : "Karoo Broadband",
+      "name" : "KarooBroadband",
       "screen_name" : "KarooBroadband",
       "indices" : [ 14, 29 ],
-      "id_str" : "22005301",
-      "id" : 22005301
+      "id_str" : "356720556",
+      "id" : 356720556
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2775,11 +2775,11 @@ Grailbird.data.tweets_2010_11 =
     "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Karoo Broadband",
+        "name" : "KarooBroadband",
         "screen_name" : "KarooBroadband",
         "indices" : [ 0, 15 ],
-        "id_str" : "22005301",
-        "id" : 22005301
+        "id_str" : "356720556",
+        "id" : 356720556
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -2794,7 +2794,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 5617874462838784,
     "in_reply_to_status_id" : 5614947107078144,
     "created_at" : "Fri Nov 19 13:46:20 +0000 2010",
-    "in_reply_to_screen_name" : "KarooBroadband",
+    "in_reply_to_screen_name" : "_KCHome",
     "in_reply_to_user_id_str" : "22005301",
     "user" : {
       "name" : "John Polling",
@@ -3103,7 +3103,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "alanrenouf",
       "protected" : false,
       "id_str" : "15936036",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2611901964/aLo5gd3d_normal",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3162129209/8535a075c5176b9791eeae6a3e92eb54_normal.png",
       "id" : 15936036,
       "verified" : false
     }
@@ -3428,7 +3428,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "5088036295544832",
-  "text" : "Something in my Amazon basket increased by £5 whilst there. It was cheaper a few hours earlier. #shouldveorderedearlier #fb",
+  "text" : "Something in my Amazon basket increased by \u00A35 whilst there. It was cheaper a few hours earlier. #shouldveorderedearlier #fb",
   "id" : 5088036295544832,
   "created_at" : "Thu Nov 18 02:40:57 +0000 2010",
   "user" : {
@@ -3697,7 +3697,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "4654272968921088",
-  "text" : "Vanquis have put my credit card limit up from £500 to £1250. Maybe they should think about lowering the APR of the card I'm on.... #fb",
+  "text" : "Vanquis have put my credit card limit up from \u00A3500 to \u00A31250. Maybe they should think about lowering the APR of the card I'm on.... #fb",
   "id" : 4654272968921088,
   "created_at" : "Tue Nov 16 21:57:19 +0000 2010",
   "user" : {
@@ -4675,7 +4675,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd (original)</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver",
+      "name" : "Revilo",
       "screen_name" : "olivarrr",
       "indices" : [ 3, 12 ],
       "id_str" : "33717982",
@@ -4704,11 +4704,11 @@ Grailbird.data.tweets_2010_11 =
     "id" : 3764152300470272,
     "created_at" : "Sun Nov 14 11:00:18 +0000 2010",
     "user" : {
-      "name" : "Oliver",
+      "name" : "Revilo",
       "screen_name" : "olivarrr",
       "protected" : false,
       "id_str" : "33717982",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3034182713/780887c2c9e142e73da9f1c7b038b34b_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3324654099/14e083efe2c850ae9702085b28a1e621_normal.jpeg",
       "id" : 33717982,
       "verified" : false
     }
@@ -4969,11 +4969,11 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "14355014",
       "id" : 14355014
     }, {
-      "name" : "Karoo Broadband",
+      "name" : "KarooBroadband",
       "screen_name" : "KarooBroadband",
       "indices" : [ 39, 54 ],
-      "id_str" : "22005301",
-      "id" : 22005301
+      "id_str" : "356720556",
+      "id" : 356720556
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5039,7 +5039,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "3057530796253184",
-  "text" : "£3 for a new popper/button for my Jeans from Sew It on Newland Avenue. Bargain! #fb",
+  "text" : "\u00A33 for a new popper/button for my Jeans from Sew It on Newland Avenue. Bargain! #fb",
   "id" : 3057530796253184,
   "created_at" : "Fri Nov 12 12:12:26 +0000 2010",
   "user" : {
@@ -5359,9 +5359,9 @@ Grailbird.data.tweets_2010_11 =
     "user" : {
       "name" : "John Harrison",
       "screen_name" : "shinaku",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2961913827/9260407459ec59516ec09bfceecdf417_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3641177741/5de9831420e12cf4fd7baafaf8608756_normal.jpeg",
       "id" : 14355014,
       "verified" : false
     }
@@ -5530,11 +5530,11 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Karoo Broadband",
+      "name" : "KarooBroadband",
       "screen_name" : "KarooBroadband",
       "indices" : [ 22, 37 ],
-      "id_str" : "22005301",
-      "id" : 22005301
+      "id_str" : "356720556",
+      "id" : 356720556
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5720,7 +5720,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "7905122",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/77733135/guardiantechlogo_normal.jpg",
       "id" : 7905122,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 2368850268000256,
@@ -5754,7 +5754,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "2352369597681665",
-  "text" : "RT @omgubuntu: Ubuntu 11.04 Natty Narwhal Daily Build’s available http://goo.gl/fb/0Rif4 #ubuntu",
+  "text" : "RT @omgubuntu: Ubuntu 11.04 Natty Narwhal Daily Build\u2019s available http://goo.gl/fb/0Rif4 #ubuntu",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
     "entities" : {
@@ -5769,7 +5769,7 @@ Grailbird.data.tweets_2010_11 =
     "geo" : {
     },
     "id_str" : "2352201628389376",
-    "text" : "Ubuntu 11.04 Natty Narwhal Daily Build’s available http://goo.gl/fb/0Rif4 #ubuntu",
+    "text" : "Ubuntu 11.04 Natty Narwhal Daily Build\u2019s available http://goo.gl/fb/0Rif4 #ubuntu",
     "id" : 2352201628389376,
     "created_at" : "Wed Nov 10 13:29:43 +0000 2010",
     "user" : {
@@ -5777,7 +5777,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "omgubuntu",
       "protected" : false,
       "id_str" : "72915446",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1299107722/omg-twitter_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3244989504/fbad170f7e4a0b7197d4b5c4b1e503e2_normal.png",
       "id" : 72915446,
       "verified" : false
     }
@@ -5812,7 +5812,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "id_str" : "2347990941437952",
   "in_reply_to_user_id" : 20678384,
-  "text" : "@VodafoneUK Unfortunately, that's mainly calls. I try not to call abroad (£5 of my last bill), but like £50 of it was sms to/from USA!",
+  "text" : "@VodafoneUK Unfortunately, that's mainly calls. I try not to call abroad (\u00A35 of my last bill), but like \u00A350 of it was sms to/from USA!",
   "id" : 2347990941437952,
   "in_reply_to_status_id" : 2347446407528448,
   "created_at" : "Wed Nov 10 13:12:59 +0000 2010",
@@ -5846,7 +5846,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "id_str" : "2346305716224003",
   "in_reply_to_user_id" : 20678384,
-  "text" : "@VodafoneUK It's still expensive! :(. Third bill this year about £90 :(",
+  "text" : "@VodafoneUK It's still expensive! :(. Third bill this year about \u00A390 :(",
   "id" : 2346305716224003,
   "in_reply_to_status_id" : 2344262192599040,
   "created_at" : "Wed Nov 10 13:06:17 +0000 2010",
@@ -6424,7 +6424,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "1732811971104768",
-  "text" : "Lol. Forgot I'd preordered CoD Black Ops in May. Amazon sent me notifcation. Paid £29.99, £34.91 on amazon now. £39.99 on steam. Win! #fb",
+  "text" : "Lol. Forgot I'd preordered CoD Black Ops in May. Amazon sent me notifcation. Paid \u00A329.99, \u00A334.91 on amazon now. \u00A339.99 on steam. Win! #fb",
   "id" : 1732811971104768,
   "created_at" : "Mon Nov 08 20:28:29 +0000 2010",
   "user" : {
@@ -6722,7 +6722,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "29668880391",
-  "text" : "Really, £9k isn't value for money for some modules RT @tehreedy: Sometimes I really do wonder what I'm paying for being at university....",
+  "text" : "Really, \u00A39k isn't value for money for some modules RT @tehreedy: Sometimes I really do wonder what I'm paying for being at university....",
   "id" : 29668880391,
   "created_at" : "Thu Nov 04 13:41:48 +0000 2010",
   "user" : {
