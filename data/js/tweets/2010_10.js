@@ -1704,7 +1704,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "benjamin humphrey",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 3, 14 ],
       "id_str" : "94178695",
@@ -1759,11 +1759,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26925521507,
     "created_at" : "2010-10-10 10:16:57 +0000",
     "user" : {
-      "name" : "benjamin humphrey",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000806242648\/876a1e1226b2bb1e0e83c6c934534af8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420431125442347008\/IjtubUTl_normal.png",
       "id" : 94178695,
       "verified" : false
     }
@@ -2469,7 +2469,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000340359403\/184eba513b34209ce072627b8f66ea01_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436784469400223744\/pe4nVPan_normal.png",
       "id" : 19058966,
       "verified" : false
     }
@@ -2520,7 +2520,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000340359403\/184eba513b34209ce072627b8f66ea01_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436784469400223744\/pe4nVPan_normal.png",
       "id" : 19058966,
       "verified" : false
     }

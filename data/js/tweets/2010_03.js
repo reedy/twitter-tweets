@@ -791,7 +791,7 @@ Grailbird.data.tweets_2010_03 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000820692368\/f8635dcce49938d88e156967a7f30ce4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420548954145570817\/oYIsBdPq_normal.png",
       "id" : 16170178,
       "verified" : false
     }
@@ -897,7 +897,7 @@ Grailbird.data.tweets_2010_03 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000820692368\/f8635dcce49938d88e156967a7f30ce4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420548954145570817\/oYIsBdPq_normal.png",
       "id" : 16170178,
       "verified" : false
     }
@@ -1917,13 +1917,7 @@ Grailbird.data.tweets_2010_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "OfficialBFBC2",
-      "screen_name" : "officialbfbc2",
-      "indices" : [ 3, 17 ],
-      "id_str" : "92359946",
-      "id" : 92359946
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2113,7 +2107,7 @@ Grailbird.data.tweets_2010_03 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/77733135\/guardiantechlogo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425656624129118209\/CqBP-X54_normal.jpeg",
       "id" : 7905122,
       "verified" : true
     }

@@ -346,13 +346,7 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Not Insomnia",
-      "screen_name" : "iseries",
-      "indices" : [ 3, 11 ],
-      "id_str" : "1412526686",
-      "id" : 1412526686
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1607,7 +1601,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000340359403\/184eba513b34209ce072627b8f66ea01_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436784469400223744\/pe4nVPan_normal.png",
       "id" : 19058966,
       "verified" : false
     }
@@ -3209,7 +3203,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000340359403\/184eba513b34209ce072627b8f66ea01_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436784469400223744\/pe4nVPan_normal.png",
       "id" : 19058966,
       "verified" : false
     }

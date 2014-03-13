@@ -67,7 +67,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "winjer",
       "protected" : false,
       "id_str" : "957411",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000359600875\/f1280b873be77978c066fb554e1f39c0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422072514349891584\/E40TVBsw_normal.jpeg",
       "id" : 957411,
       "verified" : false
     }
@@ -233,12 +233,6 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 3, 18 ],
-      "id_str" : "356720556",
-      "id" : 356720556
-    }, {
       "name" : "Raymond Mcfee",
       "screen_name" : "Raymond_Mcfee",
       "indices" : [ 50, 64 ],
@@ -548,6 +542,12 @@ Grailbird.data.tweets_2010_02 =
       "indices" : [ 3, 17 ],
       "id_str" : "8356022",
       "id" : 8356022
+    }, {
+      "name" : "Apache - The ASF",
+      "screen_name" : "TheASF",
+      "indices" : [ 139, 140 ],
+      "id_str" : "18055613",
+      "id" : 18055613
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1045,7 +1045,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "orta",
       "protected" : false,
       "id_str" : "2569881",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000512098797\/1aeee47d72fd9ca503ec29365b09200f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/434183201394020352\/p5cW99fL_normal.jpeg",
       "id" : 2569881,
       "verified" : false
     }
@@ -1830,7 +1830,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "Kiwi_Si",
       "protected" : false,
       "id_str" : "779050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000821276721\/46c30db80a17cc8f3dd75d7daa41386a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/427866219471855616\/zjtZDU9a_normal.jpeg",
       "id" : 779050,
       "verified" : false
     }

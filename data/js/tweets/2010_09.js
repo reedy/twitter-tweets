@@ -959,7 +959,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "Kiwi_Si",
       "protected" : false,
       "id_str" : "779050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000821276721\/46c30db80a17cc8f3dd75d7daa41386a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/427866219471855616\/zjtZDU9a_normal.jpeg",
       "id" : 779050,
       "verified" : false
     }
@@ -1403,26 +1403,21 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phil Cooper",
+      "name" : "Phil",
       "screen_name" : "philcooper",
       "indices" : [ 0, 11 ],
-      "id_str" : "5682252",
-      "id" : 5682252
+      "id_str" : "374713833",
+      "id" : 374713833
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "25398367830",
   "geo" : { },
   "id_str" : "25398529155",
-  "in_reply_to_user_id" : 5682252,
   "text" : "@philcooper That is fair, ish. I know at my parents (BT line), speed degrades, connection drops in bad weather. Due to copper wire suspended",
   "id" : 25398529155,
-  "in_reply_to_status_id" : 25398367830,
   "created_at" : "2010-09-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "philcooper",
-  "in_reply_to_user_id_str" : "5682252",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1769,7 +1764,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "werdnum",
       "protected" : false,
       "id_str" : "7122702",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/299952477\/IMG_0917_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436671458094231552\/F_kYD6UA_normal.jpeg",
       "id" : 7122702,
       "verified" : false
     }
@@ -1900,7 +1895,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/77733135\/guardiantechlogo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425656624129118209\/CqBP-X54_normal.jpeg",
       "id" : 7905122,
       "verified" : true
     }
@@ -3182,7 +3177,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "X!",
+      "name" : "Yetanotherx",
       "screen_name" : "yetanotherx",
       "indices" : [ 0, 12 ],
       "id_str" : "187671148",

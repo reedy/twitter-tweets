@@ -1366,7 +1366,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "benjamin humphrey",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 0, 11 ],
       "id_str" : "94178695",
@@ -1397,7 +1397,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "benjamin humphrey",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 0, 11 ],
       "id_str" : "94178695",
@@ -1963,7 +1963,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "Acronis",
       "protected" : false,
       "id_str" : "17838200",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000478694699\/0afcd080ae70176bcdb2f9625f763692_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438354868416163840\/zhKkKWTk_normal.png",
       "id" : 17838200,
       "verified" : false
     }
@@ -2965,12 +2965,6 @@ Grailbird.data.tweets_2010_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 3, 18 ],
-      "id_str" : "356720556",
-      "id" : 356720556
-    }, {
       "name" : "Shinster",
       "screen_name" : "shinaku",
       "indices" : [ 20, 28 ],
@@ -4356,7 +4350,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twidroid.com\" rel=\"nofollow\"\u003Etwidroid\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "benjamin humphrey",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 0, 11 ],
       "id_str" : "94178695",
@@ -5063,7 +5057,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000340359403\/184eba513b34209ce072627b8f66ea01_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436784469400223744\/pe4nVPan_normal.png",
       "id" : 19058966,
       "verified" : false
     }
@@ -5154,27 +5148,16 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Justin McClelland",
-      "screen_name" : "jbmcclelland",
-      "indices" : [ 0, 13 ],
-      "id_str" : "68655181",
-      "id" : 68655181
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "13161526708",
   "geo" : { },
   "id_str" : "13161847672",
-  "in_reply_to_user_id" : 68655181,
   "text" : "@jbmcclelland Will have a look. Sometimes it's the only way, but when an API that will do the functionality.. you shouldn't be scraping!!",
   "id" : 13161847672,
-  "in_reply_to_status_id" : 13161526708,
   "created_at" : "2010-05-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jbmcclelland",
-  "in_reply_to_user_id_str" : "68655181",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

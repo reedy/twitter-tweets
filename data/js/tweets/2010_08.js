@@ -2,13 +2,7 @@ Grailbird.data.tweets_2010_08 =
  [ {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "PhpStorm\/WebStorm",
-      "screen_name" : "webide",
-      "indices" : [ 3, 10 ],
-      "id_str" : "115181416",
-      "id" : 115181416
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -85,7 +79,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/77733135\/guardiantechlogo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425656624129118209\/CqBP-X54_normal.jpeg",
       "id" : 7905122,
       "verified" : true
     }
@@ -162,13 +156,7 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "PhpStorm\/WebStorm",
-      "screen_name" : "webide",
-      "indices" : [ 3, 10 ],
-      "id_str" : "115181416",
-      "id" : 115181416
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -381,12 +369,9 @@ Grailbird.data.tweets_2010_08 =
   },
   "geo" : { },
   "id_str" : "21644760715",
-  "in_reply_to_user_id" : 21314560,
   "text" : "@BdotEdotNdot The University of Hull Union shop actually has them (or did last academic year). Must be source-able in the UK...",
   "id" : 21644760715,
   "created_at" : "2010-08-20 00:00:00 +0000",
-  "in_reply_to_screen_name" : "benpg1987",
-  "in_reply_to_user_id_str" : "21314560",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -579,7 +564,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "orta",
       "protected" : false,
       "id_str" : "2569881",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000512098797\/1aeee47d72fd9ca503ec29365b09200f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/434183201394020352\/p5cW99fL_normal.jpeg",
       "id" : 2569881,
       "verified" : false
     }
@@ -626,13 +611,7 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "PhpStorm\/WebStorm",
-      "screen_name" : "webide",
-      "indices" : [ 3, 10 ],
-      "id_str" : "115181416",
-      "id" : 115181416
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2553,7 +2532,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "jhooks",
       "protected" : false,
       "id_str" : "12087242",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000830560403\/bfe3287a9708edfc90f7ed86af2d3453_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423527194124509184\/uYsxtf2r_normal.jpeg",
       "id" : 12087242,
       "verified" : false
     }
@@ -2572,13 +2551,7 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "PhpStorm\/WebStorm",
-      "screen_name" : "webide",
-      "indices" : [ 3, 10 ],
-      "id_str" : "115181416",
-      "id" : 115181416
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3014,7 +2987,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "olivarrr",
       "protected" : false,
       "id_str" : "33717982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415077161822081024\/VsMBEZnr_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443503190970224640\/17ue7CXB_normal.jpeg",
       "id" : 33717982,
       "verified" : false
     }
@@ -3090,7 +3063,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "CorsairMemory",
       "protected" : false,
       "id_str" : "26599573",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/284113481\/corsait-twitter_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439475551024078848\/_cvoeXZN_normal.jpeg",
       "id" : 26599573,
       "verified" : false
     }

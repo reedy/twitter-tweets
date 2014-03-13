@@ -453,7 +453,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "gilesdavis",
       "protected" : false,
       "id_str" : "21489569",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/81036914\/gdcanada_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431560086935175168\/D7LyOZfg_normal.jpeg",
       "id" : 21489569,
       "verified" : false
     }
@@ -472,13 +472,7 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "PhpStorm\/WebStorm",
-      "screen_name" : "webide",
-      "indices" : [ 3, 10 ],
-      "id_str" : "115181416",
-      "id" : 115181416
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1883,13 +1877,7 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "PhpStorm\/WebStorm",
-      "screen_name" : "webide",
-      "indices" : [ 3, 10 ],
-      "id_str" : "115181416",
-      "id" : 115181416
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

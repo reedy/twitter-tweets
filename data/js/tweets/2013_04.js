@@ -202,7 +202,12 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/tclah8bZyS",
+      "expanded_url" : "http:\/\/cnet.co\/17V84Gn",
+      "display_url" : "cnet.co\/17V84Gn"
+    } ]
   },
   "geo" : { },
   "id_str" : "328542397741010946",
@@ -430,7 +435,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Five Goulden Rings",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -536,7 +541,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Five Goulden Rings",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -840,7 +845,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Five Goulden Rings",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -873,7 +878,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Five Goulden Rings",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 85, 100 ],
       "id_str" : "28117032",
@@ -2695,7 +2700,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Five Goulden Rings",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2822,7 +2827,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Five Goulden Rings",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3754,67 +3759,6 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dyneslott",
-      "screen_name" : "Dyneslott",
-      "indices" : [ 3, 13 ],
-      "id_str" : "963117385",
-      "id" : 963117385
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 49, 71 ],
-      "url" : "http:\/\/t.co\/1PhNWA7iSy",
-      "expanded_url" : "http:\/\/devops.rackspace.com\/speeding-up-ssh-session-creation.html",
-      "display_url" : "devops.rackspace.com\/speeding-up-ss\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "319776046641725440",
-  "text" : "RT @Dyneslott: Speeding up SSH session creation: http:\/\/t.co\/1PhNWA7iSy",
-  "retweeted_status" : {
-    "source" : "web",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 34, 56 ],
-        "url" : "http:\/\/t.co\/1PhNWA7iSy",
-        "expanded_url" : "http:\/\/devops.rackspace.com\/speeding-up-ssh-session-creation.html",
-        "display_url" : "devops.rackspace.com\/speeding-up-ss\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "319695932360892418",
-    "text" : "Speeding up SSH session creation: http:\/\/t.co\/1PhNWA7iSy",
-    "id" : 319695932360892418,
-    "created_at" : "2013-04-04 06:20:24 +0000",
-    "user" : {
-      "name" : "Dyneslott",
-      "screen_name" : "Dyneslott",
-      "protected" : true,
-      "id_str" : "963117385",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3729223914\/0778bfd1476108e74b950ab9beb7abad_normal.jpeg",
-      "id" : 963117385,
-      "verified" : false
-    }
-  },
-  "id" : 319776046641725440,
-  "created_at" : "2013-04-04 11:38:45 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3903,7 +3847,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000820692368\/f8635dcce49938d88e156967a7f30ce4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420548954145570817\/oYIsBdPq_normal.png",
       "id" : 16170178,
       "verified" : false
     }
@@ -4324,12 +4268,6 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tanner",
-      "screen_name" : "Pilif12p",
-      "indices" : [ 0, 9 ],
-      "id_str" : "18496297",
-      "id" : 18496297
-    }, {
       "name" : "Firefox",
       "screen_name" : "firefox",
       "indices" : [ 10, 18 ],
@@ -4354,7 +4292,7 @@ Grailbird.data.tweets_2013_04 =
   "id" : 319261530472476672,
   "in_reply_to_status_id" : 319257747055050752,
   "created_at" : "2013-04-03 01:34:15 +0000",
-  "in_reply_to_screen_name" : "Pilif12p",
+  "in_reply_to_screen_name" : "tannerfilip",
   "in_reply_to_user_id_str" : "18496297",
   "user" : {
     "name" : "Sam Reed",
@@ -4795,7 +4733,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5240,7 +5178,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
