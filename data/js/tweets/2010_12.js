@@ -824,7 +824,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "17653578516660224",
   "text" : "RT @webide: PhpStorm & WebStorm 2.0 EAP 102.18 http:\/\/ow.ly\/3tjcw Debugger, Commandline tools and ZF improvements. Have a nice holidays!",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1014,7 +1014,7 @@ Grailbird.data.tweets_2010_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ebuyer.com",
@@ -1084,7 +1084,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "16927600966377472",
   "text" : "RT @AndroidDev: It\u2019s not \u201Crooting\u201D, it\u2019s openness: http:\/\/goo.gl\/GlcIG",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1328,7 +1328,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "16499313144242176",
   "text" : "RT @gabrielmilland: BAA going \"flat-out\" to clear Heathrow using every bit of equipment at their disposal http:\/\/yfrog.com\/h7wbtj",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1590,7 +1590,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "bugzilla",
       "protected" : false,
       "id_str" : "202960752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1145168934\/bz-logo-cropped_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459135124072697856\/FCiVMRPO_normal.png",
       "id" : 202960752,
       "verified" : false
     }
@@ -1652,7 +1652,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "15847546127654912",
   "text" : "RT @AndroidDev: Gingerbread AOSP push starting now; a bit of patience is in order: http:\/\/goo.gl\/32U5y",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1703,7 +1703,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "15815849998819328",
   "text" : "RT @profquotes: \"It's not important what you think, it's whether you can prove it.\" -Kolkiewicz, STAT 230",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/feedladder.com\" rel=\"nofollow\"\u003EFeed Ladder\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1910,7 +1910,7 @@ Grailbird.data.tweets_2010_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2241,7 +2241,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "14804448681394176",
   "text" : "RT @DabsDotCom: We have 5 copies of LostPlanet 2 to giveaway. To enter, RT this post! For a 2nd entry: Click here http:\/\/bit.ly\/heqm6j",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2516,7 +2516,7 @@ Grailbird.data.tweets_2010_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2929,7 +2929,7 @@ Grailbird.data.tweets_2010_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2954,7 +2954,7 @@ Grailbird.data.tweets_2010_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2979,7 +2979,7 @@ Grailbird.data.tweets_2010_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3004,7 +3004,7 @@ Grailbird.data.tweets_2010_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3315,7 +3315,7 @@ Grailbird.data.tweets_2010_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3340,7 +3340,7 @@ Grailbird.data.tweets_2010_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "KarooBroadband",
@@ -3413,7 +3413,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "12170764631412736",
   "text" : "RT @bugzilla: Provided all goes well this week, we're planning to release Bugzilla 4.0 on Tuesday, December 14, 2010!",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3430,7 +3430,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "bugzilla",
       "protected" : false,
       "id_str" : "202960752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1145168934\/bz-logo-cropped_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459135124072697856\/FCiVMRPO_normal.png",
       "id" : 202960752,
       "verified" : false
     }
@@ -3721,7 +3721,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "11813737505759232",
   "text" : "RT @AndroidDev: Gingerbread: http:\/\/is.gd\/iifW3",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4061,7 +4061,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "stephenfry",
       "protected" : false,
       "id_str" : "15439395",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/344513261579148157\/ba4807791ef9cce28dc0d4aa2ce9372c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468385513637171200\/P-D8j7Ly_normal.jpeg",
       "id" : 15439395,
       "verified" : true
     }
@@ -4479,7 +4479,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "10805908242169856",
   "text" : "RT @webide: PhpStorm & WebStorm 2.0 EAP 98.521 is available http:\/\/ow.ly\/3jHbv Zero config XDebug, streamlined autocompletion logic and more",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4843,7 +4843,13 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u0413\u0430\u043D\u043D\u0443\u0448\u043A\u0438\u043D \u0413\u043B\u0435\u0431",
+      "screen_name" : "capn_b",
+      "indices" : [ 0, 7 ],
+      "id_str" : "2512205546",
+      "id" : 2512205546
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4880,7 +4886,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "9898080191123456",
   "text" : "RT @UniOfHull: Due to adverse weather conditions, the University of Hull is closed today.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

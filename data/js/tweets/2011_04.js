@@ -1268,57 +1268,6 @@ Grailbird.data.tweets_2011_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "fibrestream",
-      "screen_name" : "fibrestream",
-      "indices" : [ 3, 15 ],
-      "id_str" : "22850260",
-      "id" : 22850260
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "58323917345013763",
-  "text" : "RT @fibrestream: Bye Bye BT?: Back in February, the imperative for exemplar FttH networks in the areas of greatest need, mainly r... htt ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\"\u003Etwitterfeed\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "58323858314379265",
-    "text" : "Bye Bye BT?: Back in February, the imperative for exemplar FttH networks in the areas of greatest need, mainly r... http:\/\/bit.ly\/fTRi4o",
-    "id" : 58323858314379265,
-    "created_at" : "2011-04-14 00:21:06 +0000",
-    "user" : {
-      "name" : "fibrestream",
-      "screen_name" : "fibrestream",
-      "protected" : false,
-      "id_str" : "22850260",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/315326360\/fsl_normal.JPG",
-      "id" : 22850260,
-      "verified" : false
-    }
-  },
-  "id" : 58323917345013763,
-  "created_at" : "2011-04-14 00:21:20 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1414,7 +1363,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "94178695",
       "id" : 94178695
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 13, 18 ],
       "id_str" : "14822382",
@@ -1589,7 +1538,7 @@ Grailbird.data.tweets_2011_04 =
   "id_str" : "57435557277614080",
   "text" : "RT @webide: PhpStorm & WebStorm 2.1 EAP started! Get build 106.444 http:\/\/ow.ly\/4xvNZ Tons of fixes and new features",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1781,7 +1730,7 @@ Grailbird.data.tweets_2011_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joseph ",
@@ -2607,7 +2556,7 @@ Grailbird.data.tweets_2011_04 =
   "id_str" : "54221234111655936",
   "text" : "RT @USC_ICT: ICT's MxR uses a Microsoft #Kinect sensor to control #Gmail using the gestures for Gmail Motion http:\/\/bit.ly\/gJyPRK",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

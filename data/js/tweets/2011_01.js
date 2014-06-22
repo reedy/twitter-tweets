@@ -481,7 +481,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "30265304068136960",
   "text" : "RT @webide: PhpStorm & WebStorm 2.0 EAP 103.8 http:\/\/ow.ly\/3KuZX Lots of long-waited fixes and improvements",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -549,7 +549,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "bugzilla",
       "protected" : false,
       "id_str" : "202960752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1145168934\/bz-logo-cropped_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459135124072697856\/FCiVMRPO_normal.png",
       "id" : 202960752,
       "verified" : false
     }
@@ -926,7 +926,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "28610367278030848",
   "text" : "RT @bugzilla: We plan to release Bugzilla 4.0rc2, 3.6.4, 3.4.10, and 3.2.10 on Monday. They will contain VERY IMPORTANT security fixes.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -943,7 +943,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "bugzilla",
       "protected" : false,
       "id_str" : "202960752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1145168934\/bz-logo-cropped_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459135124072697856\/FCiVMRPO_normal.png",
       "id" : 202960752,
       "verified" : false
     }
@@ -1672,7 +1672,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "25587191002439680",
   "text" : "RT @firebox: NEW @firebox - Angry Bird plush dolls available to pre-order. http:\/\/bit.ly\/dOQ52x Look out for keyring and sound effect ve ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Firebox.com",
@@ -1875,7 +1875,7 @@ Grailbird.data.tweets_2011_01 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1886,7 +1886,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "24894662456123392",
   "text" : "RT @webide: PhpStorm & WebStorm 2.0 EAP 102.114 http:\/\/ow.ly\/3BNZY Lots of fixes, improved debugging workflow and Unused parameter inspe ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2058,7 +2058,7 @@ Grailbird.data.tweets_2011_01 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Bugzilla",
@@ -2091,7 +2091,7 @@ Grailbird.data.tweets_2011_01 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Bugbox",
@@ -2119,7 +2119,7 @@ Grailbird.data.tweets_2011_01 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Bugzilla",
@@ -2150,7 +2150,7 @@ Grailbird.data.tweets_2011_01 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Reece Savage",
@@ -2183,7 +2183,7 @@ Grailbird.data.tweets_2011_01 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Wes Mason",

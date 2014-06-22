@@ -36,7 +36,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -402,7 +402,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -427,7 +427,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -457,7 +457,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -677,7 +677,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -699,7 +699,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -721,7 +721,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -743,7 +743,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -768,7 +768,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -790,7 +790,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -812,7 +812,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -837,7 +837,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -912,7 +912,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -934,7 +934,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -956,7 +956,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -978,7 +978,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1033,7 +1033,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1058,7 +1058,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1383,7 +1383,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1405,7 +1405,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1427,7 +1427,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1640,7 +1640,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "360074295126405120",
   "text" : "RT @CNET: Nexus 4, Nexus 10 are getting Android 4.3 starting today (live blog) http:\/\/t.co\/8vI47EmLy9",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1662,7 +1662,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1746316152\/CNET-Twitter_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459126531676049408\/9DtDFag4_normal.jpeg",
       "id" : 30261067,
       "verified" : true
     }
@@ -2117,7 +2117,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2277,7 +2277,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "orta",
+      "name" : "\u2661rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -2355,7 +2355,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "622462907",
       "id" : 622462907
     }, {
-      "name" : "GameStop, Inc.",
+      "name" : "GameStop",
       "screen_name" : "GameStop",
       "indices" : [ 20, 29 ],
       "id_str" : "22258315",
@@ -2385,7 +2385,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2468,7 +2468,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2572,7 +2572,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2594,7 +2594,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2710,7 +2710,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2754,7 +2754,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "358245056312266752",
   "text" : "RT @phpstorm: PhpStorm 7.0 EAP build 130.1293 is available - extended syntax colouring, ZFTool support &amp; more http:\/\/t.co\/NkgCP1OczZ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2867,7 +2867,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2898,7 +2898,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "15425377",
       "id" : 15425377
     }, {
-      "name" : "Cathay Pacific",
+      "name" : "Cathay Pacific ",
       "screen_name" : "cathaypacific",
       "indices" : [ 75, 89 ],
       "id_str" : "16898427",
@@ -3168,7 +3168,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flightradar24.com",
+      "name" : "Flightradar24",
       "screen_name" : "flightradar24",
       "indices" : [ 0, 14 ],
       "id_str" : "134196350",
@@ -3344,7 +3344,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3562,7 +3562,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "356132253933383680",
   "text" : "RT @UKVolkswagen: Golf GTI fan? Enter our competition to win a GTI hold-all bag, the perfect accessory for a VW owner. RT to enter. http:\/\/\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3584,7 +3584,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "UKVolkswagen",
       "protected" : false,
       "id_str" : "196609435",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3332418758\/e3e7ba28afb466aa189d7ce3daf4b479_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/465874558545702914\/wAb_22Ym_normal.jpeg",
       "id" : 196609435,
       "verified" : true
     }
@@ -3659,7 +3659,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flightradar24.com",
+      "name" : "Flightradar24",
       "screen_name" : "flightradar24",
       "indices" : [ 3, 17 ],
       "id_str" : "134196350",
@@ -3764,7 +3764,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 355959674501210115,
     "created_at" : "2013-07-13 07:59:34 +0000",
     "user" : {
-      "name" : "Flightradar24.com",
+      "name" : "Flightradar24",
       "screen_name" : "flightradar24",
       "protected" : false,
       "id_str" : "134196350",
@@ -4257,7 +4257,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4312,7 +4312,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Orange",
@@ -4586,7 +4586,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4894,7 +4894,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "353894513518968832",
   "text" : "RT @davidmytton: \"When Boeing originally designed the 747 they considered it a low-end product\" - https:\/\/t.co\/WJjsaiTlYt",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4916,7 +4916,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "davidmytton",
       "protected" : false,
       "id_str" : "18075516",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1412457346\/Me_-_Domo_Totoro_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/454220990365454339\/Jog2Ir1N_normal.png",
       "id" : 18075516,
       "verified" : false
     }
@@ -4972,7 +4972,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Will Tudor",
@@ -5168,7 +5168,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "PhpStorm",
@@ -5218,7 +5218,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "352997460542623744",
   "text" : "RT @CNET: Security firm claims 99% of Android apps open to takeover http:\/\/t.co\/RqBFYxctHx",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5240,7 +5240,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1746316152\/CNET-Twitter_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459126531676049408\/9DtDFag4_normal.jpeg",
       "id" : 30261067,
       "verified" : true
     }
@@ -5316,11 +5316,11 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "76117579",
       "id" : 76117579
     }, {
-      "name" : "SAP Business One",
-      "screen_name" : "SAP_B1",
+      "name" : "SAP B1",
+      "screen_name" : "sap_b1",
       "indices" : [ 5, 12 ],
-      "id_str" : "54170439",
-      "id" : 54170439
+      "id_str" : "2409107035",
+      "id" : 2409107035
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5399,11 +5399,11 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "76117579",
       "id" : 76117579
     }, {
-      "name" : "SAP Business One",
-      "screen_name" : "SAP_B1",
+      "name" : "SAP B1",
+      "screen_name" : "sap_b1",
       "indices" : [ 5, 12 ],
-      "id_str" : "54170439",
-      "id" : 54170439
+      "id_str" : "2409107035",
+      "id" : 2409107035
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5438,11 +5438,11 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "76117579",
       "id" : 76117579
     }, {
-      "name" : "SAP Business One",
-      "screen_name" : "SAP_B1",
+      "name" : "SAP B1",
+      "screen_name" : "sap_b1",
       "indices" : [ 5, 12 ],
-      "id_str" : "54170439",
-      "id" : 54170439
+      "id_str" : "2409107035",
+      "id" : 2409107035
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5477,11 +5477,11 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "76117579",
       "id" : 76117579
     }, {
-      "name" : "SAP Business One",
-      "screen_name" : "SAP_B1",
+      "name" : "SAP B1",
+      "screen_name" : "sap_b1",
       "indices" : [ 9, 16 ],
-      "id_str" : "54170439",
-      "id" : 54170439
+      "id_str" : "2409107035",
+      "id" : 2409107035
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5502,7 +5502,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5610,7 +5610,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "351798205752676352",
   "text" : "RT @ProLiant: RT @networkworld: HP's new Proliant Microserver G8 is a great fit for the branch office. http:\/\/t.co\/B3qMCdxsAC",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Network World",
@@ -5710,7 +5710,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5734,13 +5734,7 @@ Grailbird.data.tweets_2013_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Overclockers UK",
-      "screen_name" : "Overclockers_UK",
-      "indices" : [ 0, 16 ],
-      "id_str" : "20976355",
-      "id" : 20976355
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5753,7 +5747,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 351703794314264576,
   "in_reply_to_status_id" : 351703595097395201,
   "created_at" : "2013-07-01 14:08:13 +0000",
-  "in_reply_to_screen_name" : "Overclockers_UK",
+  "in_reply_to_screen_name" : "OverclockersUK",
   "in_reply_to_user_id_str" : "20976355",
   "user" : {
     "name" : "Sam Reed",

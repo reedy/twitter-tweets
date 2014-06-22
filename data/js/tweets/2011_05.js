@@ -3,7 +3,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -36,7 +36,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -69,7 +69,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -102,7 +102,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -133,7 +133,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -220,7 +220,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "Misco_UK",
       "protected" : false,
       "id_str" : "28564572",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3220701383\/c00ab1f9b194035f23ae53dff056b467_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459320410593435650\/kLtOFIP__normal.jpeg",
       "id" : 28564572,
       "verified" : false
     }
@@ -535,7 +535,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 3, 8 ],
       "id_str" : "14822382",
@@ -563,7 +563,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 5, 10 ],
       "id_str" : "14822382",
@@ -591,7 +591,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -624,7 +624,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 15, 20 ],
       "id_str" : "14822382",
@@ -657,7 +657,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -690,7 +690,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -723,7 +723,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -756,7 +756,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 60, 65 ],
       "id_str" : "14822382",
@@ -790,7 +790,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -829,7 +829,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "94178695",
       "id" : 94178695
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -868,7 +868,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "94178695",
       "id" : 94178695
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 27, 32 ],
       "id_str" : "14822382",
@@ -930,7 +930,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -963,7 +963,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1002,7 +1002,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "94178695",
       "id" : 94178695
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 34, 39 ],
       "id_str" : "14822382",
@@ -1030,7 +1030,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 20, 25 ],
       "id_str" : "14822382",
@@ -1330,7 +1330,7 @@ Grailbird.data.tweets_2011_05 =
   "id_str" : "74123130750242817",
   "text" : "RT @OpenRightsGroup: BREAKING: TalkTalk and BT are appealing the Judicial Review on four grounds: http:\/\/bit.ly\/jrappeal #deajr #deact",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1353,7 +1353,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "OpenRightsGroup",
       "protected" : false,
       "id_str" : "15028398",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1817435419\/org-profile-square_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469813555332513792\/WcIzxgf5_normal.png",
       "id" : 15028398,
       "verified" : false
     }
@@ -1478,7 +1478,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "94178695",
       "id" : 94178695
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 45, 50 ],
       "id_str" : "14822382",
@@ -1544,7 +1544,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1577,7 +1577,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1610,7 +1610,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1643,7 +1643,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1676,7 +1676,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1907,7 +1907,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 15, 20 ],
       "id_str" : "14822382",
@@ -2056,7 +2056,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2089,7 +2089,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2144,7 +2144,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2243,7 +2243,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2301,7 +2301,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2418,7 +2418,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 9, 14 ],
       "id_str" : "14822382",
@@ -2446,7 +2446,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2479,7 +2479,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2512,7 +2512,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2980,7 +2980,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3046,7 +3046,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "36803580",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/395429445\/3232_67923607338_67919847338_1810171_4567519_n_normal.jpg",
       "id" : 36803580,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 73071824300294145,
@@ -3092,7 +3092,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3267,7 +3267,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3317,7 +3317,7 @@ Grailbird.data.tweets_2011_05 =
   "id_str" : "72248917747703808",
   "text" : "RT @eurocontrol: air travel in Europe update: no impact on Eur. or transatlantic flights, situation to remain so for next 24h http:\/\/ow. ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3337,7 +3337,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "eurocontrol",
       "protected" : false,
       "id_str" : "64672345",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543369804\/ec-color-online-large_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/463608475717603328\/2piYqinD_normal.png",
       "id" : 64672345,
       "verified" : true
     }
@@ -3548,7 +3548,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3581,7 +3581,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3614,7 +3614,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3680,7 +3680,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3713,7 +3713,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3895,7 +3895,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "QAAtweets",
       "protected" : false,
       "id_str" : "141258490",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891626063\/twitter_avatar2_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/471953215378817024\/qX49L2Dw_normal.png",
       "id" : 141258490,
       "verified" : false
     }
@@ -3929,7 +3929,7 @@ Grailbird.data.tweets_2011_05 =
   "id_str" : "70265959780327424",
   "text" : "RT @humphreybc: Woah, Lenovo Thinkpad X1 looks awesome! Thin, tough, fast, light, beautiful. http:\/\/bit.ly\/mQJ72K",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4810,7 +4810,7 @@ Grailbird.data.tweets_2011_05 =
   "id_str" : "65423676400611328",
   "text" : "RT @newscientist: Last piece of crashed Airbus puzzle found http:\/\/bit.ly\/kenz9u",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bitly.com\" rel=\"nofollow\"\u003Ebitly\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/bitly.com\" rel=\"nofollow\"\u003Ebitly bitlink\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4827,7 +4827,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "newscientist",
       "protected" : false,
       "id_str" : "19658826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/412631053652606976\/MhLpOODC_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464088830509731840\/e92TpMR9_normal.png",
       "id" : 19658826,
       "verified" : true
     }

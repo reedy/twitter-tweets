@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2012_10 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -60,7 +60,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Wikidata",
@@ -93,7 +93,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephen Fry",
@@ -205,7 +205,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "262952381581496320",
   "text" : "RT @CNET: Google infringes on Apple's patent for losing prototype phones in bars http:\/\/t.co\/RXC4us0c",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -227,7 +227,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1746316152\/CNET-Twitter_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459126531676049408\/9DtDFag4_normal.jpeg",
       "id" : 30261067,
       "verified" : true
     }
@@ -977,7 +977,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BT",
@@ -1064,7 +1064,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "PhpStorm\/WebStorm",
@@ -1282,7 +1282,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Nick Griffin MEP",
@@ -1479,7 +1479,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "259038802134302720",
   "text" : "RT @CNETNews: HSBC was hit by a denial-of-service attack that knocked its online banking service offline http:\/\/t.co\/nxodhgG8",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1545,7 +1545,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jake Bugg Fans",
@@ -1568,7 +1568,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "258971644742230016",
   "text" : "RT @JakeBuggFans: RT this tweet to let you know Jake Bugg!\n\n@JakeBugg",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jake Bugg",
@@ -1732,7 +1732,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "AngryBirds",
       "protected" : false,
       "id_str" : "17337554",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443370487268114432\/EJDqqv4X_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477093623175983104\/96c4oglr_normal.png",
       "id" : 17337554,
       "verified" : true
     }
@@ -1995,7 +1995,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "258608096950226944",
   "text" : "RT @BoeingAirplanes: 777 to the rescue. Congrats to our friends @AirCanada for finding a yacht in distress.  http:\/\/t.co\/9B5kaure",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Air Canada",
@@ -2025,7 +2025,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "22090282",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1844230115\/Boeing_twitter_avatar_normal.png",
       "id" : 22090282,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 258608096950226944,
@@ -2405,7 +2405,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Quickline ",
@@ -2610,7 +2610,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "57un",
@@ -2642,7 +2642,7 @@ Grailbird.data.tweets_2012_10 =
   "id" : 257588268147826688,
   "in_reply_to_status_id" : 257547773975601152,
   "created_at" : "2012-10-14 21:06:43 +0000",
-  "in_reply_to_screen_name" : "Nullhash",
+  "in_reply_to_screen_name" : "6O57",
   "in_reply_to_user_id_str" : "210127211",
   "user" : {
     "name" : "Sam Reed",
@@ -2679,7 +2679,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2709,7 +2709,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2855,7 +2855,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David O'Neill",
+      "name" : "David",
       "screen_name" : "David_ONeill_",
       "indices" : [ 0, 14 ],
       "id_str" : "20401912",
@@ -3148,7 +3148,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "OpenDNS",
@@ -3179,7 +3179,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "OpenDNS",
@@ -3325,7 +3325,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420548954145570817\/oYIsBdPq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474300934151888896\/2DhDFkl6_normal.png",
       "id" : 16170178,
       "verified" : false
     }
@@ -3382,7 +3382,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "serverdensity",
       "protected" : false,
       "id_str" : "23840756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000563054807\/350fe92b2989d8efc68ebabbb9075067_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458974086073290753\/2SzsXCPW_normal.png",
       "id" : 23840756,
       "verified" : true
     }
@@ -4048,7 +4048,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4189,7 +4189,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "253071912136232960",
   "text" : "RT @Fon: UK average download speed was 17 Mbps in September. What about yours? http:\/\/t.co\/VKusL45C via @telecompaper",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Telecompaper",

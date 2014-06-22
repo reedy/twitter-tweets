@@ -50,7 +50,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -105,7 +105,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -127,7 +127,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -196,7 +196,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Humble Bundle",
+      "name" : "Humble",
       "screen_name" : "humble",
       "indices" : [ 19, 26 ],
       "id_str" : "11167502",
@@ -342,7 +342,7 @@ Grailbird.data.tweets_2013_08 =
     "user" : {
       "name" : "VMware Horizon Wksp",
       "screen_name" : "vmwareworkspace",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "194684170",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3433670596\/f779900094a3f5d29134fd99968bdb42_normal.jpeg",
       "id" : 194684170,
@@ -835,7 +835,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "372533819108499456",
   "text" : "RT @GooglePlay: We've lowered the price of #Nexus4. Get it for 25% off or more in Australia, Canada, Germany, Spain, Korea, US, UK: http:\/\/\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -860,7 +860,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "GooglePlay",
       "protected" : false,
       "id_str" : "243381107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438782806835994624\/by8kOhMW_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476079839401635841\/Bj-kB60o_normal.jpeg",
       "id" : 243381107,
       "verified" : true
     }
@@ -913,7 +913,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -946,7 +946,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -983,7 +983,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "5010931",
       "id" : 5010931
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 126, 131 ],
       "id_str" : "14822382",
@@ -1368,7 +1368,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1626,7 +1626,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Saints Row",
@@ -1868,7 +1868,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "American Airlines",
@@ -2147,7 +2147,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Hassan Hosseini",
@@ -2180,7 +2180,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Hassan Hosseini",
@@ -2216,7 +2216,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "EXPANSYS.com",
+      "name" : "Expansys.com",
       "screen_name" : "expansysUK",
       "indices" : [ 0, 11 ],
       "id_str" : "49587724",
@@ -2268,7 +2268,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Indiegogo",
@@ -3153,7 +3153,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3186,7 +3186,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3219,7 +3219,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3271,7 +3271,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3293,7 +3293,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3315,7 +3315,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3910,7 +3910,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BT",
@@ -4071,7 +4071,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "368479633429512192",
   "text" : "RT @SaintsRow: Steam pre-loading of #SaintsRow IV is now available! Restart Steam if needed. We will also have Steam Trading Cards! http:\/\/\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -4192,7 +4192,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Corsair",
@@ -4334,7 +4334,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "368346079429152768",
   "text" : "RT @GTAVoclock: #GTAOnline is huge. Like Call of Duty huge. @GTAVoclock has the scoop on Rockstar's wildly ambitious online world \nhttp:\/\/t\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "GTAVoclock",
@@ -4512,7 +4512,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4545,7 +4545,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4578,7 +4578,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4611,7 +4611,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4644,7 +4644,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4729,7 +4729,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lewis Cawte",
@@ -4889,7 +4889,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "368057301988814848",
   "text" : "RT @veeam: RT @vmdoug: New on the Veeam Blog -&gt; Veeam Backup &amp; Replication v7 is Here!  http:\/\/t.co\/WXz8l0sKs8",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Doug Hazelman",
@@ -4917,7 +4917,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "veeam",
       "protected" : false,
       "id_str" : "14908404",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436765805779243008\/8WBaWHBn_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464400939227435008\/1mEYi6d5_normal.jpeg",
       "id" : 14908404,
       "verified" : false
     }
@@ -5100,7 +5100,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Virtual Graffiti Inc",
@@ -5134,7 +5134,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5197,7 +5197,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5219,7 +5219,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5241,7 +5241,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5263,7 +5263,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5288,7 +5288,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5310,7 +5310,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5332,7 +5332,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5354,7 +5354,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5404,7 +5404,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5426,7 +5426,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5448,7 +5448,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5588,7 +5588,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5677,7 +5677,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5699,7 +5699,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5721,7 +5721,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5856,7 +5856,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6109,7 +6109,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6263,7 +6263,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "213127251",
       "id" : 213127251
     }, {
-      "name" : "Flightradar24.com",
+      "name" : "Flightradar24",
       "screen_name" : "flightradar24",
       "indices" : [ 12, 26 ],
       "id_str" : "134196350",
@@ -6415,7 +6415,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6437,7 +6437,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6658,7 +6658,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6708,7 +6708,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6730,7 +6730,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7355,7 +7355,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7410,7 +7410,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7432,7 +7432,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7482,7 +7482,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "World Duty Free",
@@ -7513,7 +7513,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7563,7 +7563,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7585,7 +7585,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7701,7 +7701,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7723,7 +7723,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7745,7 +7745,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7800,7 +7800,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7996,7 +7996,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flightradar24.com",
+      "name" : "Flightradar24",
       "screen_name" : "flightradar24",
       "indices" : [ 81, 95 ],
       "id_str" : "134196350",
@@ -8035,7 +8035,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "18332190",
       "id" : 18332190
     }, {
-      "name" : "Flightradar24.com",
+      "name" : "Flightradar24",
       "screen_name" : "flightradar24",
       "indices" : [ 111, 125 ],
       "id_str" : "134196350",
@@ -8112,7 +8112,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "9549352",
       "id" : 9549352
     }, {
-      "name" : "Flightradar24.com",
+      "name" : "Flightradar24",
       "screen_name" : "flightradar24",
       "indices" : [ 33, 47 ],
       "id_str" : "134196350",
@@ -8154,7 +8154,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flightradar24.com",
+      "name" : "Flightradar24",
       "screen_name" : "flightradar24",
       "indices" : [ 0, 14 ],
       "id_str" : "134196350",
@@ -8304,20 +8304,14 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lisa Hills",
-      "screen_name" : "LisaStabler1",
-      "indices" : [ 3, 16 ],
-      "id_str" : "290510050",
-      "id" : 290510050
-    }, {
-      "name" : "Flightradar24.com",
+      "name" : "Flightradar24",
       "screen_name" : "flightradar24",
-      "indices" : [ 18, 32 ],
+      "indices" : [ 100, 101 ],
       "id_str" : "134196350",
       "id" : 134196350
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/LisaStabler1\/status\/364483287554613248\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/LisaLuiz4\/status\/364483287554613248\/photo\/1",
       "indices" : [ 79, 101 ],
       "url" : "http:\/\/t.co\/3v7J034CcZ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BQ7nnnHCYAA_bv7.jpg",
@@ -8360,14 +8354,14 @@ Grailbird.data.tweets_2013_08 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Flightradar24.com",
+        "name" : "Flightradar24",
         "screen_name" : "flightradar24",
         "indices" : [ 0, 14 ],
         "id_str" : "134196350",
         "id" : 134196350
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/LisaStabler1\/status\/364483287554613248\/photo\/1",
+        "expanded_url" : "http:\/\/twitter.com\/LisaLuiz4\/status\/364483287554613248\/photo\/1",
         "indices" : [ 61, 83 ],
         "url" : "http:\/\/t.co\/3v7J034CcZ",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BQ7nnnHCYAA_bv7.jpg",
@@ -8413,10 +8407,10 @@ Grailbird.data.tweets_2013_08 =
     "in_reply_to_user_id_str" : "134196350",
     "user" : {
       "name" : "Lisa Hills",
-      "screen_name" : "LisaStabler1",
+      "screen_name" : "LisaLuiz4",
       "protected" : false,
       "id_str" : "290510050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420310622996545536\/l9a4yyWm_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476856287452753920\/M5C93KUW_normal.jpeg",
       "id" : 290510050,
       "verified" : false
     }
@@ -8523,7 +8517,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "BBCBreaking",
       "protected" : false,
       "id_str" : "5402612",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2186829506\/128x128_twitter_bbc_breaking_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/460740982498013184\/wIPwMwru_normal.png",
       "id" : 5402612,
       "verified" : true
     }
@@ -8540,7 +8534,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8593,7 +8587,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8615,7 +8609,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8637,7 +8631,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8659,7 +8653,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8681,7 +8675,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8703,7 +8697,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8758,7 +8752,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8780,7 +8774,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8824,7 +8818,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sprite",
@@ -8880,7 +8874,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8935,7 +8929,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9149,7 +9143,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "OUYA",
@@ -9423,7 +9417,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9492,7 +9486,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "NVIDIA",

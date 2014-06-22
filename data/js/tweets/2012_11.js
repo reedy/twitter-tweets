@@ -343,7 +343,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kimpton",
@@ -427,7 +427,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -597,7 +597,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Serif Support",
@@ -669,7 +669,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "22cans",
@@ -758,7 +758,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "274215798841696256",
   "text" : "RT @SaintsRow: Join the Humble @THQ Bundle and score some of your favorite THQ games - http:\/\/t.co\/y6fhRN8w http:\/\/t.co\/d82Kr5kk",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "THQ",
@@ -833,7 +833,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1062,7 +1062,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "273797082719068160",
   "text" : "RT @Ebuyer: Apple has been hit with a $3 million patent lawsuit over iPhone's use of headphones * http:\/\/t.co\/dRSayMRk",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1488,12 +1488,6 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amazon MP3",
-      "screen_name" : "amazonmp3",
-      "indices" : [ 3, 13 ],
-      "id_str" : "14740219",
-      "id" : 14740219
-    }, {
       "name" : "Amazon Local",
       "screen_name" : "AmazonLocal",
       "indices" : [ 97, 109 ],
@@ -1537,11 +1531,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 272771537877204992,
     "created_at" : "2012-11-25 18:39:37 +0000",
     "user" : {
-      "name" : "Amazon MP3",
-      "screen_name" : "amazonmp3",
+      "name" : "Amazon Music",
+      "screen_name" : "amazonmusic",
       "protected" : false,
       "id_str" : "14740219",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/340137940\/twitteravatar_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477112938486972416\/Kmk5eaGf_normal.png",
       "id" : 14740219,
       "verified" : true
     }
@@ -1782,7 +1776,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1804,7 +1798,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kickstarter",
@@ -1928,7 +1922,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "serverdensity",
       "protected" : false,
       "id_str" : "23840756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000563054807\/350fe92b2989d8efc68ebabbb9075067_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458974086073290753\/2SzsXCPW_normal.png",
       "id" : 23840756,
       "verified" : true
     }
@@ -1967,7 +1961,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2206,7 +2200,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "270597435984855040",
   "text" : "RT @webide: PhpStorm &amp; WebStorm 6.0 Early Access Program started http:\/\/t.co\/ePeQk6T8 Still here?!.. Go check it out!",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2248,7 +2242,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2343,7 +2337,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "270511665819308032",
   "text" : "RT @ispreview: AAISP UK Launch Trial of New Home Broadband ISP Package http:\/\/t.co\/hHohPXyK via @ispreview #aaisp #TheRealRevK",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Mark Jackson",
@@ -2542,7 +2536,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2751,7 +2745,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "269592096502075392",
   "text" : "RT @utorrent: 100,000 Stars: A Google Chrome Experiment you have to see to believe: http:\/\/t.co\/SQ4r41hZ",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2773,7 +2767,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "utorrent",
       "protected" : false,
       "id_str" : "31284372",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000246948956\/979fb677cdc825e6ed6b482dbf85d6ee_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464921446569897984\/quFq2pfT_normal.png",
       "id" : 31284372,
       "verified" : false
     }
@@ -2790,7 +2784,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Quickline ",
@@ -3031,7 +3025,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3064,7 +3058,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3097,7 +3091,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3452,7 +3446,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3504,7 +3498,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "268688818893361153",
   "text" : "RT @techradar: In the UK and after a tech bargain? Comet's firesale is now on http:\/\/t.co\/fACGkkEx",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3579,7 +3573,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4006,7 +4000,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4092,7 +4086,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4443,7 +4437,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "265592377111085056",
   "text" : "RT @SaintsRow: For a Shaundi bobblehead... 10th person to RT \"I love sombreros\" wins!",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4594,7 +4588,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "stephenfry",
       "protected" : false,
       "id_str" : "15439395",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/344513261579148157\/ba4807791ef9cce28dc0d4aa2ce9372c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468385513637171200\/P-D8j7Ly_normal.jpeg",
       "id" : 15439395,
       "verified" : true
     }
@@ -4674,7 +4668,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4696,7 +4690,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4718,7 +4712,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4746,7 +4740,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4854,7 +4848,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2010_10 = 
  [ {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -25,7 +25,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -178,7 +178,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "29070316709",
   "text" : "RT @Misco_UK: ViewSonic ViewPad has Android Froyo 2.2 & rave reviews from slashgear.com - http:\/\/goo.gl\/6A7y - Available at Misco now! h ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -195,7 +195,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Misco_UK",
       "protected" : false,
       "id_str" : "28564572",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3220701383\/c00ab1f9b194035f23ae53dff056b467_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459320410593435650\/kLtOFIP__normal.jpeg",
       "id" : 28564572,
       "verified" : false
     }
@@ -396,7 +396,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -421,7 +421,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -698,7 +698,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "27926199841",
   "text" : "RT @DabsDotCom: Western Digital launches world's first 3TB hard drive: http:\/\/bit.ly\/bJdmJn (via @techradar)",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "TechRadar",
@@ -1328,7 +1328,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1395,7 +1395,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "27017007347",
   "text" : "RT @shinaku: Dear VMWare. Make Mac\/Linux\/Web GUI management tools for ESXi.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1732,7 +1732,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "26929447462",
   "text" : "RT @humphreybc: Ubuntu 10.10 \"Maverick Meerkat\u201D released http:\/\/t.co\/b7h7vi8 via @omgubuntu #ubuntu",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "OMG! UBUNTU!",
@@ -1886,7 +1886,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Solwise",
@@ -1917,7 +1917,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Solwise",
@@ -2469,7 +2469,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436784469400223744\/pe4nVPan_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/470505650280464384\/p-L42MWE_normal.jpeg",
       "id" : 19058966,
       "verified" : false
     }
@@ -2520,7 +2520,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436784469400223744\/pe4nVPan_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/470505650280464384\/p-L42MWE_normal.jpeg",
       "id" : 19058966,
       "verified" : false
     }

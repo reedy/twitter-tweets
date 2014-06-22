@@ -400,7 +400,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "DellUK",
@@ -467,7 +467,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -558,7 +558,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -833,7 +833,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "284697238809223168",
   "text" : "RT @FilmCow: BEHOLD: Charlie the Unicorn 4 http:\/\/t.co\/m882GA7w",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -961,7 +961,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sky TV BB & Talk",
+      "name" : "Sky",
       "screen_name" : "skyhd",
       "indices" : [ 28, 34 ],
       "id_str" : "20139563",
@@ -1399,7 +1399,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1833,7 +1833,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gavin Borthwick",
+      "name" : "Gavlar",
       "screen_name" : "HullGamer",
       "indices" : [ 6, 16 ],
       "id_str" : "20406311",
@@ -2026,10 +2026,10 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gavin Borthwick",
+      "name" : "Gavlar",
       "screen_name" : "HullGamer",
       "indices" : [ 0, 10 ],
       "id_str" : "20406311",
@@ -2065,10 +2065,10 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gavin Borthwick",
+      "name" : "Gavlar",
       "screen_name" : "HullGamer",
       "indices" : [ 0, 10 ],
       "id_str" : "20406311",
@@ -2284,7 +2284,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "282195786593366016",
   "text" : "RT @crashdev: Holy shit this is cool: @RaspberryPi used to create a working mobile network http:\/\/t.co\/yZ5zWcU3 cc @tindie #thefutureisnow",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Hannah Keating",
@@ -2676,7 +2676,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "36803580",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/395429445\/3232_67923607338_67919847338_1810171_4567519_n_normal.jpg",
       "id" : 36803580,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 281689799641935872,
@@ -4137,7 +4137,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "JibbaJabba",
@@ -4348,10 +4348,7 @@ Grailbird.data.tweets_2012_12 =
         "display_url" : "ur1.ca\/c49fr"
       } ]
     },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 37.77493, -122.41942 ]
-    },
+    "geo" : { },
     "id_str" : "280823487210344448",
     "text" : "Cards Against Humanity donates proceeds of their holiday packs to Wikimedia. Best memo line on a check ever http:\/\/t.co\/ipSX2zdQ",
     "id" : 280823487210344448,
@@ -4778,7 +4775,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4887,7 +4884,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4975,7 +4972,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4997,7 +4994,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5019,7 +5016,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5041,7 +5038,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5066,7 +5063,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5610,7 +5607,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5696,7 +5693,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "72049286",
       "id" : 72049286
     }, {
-      "name" : "DrayTek Australia",
+      "name" : "DrayTek Aust & NZ",
       "screen_name" : "draytek",
       "indices" : [ 114, 122 ],
       "id_str" : "39677589",
@@ -5735,7 +5732,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "72049286",
       "id" : 72049286
     }, {
-      "name" : "DrayTek Australia",
+      "name" : "DrayTek Aust & NZ",
       "screen_name" : "draytek",
       "indices" : [ 10, 18 ],
       "id_str" : "39677589",
@@ -5957,7 +5954,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6007,7 +6004,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Amazon",
@@ -6150,7 +6147,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -6263,7 +6260,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6481,7 +6478,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6506,7 +6503,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7026,7 +7023,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7198,7 +7195,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "275664280228077568",
   "text" : "RT @Battlefield: The new Server Update and PC Patch are live! Check out all the details here: http:\/\/t.co\/aoW8gJu1 Retweet to get the wo ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7220,7 +7217,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "Battlefield",
       "protected" : false,
       "id_str" : "27855118",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000408125069\/f5ed3559c4a18c5745b232a176dfe58c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474354856463826944\/17zGjqQY_normal.png",
       "id" : 27855118,
       "verified" : true
     }
@@ -7376,7 +7373,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "Multiplay",
       "protected" : false,
       "id_str" : "21656343",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000220725194\/2ec09e343ebe4e1e835901b5881f9a76_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468328244660297728\/cda8dcDB_normal.jpeg",
       "id" : 21656343,
       "verified" : false
     }

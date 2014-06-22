@@ -36,7 +36,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "orta",
+      "name" : "\u2661rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -102,7 +102,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "orta",
+      "name" : "\u2661rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -194,7 +194,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "orta",
+      "name" : "\u2661rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -602,7 +602,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "40877159786483712",
   "text" : "RT @computermuseum: The space shuttle will be launching in 13 minutes. You can watch it here : http:\/\/ustre.am\/onbo and put Micro men on ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -639,7 +639,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1057,7 +1057,7 @@ Grailbird.data.tweets_2011_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "(INT)Jeroen De Dauw",
@@ -1107,7 +1107,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "40172605608706048",
   "text" : "RT @AndroidDev: Final Android 3.0 Platform and Updated SDK Tools: http:\/\/goo.gl\/mKnDo",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1312,7 +1312,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "40084752648114176",
   "text" : "RT @dymonaz: #2020 Your children will speak #html5 natively and have an IPv6 address for every item of their clothing.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1394,7 +1394,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "40044869028298752",
   "text" : "RT @gpaumier: Seen in 'CSI: Miami': \u00AB IP address: 310.27.901.33.1109 \u00BB. Now that's a #fail.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1704,7 +1704,7 @@ Grailbird.data.tweets_2011_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "dellhomeuk",
@@ -1808,7 +1808,7 @@ Grailbird.data.tweets_2011_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "PhpStorm\/WebStorm",
@@ -2063,7 +2063,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "37581537675321344",
   "text" : "RT @bugzilla: Bugzilla 4.0 Released!!! http:\/\/j.mp\/gz60BI",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2080,7 +2080,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "bugzilla",
       "protected" : false,
       "id_str" : "202960752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1145168934\/bz-logo-cropped_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459135124072697856\/FCiVMRPO_normal.png",
       "id" : 202960752,
       "verified" : false
     }
@@ -2208,7 +2208,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "37527908633288705",
   "text" : "RT @profquotes: \"So I was looking at the only source of knowledge, Wikipedia.\" -Naeem CS241",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/feedladder.com\" rel=\"nofollow\"\u003EFeed Ladder\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2292,7 +2292,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "37479266513989632",
   "text" : "RT @tweeting_keith: Android's US share hits 54%, grows to almost twice the size of iOS. Google squeezing its rivals out of the picture - ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3021,7 +3021,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "35355082052603905",
   "text" : "RT @DabsDotCom: To win a copy of S.T.A.L.K.E.R: Call of Pripyat, RT this post. 2nd entry click here http:\/\/bit.ly\/grC3f9",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3118,7 +3118,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436784469400223744\/pe4nVPan_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/470505650280464384\/p-L42MWE_normal.jpeg",
       "id" : 19058966,
       "verified" : false
     }
@@ -3858,7 +3858,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "33248830287777792",
   "text" : "RT @dmose: Lots of great wisdom about the structure of an open source project and community by the Bugzilla project lead http:\/\/t.co\/475BHwD",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3950,7 +3950,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "33174495795609600",
   "text" : "RT @IPv4Countdown: The number of allocatable IPv4s just dropped to zero. #IPv6",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4490,7 +4490,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "32407952023355393",
   "text" : "RT @henet: This we've seen a lot today, but still makes us chuckle - \"An IPv4 address space walks into a bar: 'A strong CIDR, please. I' ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

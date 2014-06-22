@@ -317,7 +317,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Yuvi Panda",
@@ -824,7 +824,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1133,7 +1133,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2004,7 +2004,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "224878203334963200",
   "text" : "RT @drogon: 200 @Raspberry_Pi s vs. a 20 year old supercomputer: https:\/\/t.co\/1yb4psqm",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Raspberry Pi",
@@ -2159,7 +2159,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BT",
@@ -2208,7 +2208,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "BTCare",
       "protected" : false,
       "id_str" : "35737385",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/211732019\/BT_logo_sm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/471992027622547457\/Iy422sr2_normal.png",
       "id" : 35737385,
       "verified" : true
     }
@@ -2495,7 +2495,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2838,7 +2838,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Namecheap.com",
@@ -2911,7 +2911,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Amazon UK",
@@ -3177,7 +3177,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "OUYA",
@@ -3213,10 +3213,10 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FairFX",
+      "name" : "FAIRFX",
       "screen_name" : "FairFX",
       "indices" : [ 0, 7 ],
       "id_str" : "14697806",
@@ -3244,7 +3244,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "OUYA",
@@ -3275,7 +3275,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "OUYA",
@@ -3306,7 +3306,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "OUYA",
@@ -3328,7 +3328,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "222711600283529216",
   "text" : "RT @playouya: Help us make a dent in the gaming universe. Make OUYA the next game console... http:\/\/t.co\/I5jFh50y",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3350,7 +3350,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "playouya",
       "protected" : false,
       "id_str" : "622462907",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422821946766532608\/0s0tPcC3_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474610039064236032\/TcIi2XUa_normal.jpeg",
       "id" : 622462907,
       "verified" : false
     }
@@ -3367,7 +3367,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "OUYA",
@@ -3539,7 +3539,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "DabsDotCom",
@@ -3570,7 +3570,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "DabsDotCom",
@@ -3653,7 +3653,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3973,7 +3973,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "HP ProLiant",
@@ -4246,7 +4246,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "AMDServer",
       "protected" : false,
       "id_str" : "8879152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000704618979\/5e05b7605b01a6fad83a0543f568d7d8_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472375875040579584\/9tSVFudG_normal.png",
       "id" : 8879152,
       "verified" : false
     }
@@ -4294,7 +4294,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4357,7 +4357,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Vernon Yerkess",
@@ -4421,7 +4421,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ServersPlus",
@@ -4662,7 +4662,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4692,7 +4692,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ebuyer.com",
@@ -4723,7 +4723,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ebuyer.com",
@@ -4754,7 +4754,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ebuyer.com",
@@ -4785,7 +4785,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ebuyer.com",
@@ -4911,7 +4911,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "AMDServer",
       "protected" : false,
       "id_str" : "8879152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000704618979\/5e05b7605b01a6fad83a0543f568d7d8_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472375875040579584\/9tSVFudG_normal.png",
       "id" : 8879152,
       "verified" : false
     }
@@ -5242,7 +5242,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5275,7 +5275,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5308,7 +5308,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5349,7 +5349,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "219255540679847936",
   "text" : "RT @AmazonStatus: For updates regarding AWS service health, please refresh our dashboard constantly, and keep clicking the same incident ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
