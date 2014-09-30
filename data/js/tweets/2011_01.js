@@ -549,7 +549,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "bugzilla",
       "protected" : false,
       "id_str" : "202960752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459135124072697856\/FCiVMRPO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504843871386206209\/osfnPuRC_normal.png",
       "id" : 202960752,
       "verified" : false
     }
@@ -699,7 +699,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinster",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -738,7 +738,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinster",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 3, 11 ],
       "id_str" : "14355014",
@@ -943,7 +943,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "bugzilla",
       "protected" : false,
       "id_str" : "202960752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459135124072697856\/FCiVMRPO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504843871386206209\/osfnPuRC_normal.png",
       "id" : 202960752,
       "verified" : false
     }

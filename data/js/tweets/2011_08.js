@@ -1150,9 +1150,9 @@ Grailbird.data.tweets_2011_08 =
     "user" : {
       "name" : "Tom Wardill",
       "screen_name" : "tomwardill",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "2004411",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2848490259\/2fd98de556dc6839ec66fba6d8d7626c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_3_normal.png",
       "id" : 2004411,
       "verified" : false
     }
@@ -3142,7 +3142,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "d0od",
       "protected" : false,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478120014038704128\/br-KJRyT_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514109000376270848\/N7gfLX5q_normal.jpeg",
       "id" : 14822382,
       "verified" : false
     }
@@ -5017,7 +5017,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(INT)Jeroen De Dauw",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -5691,7 +5691,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "d0od",
       "protected" : false,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478120014038704128\/br-KJRyT_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514109000376270848\/N7gfLX5q_normal.jpeg",
       "id" : 14822382,
       "verified" : false
     }

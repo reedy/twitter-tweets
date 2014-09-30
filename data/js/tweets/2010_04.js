@@ -1538,7 +1538,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "werdnum",
       "protected" : false,
       "id_str" : "7122702",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436671458094231552\/F_kYD6UA_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/493562990168244225\/aXry981t_normal.jpeg",
       "id" : 7122702,
       "verified" : false
     }
@@ -2799,7 +2799,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinster",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -3150,63 +3150,6 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-07 00:00:00 +0000",
   "in_reply_to_screen_name" : "simonbutcher",
   "in_reply_to_user_id_str" : "50338462",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Glendora Gregoria",
-      "screen_name" : "NinaGleams",
-      "indices" : [ 3, 14 ],
-      "id_str" : "14999152",
-      "id" : 14999152
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "debill",
-      "indices" : [ 126, 133 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11786648115",
-  "text" : "RT @NinaGleams: How long will it be before the teenage offspring of a cabinet MP gets the family internet connection cut off? #debill",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "debill",
-        "indices" : [ 110, 117 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "11786552646",
-    "text" : "How long will it be before the teenage offspring of a cabinet MP gets the family internet connection cut off? #debill",
-    "id" : 11786552646,
-    "created_at" : "2010-04-07 21:06:04 +0000",
-    "user" : {
-      "name" : "Glendora Gregoria",
-      "screen_name" : "NinaGleams",
-      "protected" : false,
-      "id_str" : "14999152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000806202153\/6f3f45529c8b0eadc917c5ca1150a708_normal.jpeg",
-      "id" : 14999152,
-      "verified" : false
-    }
-  },
-  "id" : 11786648115,
-  "created_at" : "2010-04-07 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

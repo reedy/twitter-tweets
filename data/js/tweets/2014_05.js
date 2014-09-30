@@ -1829,6 +1829,10 @@ Grailbird.data.tweets_2014_05 =
       "id" : 465239108189962240,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BnTcgQNIQAAiJIb.jpg",
       "sizes" : [ {
+        "h" : 340,
+        "resize" : "fit",
+        "w" : 340
+      }, {
         "h" : 600,
         "resize" : "fit",
         "w" : 600
@@ -1840,10 +1844,6 @@ Grailbird.data.tweets_2014_05 =
         "h" : 1024,
         "resize" : "fit",
         "w" : 1024
-      }, {
-        "h" : 340,
-        "resize" : "fit",
-        "w" : 340
       }, {
         "h" : 1024,
         "resize" : "fit",
@@ -1891,6 +1891,10 @@ Grailbird.data.tweets_2014_05 =
         "id" : 465239108189962240,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BnTcgQNIQAAiJIb.jpg",
         "sizes" : [ {
+          "h" : 340,
+          "resize" : "fit",
+          "w" : 340
+        }, {
           "h" : 600,
           "resize" : "fit",
           "w" : 600
@@ -1902,10 +1906,6 @@ Grailbird.data.tweets_2014_05 =
           "h" : 1024,
           "resize" : "fit",
           "w" : 1024
-        }, {
-          "h" : 340,
-          "resize" : "fit",
-          "w" : 340
         }, {
           "h" : 1024,
           "resize" : "fit",
@@ -1934,7 +1934,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "helen_hollins",
       "protected" : false,
       "id_str" : "1082287658",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474496006197755905\/gZbz0I6B_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513285925971824643\/TM-wE5tD_normal.jpeg",
       "id" : 1082287658,
       "verified" : false
     }
@@ -2926,7 +2926,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "smigifer",
       "protected" : false,
       "id_str" : "57931192",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000210684410\/c06f541cab7a5c09a8796114fb3337db_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/503932877705199616\/k5op1UHq_normal.jpeg",
       "id" : 57931192,
       "verified" : false
     }

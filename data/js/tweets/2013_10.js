@@ -227,7 +227,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "virtualgraffiti",
       "protected" : false,
       "id_str" : "28668315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1843912503\/vg-logo-new-hi-res_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492016008719114240\/QUZfNPmk_normal.png",
       "id" : 28668315,
       "verified" : false
     }
@@ -1701,11 +1701,11 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "18332190",
       "id" : 18332190
     }, {
-      "name" : "British Airways N.A.",
-      "screen_name" : "BritishAirways",
+      "name" : "British Airways",
+      "screen_name" : "britishairways",
       "indices" : [ 17, 32 ],
-      "id_str" : "9549352",
-      "id" : 9549352
+      "id_str" : "2653460185",
+      "id" : 2653460185
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2267,7 +2267,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "kickstarter",
       "protected" : false,
       "id_str" : "16186995",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464827717767012352\/fX_MrbiH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/510063738053877762\/5EvmJ31i_normal.png",
       "id" : 16186995,
       "verified" : true
     }
@@ -3906,7 +3906,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tomb Ghoulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -5234,7 +5234,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tomb Ghoulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -6912,7 +6912,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinster",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -6945,7 +6945,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinster",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -6978,7 +6978,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinster",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 35, 43 ],
       "id_str" : "14355014",
@@ -7017,11 +7017,11 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "15797140",
       "id" : 15797140
     }, {
-      "name" : "British Airways N.A.",
-      "screen_name" : "BritishAirways",
+      "name" : "British Airways",
+      "screen_name" : "britishairways",
       "indices" : [ 45, 60 ],
-      "id_str" : "9549352",
-      "id" : 9549352
+      "id_str" : "2653460185",
+      "id" : 2653460185
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8432,21 +8432,21 @@ Grailbird.data.tweets_2013_10 =
       "id" : 385003033907978241,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BVfOODGIYAEuJOK.jpg",
       "sizes" : [ {
-        "h" : 450,
+        "h" : 255,
         "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 612,
-        "resize" : "fit",
-        "w" : 816
+        "w" : 340
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 255,
+        "h" : 612,
         "resize" : "fit",
-        "w" : 340
+        "w" : 816
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
       }, {
         "h" : 612,
         "resize" : "fit",

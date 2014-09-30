@@ -329,13 +329,9 @@ Grailbird.data.tweets_2012_08 =
       "id" : 241142687187759105,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A1i1_xICcAEhDB_.jpg",
       "sizes" : [ {
-        "h" : 1944,
+        "h" : 255,
         "resize" : "fit",
-        "w" : 2592
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
+        "w" : 340
       }, {
         "h" : 768,
         "resize" : "fit",
@@ -345,9 +341,13 @@ Grailbird.data.tweets_2012_08 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 255,
+        "h" : 450,
         "resize" : "fit",
-        "w" : 340
+        "w" : 600
+      }, {
+        "h" : 1944,
+        "resize" : "fit",
+        "w" : 2592
       } ],
       "display_url" : "pic.twitter.com\/DRJisXOh"
     } ],
@@ -2762,7 +2762,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(INT)Jeroen De Dauw",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -2980,7 +2980,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(INT)Jeroen De Dauw",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -4647,7 +4647,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "virtualgraffiti",
       "protected" : false,
       "id_str" : "28668315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1843912503\/vg-logo-new-hi-res_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492016008719114240\/QUZfNPmk_normal.png",
       "id" : 28668315,
       "verified" : false
     }

@@ -153,7 +153,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "27855118",
       "id" : 27855118
     }, {
-      "name" : "ZHINTO DM",
+      "name" : "Daniel.",
       "screen_name" : "zh1nt0",
       "indices" : [ 15, 22 ],
       "id_str" : "157652825",
@@ -383,7 +383,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(INT)Jeroen De Dauw",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -606,7 +606,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "16184339",
       "id" : 16184339
     }, {
-      "name" : "Alan Pope \u32DB",
+      "name" : "Alan Pope  \u0295\u2022\u0361\u1D25\u2022\u0294",
       "screen_name" : "popey",
       "indices" : [ 30, 36 ],
       "id_str" : "12325402",
@@ -657,7 +657,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "16184339",
       "id" : 16184339
     }, {
-      "name" : "Alan Pope \u32DB",
+      "name" : "Alan Pope  \u0295\u2022\u0361\u1D25\u2022\u0294",
       "screen_name" : "popey",
       "indices" : [ 30, 36 ],
       "id_str" : "12325402",
@@ -702,7 +702,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "16184339",
       "id" : 16184339
     }, {
-      "name" : "Alan Pope \u32DB",
+      "name" : "Alan Pope  \u0295\u2022\u0361\u1D25\u2022\u0294",
       "screen_name" : "popey",
       "indices" : [ 32, 38 ],
       "id_str" : "12325402",
@@ -1486,7 +1486,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(INT)Jeroen De Dauw",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 3, 16 ],
       "id_str" : "112745660",
@@ -1516,7 +1516,7 @@ Grailbird.data.tweets_2012_02 =
     "id" : 168106671485362177,
     "created_at" : "2012-02-10 22:58:48 +0000",
     "user" : {
-      "name" : "(INT)Jeroen De Dauw",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "protected" : false,
       "id_str" : "112745660",
@@ -1720,7 +1720,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tomb Ghoulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 1, 16 ],
       "id_str" : "28117032",
@@ -1901,7 +1901,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/470505650280464384\/p-L42MWE_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/493027656670007296\/WhTQ-g8J_normal.jpeg",
       "id" : 19058966,
       "verified" : false
     }
@@ -2255,7 +2255,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(INT)Jeroen De Dauw",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",

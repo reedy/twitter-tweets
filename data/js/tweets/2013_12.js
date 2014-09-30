@@ -36,7 +36,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(INT)Jeroen De Dauw",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -394,13 +394,7 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "V",
-      "screen_name" : "Kahless2001",
-      "indices" : [ 0, 12 ],
-      "id_str" : "61773382",
-      "id" : 61773382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -413,7 +407,7 @@ Grailbird.data.tweets_2013_12 =
   "id" : 417105680580239360,
   "in_reply_to_status_id" : 417105284461764608,
   "created_at" : "2013-12-29 01:31:58 +0000",
-  "in_reply_to_screen_name" : "Kahless2001",
+  "in_reply_to_screen_name" : "Bal_demnic",
   "in_reply_to_user_id_str" : "61773382",
   "user" : {
     "name" : "Sam Reed",
@@ -428,12 +422,6 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V",
-      "screen_name" : "Kahless2001",
-      "indices" : [ 0, 12 ],
-      "id_str" : "61773382",
-      "id" : 61773382
-    }, {
       "name" : "City Link ",
       "screen_name" : "CityLink",
       "indices" : [ 13, 22 ],
@@ -458,7 +446,7 @@ Grailbird.data.tweets_2013_12 =
   "id" : 417104860560228352,
   "in_reply_to_status_id" : 417104658843590656,
   "created_at" : "2013-12-29 01:28:42 +0000",
-  "in_reply_to_screen_name" : "Kahless2001",
+  "in_reply_to_screen_name" : "Bal_demnic",
   "in_reply_to_user_id_str" : "61773382",
   "user" : {
     "name" : "Sam Reed",
@@ -473,12 +461,6 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V",
-      "screen_name" : "Kahless2001",
-      "indices" : [ 0, 12 ],
-      "id_str" : "61773382",
-      "id" : 61773382
-    }, {
       "name" : "City Link ",
       "screen_name" : "CityLink",
       "indices" : [ 18, 27 ],
@@ -503,7 +485,7 @@ Grailbird.data.tweets_2013_12 =
   "id" : 417104735045689344,
   "in_reply_to_status_id" : 417104352172855296,
   "created_at" : "2013-12-29 01:28:12 +0000",
-  "in_reply_to_screen_name" : "Kahless2001",
+  "in_reply_to_screen_name" : "Bal_demnic",
   "in_reply_to_user_id_str" : "61773382",
   "user" : {
     "name" : "Sam Reed",
@@ -518,12 +500,6 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V",
-      "screen_name" : "Kahless2001",
-      "indices" : [ 0, 12 ],
-      "id_str" : "61773382",
-      "id" : 61773382
-    }, {
       "name" : "City Link ",
       "screen_name" : "CityLink",
       "indices" : [ 13, 22 ],
@@ -557,12 +533,6 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V",
-      "screen_name" : "Kahless2001",
-      "indices" : [ 0, 12 ],
-      "id_str" : "61773382",
-      "id" : 61773382
-    }, {
       "name" : "City Link ",
       "screen_name" : "CityLink",
       "indices" : [ 13, 22 ],
@@ -586,7 +556,7 @@ Grailbird.data.tweets_2013_12 =
   "id" : 417103893823488000,
   "in_reply_to_status_id" : 417103552084209664,
   "created_at" : "2013-12-29 01:24:52 +0000",
-  "in_reply_to_screen_name" : "Kahless2001",
+  "in_reply_to_screen_name" : "Bal_demnic",
   "in_reply_to_user_id_str" : "61773382",
   "user" : {
     "name" : "Sam Reed",
@@ -2042,7 +2012,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "OwenJones84",
       "protected" : false,
       "id_str" : "65045121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/467719977433186305\/_Ky824DT_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/515781484230094849\/JezwA97n_normal.jpeg",
       "id" : 65045121,
       "verified" : true
     }
@@ -3421,10 +3391,6 @@ Grailbird.data.tweets_2013_12 =
       "id" : 414182660148178944,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bb9471pCMAATzQC.jpg",
       "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 816,
         "resize" : "fit",
         "w" : 612
@@ -3432,6 +3398,10 @@ Grailbird.data.tweets_2013_12 =
         "h" : 453,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 816,
         "resize" : "fit",
@@ -3550,7 +3520,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tomb Ghoulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -4404,11 +4374,11 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "18332190",
       "id" : 18332190
     }, {
-      "name" : "British Airways N.A.",
-      "screen_name" : "BritishAirways",
+      "name" : "British Airways",
+      "screen_name" : "britishairways",
       "indices" : [ 97, 112 ],
-      "id_str" : "9549352",
-      "id" : 9549352
+      "id_str" : "2653460185",
+      "id" : 2653460185
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5502,7 +5472,13 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "lenovo_uk",
+      "screen_name" : "lenovo_uk",
+      "indices" : [ 0, 10 ],
+      "id_str" : "2591497262",
+      "id" : 2591497262
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5535,6 +5511,12 @@ Grailbird.data.tweets_2013_12 =
       "indices" : [ 75, 82 ],
       "id_str" : "17307429",
       "id" : 17307429
+    }, {
+      "name" : "lenovo_uk",
+      "screen_name" : "lenovo_uk",
+      "indices" : [ 83, 93 ],
+      "id_str" : "2591497262",
+      "id" : 2591497262
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5595,10 +5577,6 @@ Grailbird.data.tweets_2013_12 =
       "id" : 410885189343404032,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbPB5xpIYAAEUb-.jpg",
       "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 816,
         "resize" : "fit",
         "w" : 612
@@ -5606,6 +5584,10 @@ Grailbird.data.tweets_2013_12 =
         "h" : 453,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 816,
         "resize" : "fit",
@@ -5642,7 +5624,7 @@ Grailbird.data.tweets_2013_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "LIFX Labs",
-      "screen_name" : "LIFXLabs",
+      "screen_name" : "LIFXlabs",
       "indices" : [ 26, 35 ],
       "id_str" : "2436277454",
       "id" : 2436277454
@@ -5855,21 +5837,21 @@ Grailbird.data.tweets_2013_12 =
       "id" : 410145603205603328,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbEhQMlCIAAgeMz.jpg",
       "sizes" : [ {
-        "h" : 450,
+        "h" : 255,
         "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 480,
-        "resize" : "fit",
-        "w" : 640
+        "w" : 340
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 255,
+        "h" : 480,
         "resize" : "fit",
-        "w" : 340
+        "w" : 640
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
       }, {
         "h" : 480,
         "resize" : "fit",
@@ -5909,21 +5891,21 @@ Grailbird.data.tweets_2013_12 =
         "id" : 410145603205603328,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbEhQMlCIAAgeMz.jpg",
         "sizes" : [ {
-          "h" : 450,
+          "h" : 255,
           "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 480,
-          "resize" : "fit",
-          "w" : 640
+          "w" : 340
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 255,
+          "h" : 480,
           "resize" : "fit",
-          "w" : 340
+          "w" : 640
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 600
         }, {
           "h" : 480,
           "resize" : "fit",
@@ -7122,11 +7104,11 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "18332190",
       "id" : 18332190
     }, {
-      "name" : "British Airways N.A.",
-      "screen_name" : "BritishAirways",
+      "name" : "British Airways",
+      "screen_name" : "britishairways",
       "indices" : [ 17, 32 ],
-      "id_str" : "9549352",
-      "id" : 9549352
+      "id_str" : "2653460185",
+      "id" : 2653460185
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7154,7 +7136,7 @@ Grailbird.data.tweets_2013_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "LIFX Labs",
-      "screen_name" : "LIFXLabs",
+      "screen_name" : "LIFXlabs",
       "indices" : [ 0, 9 ],
       "id_str" : "2436277454",
       "id" : 2436277454
@@ -7300,7 +7282,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "blueben",
       "protected" : false,
       "id_str" : "13734442",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2302990860\/jtb53055hw9dehlarkrx_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502910020304904193\/imk8nkuh_normal.jpeg",
       "id" : 13734442,
       "verified" : false
     }
@@ -7370,7 +7352,7 @@ Grailbird.data.tweets_2013_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "LIFX Labs",
-      "screen_name" : "LIFXLabs",
+      "screen_name" : "LIFXlabs",
       "indices" : [ 0, 9 ],
       "id_str" : "2436277454",
       "id" : 2436277454

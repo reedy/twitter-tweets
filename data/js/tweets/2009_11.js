@@ -117,7 +117,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinster",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -926,7 +926,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinster",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",

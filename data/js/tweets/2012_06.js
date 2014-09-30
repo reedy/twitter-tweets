@@ -1265,7 +1265,13 @@ Grailbird.data.tweets_2012_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "AskAmex_UK",
+      "screen_name" : "AskAmex_UK",
+      "indices" : [ 0, 11 ],
+      "id_str" : "2653178034",
+      "id" : 2653178034
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1739,6 +1745,12 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "AskAmex_UK",
+      "screen_name" : "AskAmex_UK",
+      "indices" : [ 26, 37 ],
+      "id_str" : "2653178034",
+      "id" : 2653178034
+    }, {
       "name" : "British Airways",
       "screen_name" : "British_Airways",
       "indices" : [ 40, 56 ],
@@ -6387,7 +6399,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ServersPlus",
+      "name" : "Servers Plus",
       "screen_name" : "ServersPlus",
       "indices" : [ 5, 17 ],
       "id_str" : "26977706",

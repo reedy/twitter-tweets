@@ -823,21 +823,21 @@ Grailbird.data.tweets_2012_09 =
       "id" : 251247945297580032,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A3ycrNICUAAFWX3.jpg",
       "sizes" : [ {
-        "h" : 360,
+        "h" : 255,
         "resize" : "fit",
-        "w" : 480
-      }, {
-        "h" : 360,
-        "resize" : "fit",
-        "w" : 480
+        "w" : 340
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 255,
+        "h" : 360,
         "resize" : "fit",
-        "w" : 340
+        "w" : 480
+      }, {
+        "h" : 360,
+        "resize" : "fit",
+        "w" : 480
       }, {
         "h" : 360,
         "resize" : "fit",
@@ -864,21 +864,21 @@ Grailbird.data.tweets_2012_09 =
         "id" : 251247945297580032,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A3ycrNICUAAFWX3.jpg",
         "sizes" : [ {
-          "h" : 360,
+          "h" : 255,
           "resize" : "fit",
-          "w" : 480
-        }, {
-          "h" : 360,
-          "resize" : "fit",
-          "w" : 480
+          "w" : 340
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 255,
+          "h" : 360,
           "resize" : "fit",
-          "w" : 340
+          "w" : 480
+        }, {
+          "h" : 360,
+          "resize" : "fit",
+          "w" : 480
         }, {
           "h" : 360,
           "resize" : "fit",
@@ -934,21 +934,21 @@ Grailbird.data.tweets_2012_09 =
       "id" : 251250430426902528,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A3ye729CcAAE43F.jpg",
       "sizes" : [ {
-        "h" : 360,
+        "h" : 255,
         "resize" : "fit",
-        "w" : 480
-      }, {
-        "h" : 360,
-        "resize" : "fit",
-        "w" : 480
+        "w" : 340
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 255,
+        "h" : 360,
         "resize" : "fit",
-        "w" : 340
+        "w" : 480
+      }, {
+        "h" : 360,
+        "resize" : "fit",
+        "w" : 480
       }, {
         "h" : 360,
         "resize" : "fit",
@@ -975,21 +975,21 @@ Grailbird.data.tweets_2012_09 =
         "id" : 251250430426902528,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A3ye729CcAAE43F.jpg",
         "sizes" : [ {
-          "h" : 360,
+          "h" : 255,
           "resize" : "fit",
-          "w" : 480
-        }, {
-          "h" : 360,
-          "resize" : "fit",
-          "w" : 480
+          "w" : 340
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 255,
+          "h" : 360,
           "resize" : "fit",
-          "w" : 340
+          "w" : 480
+        }, {
+          "h" : 360,
+          "resize" : "fit",
+          "w" : 480
         }, {
           "h" : 360,
           "resize" : "fit",
@@ -2839,7 +2839,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tomb Ghoulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2906,7 +2906,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "30261067",
       "id" : 30261067
     }, {
-      "name" : "Tom Goulden",
+      "name" : "Tomb Ghoulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 6, 21 ],
       "id_str" : "28117032",
@@ -3000,7 +3000,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tomb Ghoulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3033,7 +3033,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tomb Ghoulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3066,7 +3066,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tomb Ghoulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3099,7 +3099,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tomb Ghoulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3132,7 +3132,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tomb Ghoulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3485,13 +3485,9 @@ Grailbird.data.tweets_2012_09 =
       "id" : 246915317006213120,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A204LC_CIAAugPg.jpg",
       "sizes" : [ {
-        "h" : 1944,
+        "h" : 255,
         "resize" : "fit",
-        "w" : 2592
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
+        "w" : 340
       }, {
         "h" : 768,
         "resize" : "fit",
@@ -3501,9 +3497,13 @@ Grailbird.data.tweets_2012_09 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 255,
+        "h" : 450,
         "resize" : "fit",
-        "w" : 340
+        "w" : 600
+      }, {
+        "h" : 1944,
+        "resize" : "fit",
+        "w" : 2592
       } ],
       "display_url" : "pic.twitter.com\/2uloRKME"
     } ],
@@ -3695,7 +3695,7 @@ Grailbird.data.tweets_2012_09 =
         "resize" : "fit",
         "w" : 720
       }, {
-        "h" : 1067,
+        "h" : 1066,
         "resize" : "fit",
         "w" : 600
       } ],
@@ -3912,39 +3912,6 @@ Grailbird.data.tweets_2012_09 =
   },
   "in_reply_to_status_id_str" : "246806457616580608",
   "geo" : { },
-  "id_str" : "246822616919318528",
-  "in_reply_to_user_id" : 22536055,
-  "text" : "@AmericanAir Going to miss my 08:45 out of JFK though!",
-  "id" : 246822616919318528,
-  "in_reply_to_status_id" : 246806457616580608,
-  "created_at" : "2012-09-15 04:07:52 +0000",
-  "in_reply_to_screen_name" : "AmericanAir",
-  "in_reply_to_user_id_str" : "22536055",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "American Airlines",
-      "screen_name" : "AmericanAir",
-      "indices" : [ 0, 12 ],
-      "id_str" : "22536055",
-      "id" : 22536055
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "246806457616580608",
-  "geo" : { },
   "id_str" : "246822616931917824",
   "in_reply_to_user_id" : 22536055,
   "text" : "@AmericanAir Ah, cool. Not too bad then, eh? Though a 767 for SFO to LAX seems overkill ;)",
@@ -4000,6 +3967,39 @@ Grailbird.data.tweets_2012_09 =
   "text" : "Do some (gay) guys purposely try to make themselves look like Lesbians? #fb",
   "id" : 246822617242279936,
   "created_at" : "2012-09-15 04:07:52 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "American Airlines",
+      "screen_name" : "AmericanAir",
+      "indices" : [ 0, 12 ],
+      "id_str" : "22536055",
+      "id" : 22536055
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "246806457616580608",
+  "geo" : { },
+  "id_str" : "246822616919318528",
+  "in_reply_to_user_id" : 22536055,
+  "text" : "@AmericanAir Going to miss my 08:45 out of JFK though!",
+  "id" : 246822616919318528,
+  "in_reply_to_status_id" : 246806457616580608,
+  "created_at" : "2012-09-15 04:07:52 +0000",
+  "in_reply_to_screen_name" : "AmericanAir",
+  "in_reply_to_user_id_str" : "22536055",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5832,7 +5832,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "utorrent",
       "protected" : false,
       "id_str" : "31284372",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464921446569897984\/quFq2pfT_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512281835389210624\/jEJO9PsZ_normal.png",
       "id" : 31284372,
       "verified" : false
     }
@@ -6480,7 +6480,13 @@ Grailbird.data.tweets_2012_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "thedevilsagent",
+      "screen_name" : "AgentoftheDevil",
+      "indices" : [ 0, 16 ],
+      "id_str" : "2742867481",
+      "id" : 2742867481
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6533,7 +6539,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(INT)Jeroen De Dauw",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",

@@ -299,7 +299,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(INT)Jeroen De Dauw",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -1762,7 +1762,7 @@ Grailbird.data.tweets_2011_04 =
     "user" : {
       "name" : "Joseph ",
       "screen_name" : "dueledge",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "25743312",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000511438505\/402dfc40d176adc5410419c8f51d315a_normal.jpeg",
       "id" : 25743312,
@@ -2624,7 +2624,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinster",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -2712,7 +2712,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinster",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -2869,7 +2869,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinster",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -2931,7 +2931,7 @@ Grailbird.data.tweets_2011_04 =
     "user" : {
       "name" : "Joseph ",
       "screen_name" : "dueledge",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "25743312",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000511438505\/402dfc40d176adc5410419c8f51d315a_normal.jpeg",
       "id" : 25743312,

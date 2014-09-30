@@ -1590,7 +1590,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "bugzilla",
       "protected" : false,
       "id_str" : "202960752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459135124072697856\/FCiVMRPO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504843871386206209\/osfnPuRC_normal.png",
       "id" : 202960752,
       "verified" : false
     }
@@ -3253,7 +3253,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinster",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 7, 15 ],
       "id_str" : "14355014",
@@ -3430,7 +3430,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "bugzilla",
       "protected" : false,
       "id_str" : "202960752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459135124072697856\/FCiVMRPO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504843871386206209\/osfnPuRC_normal.png",
       "id" : 202960752,
       "verified" : false
     }
@@ -3541,7 +3541,7 @@ Grailbird.data.tweets_2010_12 =
     "user" : {
       "name" : "Joseph ",
       "screen_name" : "dueledge",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "25743312",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000511438505\/402dfc40d176adc5410419c8f51d315a_normal.jpeg",
       "id" : 25743312,
@@ -3844,7 +3844,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinster",
+      "name" : "Shin",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -4061,7 +4061,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "stephenfry",
       "protected" : false,
       "id_str" : "15439395",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468385513637171200\/P-D8j7Ly_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504060630450438144\/3tEN_Y7C_normal.png",
       "id" : 15439395,
       "verified" : true
     }
@@ -4844,7 +4844,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0413\u0430\u043D\u043D\u0443\u0448\u043A\u0438\u043D \u0413\u043B\u0435\u0431",
+      "name" : "capn_b",
       "screen_name" : "capn_b",
       "indices" : [ 0, 7 ],
       "id_str" : "2512205546",

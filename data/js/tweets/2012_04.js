@@ -3,7 +3,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tomb Ghoulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1319,25 +1319,25 @@ Grailbird.data.tweets_2012_04 =
       "id" : 190896599172513792,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AqYzcg6CAAAbH_M.jpg",
       "sizes" : [ {
-        "h" : 359,
+        "h" : 1952,
         "resize" : "fit",
-        "w" : 600
+        "w" : 3264
       }, {
         "h" : 612,
         "resize" : "fit",
         "w" : 1024
       }, {
-        "h" : 1952,
+        "h" : 203,
         "resize" : "fit",
-        "w" : 3264
+        "w" : 340
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 203,
+        "h" : 358,
         "resize" : "fit",
-        "w" : 340
+        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/RIGYflK6"
     } ],
