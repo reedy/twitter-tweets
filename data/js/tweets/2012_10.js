@@ -253,7 +253,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "14735827",
       "id" : 14735827
     }, {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 15, 30 ],
       "id_str" : "28117032",
@@ -470,7 +470,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "14735827",
       "id" : 14735827
     }, {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 79, 94 ],
       "id_str" : "28117032",
@@ -1155,7 +1155,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -1732,7 +1732,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "AngryBirds",
       "protected" : false,
       "id_str" : "17337554",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/516648778309185536\/i9YCdudq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545557591078612992\/MS-nzRM6_normal.png",
       "id" : 17337554,
       "verified" : true
     }
@@ -2083,7 +2083,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "224180785",
       "id" : 224180785
     }, {
-      "name" : "Get Games",
+      "name" : "Get Games Go",
       "screen_name" : "Get_Games",
       "indices" : [ 28, 38 ],
       "id_str" : "80626344",
@@ -2855,7 +2855,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David",
+      "name" : "Holiday David",
       "screen_name" : "David_ONeill_",
       "indices" : [ 0, 14 ],
       "id_str" : "20401912",
@@ -3042,7 +3042,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "johannhari101",
       "protected" : false,
       "id_str" : "78890225",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000549561478\/85ccec3cc4a2aee6755f5993a5a1ff67_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/518884170139844609\/OYCFMdkk_normal.jpeg",
       "id" : 78890225,
       "verified" : true
     }
@@ -3325,7 +3325,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474300934151888896\/2DhDFkl6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545562668568821760\/Gw-1wQ_V_normal.png",
       "id" : 16170178,
       "verified" : false
     }
@@ -4217,7 +4217,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "Fon",
       "protected" : false,
       "id_str" : "28318016",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3303923220\/ae2092d20afe2b749560f33783fa3eaa_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528184589101961216\/Ipa2QbC3_normal.png",
       "id" : 28318016,
       "verified" : false
     }

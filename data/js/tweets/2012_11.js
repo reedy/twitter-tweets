@@ -53,7 +53,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amazon UK",
+      "name" : "Amazon.co.uk",
       "screen_name" : "AmazonUK",
       "indices" : [ 4, 13 ],
       "id_str" : "209004862",
@@ -84,7 +84,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 1, 16 ],
       "id_str" : "28117032",
@@ -118,7 +118,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "1856171",
       "id" : 1856171
     }, {
-      "name" : "Amazon UK",
+      "name" : "Amazon.co.uk",
       "screen_name" : "AmazonUK",
       "indices" : [ 9, 18 ],
       "id_str" : "209004862",
@@ -157,7 +157,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "1856171",
       "id" : 1856171
     }, {
-      "name" : "Amazon UK",
+      "name" : "Amazon.co.uk",
       "screen_name" : "AmazonUK",
       "indices" : [ 9, 18 ],
       "id_str" : "209004862",
@@ -196,7 +196,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "1856171",
       "id" : 1856171
     }, {
-      "name" : "Amazon UK",
+      "name" : "Amazon.co.uk",
       "screen_name" : "AmazonUK",
       "indices" : [ 9, 18 ],
       "id_str" : "209004862",
@@ -229,7 +229,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 55, 70 ],
       "id_str" : "28117032",
@@ -399,7 +399,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amazon UK",
+      "name" : "Amazon.co.uk",
       "screen_name" : "AmazonUK",
       "indices" : [ 94, 103 ],
       "id_str" : "209004862",
@@ -488,7 +488,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 9, 24 ],
       "id_str" : "28117032",
@@ -1084,7 +1084,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "Ebuyer",
       "protected" : false,
       "id_str" : "20662765",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438704759671762944\/BGbcdimC_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532840755031597057\/tc2CkSI8_normal.jpeg",
       "id" : 20662765,
       "verified" : false
     }
@@ -2815,7 +2815,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3540,7 +3540,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3970,7 +3970,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -4205,7 +4205,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -4329,7 +4329,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -4779,7 +4779,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "14735827",
       "id" : 14735827
     }, {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 15, 30 ],
       "id_str" : "28117032",
@@ -4818,7 +4818,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "14735827",
       "id" : 14735827
     }, {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 15, 30 ],
       "id_str" : "28117032",

@@ -533,7 +533,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2661rta",
+      "name" : "\u2744rta",
       "screen_name" : "orta",
       "indices" : [ 3, 8 ],
       "id_str" : "2569881",
@@ -560,11 +560,11 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21579340961,
     "created_at" : "2010-08-19 13:59:33 +0000",
     "user" : {
-      "name" : "\u2661rta",
+      "name" : "\u2744rta",
       "screen_name" : "orta",
       "protected" : false,
       "id_str" : "2569881",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/488439165693231104\/aYJROysr_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549202886253887488\/iFw5zrSw_normal.jpeg",
       "id" : 2569881,
       "verified" : false
     }
@@ -2532,7 +2532,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "jhooks",
       "protected" : false,
       "id_str" : "12087242",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423527194124509184\/uYsxtf2r_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530034905544015872\/7mfqnuII_normal.jpeg",
       "id" : 12087242,
       "verified" : false
     }
@@ -2987,7 +2987,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "olivarrr",
       "protected" : false,
       "id_str" : "33717982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505768000130408448\/jTDQb6Of_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546249834039377920\/U9e8GgnS_normal.jpeg",
       "id" : 33717982,
       "verified" : false
     }

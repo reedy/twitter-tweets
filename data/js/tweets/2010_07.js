@@ -188,7 +188,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "DabsDotCom",
       "protected" : false,
       "id_str" : "87428004",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2328398154\/7utfqqovxhsdkoxp0ca0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539347732700209152\/XLhxpE22_normal.jpeg",
       "id" : 87428004,
       "verified" : false
     }
@@ -655,7 +655,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "115181416",
       "id" : 115181416
     }, {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 59, 67 ],
       "id_str" : "14355014",

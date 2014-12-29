@@ -36,7 +36,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2661rta",
+      "name" : "\u2744rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -102,7 +102,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2661rta",
+      "name" : "\u2744rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -194,7 +194,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2661rta",
+      "name" : "\u2744rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -672,7 +672,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -1172,7 +1172,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -1332,7 +1332,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "dymonaz",
       "protected" : false,
       "id_str" : "23543141",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/94455011\/148231151284439_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528626780148469760\/0kmxRYiA_normal.jpeg",
       "id" : 23543141,
       "verified" : false
     }
@@ -2309,7 +2309,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "tweeting_keith",
       "protected" : false,
       "id_str" : "20326811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/516140892051496960\/OpxKS3sk_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545075243774394368\/9YV47T6j_normal.jpeg",
       "id" : 20326811,
       "verified" : false
     }
@@ -3038,7 +3038,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "DabsDotCom",
       "protected" : false,
       "id_str" : "87428004",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2328398154\/7utfqqovxhsdkoxp0ca0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539347732700209152\/XLhxpE22_normal.jpeg",
       "id" : 87428004,
       "verified" : false
     }
@@ -3064,7 +3064,7 @@ Grailbird.data.tweets_2011_02 =
       "id_str" : "19058966",
       "id" : 19058966
     }, {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 17, 25 ],
       "id_str" : "14355014",
@@ -3087,7 +3087,7 @@ Grailbird.data.tweets_2011_02 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Shin",
+        "name" : "Shinsters",
         "screen_name" : "shinaku",
         "indices" : [ 0, 8 ],
         "id_str" : "14355014",
@@ -3839,7 +3839,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dmose",
+      "name" : "Dan Mosedale",
       "screen_name" : "dmose",
       "indices" : [ 3, 9 ],
       "id_str" : "14888033",
@@ -3876,7 +3876,7 @@ Grailbird.data.tweets_2011_02 =
     "id" : 32567867538939904,
     "created_at" : "2011-02-01 22:35:59 +0000",
     "user" : {
-      "name" : "dmose",
+      "name" : "Dan Mosedale",
       "screen_name" : "dmose",
       "protected" : false,
       "id_str" : "14888033",

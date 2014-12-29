@@ -896,7 +896,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -2243,7 +2243,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "17679727",
       "id" : 17679727
     }, {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 11, 26 ],
       "id_str" : "28117032",

@@ -716,7 +716,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amazon UK",
+      "name" : "Amazon.co.uk",
       "screen_name" : "AmazonUK",
       "indices" : [ 0, 9 ],
       "id_str" : "209004862",
@@ -1633,7 +1633,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Humble",
+      "name" : "Humble Bundle",
       "screen_name" : "humble",
       "indices" : [ 5, 12 ],
       "id_str" : "11167502",
@@ -2826,7 +2826,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "20583184",
       "id" : 20583184
     }, {
-      "name" : "El_MUERkO",
+      "name" : "el muerte!",
       "screen_name" : "El_MUERkO",
       "indices" : [ 16, 26 ],
       "id_str" : "17177336",

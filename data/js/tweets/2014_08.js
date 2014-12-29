@@ -36,7 +36,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.amazon.com\" rel=\"nofollow\"\u003EAmazon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amazon UK",
+      "name" : "Amazon.co.uk",
       "screen_name" : "AmazonUK",
       "indices" : [ 73, 82 ],
       "id_str" : "209004862",
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "RDGluck",
       "protected" : false,
       "id_str" : "62607006",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/497860614488743936\/d9TvCzGi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542861498435903489\/9fcdo41D_normal.png",
       "id" : 62607006,
       "verified" : false
     }
@@ -1850,7 +1850,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "1856171",
       "id" : 1856171
     }, {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 9, 17 ],
       "id_str" : "14355014",
@@ -1883,7 +1883,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -1916,7 +1916,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -2196,7 +2196,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "1445485549",
       "id" : 1445485549
     }, {
-      "name" : "Humble",
+      "name" : "Humble Bundle",
       "screen_name" : "humble",
       "indices" : [ 14, 21 ],
       "id_str" : "11167502",
@@ -2306,7 +2306,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Humble",
+      "name" : "Humble Bundle",
       "screen_name" : "humble",
       "indices" : [ 6, 13 ],
       "id_str" : "11167502",
@@ -3106,7 +3106,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "#",
+      "name" : "gg",
       "screen_name" : "gg_free_sim",
       "indices" : [ 0, 12 ],
       "id_str" : "2542128180",

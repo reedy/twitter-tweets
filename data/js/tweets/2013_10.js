@@ -3792,7 +3792,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "willtudor1",
       "protected" : false,
       "id_str" : "216641289",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000707181109\/d6f3a1878beba7fd343ee01dbe398897_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/522732268176293888\/XkQ5MBf8_normal.jpeg",
       "id" : 216641289,
       "verified" : false
     }
@@ -3906,7 +3906,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -4743,7 +4743,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "531430869",
       "id" : 531430869
     }, {
-      "name" : "getadtrap",
+      "name" : "AdTrap",
       "screen_name" : "getadtrap",
       "indices" : [ 23, 33 ],
       "id_str" : "944961788",
@@ -5049,7 +5049,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "getadtrap",
+      "name" : "AdTrap",
       "screen_name" : "getadtrap",
       "indices" : [ 0, 10 ],
       "id_str" : "944961788",
@@ -5234,7 +5234,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -6392,7 +6392,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kindacromulent",
+      "name" : "Liam",
       "screen_name" : "kindacromulent",
       "indices" : [ 0, 15 ],
       "id_str" : "155286834",
@@ -6912,7 +6912,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -6945,7 +6945,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -6978,7 +6978,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 35, 43 ],
       "id_str" : "14355014",

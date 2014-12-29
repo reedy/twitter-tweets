@@ -959,7 +959,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "Kiwi_Si",
       "protected" : false,
       "id_str" : "779050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/427866219471855616\/zjtZDU9a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540814878282248192\/vdgMo-P4_normal.jpeg",
       "id" : 779050,
       "verified" : false
     }
@@ -1057,7 +1057,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "28587521",
       "id" : 28587521
     }, {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 50, 58 ],
       "id_str" : "14355014",
@@ -1403,7 +1403,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phil",
+      "name" : "Phil Cooper",
       "screen_name" : "philcooper",
       "indices" : [ 0, 11 ],
       "id_str" : "374713833",
@@ -2215,7 +2215,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "1856171",
       "id" : 1856171
     }, {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 9, 17 ],
       "id_str" : "14355014",
@@ -2473,7 +2473,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "28587521",
       "id" : 28587521
     }, {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 12, 20 ],
       "id_str" : "14355014",
@@ -2557,7 +2557,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -3126,7 +3126,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Yetanotherx",
+      "name" : "YetanotherXMAS",
       "screen_name" : "yetanotherx",
       "indices" : [ 0, 12 ],
       "id_str" : "187671148",
@@ -3249,7 +3249,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "19058966",
       "id" : 19058966
     }, {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 13, 21 ],
       "id_str" : "14355014",
@@ -3282,7 +3282,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -3348,7 +3348,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",

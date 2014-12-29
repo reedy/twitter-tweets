@@ -3142,7 +3142,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "d0od",
       "protected" : false,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514109000376270848\/N7gfLX5q_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538152548050272256\/easJ3FIT_normal.jpeg",
       "id" : 14822382,
       "verified" : false
     }
@@ -5691,7 +5691,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "d0od",
       "protected" : false,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514109000376270848\/N7gfLX5q_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538152548050272256\/easJ3FIT_normal.jpeg",
       "id" : 14822382,
       "verified" : false
     }
@@ -6755,6 +6755,12 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 0, 4 ],
       "id_str" : "15818391",
       "id" : 15818391
+    }, {
+      "name" : "\u30B1\u30D0\u30D6(HTC\u7523)",
+      "screen_name" : "htc_eu",
+      "indices" : [ 5, 12 ],
+      "id_str" : "2892620869",
+      "id" : 2892620869
     } ],
     "media" : [ ],
     "hashtags" : [ ],

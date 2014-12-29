@@ -896,7 +896,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shin",
+      "name" : "Shinsters",
       "screen_name" : "shinaku",
       "indices" : [ 3, 11 ],
       "id_str" : "14355014",
@@ -1229,7 +1229,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "Caius",
       "protected" : false,
       "id_str" : "5857812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000265678874\/cd5f869bce7b6fd9479510c404e0a136_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539377622825070592\/MgkNo-5j_normal.jpeg",
       "id" : 5857812,
       "verified" : false
     }
@@ -2749,7 +2749,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514208158164606976\/StW5HpoW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542695769992486912\/3pFkS3kj_normal.jpeg",
       "id" : 94178695,
       "verified" : false
     }
@@ -3946,7 +3946,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514208158164606976\/StW5HpoW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542695769992486912\/3pFkS3kj_normal.jpeg",
       "id" : 94178695,
       "verified" : false
     }
@@ -4305,7 +4305,13 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u30B1\u30D0\u30D6(HTC\u7523)",
+      "screen_name" : "htc_eu",
+      "indices" : [ 0, 7 ],
+      "id_str" : "2892620869",
+      "id" : 2892620869
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

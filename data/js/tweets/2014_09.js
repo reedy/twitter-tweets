@@ -1,5 +1,103 @@
 Grailbird.data.tweets_2014_09 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "SCS Software",
+      "screen_name" : "SCSsoftware",
+      "indices" : [ 0, 12 ],
+      "id_str" : "88707477",
+      "id" : 88707477
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "517067145696788480",
+  "in_reply_to_user_id" : 88707477,
+  "text" : "@SCSsoftware Should achievements already attained unlock automatically upon loading a prior save game? Mine haven't :(",
+  "id" : 517067145696788480,
+  "created_at" : "2014-09-30 21:43:08 +0000",
+  "in_reply_to_screen_name" : "SCSsoftware",
+  "in_reply_to_user_id_str" : "88707477",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mark Parnwell",
+      "screen_name" : "MarkParnwell",
+      "indices" : [ 0, 13 ],
+      "id_str" : "19649656",
+      "id" : 19649656
+    }, {
+      "name" : "Solwise",
+      "screen_name" : "Solwise",
+      "indices" : [ 14, 22 ],
+      "id_str" : "19596204",
+      "id" : 19596204
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "516900304600969216",
+  "geo" : { },
+  "id_str" : "516962940680146944",
+  "in_reply_to_user_id" : 19649656,
+  "text" : "@MarkParnwell @Solwise Perfect, thanks! Just what you want to hear :)",
+  "id" : 516962940680146944,
+  "in_reply_to_status_id" : 516900304600969216,
+  "created_at" : "2014-09-30 14:49:04 +0000",
+  "in_reply_to_screen_name" : "MarkParnwell",
+  "in_reply_to_user_id_str" : "19649656",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Quickline",
+      "screen_name" : "QuicklineUK",
+      "indices" : [ 7, 19 ],
+      "id_str" : "186134628",
+      "id" : 186134628
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "516962764347416576",
+  "text" : "Failed @QuicklineUK install at my parents today :(",
+  "id" : 516962764347416576,
+  "created_at" : "2014-09-30 14:48:22 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -223,7 +321,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "jonty",
       "protected" : false,
       "id_str" : "1856851",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/457949920754823168\/7fZgU1iD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/524976295944286208\/5ZWNWSAm_normal.jpeg",
       "id" : 1856851,
       "verified" : false
     }
@@ -392,7 +490,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kindacromulent",
+      "name" : "Liam",
       "screen_name" : "kindacromulent",
       "indices" : [ 0, 15 ],
       "id_str" : "155286834",
@@ -425,7 +523,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kindacromulent",
+      "name" : "Liam",
       "screen_name" : "kindacromulent",
       "indices" : [ 0, 15 ],
       "id_str" : "155286834",
@@ -1016,7 +1114,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Jennings ",
+      "name" : "Chris Jennings",
       "screen_name" : "chrsphr",
       "indices" : [ 0, 8 ],
       "id_str" : "7790832",
@@ -2047,7 +2145,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2821,7 +2919,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "getadtrap",
+      "name" : "AdTrap",
       "screen_name" : "getadtrap",
       "indices" : [ 6, 16 ],
       "id_str" : "944961788",

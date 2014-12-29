@@ -960,7 +960,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -993,7 +993,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomb Ghoulden",
+      "name" : "FIVE GOULDEN RINGS",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1273,7 +1273,7 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "13334762",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426158315781881856\/sBsvBbjY_normal.png",
       "id" : 13334762,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 127227976881422336,
@@ -2416,7 +2416,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "engadget",
       "protected" : false,
       "id_str" : "14372486",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/497881598939783168\/9y3tRSqv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528440858517852160\/I1FWOb9q_normal.jpeg",
       "id" : 14372486,
       "verified" : true
     }
@@ -2645,6 +2645,12 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 0, 4 ],
       "id_str" : "15818391",
       "id" : 15818391
+    }, {
+      "name" : "\u30B1\u30D0\u30D6(HTC\u7523)",
+      "screen_name" : "htc_eu",
+      "indices" : [ 5, 12 ],
+      "id_str" : "2892620869",
+      "id" : 2892620869
     } ],
     "media" : [ ],
     "hashtags" : [ ],
