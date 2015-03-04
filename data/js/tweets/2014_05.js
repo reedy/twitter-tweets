@@ -1934,7 +1934,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "helen_hollins",
       "protected" : false,
       "id_str" : "1082287658",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525887340640628736\/_DNHewfi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571839806600171520\/mL7_o9OZ_normal.jpeg",
       "id" : 1082287658,
       "verified" : false
     }
@@ -2955,6 +2955,28 @@ Grailbird.data.tweets_2014_05 =
   "text" : "When did undertaking become legal?",
   "id" : 461828230199386112,
   "created_at" : "2014-05-01 11:23:25 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "461639281711538176",
+  "text" : "Think I need to find some stronger cough medicine. Codeine based?",
+  "id" : 461639281711538176,
+  "created_at" : "2014-04-30 22:52:36 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

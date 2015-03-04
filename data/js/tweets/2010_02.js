@@ -36,57 +36,6 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug Winter",
-      "screen_name" : "winjer",
-      "indices" : [ 3, 10 ],
-      "id_str" : "957411",
-      "id" : 957411
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9781203389",
-  "text" : "RT @winjer: oh dear, this is a proper noob error http:\/\/bit.ly\/a0SgrA",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "9771011599",
-    "text" : "oh dear, this is a proper noob error http:\/\/bit.ly\/a0SgrA",
-    "id" : 9771011599,
-    "created_at" : "2010-02-28 09:43:30 +0000",
-    "user" : {
-      "name" : "Doug Winter",
-      "screen_name" : "winjer",
-      "protected" : false,
-      "id_str" : "957411",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/523537554734612481\/khLLw2uB_normal.jpeg",
-      "id" : 957411,
-      "verified" : false
-    }
-  },
-  "id" : 9781203389,
-  "created_at" : "2010-02-28 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Phil Cluff",
       "screen_name" : "GeneticGenesis",
       "indices" : [ 0, 15 ],
@@ -145,7 +94,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2744rta",
+      "name" : "\u00D8rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -233,6 +182,12 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "KarooBroadband",
+      "screen_name" : "KarooBroadband",
+      "indices" : [ 3, 18 ],
+      "id_str" : "356720556",
+      "id" : 356720556
+    }, {
       "name" : "Raymond Mcfee",
       "screen_name" : "Raymond_Mcfee",
       "indices" : [ 50, 64 ],
@@ -473,57 +428,6 @@ Grailbird.data.tweets_2010_02 =
   },
   "id" : 9598642059,
   "created_at" : "2010-02-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Alex 'Rantchards'",
-      "screen_name" : "spr33",
-      "indices" : [ 3, 9 ],
-      "id_str" : "8596732",
-      "id" : 8596732
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9523628398",
-  "text" : "RT @spr33: Tech heads: https:\/\/www.dabs.com\/formviewer.aspx?formid=event2010 - free tickets to a tech event in Manchester and London.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "9487496441",
-    "text" : "Tech heads: https:\/\/www.dabs.com\/formviewer.aspx?formid=event2010 - free tickets to a tech event in Manchester and London.",
-    "id" : 9487496441,
-    "created_at" : "2010-02-22 18:36:06 +0000",
-    "user" : {
-      "name" : "Alex 'Rantchards'",
-      "screen_name" : "spr33",
-      "protected" : false,
-      "id_str" : "8596732",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3356806230\/3b1a9c110b07e10492b8398cd8248548_normal.jpeg",
-      "id" : 8596732,
-      "verified" : false
-    }
-  },
-  "id" : 9523628398,
-  "created_at" : "2010-02-23 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -990,13 +894,13 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2744rta",
+      "name" : "\u00D8rta",
       "screen_name" : "orta",
       "indices" : [ 3, 8 ],
       "id_str" : "2569881",
       "id" : 2569881
     }, {
-      "name" : "Doug Winter",
+      "name" : "Doug ",
       "screen_name" : "winjer",
       "indices" : [ 13, 20 ],
       "id_str" : "957411",
@@ -1019,7 +923,7 @@ Grailbird.data.tweets_2010_02 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Doug Winter",
+        "name" : "Doug ",
         "screen_name" : "winjer",
         "indices" : [ 3, 10 ],
         "id_str" : "957411",
@@ -1041,7 +945,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9327933130,
     "created_at" : "2010-02-19 09:36:22 +0000",
     "user" : {
-      "name" : "\u2744rta",
+      "name" : "\u00D8rta",
       "screen_name" : "orta",
       "protected" : false,
       "id_str" : "2569881",
@@ -1830,7 +1734,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "Kiwi_Si",
       "protected" : false,
       "id_str" : "779050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540814878282248192\/vdgMo-P4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552034434744987648\/uIHxviZq_normal.jpeg",
       "id" : 779050,
       "verified" : false
     }
@@ -2983,7 +2887,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "shinaku",
       "protected" : false,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541379248376664064\/18nCT93f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/573092588640718848\/Npa1imxc_normal.jpeg",
       "id" : 14355014,
       "verified" : false
     }

@@ -2005,27 +2005,16 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Parking Tickets",
-      "screen_name" : "AppealTickets",
-      "indices" : [ 0, 14 ],
-      "id_str" : "2291558152",
-      "id" : 2291558152
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "523492550322442241",
   "geo" : { },
   "id_str" : "523493405876555776",
-  "in_reply_to_user_id" : 2291558152,
   "text" : "@AppealTickets I'm planning on. I only just got it, so got a fair amount of time",
   "id" : 523493405876555776,
-  "in_reply_to_status_id" : 523492550322442241,
   "created_at" : "2014-10-18 15:18:48 +0000",
-  "in_reply_to_screen_name" : "AppealTickets",
-  "in_reply_to_user_id_str" : "2291558152",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2513,12 +2502,6 @@ Grailbird.data.tweets_2014_10 =
       "indices" : [ 40, 52 ],
       "id_str" : "314706473",
       "id" : 314706473
-    }, {
-      "name" : "Parking Tickets",
-      "screen_name" : "AppealTickets",
-      "indices" : [ 53, 67 ],
-      "id_str" : "2291558152",
-      "id" : 2291558152
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3280,7 +3263,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "207420832",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000320489032\/de3e85bc0360c9ff6fb92933f4aa02d0_normal.jpeg",
       "id" : 207420832,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 522046518044659713,
@@ -3626,7 +3609,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "207420832",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000320489032\/de3e85bc0360c9ff6fb92933f4aa02d0_normal.jpeg",
       "id" : 207420832,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 521623101030027264,
@@ -4818,7 +4801,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo ",
+      "name" : "Lenovo at #MWC15",
       "screen_name" : "lenovo",
       "indices" : [ 12, 19 ],
       "id_str" : "17307429",

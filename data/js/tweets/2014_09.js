@@ -689,7 +689,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Samsonite",
+      "name" : "Samsonite US",
       "screen_name" : "Samsonite",
       "indices" : [ 0, 10 ],
       "id_str" : "109345097",
@@ -2145,7 +2145,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3372,11 +3372,11 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack",
+      "name" : "\u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u0424\u0435\u0434\u043E\u0441\u0435\u0435\u0432",
       "screen_name" : "jerkberkerrr",
       "indices" : [ 0, 13 ],
-      "id_str" : "6974832",
-      "id" : 6974832
+      "id_str" : "1208508882",
+      "id" : 1208508882
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3390,7 +3390,7 @@ Grailbird.data.tweets_2014_09 =
   "id" : 509088812203769857,
   "in_reply_to_status_id" : 509088498524360704,
   "created_at" : "2014-09-08 21:20:05 +0000",
-  "in_reply_to_screen_name" : "jerkberkerrr",
+  "in_reply_to_screen_name" : "jckbkrrr",
   "in_reply_to_user_id_str" : "6974832",
   "user" : {
     "name" : "Sam Reed",
@@ -3405,11 +3405,11 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack",
+      "name" : "\u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u0424\u0435\u0434\u043E\u0441\u0435\u0435\u0432",
       "screen_name" : "jerkberkerrr",
       "indices" : [ 0, 13 ],
-      "id_str" : "6974832",
-      "id" : 6974832
+      "id_str" : "1208508882",
+      "id" : 1208508882
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3423,7 +3423,7 @@ Grailbird.data.tweets_2014_09 =
   "id" : 509088432233385986,
   "in_reply_to_status_id" : 509087592370147328,
   "created_at" : "2014-09-08 21:18:35 +0000",
-  "in_reply_to_screen_name" : "jerkberkerrr",
+  "in_reply_to_screen_name" : "jckbkrrr",
   "in_reply_to_user_id_str" : "6974832",
   "user" : {
     "name" : "Sam Reed",
@@ -3438,11 +3438,11 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack",
+      "name" : "\u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u0424\u0435\u0434\u043E\u0441\u0435\u0435\u0432",
       "screen_name" : "jerkberkerrr",
       "indices" : [ 0, 13 ],
-      "id_str" : "6974832",
-      "id" : 6974832
+      "id_str" : "1208508882",
+      "id" : 1208508882
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3456,7 +3456,7 @@ Grailbird.data.tweets_2014_09 =
   "id" : 509087151720775680,
   "in_reply_to_status_id" : 509087065322315776,
   "created_at" : "2014-09-08 21:13:30 +0000",
-  "in_reply_to_screen_name" : "jerkberkerrr",
+  "in_reply_to_screen_name" : "jckbkrrr",
   "in_reply_to_user_id_str" : "6974832",
   "user" : {
     "name" : "Sam Reed",
@@ -3471,11 +3471,11 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack",
+      "name" : "\u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u0424\u0435\u0434\u043E\u0441\u0435\u0435\u0432",
       "screen_name" : "jerkberkerrr",
       "indices" : [ 0, 13 ],
-      "id_str" : "6974832",
-      "id" : 6974832
+      "id_str" : "1208508882",
+      "id" : 1208508882
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3489,7 +3489,7 @@ Grailbird.data.tweets_2014_09 =
   "id" : 509087104102858752,
   "in_reply_to_status_id" : 509087065322315776,
   "created_at" : "2014-09-08 21:13:18 +0000",
-  "in_reply_to_screen_name" : "jerkberkerrr",
+  "in_reply_to_screen_name" : "jckbkrrr",
   "in_reply_to_user_id_str" : "6974832",
   "user" : {
     "name" : "Sam Reed",

@@ -110,7 +110,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "AndroidPolice",
       "protected" : false,
       "id_str" : "98335997",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913338263\/AndroidPolice_logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563109834988335104\/mYPfSB_b_normal.png",
       "id" : 98335997,
       "verified" : false
     }
@@ -1835,7 +1835,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1868,7 +1868,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1962,7 +1962,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1995,7 +1995,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2061,7 +2061,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2271,7 +2271,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2744rta",
+      "name" : "\u00D8rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -2931,7 +2931,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2970,7 +2970,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3009,7 +3009,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 3, 18 ],
       "id_str" : "28117032",
@@ -3060,7 +3060,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 358127186932273152,
     "created_at" : "2013-07-19 07:32:29 +0000",
     "user" : {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "protected" : false,
       "id_str" : "28117032",
@@ -3597,7 +3597,13 @@ Grailbird.data.tweets_2013_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Surgeon Sim 2013",
+      "screen_name" : "SurgeonSim2013",
+      "indices" : [ 3, 18 ],
+      "id_str" : "2361478832",
+      "id" : 2361478832
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -3667,7 +3673,7 @@ Grailbird.data.tweets_2013_07 =
     } ],
     "media" : [ {
       "expanded_url" : "http:\/\/twitter.com\/flySFO\/status\/355849512549482496\/photo\/1",
-      "indices" : [ 139, 140 ],
+      "indices" : [ 121, 140 ],
       "url" : "http:\/\/t.co\/oQJjibGQ7e",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BPA7Pw1CAAIUh5a.jpg",
       "id_str" : "355849512553676802",
@@ -5831,6 +5837,67 @@ Grailbird.data.tweets_2013_07 =
   "created_at" : "2013-06-30 23:04:59 +0000",
   "in_reply_to_screen_name" : "GeneticGenesis",
   "in_reply_to_user_id_str" : "22054297",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "351471596369752066",
+  "text" : "Dear iPlayer, how \"soon after\" is \"available soon after\"? Kthx",
+  "id" : 351471596369752066,
+  "created_at" : "2013-06-30 22:45:33 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Awkward Grindr",
+      "screen_name" : "AwkwardGrindr",
+      "indices" : [ 0, 14 ],
+      "id_str" : "549608648",
+      "id" : 549608648
+    }, {
+      "name" : "Danny Townsend",
+      "screen_name" : "Dannyt147",
+      "indices" : [ 15, 25 ],
+      "id_str" : "177680156",
+      "id" : 177680156
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "351436629535236098",
+  "geo" : { },
+  "id_str" : "351437588269236224",
+  "in_reply_to_user_id" : 549608648,
+  "text" : "@AwkwardGrindr @Dannyt147 More safely? ;)",
+  "id" : 351437588269236224,
+  "in_reply_to_status_id" : 351436629535236098,
+  "created_at" : "2013-06-30 20:30:25 +0000",
+  "in_reply_to_screen_name" : "AwkwardGrindr",
+  "in_reply_to_user_id_str" : "549608648",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

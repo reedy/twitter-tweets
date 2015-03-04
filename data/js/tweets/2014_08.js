@@ -437,7 +437,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "68662551",
       "id" : 68662551
     }, {
-      "name" : "Lucy ",
+      "name" : "Lucy",
       "screen_name" : "LucyTheMovie",
       "indices" : [ 10, 23 ],
       "id_str" : "2396587279",
@@ -779,7 +779,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo ",
+      "name" : "Lenovo at #MWC15",
       "screen_name" : "lenovo",
       "indices" : [ 3, 10 ],
       "id_str" : "17307429",
@@ -1088,7 +1088,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "23262377",
       "id" : 23262377
     }, {
-      "name" : "Lenovo ",
+      "name" : "Lenovo at #MWC15",
       "screen_name" : "lenovo",
       "indices" : [ 8, 15 ],
       "id_str" : "17307429",
@@ -1127,7 +1127,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo ",
+      "name" : "Lenovo at #MWC15",
       "screen_name" : "lenovo",
       "indices" : [ 0, 7 ],
       "id_str" : "17307429",
@@ -3247,7 +3247,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425656624129118209\/CqBP-X54_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564801097869426693\/4SqRzoTD_normal.png",
       "id" : 7905122,
       "verified" : true
     }

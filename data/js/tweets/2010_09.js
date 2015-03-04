@@ -284,7 +284,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "wikichad",
       "protected" : false,
       "id_str" : "138008469",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857483380\/icon_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552864329771393024\/ZDtic3WW_normal.jpeg",
       "id" : 138008469,
       "verified" : false
     }
@@ -959,7 +959,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "Kiwi_Si",
       "protected" : false,
       "id_str" : "779050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540814878282248192\/vdgMo-P4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552034434744987648\/uIHxviZq_normal.jpeg",
       "id" : 779050,
       "verified" : false
     }
@@ -1895,7 +1895,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425656624129118209\/CqBP-X54_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564801097869426693\/4SqRzoTD_normal.png",
       "id" : 7905122,
       "verified" : true
     }
@@ -3126,7 +3126,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YetanotherXMAS",
+      "name" : "Yetanotherx",
       "screen_name" : "yetanotherx",
       "indices" : [ 0, 12 ],
       "id_str" : "187671148",

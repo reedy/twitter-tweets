@@ -1,429 +1,5 @@
 Grailbird.data.tweets_2012_11 = 
  [ {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrews & Arnold Ltd",
-      "screen_name" : "aaisp",
-      "indices" : [ 5, 11 ],
-      "id_str" : "21086622",
-      "id" : 21086622
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "274638824074772481",
-  "text" : "With @aaisp introducing their Home::1 package, pricing looks more attractive (even more so when I'm on 21CN kit).. And \u00A312\/mo for phoneline",
-  "id" : 274638824074772481,
-  "created_at" : "2012-11-30 22:19:32 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "274621165052510208",
-  "text" : "Ooh. Seems selective tweets on facebook is more clever now, including the display name with the username in brackets next to it (when used)",
-  "id" : 274621165052510208,
-  "created_at" : "2012-11-30 21:09:22 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amazon.co.uk",
-      "screen_name" : "AmazonUK",
-      "indices" : [ 4, 13 ],
-      "id_str" : "209004862",
-      "id" : 209004862
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 114, 117 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "274620294537302018",
-  "text" : "Are @AmazonUK trolling me? A reply to a complaint: \"My name is Harsh and I work in the Customer Escalation Team.\" #fb",
-  "id" : 274620294537302018,
-  "created_at" : "2012-11-30 21:05:55 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
-      "screen_name" : "boomerangmouth",
-      "indices" : [ 1, 16 ],
-      "id_str" : "28117032",
-      "id" : 28117032
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "274610400333533184",
-  "text" : ".@boomerangmouth Lol. Your Amazon prime is now valid till 3 December 2013",
-  "id" : 274610400333533184,
-  "created_at" : "2012-11-30 20:26:36 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Wes Mason",
-      "screen_name" : "1stvamp",
-      "indices" : [ 0, 8 ],
-      "id_str" : "1856171",
-      "id" : 1856171
-    }, {
-      "name" : "Amazon.co.uk",
-      "screen_name" : "AmazonUK",
-      "indices" : [ 9, 18 ],
-      "id_str" : "209004862",
-      "id" : 209004862
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "274609269758902272",
-  "geo" : { },
-  "id_str" : "274610241239400448",
-  "in_reply_to_user_id" : 1856171,
-  "text" : "@1stvamp @amazonuk Complaining a lot helps. I must've extended the Amazon Prime I use by at least 6 months in the last year...",
-  "id" : 274610241239400448,
-  "in_reply_to_status_id" : 274609269758902272,
-  "created_at" : "2012-11-30 20:25:58 +0000",
-  "in_reply_to_screen_name" : "1stvamp",
-  "in_reply_to_user_id_str" : "1856171",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Wes Mason",
-      "screen_name" : "1stvamp",
-      "indices" : [ 0, 8 ],
-      "id_str" : "1856171",
-      "id" : 1856171
-    }, {
-      "name" : "Amazon.co.uk",
-      "screen_name" : "AmazonUK",
-      "indices" : [ 9, 18 ],
-      "id_str" : "209004862",
-      "id" : 209004862
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "274609269758902272",
-  "geo" : { },
-  "id_str" : "274610009629917185",
-  "in_reply_to_user_id" : 1856171,
-  "text" : "@1stvamp @amazonuk If I've got prime, it should be guaranteed (and tracked!!) as per the site (and email), and arrive (mostly) on the date",
-  "id" : 274610009629917185,
-  "in_reply_to_status_id" : 274609269758902272,
-  "created_at" : "2012-11-30 20:25:02 +0000",
-  "in_reply_to_screen_name" : "1stvamp",
-  "in_reply_to_user_id_str" : "1856171",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Wes Mason",
-      "screen_name" : "1stvamp",
-      "indices" : [ 0, 8 ],
-      "id_str" : "1856171",
-      "id" : 1856171
-    }, {
-      "name" : "Amazon.co.uk",
-      "screen_name" : "AmazonUK",
-      "indices" : [ 9, 18 ],
-      "id_str" : "209004862",
-      "id" : 209004862
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "274609269758902272",
-  "geo" : { },
-  "id_str" : "274609547568611328",
-  "in_reply_to_user_id" : 1856171,
-  "text" : "@1stvamp @amazonuk Hah. It'd be nice to not order stuff with guaranteed delivery, have it not arrive, and then be told it wasn't guaranteed",
-  "id" : 274609547568611328,
-  "in_reply_to_status_id" : 274609269758902272,
-  "created_at" : "2012-11-30 20:23:12 +0000",
-  "in_reply_to_screen_name" : "1stvamp",
-  "in_reply_to_user_id_str" : "1856171",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
-      "screen_name" : "boomerangmouth",
-      "indices" : [ 55, 70 ],
-      "id_str" : "28117032",
-      "id" : 28117032
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "274607797155532800",
-  "text" : "Really starting to wonder why I give Amazon my monies. @boomerangmouth pays for the Amazon prime, but I still don't get value for money!",
-  "id" : 274607797155532800,
-  "created_at" : "2012-11-30 20:16:15 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "274606691805450241",
-  "text" : "And for the other delivery, that HDNL both lie (no, they didn't attempt a delivery today, I was in) and cannot follow instructions for redel",
-  "id" : 274606691805450241,
-  "created_at" : "2012-11-30 20:11:51 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "274606550490943489",
-  "text" : "And apparently Amazons customer services reps cannot read. I complained a delivery was late, not that it went missing. I didn't want another",
-  "id" : 274606550490943489,
-  "created_at" : "2012-11-30 20:11:18 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Burnside",
-      "screen_name" : "leBurnside",
-      "indices" : [ 0, 11 ],
-      "id_str" : "237594123",
-      "id" : 237594123
-    }, {
-      "name" : "Giles Davis",
-      "screen_name" : "gilesdavis",
-      "indices" : [ 22, 33 ],
-      "id_str" : "21489569",
-      "id" : 21489569
-    }, {
-      "name" : "Not Insomnia",
-      "screen_name" : "iseries",
-      "indices" : [ 80, 88 ],
-      "id_str" : "1412526686",
-      "id" : 1412526686
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "274604562076286976",
-  "geo" : { },
-  "id_str" : "274605807818121216",
-  "in_reply_to_user_id" : 237594123,
-  "text" : "@leBurnside I suspect @gilesdavis is currently too busy setting up for the next @iseries event...",
-  "id" : 274605807818121216,
-  "in_reply_to_status_id" : 274604562076286976,
-  "created_at" : "2012-11-30 20:08:21 +0000",
-  "in_reply_to_screen_name" : "leBurnside",
-  "in_reply_to_user_id_str" : "237594123",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kimpton",
-      "screen_name" : "Kimpton",
-      "indices" : [ 0, 8 ],
-      "id_str" : "16356322",
-      "id" : 16356322
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "274596819382702081",
-  "in_reply_to_user_id" : 16356322,
-  "text" : "@Kimpton \"You only need 15 eligible visits, or 45 eligible nights by Dec 31 to achieve hotel loyalty nirvana\". Err what? Theres only 31 left",
-  "id" : 274596819382702081,
-  "created_at" : "2012-11-30 19:32:38 +0000",
-  "in_reply_to_screen_name" : "Kimpton",
-  "in_reply_to_user_id_str" : "16356322",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "274594015473725440",
-  "text" : "21CN is enabled. Apparently!",
-  "id" : 274594015473725440,
-  "created_at" : "2012-11-30 19:21:29 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amazon.co.uk",
-      "screen_name" : "AmazonUK",
-      "indices" : [ 94, 103 ],
-      "id_str" : "209004862",
-      "id" : 209004862
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "274591951314116609",
-  "text" : "I'm getting rather sick of making (prime related or otherwise) delivery related complaints to @AmazonUK",
-  "id" : 274591951314116609,
-  "created_at" : "2012-11-30 19:13:17 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -488,7 +64,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 9, 24 ],
       "id_str" : "28117032",
@@ -1280,7 +856,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "AndroidPolice",
       "protected" : false,
       "id_str" : "98335997",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913338263\/AndroidPolice_logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563109834988335104\/mYPfSB_b_normal.png",
       "id" : 98335997,
       "verified" : false
     }
@@ -1488,6 +1064,12 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Amazon Music",
+      "screen_name" : "amazonmp3",
+      "indices" : [ 3, 13 ],
+      "id_str" : "26426173",
+      "id" : 26426173
+    }, {
       "name" : "Amazon Local",
       "screen_name" : "AmazonLocal",
       "indices" : [ 97, 109 ],
@@ -2186,7 +1768,13 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "PhpStorm\/WebStorm",
+      "screen_name" : "webide",
+      "indices" : [ 3, 10 ],
+      "id_str" : "115181416",
+      "id" : 115181416
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -2815,7 +2403,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3540,7 +3128,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -4069,7 +3657,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "AndroidPolice",
       "protected" : false,
       "id_str" : "98335997",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913338263\/AndroidPolice_logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563109834988335104\/mYPfSB_b_normal.png",
       "id" : 98335997,
       "verified" : false
     }
@@ -4205,7 +3793,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -4329,7 +3917,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -4779,7 +4367,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "14735827",
       "id" : 14735827
     }, {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 15, 30 ],
       "id_str" : "28117032",
@@ -4818,7 +4406,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "14735827",
       "id" : 14735827
     }, {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 15, 30 ],
       "id_str" : "28117032",
@@ -5000,6 +4588,33 @@ Grailbird.data.tweets_2012_11 =
   "created_at" : "2012-11-02 01:10:25 +0000",
   "in_reply_to_screen_name" : "SammyGee1",
   "in_reply_to_user_id_str" : "127632055",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 43, 63 ],
+      "url" : "http:\/\/t.co\/BA6GNNGG",
+      "expanded_url" : "http:\/\/www.mysqlperformanceblog.com\/2008\/02\/04\/finding-out-largest-tables-on-mysql-server\/",
+      "display_url" : "mysqlperformanceblog.com\/2008\/02\/04\/fin\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "263723537808891904",
+  "text" : "Finding out largest tables on MySQL Server http:\/\/t.co\/BA6GNNGG",
+  "id" : 263723537808891904,
+  "created_at" : "2012-10-31 19:26:05 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

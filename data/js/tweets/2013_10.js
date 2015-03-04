@@ -2048,7 +2048,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo ",
+      "name" : "Lenovo at #MWC15",
       "screen_name" : "lenovo",
       "indices" : [ 0, 7 ],
       "id_str" : "17307429",
@@ -2267,7 +2267,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "kickstarter",
       "protected" : false,
       "id_str" : "16186995",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/510063738053877762\/5EvmJ31i_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563395952405266432\/i2L1Eex__normal.png",
       "id" : 16186995,
       "verified" : true
     }
@@ -3687,8 +3687,8 @@ Grailbird.data.tweets_2013_10 =
       "name" : "CoPilot UK",
       "screen_name" : "copilotlive",
       "indices" : [ 0, 12 ],
-      "id_str" : "16541893",
-      "id" : 16541893
+      "id_str" : "3034556956",
+      "id" : 3034556956
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3702,7 +3702,7 @@ Grailbird.data.tweets_2013_10 =
   "id" : 390684383750803456,
   "in_reply_to_status_id" : 390447687893794817,
   "created_at" : "2013-10-17 03:43:10 +0000",
-  "in_reply_to_screen_name" : "copilotlive",
+  "in_reply_to_screen_name" : "copilotgps",
   "in_reply_to_user_id_str" : "16541893",
   "user" : {
     "name" : "Sam Reed",
@@ -3878,11 +3878,11 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Corsair",
+      "name" : "Corsair Memory",
       "screen_name" : "CorsairMemory",
       "indices" : [ 72, 86 ],
-      "id_str" : "26599573",
-      "id" : 26599573
+      "id_str" : "3044740947",
+      "id" : 3044740947
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3906,7 +3906,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -5234,7 +5234,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -5626,7 +5626,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "412411429",
       "id" : 412411429
     }, {
-      "name" : "Samsonite",
+      "name" : "Samsonite US",
       "screen_name" : "Samsonite",
       "indices" : [ 87, 97 ],
       "id_str" : "109345097",
@@ -8570,6 +8570,83 @@ Grailbird.data.tweets_2013_10 =
   },
   "id" : 384820346266058752,
   "created_at" : "2013-09-30 23:21:34 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Awkward Grindr",
+      "screen_name" : "AwkwardGrindr",
+      "indices" : [ 0, 14 ],
+      "id_str" : "549608648",
+      "id" : 549608648
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "384775772285972480",
+  "geo" : { },
+  "id_str" : "384775873364496384",
+  "in_reply_to_user_id" : 549608648,
+  "text" : "@AwkwardGrindr For iPhone?",
+  "id" : 384775873364496384,
+  "in_reply_to_status_id" : 384775772285972480,
+  "created_at" : "2013-09-30 20:24:51 +0000",
+  "in_reply_to_screen_name" : "AwkwardGrindr",
+  "in_reply_to_user_id_str" : "549608648",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "384770770121281537",
+  "text" : "Anyone know where I can get the Nexus 4 Android 4.2.1 mako image? Not obviously listed on Google Factory Image list...",
+  "id" : 384770770121281537,
+  "created_at" : "2013-09-30 20:04:34 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "384760257643556865",
+  "text" : "Seems there might be an issue with the US Nexus 4s I brought back. Possible &gt;= 4.2.2 bug where the loudspeaker doesn't work.. :\/",
+  "id" : 384760257643556865,
+  "created_at" : "2013-09-30 19:22:48 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

@@ -1865,7 +1865,7 @@ Grailbird.data.tweets_2014_07 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 139, 140 ],
+      "indices" : [ 118, 140 ],
       "url" : "http:\/\/t.co\/oh3BzkxbQG",
       "expanded_url" : "http:\/\/j.mp\/Uk9pDR",
       "display_url" : "j.mp\/Uk9pDR"
@@ -2062,7 +2062,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 3, 18 ],
       "id_str" : "28117032",
@@ -2104,7 +2104,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 490943754413424642,
     "created_at" : "2014-07-20 19:38:07 +0000",
     "user" : {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "protected" : false,
       "id_str" : "28117032",
@@ -3337,7 +3337,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "17679727",
       "id" : 17679727
     }, {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 44, 59 ],
       "id_str" : "28117032",
@@ -3392,7 +3392,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Saitek Flight Sim",
+      "name" : "Saitek",
       "screen_name" : "SaitekSim",
       "indices" : [ 0, 10 ],
       "id_str" : "82329721",
@@ -3425,7 +3425,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Saitek Flight Sim",
+      "name" : "Saitek",
       "screen_name" : "SaitekSim",
       "indices" : [ 0, 10 ],
       "id_str" : "82329721",
@@ -3458,7 +3458,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Saitek Flight Sim",
+      "name" : "Saitek",
       "screen_name" : "SaitekSim",
       "indices" : [ 0, 10 ],
       "id_str" : "82329721",
@@ -3491,7 +3491,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Samsonite",
+      "name" : "Samsonite US",
       "screen_name" : "Samsonite",
       "indices" : [ 0, 10 ],
       "id_str" : "109345097",
@@ -3888,7 +3888,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3927,7 +3927,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -4005,7 +4005,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -4050,7 +4050,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "17679727",
       "id" : 17679727
     }, {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 25, 40 ],
       "id_str" : "28117032",
@@ -4786,11 +4786,11 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Barclays UK",
+      "name" : "BarclaysOnline",
       "screen_name" : "BarclaysOnline",
       "indices" : [ 0, 15 ],
-      "id_str" : "338559800",
-      "id" : 338559800
+      "id_str" : "869608806",
+      "id" : 869608806
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4804,7 +4804,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 487217532362047488,
   "in_reply_to_status_id" : 487217148407074816,
   "created_at" : "2014-07-10 12:51:26 +0000",
-  "in_reply_to_screen_name" : "BarclaysOnline",
+  "in_reply_to_screen_name" : "BarclaysUK",
   "in_reply_to_user_id_str" : "338559800",
   "user" : {
     "name" : "Sam Reed",
@@ -4897,11 +4897,11 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Barclays UK",
+      "name" : "BarclaysOnline",
       "screen_name" : "BarclaysOnline",
       "indices" : [ 0, 15 ],
-      "id_str" : "338559800",
-      "id" : 338559800
+      "id_str" : "869608806",
+      "id" : 869608806
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4915,7 +4915,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 487214355495538688,
   "in_reply_to_status_id" : 487211494807830528,
   "created_at" : "2014-07-10 12:38:49 +0000",
-  "in_reply_to_screen_name" : "BarclaysOnline",
+  "in_reply_to_screen_name" : "BarclaysUK",
   "in_reply_to_user_id_str" : "338559800",
   "user" : {
     "name" : "Sam Reed",
@@ -4930,11 +4930,11 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Barclays UK",
+      "name" : "BarclaysOnline",
       "screen_name" : "BarclaysOnline",
       "indices" : [ 0, 15 ],
-      "id_str" : "338559800",
-      "id" : 338559800
+      "id_str" : "869608806",
+      "id" : 869608806
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4948,7 +4948,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 487213729600536576,
   "in_reply_to_status_id" : 487211494807830528,
   "created_at" : "2014-07-10 12:36:19 +0000",
-  "in_reply_to_screen_name" : "BarclaysOnline",
+  "in_reply_to_screen_name" : "BarclaysUK",
   "in_reply_to_user_id_str" : "338559800",
   "user" : {
     "name" : "Sam Reed",
@@ -5030,11 +5030,11 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Barclays UK",
+      "name" : "BarclaysOnline",
       "screen_name" : "BarclaysOnline",
       "indices" : [ 15, 30 ],
-      "id_str" : "338559800",
-      "id" : 338559800
+      "id_str" : "869608806",
+      "id" : 869608806
     } ],
     "media" : [ ],
     "hashtags" : [ ],

@@ -3,39 +3,6 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Horsfield",
-      "screen_name" : "FedExSteveUK",
-      "indices" : [ 0, 13 ],
-      "id_str" : "153156333",
-      "id" : 153156333
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "130959036165271552",
-  "geo" : { },
-  "id_str" : "131097963467513856",
-  "in_reply_to_user_id" : 153156333,
-  "text" : "@FedExSteveUK Ta, it was your us counterparts. SF team delivered fine to a diff add. Ive had this experience with different couriers in UK..",
-  "id" : 131097963467513856,
-  "in_reply_to_status_id" : 130959036165271552,
-  "created_at" : "2011-10-31 19:59:24 +0000",
-  "in_reply_to_screen_name" : "FedExSteveUK",
-  "in_reply_to_user_id_str" : "153156333",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
@@ -960,7 +927,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -993,7 +960,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2416,7 +2383,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "engadget",
       "protected" : false,
       "id_str" : "14372486",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528440858517852160\/I1FWOb9q_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554498681664061440\/i0YCFYG2_normal.png",
       "id" : 14372486,
       "verified" : true
     }
@@ -6032,7 +5999,7 @@ Grailbird.data.tweets_2011_10 =
   "id" : 120212230355685376,
   "in_reply_to_status_id" : 120209632538013697,
   "created_at" : "2011-10-01 19:03:23 +0000",
-  "in_reply_to_screen_name" : "jerkberkerrr",
+  "in_reply_to_screen_name" : "jckbkrrr",
   "in_reply_to_user_id_str" : "6974832",
   "user" : {
     "name" : "Sam Reed",
@@ -6062,7 +6029,7 @@ Grailbird.data.tweets_2011_10 =
   "id" : 120197898314072064,
   "in_reply_to_status_id" : 120194943024242689,
   "created_at" : "2011-10-01 18:06:26 +0000",
-  "in_reply_to_screen_name" : "jerkberkerrr",
+  "in_reply_to_screen_name" : "jckbkrrr",
   "in_reply_to_user_id_str" : "6974832",
   "user" : {
     "name" : "Sam Reed",
@@ -6089,7 +6056,7 @@ Grailbird.data.tweets_2011_10 =
   "id" : 120194762069385216,
   "in_reply_to_status_id" : 120192192890408960,
   "created_at" : "2011-10-01 17:53:59 +0000",
-  "in_reply_to_screen_name" : "jerkberkerrr",
+  "in_reply_to_screen_name" : "jckbkrrr",
   "in_reply_to_user_id_str" : "6974832",
   "user" : {
     "name" : "Sam Reed",

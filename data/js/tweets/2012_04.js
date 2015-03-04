@@ -3,7 +3,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -522,7 +522,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "DabsDotCom",
       "protected" : false,
       "id_str" : "87428004",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539347732700209152\/XLhxpE22_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552064105285050368\/jxcHKS_k_normal.jpeg",
       "id" : 87428004,
       "verified" : false
     }

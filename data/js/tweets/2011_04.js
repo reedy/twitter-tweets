@@ -1529,7 +1529,13 @@ Grailbird.data.tweets_2011_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "PhpStorm\/WebStorm",
+      "screen_name" : "webide",
+      "indices" : [ 3, 10 ],
+      "id_str" : "115181416",
+      "id" : 115181416
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2965,6 +2971,57 @@ Grailbird.data.tweets_2011_04 =
   "text" : "Crysis 2 SP. Finished! #fb",
   "id" : 53596167061241856,
   "created_at" : "2011-03-31 23:14:56 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jon Moss",
+      "screen_name" : "jonmoss",
+      "indices" : [ 3, 11 ],
+      "id_str" : "13501",
+      "id" : 13501
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "53510846965481472",
+  "text" : "RT @jonmoss: Android closing fast\nhttp:\/\/j.mp\/gAnCrB",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/reederapp.com\" rel=\"nofollow\"\u003EReeder\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "53510591393964032",
+    "text" : "Android closing fast\nhttp:\/\/j.mp\/gAnCrB",
+    "id" : 53510591393964032,
+    "created_at" : "2011-03-31 17:34:53 +0000",
+    "user" : {
+      "name" : "Jon Moss",
+      "screen_name" : "jonmoss",
+      "protected" : false,
+      "id_str" : "13501",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110431277\/Screen_shot_2010-08-25_at_10.16.42_normal.png",
+      "id" : 13501,
+      "verified" : false
+    }
+  },
+  "id" : 53510846965481472,
+  "created_at" : "2011-03-31 17:35:54 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

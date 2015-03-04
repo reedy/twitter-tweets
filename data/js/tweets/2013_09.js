@@ -2,83 +2,6 @@ Grailbird.data.tweets_2013_09 =
  [ {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Awkward Grindr",
-      "screen_name" : "AwkwardGrindr",
-      "indices" : [ 0, 14 ],
-      "id_str" : "549608648",
-      "id" : 549608648
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "384775772285972480",
-  "geo" : { },
-  "id_str" : "384775873364496384",
-  "in_reply_to_user_id" : 549608648,
-  "text" : "@AwkwardGrindr For iPhone?",
-  "id" : 384775873364496384,
-  "in_reply_to_status_id" : 384775772285972480,
-  "created_at" : "2013-09-30 20:24:51 +0000",
-  "in_reply_to_screen_name" : "AwkwardGrindr",
-  "in_reply_to_user_id_str" : "549608648",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "384770770121281537",
-  "text" : "Anyone know where I can get the Nexus 4 Android 4.2.1 mako image? Not obviously listed on Google Factory Image list...",
-  "id" : 384770770121281537,
-  "created_at" : "2013-09-30 20:04:34 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "384760257643556865",
-  "text" : "Seems there might be an issue with the US Nexus 4s I brought back. Possible &gt;= 4.2.2 bug where the loudspeaker doesn't work.. :\/",
-  "id" : 384760257643556865,
-  "created_at" : "2013-09-30 19:22:48 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -985,7 +908,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "53076344",
       "id" : 53076344
     }, {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 14, 29 ],
       "id_str" : "28117032",
@@ -1096,7 +1019,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "209004862",
       "id" : 209004862
     }, {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 83, 98 ],
       "id_str" : "28117032",
@@ -1124,7 +1047,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Samsonite",
+      "name" : "Samsonite US",
       "screen_name" : "Samsonite",
       "indices" : [ 0, 10 ],
       "id_str" : "109345097",
@@ -1384,7 +1307,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "AngryBirds",
       "protected" : false,
       "id_str" : "17337554",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545557591078612992\/MS-nzRM6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572266304518623232\/xWnWD0UB_normal.png",
       "id" : 17337554,
       "verified" : true
     }
@@ -1459,11 +1382,11 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Corsair",
+      "name" : "Corsair Memory",
       "screen_name" : "CorsairMemory",
       "indices" : [ 8, 22 ],
-      "id_str" : "26599573",
-      "id" : 26599573
+      "id_str" : "3044740947",
+      "id" : 3044740947
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1697,7 +1620,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Samsonite",
+      "name" : "Samsonite US",
       "screen_name" : "Samsonite",
       "indices" : [ 0, 10 ],
       "id_str" : "109345097",
@@ -1956,7 +1879,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Samsonite",
+      "name" : "Samsonite US",
       "screen_name" : "Samsonite",
       "indices" : [ 17, 27 ],
       "id_str" : "109345097",
@@ -2853,7 +2776,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425656624129118209\/CqBP-X54_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564801097869426693\/4SqRzoTD_normal.png",
       "id" : 7905122,
       "verified" : true
     }
@@ -2914,7 +2837,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425656624129118209\/CqBP-X54_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564801097869426693\/4SqRzoTD_normal.png",
       "id" : 7905122,
       "verified" : true
     }
@@ -3188,7 +3111,7 @@ Grailbird.data.tweets_2013_09 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 139, 140 ],
+      "indices" : [ 122, 140 ],
       "url" : "http:\/\/t.co\/wIrcwInKJG",
       "expanded_url" : "http:\/\/goo.gl\/B4ZxaX",
       "display_url" : "goo.gl\/B4ZxaX"
@@ -4222,7 +4145,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "14421746",
       "id" : 14421746
     }, {
-      "name" : "Another Festive Name",
+      "name" : "Another Angry Woman",
       "screen_name" : "stavvers",
       "indices" : [ 18, 27 ],
       "id_str" : "67319718",
@@ -4244,7 +4167,7 @@ Grailbird.data.tweets_2013_09 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Another Festive Name",
+        "name" : "Another Angry Woman",
         "screen_name" : "stavvers",
         "indices" : [ 3, 12 ],
         "id_str" : "67319718",
@@ -4454,11 +4377,11 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Corsair",
+      "name" : "Corsair Memory",
       "screen_name" : "CorsairMemory",
       "indices" : [ 45, 59 ],
-      "id_str" : "26599573",
-      "id" : 26599573
+      "id_str" : "3044740947",
+      "id" : 3044740947
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8283,6 +8206,56 @@ Grailbird.data.tweets_2013_09 =
   "created_at" : "2013-09-01 15:18:37 +0000",
   "in_reply_to_screen_name" : "jackkkpot",
   "in_reply_to_user_id_str" : "400981382",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 130, 133 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "373932561074253824",
+  "text" : "Anyone know of\/recommend a wireless charging mat\/similar that ideally takes a (micro) usb cable input? Failing that, any mat etc? #fb",
+  "id" : 373932561074253824,
+  "created_at" : "2013-08-31 22:17:24 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 119, 122 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "373917626705379328",
+  "text" : "That's 2 sets of BP \"Free Pizza\" from Pizza Express now. 1 voucher short of a 3rd... Anyone got a voucher going spare? #fb",
+  "id" : 373917626705379328,
+  "created_at" : "2013-08-31 21:18:03 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

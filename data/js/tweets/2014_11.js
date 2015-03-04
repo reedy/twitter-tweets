@@ -366,7 +366,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "AndroidPolice",
       "protected" : false,
       "id_str" : "98335997",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913338263\/AndroidPolice_logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563109834988335104\/mYPfSB_b_normal.png",
       "id" : 98335997,
       "verified" : false
     }
@@ -427,7 +427,7 @@ Grailbird.data.tweets_2014_11 =
     } ],
     "media" : [ {
       "expanded_url" : "http:\/\/twitter.com\/Android\/status\/532623587874963456\/photo\/1",
-      "indices" : [ 139, 140 ],
+      "indices" : [ 120, 140 ],
       "url" : "http:\/\/t.co\/XVFX2tEbHv",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B2RCVLxIYAARGAg.jpg",
       "id_str" : "532623587640107008",
@@ -1420,7 +1420,7 @@ Grailbird.data.tweets_2014_11 =
     } ],
     "media" : [ {
       "expanded_url" : "http:\/\/twitter.com\/soylent\/status\/531862846137565184\/photo\/1",
-      "indices" : [ 139, 140 ],
+      "indices" : [ 122, 140 ],
       "url" : "http:\/\/t.co\/o6o25IenwH",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B2GOcJcCIAAF1zs.jpg",
       "id_str" : "531862845227409408",
@@ -1513,7 +1513,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "soylent",
       "protected" : false,
       "id_str" : "1355246442",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/471851041843978240\/ozRN50jb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/570749498851213312\/ZPcrECxt_normal.jpeg",
       "id" : 1355246442,
       "verified" : false
     }
@@ -2395,7 +2395,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "AndroidPolice",
       "protected" : false,
       "id_str" : "98335997",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913338263\/AndroidPolice_logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563109834988335104\/mYPfSB_b_normal.png",
       "id" : 98335997,
       "verified" : false
     }
@@ -3095,7 +3095,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "AndroidPolice",
       "protected" : false,
       "id_str" : "98335997",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913338263\/AndroidPolice_logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563109834988335104\/mYPfSB_b_normal.png",
       "id" : 98335997,
       "verified" : false
     }
@@ -3893,7 +3893,7 @@ Grailbird.data.tweets_2014_11 =
       "id_str" : "207420832",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000320489032\/de3e85bc0360c9ff6fb92933f4aa02d0_normal.jpeg",
       "id" : 207420832,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 528543387562291200,
@@ -3911,7 +3911,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2744rta",
+      "name" : "\u00D8rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",

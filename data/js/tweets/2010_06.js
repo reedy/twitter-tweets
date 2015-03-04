@@ -2784,7 +2784,13 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Fred Nix",
+      "screen_name" : "VCEMonk",
+      "indices" : [ 3, 11 ],
+      "id_str" : "365180577",
+      "id" : 365180577
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "EMC",
@@ -3911,7 +3917,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425656624129118209\/CqBP-X54_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564801097869426693\/4SqRzoTD_normal.png",
       "id" : 7905122,
       "verified" : true
     }

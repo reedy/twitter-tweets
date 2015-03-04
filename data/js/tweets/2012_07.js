@@ -267,7 +267,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425656624129118209\/CqBP-X54_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564801097869426693\/4SqRzoTD_normal.png",
       "id" : 7905122,
       "verified" : true
     }
@@ -1115,7 +1115,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "14146389",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2697820239\/93029bd0255cc8a9deec61ca93e9c143_normal.png",
       "id" : 14146389,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 228265686118580224,
@@ -1436,7 +1436,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1469,7 +1469,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3473,7 +3473,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425656624129118209\/CqBP-X54_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564801097869426693\/4SqRzoTD_normal.png",
       "id" : 7905122,
       "verified" : true
     }
@@ -4228,11 +4228,17 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "AMD Sever ",
+      "screen_name" : "AMDOpteron",
+      "indices" : [ 3, 14 ],
+      "id_str" : "1965395683",
+      "id" : 1965395683
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 123, 140 ],
+      "indices" : [ 139, 140 ],
       "url" : "http:\/\/t.co\/fMB1fOPS",
       "expanded_url" : "http:\/\/bit.ly\/OC8NTA",
       "display_url" : "bit.ly\/OC8NTA"
@@ -4284,11 +4290,11 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Corsair",
+      "name" : "Corsair Memory",
       "screen_name" : "CorsairMemory",
       "indices" : [ 41, 55 ],
-      "id_str" : "26599573",
-      "id" : 26599573
+      "id_str" : "3044740947",
+      "id" : 3044740947
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4581,7 +4587,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -4870,6 +4876,12 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "AMD Sever ",
+      "screen_name" : "AMDOpteron",
+      "indices" : [ 3, 14 ],
+      "id_str" : "1965395683",
+      "id" : 1965395683
+    }, {
       "name" : "Robert McMillan",
       "screen_name" : "bobmcmillan",
       "indices" : [ 92, 104 ],
@@ -5391,6 +5403,33 @@ Grailbird.data.tweets_2012_07 =
   },
   "id" : 219255540679847936,
   "created_at" : "2012-07-01 02:26:09 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 91, 111 ],
+      "url" : "http:\/\/t.co\/vOBnPZIy",
+      "expanded_url" : "http:\/\/bit.ly\/LMOpjX",
+      "display_url" : "bit.ly\/LMOpjX"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "219150665652510720",
+  "text" : "Is it me, or do these \"Black box\" plans to decrypt HTTPS traffic just sound like bullshit? http:\/\/t.co\/vOBnPZIy",
+  "id" : 219150665652510720,
+  "created_at" : "2012-06-30 19:29:24 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

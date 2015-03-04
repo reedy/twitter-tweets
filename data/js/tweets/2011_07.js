@@ -2504,7 +2504,13 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u30B1\u30D0\u30D6(HTC\u7523)",
+      "screen_name" : "htc_eu",
+      "indices" : [ 3, 10 ],
+      "id_str" : "2892620869",
+      "id" : 2892620869
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4264,7 +4270,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545562668568821760\/Gw-1wQ_V_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552610812531990528\/PLFV8G0a_normal.png",
       "id" : 16170178,
       "verified" : false
     }
@@ -4493,7 +4499,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "steam_games",
       "protected" : false,
       "id_str" : "36803580",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/395429445\/3232_67923607338_67919847338_1810171_4567519_n_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563804420278734848\/ANO4GU4p_normal.jpeg",
       "id" : 36803580,
       "verified" : true
     }
@@ -6829,7 +6835,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2744rta",
+      "name" : "\u00D8rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -7398,6 +7404,117 @@ Grailbird.data.tweets_2011_07 =
   "text" : "Volume 2 of the Portal 2 Soundtrack is out http:\/\/bit.ly\/kIygNi #fb",
   "id" : 86972455960313856,
   "created_at" : "2011-07-02 01:40:24 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Joey Sneddon",
+      "screen_name" : "d0od",
+      "indices" : [ 0, 5 ],
+      "id_str" : "14822382",
+      "id" : 14822382
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "86558414238519297",
+  "geo" : { },
+  "id_str" : "86558733848686593",
+  "in_reply_to_user_id" : 14822382,
+  "text" : "@d0od Pffft.",
+  "id" : 86558733848686593,
+  "in_reply_to_status_id" : 86558414238519297,
+  "created_at" : "2011-06-30 22:16:25 +0000",
+  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_user_id_str" : "14822382",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tommy Brunn",
+      "screen_name" : "tommybrunn",
+      "indices" : [ 0, 11 ],
+      "id_str" : "17854916",
+      "id" : 17854916
+    }, {
+      "name" : "Joey Sneddon",
+      "screen_name" : "d0od",
+      "indices" : [ 12, 17 ],
+      "id_str" : "14822382",
+      "id" : 14822382
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "86480224174346242",
+  "geo" : { },
+  "id_str" : "86480888258494465",
+  "in_reply_to_user_id" : 17854916,
+  "text" : "@tommybrunn @d0od Oh aye? Though, I'm not sure I see a problem here...",
+  "id" : 86480888258494465,
+  "in_reply_to_status_id" : 86480224174346242,
+  "created_at" : "2011-06-30 17:07:05 +0000",
+  "in_reply_to_screen_name" : "tommybrunn",
+  "in_reply_to_user_id_str" : "17854916",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tommy Brunn",
+      "screen_name" : "tommybrunn",
+      "indices" : [ 0, 11 ],
+      "id_str" : "17854916",
+      "id" : 17854916
+    }, {
+      "name" : "Joey Sneddon",
+      "screen_name" : "d0od",
+      "indices" : [ 57, 62 ],
+      "id_str" : "14822382",
+      "id" : 14822382
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "86427862160252928",
+  "geo" : { },
+  "id_str" : "86479769314660352",
+  "in_reply_to_user_id" : 17854916,
+  "text" : "@tommybrunn You really need to be careful when massaging @d0od 's ego. He might get big headed...",
+  "id" : 86479769314660352,
+  "in_reply_to_status_id" : 86427862160252928,
+  "created_at" : "2011-06-30 17:02:38 +0000",
+  "in_reply_to_screen_name" : "tommybrunn",
+  "in_reply_to_user_id_str" : "17854916",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

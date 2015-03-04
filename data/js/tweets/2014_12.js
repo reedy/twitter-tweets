@@ -1,9 +1,493 @@
 Grailbird.data.tweets_2014_12 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "MS Flight Simulator",
+      "screen_name" : "MS_FlightSim",
+      "indices" : [ 3, 16 ],
+      "id_str" : "1393180837",
+      "id" : 1393180837
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/IBYKmS11TB",
+      "expanded_url" : "http:\/\/store.steampowered.com\/app\/314160\/",
+      "display_url" : "store.steampowered.com\/app\/314160\/"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "550368996290494465",
+  "text" : "RT @MS_FlightSim: If you missed it the first time around, FSX is once again 80% off  for the next 48 hours as a Steam Encore deal! http:\/\/t\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 113, 135 ],
+        "url" : "http:\/\/t.co\/IBYKmS11TB",
+        "expanded_url" : "http:\/\/store.steampowered.com\/app\/314160\/",
+        "display_url" : "store.steampowered.com\/app\/314160\/"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "550354057194270722",
+    "text" : "If you missed it the first time around, FSX is once again 80% off  for the next 48 hours as a Steam Encore deal! http:\/\/t.co\/IBYKmS11TB",
+    "id" : 550354057194270722,
+    "created_at" : "2014-12-31 18:13:26 +0000",
+    "user" : {
+      "name" : "MS Flight Simulator",
+      "screen_name" : "MS_FlightSim",
+      "protected" : false,
+      "id_str" : "1393180837",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000060403767\/62e51690d66cddcdb9b02c6436834a2f_normal.jpeg",
+      "id" : 1393180837,
+      "verified" : false
+    }
+  },
+  "id" : 550368996290494465,
+  "created_at" : "2014-12-31 19:12:48 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "John Polling",
+      "screen_name" : "pollingj",
+      "indices" : [ 0, 9 ],
+      "id_str" : "15205083",
+      "id" : 15205083
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "550293636374880258",
+  "geo" : { },
+  "id_str" : "550301436169715713",
+  "in_reply_to_user_id" : 15205083,
+  "text" : "@pollingj Brakes seized on?",
+  "id" : 550301436169715713,
+  "in_reply_to_status_id" : 550293636374880258,
+  "created_at" : "2014-12-31 14:44:21 +0000",
+  "in_reply_to_screen_name" : "pollingj",
+  "in_reply_to_user_id_str" : "15205083",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo ",
+      "name" : "Solwise",
+      "screen_name" : "Solwise",
+      "indices" : [ 0, 8 ],
+      "id_str" : "19596204",
+      "id" : 19596204
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "550091207033237504",
+  "in_reply_to_user_id" : 19596204,
+  "text" : "@Solwise Any idea when you're expecting stock of the AV2 1200? Thanks! :)",
+  "id" : 550091207033237504,
+  "created_at" : "2014-12-31 00:48:58 +0000",
+  "in_reply_to_screen_name" : "Solwise",
+  "in_reply_to_user_id_str" : "19596204",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yodel",
+      "screen_name" : "YodelOnline",
+      "indices" : [ 0, 12 ],
+      "id_str" : "532135503",
+      "id" : 532135503
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "546608903258402816",
+  "geo" : { },
+  "id_str" : "549921252857905152",
+  "in_reply_to_user_id" : 532135503,
+  "text" : "@YodelOnline Replied to your email too. Thanks!",
+  "id" : 549921252857905152,
+  "in_reply_to_status_id" : 546608903258402816,
+  "created_at" : "2014-12-30 13:33:38 +0000",
+  "in_reply_to_screen_name" : "YodelOnline",
+  "in_reply_to_user_id_str" : "532135503",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Flightstore",
+      "screen_name" : "FlightstoreUK",
+      "indices" : [ 0, 14 ],
+      "id_str" : "160909553",
+      "id" : 160909553
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "549918246993145856",
+  "in_reply_to_user_id" : 160909553,
+  "text" : "@FlightstoreUK How long is your sale actually on for...? :)",
+  "id" : 549918246993145856,
+  "created_at" : "2014-12-30 13:21:41 +0000",
+  "in_reply_to_screen_name" : "FlightstoreUK",
+  "in_reply_to_user_id_str" : "160909553",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yodel",
+      "screen_name" : "YodelOnline",
+      "indices" : [ 0, 12 ],
+      "id_str" : "532135503",
+      "id" : 532135503
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "546608903258402816",
+  "geo" : { },
+  "id_str" : "549888156083171328",
+  "in_reply_to_user_id" : 532135503,
+  "text" : "@YodelOnline Email address sent in DM. Thanks!",
+  "id" : 549888156083171328,
+  "in_reply_to_status_id" : 546608903258402816,
+  "created_at" : "2014-12-30 11:22:07 +0000",
+  "in_reply_to_screen_name" : "YodelOnline",
+  "in_reply_to_user_id_str" : "532135503",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Brown \u2665",
+      "screen_name" : "Toadsanime",
+      "indices" : [ 0, 11 ],
+      "id_str" : "116534927",
+      "id" : 116534927
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "549753746323169280",
+  "geo" : { },
+  "id_str" : "549886597320429569",
+  "in_reply_to_user_id" : 116534927,
+  "text" : "@Toadsanime Think 25",
+  "id" : 549886597320429569,
+  "in_reply_to_status_id" : 549753746323169280,
+  "created_at" : "2014-12-30 11:15:55 +0000",
+  "in_reply_to_screen_name" : "Toadsanime",
+  "in_reply_to_user_id_str" : "116534927",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Brown \u2665",
+      "screen_name" : "Toadsanime",
+      "indices" : [ 0, 11 ],
+      "id_str" : "116534927",
+      "id" : 116534927
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "549734994688876544",
+  "geo" : { },
+  "id_str" : "549737338826661888",
+  "in_reply_to_user_id" : 116534927,
+  "text" : "@Toadsanime Turing test?",
+  "id" : 549737338826661888,
+  "in_reply_to_status_id" : 549734994688876544,
+  "created_at" : "2014-12-30 01:22:49 +0000",
+  "in_reply_to_screen_name" : "Toadsanime",
+  "in_reply_to_user_id_str" : "116534927",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tom Dewey",
+      "screen_name" : "aquilum",
+      "indices" : [ 0, 8 ],
+      "id_str" : "21673232",
+      "id" : 21673232
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "549629362640019456",
+  "geo" : { },
+  "id_str" : "549634153109811201",
+  "in_reply_to_user_id" : 21673232,
+  "text" : "@aquilum Its a very likely candidate... There's no sign of the X250 (Jan 2015 maybe?) and the X240 is meh and old hardware generally...",
+  "id" : 549634153109811201,
+  "in_reply_to_status_id" : 549629362640019456,
+  "created_at" : "2014-12-29 18:32:48 +0000",
+  "in_reply_to_screen_name" : "aquilum",
+  "in_reply_to_user_id_str" : "21673232",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Revilo",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "33717982",
+      "id" : 33717982
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "549630350973206534",
+  "geo" : { },
+  "id_str" : "549634153160118272",
+  "in_reply_to_user_id" : 33717982,
+  "text" : "@olivarrr Try one actually in the Mission in SF...",
+  "id" : 549634153160118272,
+  "in_reply_to_status_id" : 549630350973206534,
+  "created_at" : "2014-12-29 18:32:48 +0000",
+  "in_reply_to_screen_name" : "olivarrr",
+  "in_reply_to_user_id_str" : "33717982",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "549618985931931648",
+  "text" : "What would I replace my X220 with anyway?",
+  "id" : 549618985931931648,
+  "created_at" : "2014-12-29 17:32:32 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 70, 73 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "549584645353111553",
+  "text" : "59.91 litres of diesel for 60.45. 11.98 saved via Tesco fuel savings. #fb",
+  "id" : 549584645353111553,
+  "created_at" : "2014-12-29 15:16:04 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "549568879190872064",
+  "text" : "\"Please enter Username or Password.\" gj IKEA",
+  "id" : 549568879190872064,
+  "created_at" : "2014-12-29 14:13:25 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andrew Percy",
+      "screen_name" : "andrewpercy",
+      "indices" : [ 87, 99 ],
+      "id_str" : "15048694",
+      "id" : 15048694
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 100, 103 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 61, 83 ],
+      "url" : "http:\/\/t.co\/6qxSvfKZPT",
+      "expanded_url" : "http:\/\/bit.ly\/1HVDv2q",
+      "display_url" : "bit.ly\/1HVDv2q"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "549564169973141504",
+  "text" : "Letter from ERYC via David Davis re Broadband in Spaldington http:\/\/t.co\/6qxSvfKZPT CC @andrewpercy #fb",
+  "id" : 549564169973141504,
+  "created_at" : "2014-12-29 13:54:43 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 132, 135 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "549391797936730112",
+  "text" : "Apparently my Lenovo X220 \"battery can only store 48% of its original full charge capacity\". New battery? Or time for a new laptop? #fb",
+  "id" : 549391797936730112,
+  "created_at" : "2014-12-29 02:29:46 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Lenovo at #MWC15",
       "screen_name" : "lenovo",
       "indices" : [ 0, 7 ],
       "id_str" : "17307429",
@@ -1096,7 +1580,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",

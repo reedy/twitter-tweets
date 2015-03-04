@@ -601,7 +601,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Saitek Flight Sim",
+      "name" : "Saitek",
       "screen_name" : "SaitekSim",
       "indices" : [ 0, 10 ],
       "id_str" : "82329721",
@@ -1513,7 +1513,7 @@ Grailbird.data.tweets_2014_06 =
     } ],
     "media" : [ {
       "expanded_url" : "http:\/\/twitter.com\/CNET\/status\/479415871027576832\/photo\/1",
-      "indices" : [ 139, 140 ],
+      "indices" : [ 122, 140 ],
       "url" : "http:\/\/t.co\/HMKwkwnVTP",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bqc6Mb1IAAADjcb.jpg",
       "id_str" : "479415870641668096",
@@ -2104,7 +2104,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "33717982",
       "id" : 33717982
     }, {
-      "name" : "Lenovo ",
+      "name" : "Lenovo at #MWC15",
       "screen_name" : "lenovo",
       "indices" : [ 10, 17 ],
       "id_str" : "17307429",
@@ -2176,7 +2176,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "33717982",
       "id" : 33717982
     }, {
-      "name" : "Lenovo ",
+      "name" : "Lenovo at #MWC15",
       "screen_name" : "lenovo",
       "indices" : [ 10, 17 ],
       "id_str" : "17307429",
@@ -2209,7 +2209,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo ",
+      "name" : "Lenovo at #MWC15",
       "screen_name" : "lenovo",
       "indices" : [ 19, 26 ],
       "id_str" : "17307429",
@@ -2243,7 +2243,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "17679727",
       "id" : 17679727
     }, {
-      "name" : "FIVE GOULDEN RINGS",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 11, 26 ],
       "id_str" : "28117032",
@@ -2468,7 +2468,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kraken",
+      "name" : "Kraken Exchange",
       "screen_name" : "krakenfx",
       "indices" : [ 69, 78 ],
       "id_str" : "1399148563",
@@ -2539,7 +2539,7 @@ Grailbird.data.tweets_2014_06 =
   "id" : 476444482511339520,
   "in_reply_to_status_id" : 476158331208609793,
   "created_at" : "2014-06-10 19:23:11 +0000",
-  "in_reply_to_screen_name" : "Ashleyx1975",
+  "in_reply_to_screen_name" : "rxinbows_end",
   "in_reply_to_user_id_str" : "34482731",
   "user" : {
     "name" : "Sam Reed",
@@ -2671,7 +2671,7 @@ Grailbird.data.tweets_2014_06 =
   "id" : 476158846747279360,
   "in_reply_to_status_id" : 476158331208609793,
   "created_at" : "2014-06-10 00:28:10 +0000",
-  "in_reply_to_screen_name" : "Ashleyx1975",
+  "in_reply_to_screen_name" : "rxinbows_end",
   "in_reply_to_user_id_str" : "34482731",
   "user" : {
     "name" : "Sam Reed",
@@ -2775,7 +2775,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kraken",
+      "name" : "Kraken Exchange",
       "screen_name" : "krakenfx",
       "indices" : [ 0, 9 ],
       "id_str" : "1399148563",
@@ -3112,7 +3112,7 @@ Grailbird.data.tweets_2014_06 =
   "id" : 475746332259651584,
   "in_reply_to_status_id" : 475745355376492544,
   "created_at" : "2014-06-08 21:08:59 +0000",
-  "in_reply_to_screen_name" : "Ashleyx1975",
+  "in_reply_to_screen_name" : "rxinbows_end",
   "in_reply_to_user_id_str" : "34482731",
   "user" : {
     "name" : "Sam Reed",
