@@ -139,12 +139,9 @@ Grailbird.data.tweets_2012_08 =
   },
   "geo" : { },
   "id_str" : "241190100178972672",
-  "in_reply_to_user_id" : 173832954,
   "text" : "@OrangeHelpers Is it possible to just get a summary bill through the post, without the itemised billing part? Is that free?",
   "id" : 241190100178972672,
   "created_at" : "2012-08-30 15:06:15 +0000",
-  "in_reply_to_screen_name" : "OrangeUK",
-  "in_reply_to_user_id_str" : "173832954",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1132,7 +1129,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo at #MWC15",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 41, 48 ],
       "id_str" : "17307429",
@@ -1872,7 +1869,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "107116995",
       "id" : 107116995
     }, {
-      "name" : "Lenovo at #MWC15",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 14, 21 ],
       "id_str" : "17307429",
@@ -1969,7 +1966,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "107116995",
       "id" : 107116995
     }, {
-      "name" : "Lenovo at #MWC15",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 14, 21 ],
       "id_str" : "17307429",
@@ -2002,7 +1999,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo at #MWC15",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 22, 29 ],
       "id_str" : "17307429",

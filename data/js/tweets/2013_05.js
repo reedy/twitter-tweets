@@ -80,7 +80,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters",
+      "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -212,7 +212,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters",
+      "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -2378,7 +2378,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters",
+      "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
       "indices" : [ 3, 11 ],
       "id_str" : "14355014",
@@ -3232,7 +3232,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters",
+      "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -5791,39 +5791,6 @@ Grailbird.data.tweets_2013_05 =
   "text" : "Looks like MSN messenger is forcing me over to using Skype. Must install a newer version. Skype isn't a newer version of MSN messenger",
   "id" : 329396201327841280,
   "created_at" : "2013-05-01 00:45:48 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Harrison Gould",
-      "screen_name" : "hgould",
-      "indices" : [ 0, 7 ],
-      "id_str" : "153519739",
-      "id" : 153519739
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "329316614682054656",
-  "geo" : { },
-  "id_str" : "329317538364268545",
-  "in_reply_to_user_id" : 153519739,
-  "text" : "@hgould If you can wait 3 weeks, I'm going to Amsterdam anyway :p",
-  "id" : 329317538364268545,
-  "in_reply_to_status_id" : 329316614682054656,
-  "created_at" : "2013-04-30 19:33:14 +0000",
-  "in_reply_to_screen_name" : "hgould",
-  "in_reply_to_user_id_str" : "153519739",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

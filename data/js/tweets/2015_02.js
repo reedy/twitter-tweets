@@ -52,13 +52,7 @@ Grailbird.data.tweets_2015_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Samsonite US",
-      "screen_name" : "Samsonite",
-      "indices" : [ 0, 10 ],
-      "id_str" : "109345097",
-      "id" : 109345097
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -71,7 +65,7 @@ Grailbird.data.tweets_2015_02 =
   "id" : 569964171279929344,
   "in_reply_to_status_id" : 569962555822768128,
   "created_at" : "2015-02-23 20:57:02 +0000",
-  "in_reply_to_screen_name" : "Samsonite",
+  "in_reply_to_screen_name" : "SamsoniteUS",
   "in_reply_to_user_id_str" : "109345097",
   "user" : {
     "name" : "Sam Reed",
@@ -85,13 +79,7 @@ Grailbird.data.tweets_2015_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Samsonite US",
-      "screen_name" : "Samsonite",
-      "indices" : [ 4, 14 ],
-      "id_str" : "109345097",
-      "id" : 109345097
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/569960890231099392\/photo\/1",
       "indices" : [ 96, 118 ],
@@ -145,7 +133,7 @@ Grailbird.data.tweets_2015_02 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "FAIRFX",
-      "screen_name" : "FairFX",
+      "screen_name" : "FAIRFX",
       "indices" : [ 0, 7 ],
       "id_str" : "14697806",
       "id" : 14697806
@@ -162,7 +150,7 @@ Grailbird.data.tweets_2015_02 =
   "id" : 567706187010179072,
   "in_reply_to_status_id" : 567644182911942656,
   "created_at" : "2015-02-17 15:24:37 +0000",
-  "in_reply_to_screen_name" : "FairFX",
+  "in_reply_to_screen_name" : "FAIRFX",
   "in_reply_to_user_id_str" : "14697806",
   "user" : {
     "name" : "Sam Reed",
@@ -297,7 +285,7 @@ Grailbird.data.tweets_2015_02 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "FAIRFX",
-      "screen_name" : "FairFX",
+      "screen_name" : "FAIRFX",
       "indices" : [ 1, 8 ],
       "id_str" : "14697806",
       "id" : 14697806

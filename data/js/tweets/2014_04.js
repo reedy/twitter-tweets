@@ -1,5 +1,27 @@
 Grailbird.data.tweets_2014_04 = 
  [ {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "461639281711538176",
+  "text" : "Think I need to find some stronger cough medicine. Codeine based?",
+  "id" : 461639281711538176,
+  "created_at" : "2014-04-30 22:52:36 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -157,7 +179,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "Airbus",
       "protected" : false,
       "id_str" : "15425377",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420145497295159296\/Oi3-raLT_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592602401137422336\/qB5FudgU_normal.jpg",
       "id" : 15425377,
       "verified" : true
     }

@@ -1338,7 +1338,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "hhariri",
       "protected" : false,
       "id_str" : "15797140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502892872895447041\/qYZwOyg__normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592984252007976960\/M-fyPi6C_normal.png",
       "id" : 15797140,
       "verified" : false
     }
@@ -3090,7 +3090,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "139748938",
       "id" : 139748938
     }, {
-      "name" : "Dan Leveille",
+      "name" : "Dan Leveille ",
       "screen_name" : "danlev",
       "indices" : [ 14, 21 ],
       "id_str" : "13612732",
@@ -3129,7 +3129,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "139748938",
       "id" : 139748938
     }, {
-      "name" : "Dan Leveille",
+      "name" : "Dan Leveille ",
       "screen_name" : "danlev",
       "indices" : [ 14, 21 ],
       "id_str" : "13612732",
@@ -4327,12 +4327,9 @@ Grailbird.data.tweets_2013_07 =
   },
   "geo" : { },
   "id_str" : "355117522019811329",
-  "in_reply_to_user_id" : 173832954,
   "text" : "@OrangeHelpers If I give you my sisters mobile number, can you arrange for someone to ring and then turn off paper billing for her?",
   "id" : 355117522019811329,
   "created_at" : "2013-07-11 00:13:09 +0000",
-  "in_reply_to_screen_name" : "OrangeUK",
-  "in_reply_to_user_id_str" : "173832954",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4936,7 +4933,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Home Office",
+      "name" : "Home Office",
       "screen_name" : "ukhomeoffice",
       "indices" : [ 0, 13 ],
       "id_str" : "138037459",
@@ -5837,67 +5834,6 @@ Grailbird.data.tweets_2013_07 =
   "created_at" : "2013-06-30 23:04:59 +0000",
   "in_reply_to_screen_name" : "GeneticGenesis",
   "in_reply_to_user_id_str" : "22054297",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "351471596369752066",
-  "text" : "Dear iPlayer, how \"soon after\" is \"available soon after\"? Kthx",
-  "id" : 351471596369752066,
-  "created_at" : "2013-06-30 22:45:33 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Awkward Grindr",
-      "screen_name" : "AwkwardGrindr",
-      "indices" : [ 0, 14 ],
-      "id_str" : "549608648",
-      "id" : 549608648
-    }, {
-      "name" : "Danny Townsend",
-      "screen_name" : "Dannyt147",
-      "indices" : [ 15, 25 ],
-      "id_str" : "177680156",
-      "id" : 177680156
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "351436629535236098",
-  "geo" : { },
-  "id_str" : "351437588269236224",
-  "in_reply_to_user_id" : 549608648,
-  "text" : "@AwkwardGrindr @Dannyt147 More safely? ;)",
-  "id" : 351437588269236224,
-  "in_reply_to_status_id" : 351436629535236098,
-  "created_at" : "2013-06-30 20:30:25 +0000",
-  "in_reply_to_screen_name" : "AwkwardGrindr",
-  "in_reply_to_user_id_str" : "549608648",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

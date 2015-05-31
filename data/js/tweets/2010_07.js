@@ -655,7 +655,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "115181416",
       "id" : 115181416
     }, {
-      "name" : "Shinsters",
+      "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
       "indices" : [ 59, 67 ],
       "id_str" : "14355014",
@@ -3004,7 +3004,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "hhariri",
       "protected" : false,
       "id_str" : "15797140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502892872895447041\/qYZwOyg__normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592984252007976960\/M-fyPi6C_normal.png",
       "id" : 15797140,
       "verified" : false
     }

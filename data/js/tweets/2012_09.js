@@ -2,6 +2,28 @@ Grailbird.data.tweets_2012_09 =
  [ {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "252531020572786688",
+  "text" : "WHY IS THE MENU BAR IN VISUAL STUDIO 2012 SHOUTING AT ME!?",
+  "id" : 252531020572786688,
+  "created_at" : "2012-09-30 22:11:01 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Liam mars",
       "screen_name" : "liammars",
@@ -4617,7 +4639,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "cman2k",
       "protected" : false,
       "id_str" : "10416942",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1825160332\/loski_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/600150016469012481\/v9dHIEqn_normal.jpg",
       "id" : 10416942,
       "verified" : false
     }

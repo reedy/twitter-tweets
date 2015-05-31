@@ -60,7 +60,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters",
+      "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -1025,7 +1025,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542695769992486912\/3pFkS3kj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587966711065931776\/ukOeNk0B_normal.jpg",
       "id" : 94178695,
       "verified" : false
     }
@@ -1181,7 +1181,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "hhariri",
       "protected" : false,
       "id_str" : "15797140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502892872895447041\/qYZwOyg__normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592984252007976960\/M-fyPi6C_normal.png",
       "id" : 15797140,
       "verified" : false
     }
@@ -1552,7 +1552,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "andytuk",
       "protected" : false,
       "id_str" : "14919826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423941597332402176\/tItHtNTQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593051743497367552\/whk1xXfx_normal.jpg",
       "id" : 14919826,
       "verified" : false
     }

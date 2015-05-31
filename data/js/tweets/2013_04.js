@@ -3,6 +3,39 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Harrison Gould",
+      "screen_name" : "hgould",
+      "indices" : [ 0, 7 ],
+      "id_str" : "153519739",
+      "id" : 153519739
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "329316614682054656",
+  "geo" : { },
+  "id_str" : "329317538364268545",
+  "in_reply_to_user_id" : 153519739,
+  "text" : "@hgould If you can wait 3 weeks, I'm going to Amsterdam anyway :p",
+  "id" : 329317538364268545,
+  "in_reply_to_status_id" : 329316614682054656,
+  "created_at" : "2013-04-30 19:33:14 +0000",
+  "in_reply_to_screen_name" : "hgould",
+  "in_reply_to_user_id_str" : "153519739",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "CNET",
       "screen_name" : "CNET",
       "indices" : [ 3, 8 ],
@@ -5252,81 +5285,6 @@ Grailbird.data.tweets_2013_04 =
   "text" : "The internet is about to become all but useless in a few minutes. See you in 24 hours? *sticks fingers in ears* LA LA LA LA LA LA LA LA LA..",
   "id" : 318497971186589697,
   "created_at" : "2013-03-31 23:00:08 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 143, 146 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "318497500187213824",
-  "text" : "Why do people describe themselves as a 'professional' with no further description? Professional what? Professional &lt;insert amusing word&gt; #fb",
-  "id" : 318497500187213824,
-  "created_at" : "2013-03-31 22:58:16 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "trance",
-      "indices" : [ 63, 70 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "318476203222773760",
-  "text" : "So the morale of the story is don't piss off a hypnotherapist? #trance",
-  "id" : 318476203222773760,
-  "created_at" : "2013-03-31 21:33:38 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "uksnow",
-      "indices" : [ 9, 16 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "318439858878156800",
-  "text" : "YO8 1\/10 #uksnow",
-  "id" : 318439858878156800,
-  "created_at" : "2013-03-31 19:09:13 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

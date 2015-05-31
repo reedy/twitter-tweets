@@ -206,7 +206,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "hhariri",
       "protected" : false,
       "id_str" : "15797140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502892872895447041\/qYZwOyg__normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592984252007976960\/M-fyPi6C_normal.png",
       "id" : 15797140,
       "verified" : false
     }
@@ -608,7 +608,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "hhariri",
       "protected" : false,
       "id_str" : "15797140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502892872895447041\/qYZwOyg__normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592984252007976960\/M-fyPi6C_normal.png",
       "id" : 15797140,
       "verified" : false
     }
@@ -3217,7 +3217,7 @@ Grailbird.data.tweets_2012_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "FAIRFX",
-      "screen_name" : "FairFX",
+      "screen_name" : "FAIRFX",
       "indices" : [ 0, 7 ],
       "id_str" : "14697806",
       "id" : 14697806
@@ -3232,7 +3232,7 @@ Grailbird.data.tweets_2012_07 =
   "text" : "@FairFX Is there an Android app in the pipeline too? :D",
   "id" : 222729888447201281,
   "created_at" : "2012-07-10 16:31:58 +0000",
-  "in_reply_to_screen_name" : "FairFX",
+  "in_reply_to_screen_name" : "FAIRFX",
   "in_reply_to_user_id_str" : "14697806",
   "user" : {
     "name" : "Sam Reed",
@@ -4081,7 +4081,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "tjake",
       "protected" : false,
       "id_str" : "11663162",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1848485729\/beard_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/599192191978766336\/14hzzItd_normal.jpg",
       "id" : 11663162,
       "verified" : false
     }
@@ -5403,33 +5403,6 @@ Grailbird.data.tweets_2012_07 =
   },
   "id" : 219255540679847936,
   "created_at" : "2012-07-01 02:26:09 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 91, 111 ],
-      "url" : "http:\/\/t.co\/vOBnPZIy",
-      "expanded_url" : "http:\/\/bit.ly\/LMOpjX",
-      "display_url" : "bit.ly\/LMOpjX"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "219150665652510720",
-  "text" : "Is it me, or do these \"Black box\" plans to decrypt HTTPS traffic just sound like bullshit? http:\/\/t.co\/vOBnPZIy",
-  "id" : 219150665652510720,
-  "created_at" : "2012-06-30 19:29:24 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

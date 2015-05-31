@@ -2840,26 +2840,4 @@ Grailbird.data.tweets_2012_02 =
     "id" : 19903171,
     "verified" : false
   }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "164497215820271617",
-  "text" : "Yes Chrome, the page may have non secure resources. Would you mind telling me what those are, or do I need a clairvoyant?",
-  "id" : 164497215820271617,
-  "created_at" : "2012-01-31 23:56:07 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
 } ]

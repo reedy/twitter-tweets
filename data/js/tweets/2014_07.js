@@ -1143,7 +1143,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "TheOnion",
       "protected" : false,
       "id_str" : "14075928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3654358881\/476bd54bd9c2bc0f9a38b4e097ce6af5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/594130975992328193\/I0qqRlzA_normal.jpg",
       "id" : 14075928,
       "verified" : true
     }
@@ -1414,12 +1414,6 @@ Grailbird.data.tweets_2014_07 =
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
       "id" : 116534927
-    }, {
-      "name" : "unoriginal name",
-      "screen_name" : "EliteFourCon",
-      "indices" : [ 12, 25 ],
-      "id_str" : "2151577218",
-      "id" : 2151577218
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1453,12 +1447,6 @@ Grailbird.data.tweets_2014_07 =
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
       "id" : 116534927
-    }, {
-      "name" : "unoriginal name",
-      "screen_name" : "EliteFourCon",
-      "indices" : [ 12, 25 ],
-      "id_str" : "2151577218",
-      "id" : 2151577218
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1492,12 +1480,6 @@ Grailbird.data.tweets_2014_07 =
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
       "id" : 116534927
-    }, {
-      "name" : "unoriginal name",
-      "screen_name" : "EliteFourCon",
-      "indices" : [ 12, 25 ],
-      "id_str" : "2151577218",
-      "id" : 2151577218
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3490,13 +3472,7 @@ Grailbird.data.tweets_2014_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Samsonite US",
-      "screen_name" : "Samsonite",
-      "indices" : [ 0, 10 ],
-      "id_str" : "109345097",
-      "id" : 109345097
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3509,7 +3485,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 488805345079590912,
   "in_reply_to_status_id" : 488805205371154432,
   "created_at" : "2014-07-14 22:00:50 +0000",
-  "in_reply_to_screen_name" : "Samsonite",
+  "in_reply_to_screen_name" : "SamsoniteUS",
   "in_reply_to_user_id_str" : "109345097",
   "user" : {
     "name" : "Sam Reed",
@@ -3612,7 +3588,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "Airbus",
       "protected" : false,
       "id_str" : "15425377",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420145497295159296\/Oi3-raLT_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592602401137422336\/qB5FudgU_normal.jpg",
       "id" : 15425377,
       "verified" : true
     }
@@ -5267,7 +5243,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille",
+      "name" : "Dan Leveille ",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",
@@ -5300,7 +5276,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille",
+      "name" : "Dan Leveille ",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",
@@ -5683,7 +5659,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo ",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 0, 7 ],
       "id_str" : "17307429",

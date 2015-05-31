@@ -2331,7 +2331,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542695769992486912\/3pFkS3kj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587966711065931776\/ukOeNk0B_normal.jpg",
       "id" : 94178695,
       "verified" : false
     }

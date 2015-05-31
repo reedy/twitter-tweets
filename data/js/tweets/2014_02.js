@@ -2,6 +2,292 @@ Grailbird.data.tweets_2014_02 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "CNET",
+      "screen_name" : "CNET",
+      "indices" : [ 3, 8 ],
+      "id_str" : "30261067",
+      "id" : 30261067
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 82, 104 ],
+      "url" : "http:\/\/t.co\/LKhqMjCzpp",
+      "expanded_url" : "http:\/\/cnet.co\/1hZNaxs",
+      "display_url" : "cnet.co\/1hZNaxs"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "439504317293555712",
+  "text" : "RT @CNET: GLaDOS from Portal explains nuclear fusion for a NASA educational video http:\/\/t.co\/LKhqMjCzpp",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 72, 94 ],
+        "url" : "http:\/\/t.co\/LKhqMjCzpp",
+        "expanded_url" : "http:\/\/cnet.co\/1hZNaxs",
+        "display_url" : "cnet.co\/1hZNaxs"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "439501050060763136",
+    "text" : "GLaDOS from Portal explains nuclear fusion for a NASA educational video http:\/\/t.co\/LKhqMjCzpp",
+    "id" : 439501050060763136,
+    "created_at" : "2014-02-28 20:43:10 +0000",
+    "user" : {
+      "name" : "CNET",
+      "screen_name" : "CNET",
+      "protected" : false,
+      "id_str" : "30261067",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459126531676049408\/9DtDFag4_normal.jpeg",
+      "id" : 30261067,
+      "verified" : true
+    }
+  },
+  "id" : 439504317293555712,
+  "created_at" : "2014-02-28 20:56:09 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "439496202871390209",
+  "text" : "Do I have a need for some 480GB SSDs?",
+  "id" : 439496202871390209,
+  "created_at" : "2014-02-28 20:23:54 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ebuyer.com",
+      "screen_name" : "Ebuyer",
+      "indices" : [ 3, 10 ],
+      "id_str" : "20662765",
+      "id" : 20662765
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/Ebuyer\/status\/439495191138160641\/photo\/1",
+      "indices" : [ 118, 140 ],
+      "url" : "http:\/\/t.co\/gvWrbDBBXO",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BhlmjDKIUAA3LfM.png",
+      "id_str" : "439495190974582784",
+      "id" : 439495190974582784,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BhlmjDKIUAA3LfM.png",
+      "sizes" : [ {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 402
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 379,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 402
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 403
+      } ],
+      "display_url" : "pic.twitter.com\/gvWrbDBBXO"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 95, 117 ],
+      "url" : "http:\/\/t.co\/JcFtqtCPKF",
+      "expanded_url" : "http:\/\/www.ebuyer.com\/daily-deals",
+      "display_url" : "ebuyer.com\/daily-deals"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "439495819990155265",
+  "text" : "RT @Ebuyer: We've got the cheapest 480GB SSD on the market! The Seagate 600 for only \u00A3159.99 \n\nhttp:\/\/t.co\/JcFtqtCPKF http:\/\/t.co\/gvWrbDBBXO",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/Ebuyer\/status\/439495191138160641\/photo\/1",
+        "indices" : [ 106, 128 ],
+        "url" : "http:\/\/t.co\/gvWrbDBBXO",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BhlmjDKIUAA3LfM.png",
+        "id_str" : "439495190974582784",
+        "id" : 439495190974582784,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BhlmjDKIUAA3LfM.png",
+        "sizes" : [ {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 402
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 379,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 402
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 403
+        } ],
+        "display_url" : "pic.twitter.com\/gvWrbDBBXO"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 83, 105 ],
+        "url" : "http:\/\/t.co\/JcFtqtCPKF",
+        "expanded_url" : "http:\/\/www.ebuyer.com\/daily-deals",
+        "display_url" : "ebuyer.com\/daily-deals"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "439495191138160641",
+    "text" : "We've got the cheapest 480GB SSD on the market! The Seagate 600 for only \u00A3159.99 \n\nhttp:\/\/t.co\/JcFtqtCPKF http:\/\/t.co\/gvWrbDBBXO",
+    "id" : 439495191138160641,
+    "created_at" : "2014-02-28 20:19:53 +0000",
+    "user" : {
+      "name" : "Ebuyer.com",
+      "screen_name" : "Ebuyer",
+      "protected" : false,
+      "id_str" : "20662765",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532840755031597057\/tc2CkSI8_normal.jpeg",
+      "id" : 20662765,
+      "verified" : false
+    }
+  },
+  "id" : 439495819990155265,
+  "created_at" : "2014-02-28 20:22:23 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ebuyer.com",
+      "screen_name" : "Ebuyer",
+      "indices" : [ 0, 7 ],
+      "id_str" : "20662765",
+      "id" : 20662765
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "439493917806174208",
+  "geo" : { },
+  "id_str" : "439495054865235968",
+  "in_reply_to_user_id" : 20662765,
+  "text" : "@Ebuyer The picture doesn't show it ;)",
+  "id" : 439495054865235968,
+  "in_reply_to_status_id" : 439493917806174208,
+  "created_at" : "2014-02-28 20:19:21 +0000",
+  "in_reply_to_screen_name" : "Ebuyer",
+  "in_reply_to_user_id_str" : "20662765",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 34, 56 ],
+      "url" : "http:\/\/t.co\/TVnxOvGKas",
+      "expanded_url" : "http:\/\/www.bbc.co.uk\/news\/technology-26366893",
+      "display_url" : "bbc.co.uk\/news\/technolog\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "439482720784502784",
+  "text" : "Delay BT broadband cash bid - MPs http:\/\/t.co\/TVnxOvGKas",
+  "id" : 439482720784502784,
+  "created_at" : "2014-02-28 19:30:20 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "439482062169722881",
+  "text" : "When will phone lines and line rental die? \"Rental\" costs \u00A310-15 and represents a large chunk on top of DSL services. I just want the data!",
+  "id" : 439482062169722881,
+  "created_at" : "2014-02-28 19:27:43 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -799,7 +1085,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicolas Gallagher",
+      "name" : "Nicolas",
       "screen_name" : "necolas",
       "indices" : [ 3, 11 ],
       "id_str" : "24974216",
@@ -836,7 +1122,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 438051369325322240,
     "created_at" : "2014-02-24 20:42:39 +0000",
     "user" : {
-      "name" : "Nicolas Gallagher",
+      "name" : "Nicolas",
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
@@ -5561,28 +5847,6 @@ Grailbird.data.tweets_2014_02 =
   "text" : "Lockheed L-1011 TriStar \"The Flying Hospital\" spotted at Tucson Airport this morning #fb",
   "id" : 429726723442102272,
   "created_at" : "2014-02-01 21:23:29 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "429370140103147520",
-  "text" : "\"There are Adobe Reader versions for MS Windows, MS Windows NT, OS\/2, Macintosh, and Unix platforms.\" Lol. OS\/2",
-  "id" : 429370140103147520,
-  "created_at" : "2014-01-31 21:46:33 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

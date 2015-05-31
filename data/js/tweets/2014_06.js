@@ -896,7 +896,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters",
+      "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -2104,7 +2104,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "33717982",
       "id" : 33717982
     }, {
-      "name" : "Lenovo at #MWC15",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 10, 17 ],
       "id_str" : "17307429",
@@ -2176,7 +2176,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "33717982",
       "id" : 33717982
     }, {
-      "name" : "Lenovo at #MWC15",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 10, 17 ],
       "id_str" : "17307429",
@@ -2209,7 +2209,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo at #MWC15",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 19, 26 ],
       "id_str" : "17307429",

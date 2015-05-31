@@ -1,5 +1,55 @@
 Grailbird.data.tweets_2013_08 = 
  [ {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 130, 133 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "373932561074253824",
+  "text" : "Anyone know of\/recommend a wireless charging mat\/similar that ideally takes a (micro) usb cable input? Failing that, any mat etc? #fb",
+  "id" : 373932561074253824,
+  "created_at" : "2013-08-31 22:17:24 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 119, 122 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "373917626705379328",
+  "text" : "That's 2 sets of BP \"Free Pizza\" from Pizza Express now. 1 voucher short of a 3rd... Anyone got a voucher going spare? #fb",
+  "id" : 373917626705379328,
+  "created_at" : "2013-08-31 21:18:03 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1071,7 +1121,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters",
+      "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -4315,7 +4365,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "GTAVoclock",
       "protected" : false,
       "id_str" : "1222748550",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000307919656\/0f75ae5fa6efab024e381a323ef4cd5f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/573530564751286272\/Oux1g4T0_normal.jpeg",
       "id" : 1222748550,
       "verified" : false
     }
@@ -5834,7 +5884,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille",
+      "name" : "Dan Leveille ",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",
@@ -6733,7 +6783,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "19983221",
       "id" : 19983221
     }, {
-      "name" : "\uFF30\uFF41\uFF4E\uFF54\uFF59",
+      "name" : "FLEAZ F4s",
       "screen_name" : "pA",
       "indices" : [ 12, 15 ],
       "id_str" : "1702648232",
@@ -7855,7 +7905,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille",
+      "name" : "Dan Leveille ",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",
@@ -8241,132 +8291,6 @@ Grailbird.data.tweets_2013_08 =
   "text" : "http:\/\/t.co\/VFOurD6nGm We made BBC news!",
   "id" : 364484207940485121,
   "created_at" : "2013-08-05 20:33:01 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Flightradar24",
-      "screen_name" : "flightradar24",
-      "indices" : [ 18, 32 ],
-      "id_str" : "134196350",
-      "id" : 134196350
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/LisaLuiz4\/status\/364483287554613248\/photo\/1",
-      "indices" : [ 79, 101 ],
-      "url" : "http:\/\/t.co\/3v7J034CcZ",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BQ7nnnHCYAA_bv7.jpg",
-      "id_str" : "364483287563001856",
-      "id" : 364483287563001856,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BQ7nnnHCYAA_bv7.jpg",
-      "sizes" : [ {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/3v7J034CcZ"
-    } ],
-    "hashtags" : [ {
-      "text" : "BA25",
-      "indices" : [ 45, 50 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "364484129985142784",
-  "text" : "RT @LisaStabler1: @flightradar24 coverage of #BA25 makes the BBC News Channel: http:\/\/t.co\/3v7J034CcZ",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Flightradar24",
-        "screen_name" : "flightradar24",
-        "indices" : [ 0, 14 ],
-        "id_str" : "134196350",
-        "id" : 134196350
-      } ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/LisaLuiz4\/status\/364483287554613248\/photo\/1",
-        "indices" : [ 61, 83 ],
-        "url" : "http:\/\/t.co\/3v7J034CcZ",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BQ7nnnHCYAA_bv7.jpg",
-        "id_str" : "364483287563001856",
-        "id" : 364483287563001856,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BQ7nnnHCYAA_bv7.jpg",
-        "sizes" : [ {
-          "h" : 255,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 768,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 768,
-          "resize" : "fit",
-          "w" : 1024
-        } ],
-        "display_url" : "pic.twitter.com\/3v7J034CcZ"
-      } ],
-      "hashtags" : [ {
-        "text" : "BA25",
-        "indices" : [ 27, 32 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "364483287554613248",
-    "in_reply_to_user_id" : 134196350,
-    "text" : "@flightradar24 coverage of #BA25 makes the BBC News Channel: http:\/\/t.co\/3v7J034CcZ",
-    "id" : 364483287554613248,
-    "created_at" : "2013-08-05 20:29:22 +0000",
-    "in_reply_to_screen_name" : "flightradar24",
-    "in_reply_to_user_id_str" : "134196350",
-    "user" : {
-      "name" : "Lisa Hills",
-      "screen_name" : "LisaLuiz4",
-      "protected" : false,
-      "id_str" : "290510050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/527963822989275136\/WPTxmcPK_normal.jpeg",
-      "id" : 290510050,
-      "verified" : false
-    }
-  },
-  "id" : 364484129985142784,
-  "created_at" : "2013-08-05 20:32:43 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -9133,7 +9057,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille",
+      "name" : "Dan Leveille ",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",
@@ -9166,7 +9090,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille",
+      "name" : "Dan Leveille ",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",

@@ -4,6 +4,28 @@ Grailbird.data.tweets_2012_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "164497215820271617",
+  "text" : "Yes Chrome, the page may have non secure resources. Would you mind telling me what those are, or do I need a clairvoyant?",
+  "id" : 164497215820271617,
+  "created_at" : "2012-01-31 23:56:07 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "fb",
       "indices" : [ 37, 40 ]
@@ -3771,7 +3793,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gouldilocks",
+      "name" : "Gouldenberg",
       "screen_name" : "andrewgould",
       "indices" : [ 3, 15 ],
       "id_str" : "14683371",
@@ -3808,11 +3830,11 @@ Grailbird.data.tweets_2012_01 =
     "id" : 159507328914305024,
     "created_at" : "2012-01-18 05:28:05 +0000",
     "user" : {
-      "name" : "Gouldilocks",
+      "name" : "Gouldenberg",
       "screen_name" : "andrewgould",
       "protected" : false,
       "id_str" : "14683371",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3178874015\/c9b15fd3abf54b89e77fcaae1ec51edf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581303450165637122\/ugyrbuw__normal.jpg",
       "id" : 14683371,
       "verified" : false
     }
@@ -7224,7 +7246,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters",
+      "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -8623,27 +8645,16 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Antony Scott",
-      "screen_name" : "antony_scott",
-      "indices" : [ 0, 13 ],
-      "id_str" : "158305755",
-      "id" : 158305755
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "155399575396564992",
   "geo" : { },
   "id_str" : "155399898924187650",
-  "in_reply_to_user_id" : 158305755,
   "text" : "@antony_scott So thought a bit more searching might not be a bad idea. Thanks!",
   "id" : 155399898924187650,
-  "in_reply_to_status_id" : 155399575396564992,
   "created_at" : "2012-01-06 21:26:37 +0000",
-  "in_reply_to_screen_name" : "antony_scott",
-  "in_reply_to_user_id_str" : "158305755",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -8656,27 +8667,16 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Antony Scott",
-      "screen_name" : "antony_scott",
-      "indices" : [ 0, 13 ],
-      "id_str" : "158305755",
-      "id" : 158305755
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "155399575396564992",
   "geo" : { },
   "id_str" : "155399827902054400",
-  "in_reply_to_user_id" : 158305755,
   "text" : "@antony_scott Cool, cheers. Just had some fail sticking some to the bottom of a HP Proliant Mini (onto the current hard rubber feet)....",
   "id" : 155399827902054400,
-  "in_reply_to_status_id" : 155399575396564992,
   "created_at" : "2012-01-06 21:26:20 +0000",
-  "in_reply_to_screen_name" : "antony_scott",
-  "in_reply_to_user_id_str" : "158305755",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -8690,12 +8690,6 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Antony Scott",
-      "screen_name" : "antony_scott",
-      "indices" : [ 0, 13 ],
-      "id_str" : "158305755",
-      "id" : 158305755
-    }, {
       "name" : "Drobo",
       "screen_name" : "drobo",
       "indices" : [ 47, 53 ],
@@ -8712,16 +8706,11 @@ Grailbird.data.tweets_2012_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "131004244370264065",
   "geo" : { },
   "id_str" : "155385079110180864",
-  "in_reply_to_user_id" : 158305755,
   "text" : "@antony_scott Little delayed reply... For your @drobo fs, did unscrew the current feet, and then replace with @Quietpc acoustifeet?",
   "id" : 155385079110180864,
-  "in_reply_to_status_id" : 131004244370264065,
   "created_at" : "2012-01-06 20:27:44 +0000",
-  "in_reply_to_screen_name" : "antony_scott",
-  "in_reply_to_user_id_str" : "158305755",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -10046,87 +10035,6 @@ Grailbird.data.tweets_2012_01 =
   "text" : "My Top 3 #lastfm Artists: Jimmy Eat World (5), Marina & The Diamonds (5) & Jonathan Coulton (4) http:\/\/t.co\/Yj15LVui",
   "id" : 153482272824242176,
   "created_at" : "2012-01-01 14:26:40 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 14, 19 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "153242188820643842",
-  "text" : "It would seem @d0od has maybe had more than a drink. No idea if he was actually shouting at me or what...",
-  "id" : 153242188820643842,
-  "created_at" : "2011-12-31 22:32:39 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Wolfram|Alpha",
-      "screen_name" : "Wolfram_Alpha",
-      "indices" : [ 6, 20 ],
-      "id_str" : "35005086",
-      "id" : 35005086
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "153218653490388994",
-  "text" : "Awww. @Wolfram_Alpha doesn't understand Zbps or Ybps (Zeta or Yotta)",
-  "id" : 153218653490388994,
-  "created_at" : "2011-12-31 20:59:08 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 136, 139 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "153210198264258560",
-  "text" : "Writing tests before refactoring code? There's a firsttime for everything (refactored the code first, just didn't commit it till later) #fb",
-  "id" : 153210198264258560,
-  "created_at" : "2011-12-31 20:25:32 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

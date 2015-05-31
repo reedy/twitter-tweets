@@ -3,6 +3,116 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "American Airlines",
+      "screen_name" : "AmericanAir",
+      "indices" : [ 0, 12 ],
+      "id_str" : "22536055",
+      "id" : 22536055
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "418165991562948608",
+  "geo" : { },
+  "id_str" : "418167247644143616",
+  "in_reply_to_user_id" : 22536055,
+  "text" : "@AmericanAir The Moon",
+  "id" : 418167247644143616,
+  "in_reply_to_status_id" : 418165991562948608,
+  "created_at" : "2013-12-31 23:50:15 +0000",
+  "in_reply_to_screen_name" : "AmericanAir",
+  "in_reply_to_user_id_str" : "22536055",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jeroen De Dauw",
+      "screen_name" : "JeroenDeDauw",
+      "indices" : [ 0, 13 ],
+      "id_str" : "112745660",
+      "id" : 112745660
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "418154844113760256",
+  "geo" : { },
+  "id_str" : "418154903258013697",
+  "in_reply_to_user_id" : 112745660,
+  "text" : "@JeroenDeDauw The apocalypse is now",
+  "id" : 418154903258013697,
+  "in_reply_to_status_id" : 418154844113760256,
+  "created_at" : "2013-12-31 23:01:12 +0000",
+  "in_reply_to_screen_name" : "JeroenDeDauw",
+  "in_reply_to_user_id_str" : "112745660",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "418118439312826368",
+  "text" : "Between eBay and PayPal you end up losing upto 20%...",
+  "id" : 418118439312826368,
+  "created_at" : "2013-12-31 20:36:18 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "418117240597516288",
+  "text" : "Selling on eBay, and receiving payments via PayPal. Is it really worth bothering?",
+  "id" : 418117240597516288,
+  "created_at" : "2013-12-31 20:31:33 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Kevin Gosztola",
       "screen_name" : "kgosztola",
       "indices" : [ 3, 13 ],
@@ -1902,7 +2012,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "OwenJones84",
       "protected" : false,
       "id_str" : "65045121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/515781484230094849\/JezwA97n_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/578230164296851456\/jFAGPYgX_normal.png",
       "id" : 65045121,
       "verified" : true
     }
@@ -3949,7 +4059,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "lifehacker",
       "protected" : false,
       "id_str" : "7144422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1861146796\/Twitter_-_Avatar_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590971614545612800\/eV8h6rz7_normal.png",
       "id" : 7144422,
       "verified" : true
     }
@@ -5396,7 +5506,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo at #MWC15",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 75, 82 ],
       "id_str" : "17307429",
@@ -7132,7 +7242,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Webscale Potato",
+      "name" : "Ben Macguire",
       "screen_name" : "blueben",
       "indices" : [ 3, 11 ],
       "id_str" : "13734442",
@@ -7165,7 +7275,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 408781768536240128,
     "created_at" : "2013-12-06 02:15:43 +0000",
     "user" : {
-      "name" : "Webscale Potato",
+      "name" : "Ben Macguire",
       "screen_name" : "blueben",
       "protected" : false,
       "id_str" : "13734442",
@@ -8019,7 +8129,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "pregatunsa1976",
+      "name" : "\u041A\u0443\u043F\u0440\u0438\u044F\u043D\r\n",
       "screen_name" : "BoldOmi",
       "indices" : [ 12, 20 ],
       "id_str" : "2982332841",
@@ -8052,7 +8162,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "pregatunsa1976",
+      "name" : "\u041A\u0443\u043F\u0440\u0438\u044F\u043D\r\n",
       "screen_name" : "BoldOmi",
       "indices" : [ 0, 8 ],
       "id_str" : "2982332841",
@@ -8431,72 +8541,6 @@ Grailbird.data.tweets_2013_12 =
   "text" : "So Visual Studio 2010 will open a solution with a # in the name. Visual Studio 2012 and 2013 won't",
   "id" : 406976224268132352,
   "created_at" : "2013-12-01 02:41:07 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "406895366320443392",
-  "text" : "Do I really need VS 2010, 2012 and 2013 on the same computer?",
-  "id" : 406895366320443392,
-  "created_at" : "2013-11-30 21:19:49 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "406887755227357184",
-  "text" : "I think the only thing better than fresh bread is to have still warm\/hot fresh bread...",
-  "id" : 406887755227357184,
-  "created_at" : "2013-11-30 20:49:35 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "406861058763411456",
-  "text" : "Always interesting when you get 2 letters from the same company. Different layout, font, header (logo size and placement) and paper size",
-  "id" : 406861058763411456,
-  "created_at" : "2013-11-30 19:03:30 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

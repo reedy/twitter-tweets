@@ -1197,7 +1197,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo at #MWC15",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 0, 7 ],
       "id_str" : "17307429",
@@ -1948,7 +1948,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo ",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 3, 10 ],
       "id_str" : "17307429",
@@ -2069,11 +2069,11 @@ Grailbird.data.tweets_2015_01 =
     "id" : 551939394903736320,
     "created_at" : "2015-01-05 03:13:00 +0000",
     "user" : {
-      "name" : "Lenovo at #MWC15",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "protected" : false,
       "id_str" : "17307429",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571237227636609024\/XlFhqiYo_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603740744885501952\/lhsn-W53_normal.png",
       "id" : 17307429,
       "verified" : true
     }

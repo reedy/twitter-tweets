@@ -101,7 +101,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Showcase Cinemas",
+      "name" : "Showcase Cinemas UK",
       "screen_name" : "ShowcaseCinemas",
       "indices" : [ 4, 20 ],
       "id_str" : "189148772",
@@ -688,13 +688,7 @@ Grailbird.data.tweets_2014_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Samsonite US",
-      "screen_name" : "Samsonite",
-      "indices" : [ 0, 10 ],
-      "id_str" : "109345097",
-      "id" : 109345097
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -707,7 +701,7 @@ Grailbird.data.tweets_2014_09 =
   "id" : 515259987644653568,
   "in_reply_to_status_id" : 515259498479357952,
   "created_at" : "2014-09-25 22:02:08 +0000",
-  "in_reply_to_screen_name" : "Samsonite",
+  "in_reply_to_screen_name" : "SamsoniteUS",
   "in_reply_to_user_id_str" : "109345097",
   "user" : {
     "name" : "Sam Reed",
@@ -1576,7 +1570,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "lifehacker",
       "protected" : false,
       "id_str" : "7144422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1861146796\/Twitter_-_Avatar_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590971614545612800\/eV8h6rz7_normal.png",
       "id" : 7144422,
       "verified" : true
     }
@@ -3874,11 +3868,11 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "5UB",
-      "screen_name" : "FiveUB",
+      "name" : "Steven Levitt",
+      "screen_name" : "fiveub",
       "indices" : [ 0, 7 ],
-      "id_str" : "1706468510",
-      "id" : 1706468510
+      "id_str" : "3198151433",
+      "id" : 3198151433
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3892,7 +3886,7 @@ Grailbird.data.tweets_2014_09 =
   "id" : 507575818240147456,
   "in_reply_to_status_id" : 507563451452231680,
   "created_at" : "2014-09-04 17:08:00 +0000",
-  "in_reply_to_screen_name" : "FiveUB",
+  "in_reply_to_screen_name" : "slmagician",
   "in_reply_to_user_id_str" : "1706468510",
   "user" : {
     "name" : "Sam Reed",

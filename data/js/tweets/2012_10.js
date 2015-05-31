@@ -1,5 +1,32 @@
 Grailbird.data.tweets_2012_10 = 
  [ {
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 43, 63 ],
+      "url" : "http:\/\/t.co\/BA6GNNGG",
+      "expanded_url" : "http:\/\/www.mysqlperformanceblog.com\/2008\/02\/04\/finding-out-largest-tables-on-mysql-server\/",
+      "display_url" : "mysqlperformanceblog.com\/2008\/02\/04\/fin\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "263723537808891904",
+  "text" : "Finding out largest tables on MySQL Server http:\/\/t.co\/BA6GNNGG",
+  "id" : 263723537808891904,
+  "created_at" : "2012-10-31 19:26:05 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1128,7 +1155,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters",
+      "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -1705,7 +1732,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "AngryBirds",
       "protected" : false,
       "id_str" : "17337554",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572266304518623232\/xWnWD0UB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/601667131948683265\/VyGoeXd2_normal.png",
       "id" : 17337554,
       "verified" : true
     }
@@ -4978,28 +5005,6 @@ Grailbird.data.tweets_2012_10 =
   "text" : "I'm not slacking, git is counting objects. #fb",
   "id" : 252760005797892096,
   "created_at" : "2012-10-01 13:20:56 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "252531020572786688",
-  "text" : "WHY IS THE MENU BAR IN VISUAL STUDIO 2012 SHOUTING AT ME!?",
-  "id" : 252531020572786688,
-  "created_at" : "2012-09-30 22:11:01 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

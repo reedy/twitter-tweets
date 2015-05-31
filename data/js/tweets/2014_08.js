@@ -168,7 +168,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "RDGluck",
       "protected" : false,
       "id_str" : "62607006",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542861498435903489\/9fcdo41D_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593021466909650944\/sHAV09XH_normal.jpg",
       "id" : 62607006,
       "verified" : false
     }
@@ -779,7 +779,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo at #MWC15",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 3, 10 ],
       "id_str" : "17307429",
@@ -1088,7 +1088,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "23262377",
       "id" : 23262377
     }, {
-      "name" : "Lenovo at #MWC15",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 8, 15 ],
       "id_str" : "17307429",
@@ -1127,7 +1127,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo at #MWC15",
+      "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 0, 7 ],
       "id_str" : "17307429",
@@ -1850,7 +1850,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "1856171",
       "id" : 1856171
     }, {
-      "name" : "Shinsters",
+      "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
       "indices" : [ 9, 17 ],
       "id_str" : "14355014",
@@ -1883,7 +1883,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters",
+      "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -1916,7 +1916,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters",
+      "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -2087,7 +2087,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "OwenJones84",
       "protected" : false,
       "id_str" : "65045121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/515781484230094849\/JezwA97n_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/578230164296851456\/jFAGPYgX_normal.png",
       "id" : 65045121,
       "verified" : true
     }
