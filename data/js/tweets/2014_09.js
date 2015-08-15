@@ -219,7 +219,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -340,27 +340,16 @@ Grailbird.data.tweets_2014_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "515632071780601858",
   "geo" : { },
   "id_str" : "515650817056325634",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr One point I remember that there weren't anywhere near as many stores run directly by the networks etc. Limited internet sales too",
   "id" : 515650817056325634,
-  "in_reply_to_status_id" : 515632071780601858,
   "created_at" : "2014-09-26 23:55:09 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -597,7 +586,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2415722176\/0joo5f32yuw0juszwjx4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
       "verified" : false
     }
@@ -731,25 +720,25 @@ Grailbird.data.tweets_2014_09 =
       "id" : 515233373393281024,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ByZ6BfWIYAA-pCQ.jpg",
       "sizes" : [ {
-        "h" : 3167,
-        "resize" : "fit",
-        "w" : 3736
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 288,
-        "resize" : "fit",
-        "w" : 340
       }, {
         "h" : 508,
         "resize" : "fit",
         "w" : 600
       }, {
+        "h" : 3167,
+        "resize" : "fit",
+        "w" : 3736
+      }, {
         "h" : 868,
         "resize" : "fit",
         "w" : 1024
+      }, {
+        "h" : 288,
+        "resize" : "fit",
+        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/0jQMFChAkf"
     } ],
@@ -772,25 +761,25 @@ Grailbird.data.tweets_2014_09 =
         "id" : 515233373393281024,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ByZ6BfWIYAA-pCQ.jpg",
         "sizes" : [ {
-          "h" : 3167,
-          "resize" : "fit",
-          "w" : 3736
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
-        }, {
-          "h" : 288,
-          "resize" : "fit",
-          "w" : 340
         }, {
           "h" : 508,
           "resize" : "fit",
           "w" : 600
         }, {
+          "h" : 3167,
+          "resize" : "fit",
+          "w" : 3736
+        }, {
           "h" : 868,
           "resize" : "fit",
           "w" : 1024
+        }, {
+          "h" : 288,
+          "resize" : "fit",
+          "w" : 340
         } ],
         "display_url" : "pic.twitter.com\/0jQMFChAkf"
       } ],
@@ -1108,17 +1097,11 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Jennings",
+      "name" : "Chris Dennings",
       "screen_name" : "chrsphr",
       "indices" : [ 0, 8 ],
       "id_str" : "7790832",
       "id" : 7790832
-    }, {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 9, 18 ],
-      "id_str" : "33717982",
-      "id" : 33717982
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1146,27 +1129,16 @@ Grailbird.data.tweets_2014_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "514738972644626432",
   "geo" : { },
   "id_str" : "514739741271801856",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Have to see who has at least reasonable coverage at my parents new house. Only need calls and texts. WiFi for the rest is fine",
   "id" : 514739741271801856,
-  "in_reply_to_status_id" : 514738972644626432,
   "created_at" : "2014-09-24 11:34:52 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1179,27 +1151,16 @@ Grailbird.data.tweets_2014_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "514738972644626432",
   "geo" : { },
   "id_str" : "514739512640299009",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Haha. I like giffgaff. But it is an option. Moved away from Vodafone a few years back primarily for crappy signal at home",
   "id" : 514739512640299009,
-  "in_reply_to_status_id" : 514738972644626432,
   "created_at" : "2014-09-24 11:33:57 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1590,17 +1551,11 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \u2665",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
       "id" : 116534927
-    }, {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 12, 21 ],
-      "id_str" : "33717982",
-      "id" : 33717982
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1629,17 +1584,11 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \u2665",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
       "id" : 116534927
-    }, {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 62, 71 ],
-      "id_str" : "33717982",
-      "id" : 33717982
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1771,13 +1720,13 @@ Grailbird.data.tweets_2014_09 =
       "id" : 512496628809601024,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BxzA9_TIEAAIAav.jpg",
       "sizes" : [ {
-        "h" : 960,
-        "resize" : "fit",
-        "w" : 540
-      }, {
         "h" : 604,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 960,
+        "resize" : "fit",
+        "w" : 540
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -2073,7 +2022,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2703,6 +2652,10 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "fit",
         "w" : 340
       }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -2710,10 +2663,6 @@ Grailbird.data.tweets_2014_09 =
         "h" : 612,
         "resize" : "fit",
         "w" : 816
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 612,
         "resize" : "fit",
@@ -3090,7 +3039,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \u2665",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3123,7 +3072,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \u2665",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3171,21 +3120,21 @@ Grailbird.data.tweets_2014_09 =
       "id" : 509424206316969984,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BxHWndmCIAAV70q.jpg",
       "sizes" : [ {
-        "h" : 231,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 698,
         "resize" : "fit",
         "w" : 1024
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
+        "h" : 231,
+        "resize" : "fit",
+        "w" : 340
       }, {
         "h" : 1396,
         "resize" : "fit",
         "w" : 2048
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 408,
         "resize" : "fit",
@@ -3212,21 +3161,21 @@ Grailbird.data.tweets_2014_09 =
         "id" : 509424206316969984,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BxHWndmCIAAV70q.jpg",
         "sizes" : [ {
-          "h" : 231,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 698,
           "resize" : "fit",
           "w" : 1024
         }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
+          "h" : 231,
+          "resize" : "fit",
+          "w" : 340
         }, {
           "h" : 1396,
           "resize" : "fit",
           "w" : 2048
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
           "h" : 408,
           "resize" : "fit",
@@ -3247,7 +3196,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "RonAmadeo",
       "protected" : false,
       "id_str" : "83426327",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000365472578\/d14f69575620cc6836f487572982cc6f_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614963898760822784\/ZL-hQG8w_normal.jpg",
       "id" : 83426327,
       "verified" : true
     }
@@ -3531,7 +3480,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \u2665",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3563,27 +3512,16 @@ Grailbird.data.tweets_2014_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "508908790839013376",
   "geo" : { },
   "id_str" : "508909285099974656",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr so gay.",
   "id" : 508909285099974656,
-  "in_reply_to_status_id" : 508908790839013376,
   "created_at" : "2014-09-08 09:26:43 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3597,7 +3535,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \u2665",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3679,27 +3617,16 @@ Grailbird.data.tweets_2014_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "508294360853921792",
   "geo" : { },
   "id_str" : "508300527122518019",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr What is more stupid is that if your renewal was in a couple of months you wouldn't have gotten one",
   "id" : 508300527122518019,
-  "in_reply_to_status_id" : 508294360853921792,
   "created_at" : "2014-09-06 17:07:44 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3761,17 +3688,9 @@ Grailbird.data.tweets_2014_09 =
       "id" : 508265778362449920,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bw25CFLIAAAdd88.jpg",
       "sizes" : [ {
-        "h" : 816,
-        "resize" : "fit",
-        "w" : 612
-      }, {
         "h" : 453,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 816,
         "resize" : "fit",
@@ -3780,6 +3699,14 @@ Grailbird.data.tweets_2014_09 =
         "h" : 800,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 612
       } ],
       "display_url" : "pic.twitter.com\/duBLiHb3Bz"
     } ],
@@ -3848,7 +3775,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "SquidDLane",
       "protected" : false,
       "id_str" : "15911738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000365827252\/c7082d736a5a258deedb79daccffa1e0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611423341174370306\/r3pUltM7_normal.jpg",
       "id" : 15911738,
       "verified" : false
     }

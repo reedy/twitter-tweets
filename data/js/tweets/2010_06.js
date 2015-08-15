@@ -559,27 +559,16 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "17106637893",
   "geo" : { },
   "id_str" : "17107438939",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Is Alex that uninteresting?",
   "id" : 17107438939,
-  "in_reply_to_status_id" : 17106637893,
   "created_at" : "2010-06-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1025,7 +1014,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587966711065931776\/ukOeNk0B_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630229827639906305\/tM1Tb0EY_normal.jpg",
       "id" : 94178695,
       "verified" : false
     }
@@ -1181,7 +1170,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "hhariri",
       "protected" : false,
       "id_str" : "15797140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592984252007976960\/M-fyPi6C_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/610340477771059200\/L-kSvHja_normal.png",
       "id" : 15797140,
       "verified" : false
     }
@@ -1437,6 +1426,39 @@ Grailbird.data.tweets_2010_06 =
   "created_at" : "2010-06-21 00:00:00 +0000",
   "in_reply_to_screen_name" : "mickster04",
   "in_reply_to_user_id_str" : "20236006",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "carlos contreras",
+      "screen_name" : "120789",
+      "indices" : [ 0, 7 ],
+      "id_str" : "426970001",
+      "id" : 426970001
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "16535862436",
+  "geo" : { },
+  "id_str" : "16537901224",
+  "in_reply_to_user_id" : 28117032,
+  "text" : "@120789 Twitter app on a networked spectrum. I'm at bletchley park",
+  "id" : 16537901224,
+  "in_reply_to_status_id" : 16535862436,
+  "created_at" : "2010-06-19 00:00:00 +0000",
+  "in_reply_to_screen_name" : "boomerangmouth",
+  "in_reply_to_user_id_str" : "28117032",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1711,39 +1733,6 @@ Grailbird.data.tweets_2010_06 =
   "text" : "In soviet russia, decatron tubes collect you #vcf",
   "id" : 16537828179,
   "created_at" : "2010-06-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "carlos contreras",
-      "screen_name" : "120789",
-      "indices" : [ 0, 7 ],
-      "id_str" : "426970001",
-      "id" : 426970001
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "16535862436",
-  "geo" : { },
-  "id_str" : "16537901224",
-  "in_reply_to_user_id" : 28117032,
-  "text" : "@120789 Twitter app on a networked spectrum. I'm at bletchley park",
-  "id" : 16537901224,
-  "in_reply_to_status_id" : 16535862436,
-  "created_at" : "2010-06-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "boomerangmouth",
-  "in_reply_to_user_id_str" : "28117032",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2851,6 +2840,31 @@ Grailbird.data.tweets_2010_06 =
     "media" : [ ],
     "hashtags" : [ {
       "text" : "fb",
+      "indices" : [ 23, 26 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15771410584",
+  "text" : "Fucking done. Finally. #fb",
+  "id" : 15771410584,
+  "created_at" : "2010-06-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
       "indices" : [ 132, 135 ]
     } ],
     "urls" : [ ]
@@ -3094,31 +3108,6 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 23, 26 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15771410584",
-  "text" : "Fucking done. Finally. #fb",
-  "id" : 15771410584,
-  "created_at" : "2010-06-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "BBC Technology",
       "screen_name" : "BBCTech",
@@ -3151,7 +3140,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2415722176\/0joo5f32yuw0juszwjx4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
       "verified" : false
     }

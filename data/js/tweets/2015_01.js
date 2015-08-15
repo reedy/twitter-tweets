@@ -494,17 +494,9 @@ Grailbird.data.tweets_2015_01 =
       "id" : 556376264517615617,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B7ilQ8gIAAETLDu.jpg",
       "sizes" : [ {
-        "h" : 816,
-        "resize" : "fit",
-        "w" : 612
-      }, {
         "h" : 453,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 816,
         "resize" : "fit",
@@ -513,6 +505,14 @@ Grailbird.data.tweets_2015_01 =
         "h" : 800,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 612
       } ],
       "display_url" : "pic.twitter.com\/gZwknbsI91"
     } ],
@@ -949,7 +949,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \u2665",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 3, 14 ],
       "id_str" : "116534927",
@@ -974,21 +974,21 @@ Grailbird.data.tweets_2015_01 =
         "resize" : "fit",
         "w" : 599
       }, {
+        "h" : 635,
+        "resize" : "fit",
+        "w" : 599
+      }, {
+        "h" : 635,
+        "resize" : "fit",
+        "w" : 599
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 635,
-        "resize" : "fit",
-        "w" : 599
-      }, {
         "h" : 360,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 635,
-        "resize" : "fit",
-        "w" : 599
       } ],
       "display_url" : "pic.twitter.com\/lFBEEdytHR"
     } ],
@@ -1021,21 +1021,21 @@ Grailbird.data.tweets_2015_01 =
           "resize" : "fit",
           "w" : 599
         }, {
+          "h" : 635,
+          "resize" : "fit",
+          "w" : 599
+        }, {
+          "h" : 635,
+          "resize" : "fit",
+          "w" : 599
+        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 635,
-          "resize" : "fit",
-          "w" : 599
-        }, {
           "h" : 360,
           "resize" : "fit",
           "w" : 340
-        }, {
-          "h" : 635,
-          "resize" : "fit",
-          "w" : 599
         } ],
         "display_url" : "pic.twitter.com\/lFBEEdytHR"
       } ],
@@ -1048,11 +1048,11 @@ Grailbird.data.tweets_2015_01 =
     "id" : 554957997190176769,
     "created_at" : "2015-01-13 11:07:51 +0000",
     "user" : {
-      "name" : "Ryan Brown \u2665",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "protected" : false,
       "id_str" : "116534927",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571103549195448320\/qb4RgSBB_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623245075208892416\/deBhT8tQ_normal.jpg",
       "id" : 116534927,
       "verified" : false
     }
@@ -1973,6 +1973,10 @@ Grailbird.data.tweets_2015_01 =
         "resize" : "fit",
         "w" : 340
       }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 768,
         "resize" : "fit",
         "w" : 1024
@@ -1980,10 +1984,6 @@ Grailbird.data.tweets_2015_01 =
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 768,
         "resize" : "fit",
@@ -2031,6 +2031,10 @@ Grailbird.data.tweets_2015_01 =
           "resize" : "fit",
           "w" : 340
         }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 600
+        }, {
           "h" : 768,
           "resize" : "fit",
           "w" : 1024
@@ -2038,10 +2042,6 @@ Grailbird.data.tweets_2015_01 =
           "h" : 150,
           "resize" : "crop",
           "w" : 150
-        }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 600
         }, {
           "h" : 768,
           "resize" : "fit",
@@ -2225,27 +2225,16 @@ Grailbird.data.tweets_2015_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "551382583268098048",
   "geo" : { },
   "id_str" : "551388943254843392",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr The Stephen Hawking movie looks pretty good",
   "id" : 551388943254843392,
-  "in_reply_to_status_id" : 551382583268098048,
   "created_at" : "2015-01-03 14:45:43 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

@@ -144,7 +144,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \u2665",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -222,7 +222,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \u2665",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -491,7 +491,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Cuomo",
+      "name" : "Christopher C. Cuomo",
       "screen_name" : "ChrisCuomo",
       "indices" : [ 0, 11 ],
       "id_str" : "22799750",
@@ -533,7 +533,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Cuomo",
+      "name" : "Christopher C. Cuomo",
       "screen_name" : "ChrisCuomo",
       "indices" : [ 0, 11 ],
       "id_str" : "22799750",
@@ -1461,7 +1461,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1494,7 +1494,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1527,7 +1527,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1560,13 +1560,13 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
       "id" : 14822382
     }, {
-      "name" : "\u2131arran retweeted",
+      "name" : "\u2131arran",
       "screen_name" : "fazzaan",
       "indices" : [ 6, 14 ],
       "id_str" : "53681528",
@@ -1605,7 +1605,7 @@ Grailbird.data.tweets_2015_03 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 9, 14 ],
       "id_str" : "14822382",
@@ -2127,7 +2127,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "HP",
       "protected" : false,
       "id_str" : "17193794",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3540976963\/ccf11950bf0bc7e8bef76a8eb7b5a0f0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614447038319570944\/h_z507OY_normal.jpg",
       "id" : 17193794,
       "verified" : true
     }
@@ -2213,7 +2213,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \u2665",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2246,7 +2246,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \u2665",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2288,25 +2288,25 @@ Grailbird.data.tweets_2015_03 =
       "id" : 575670274609168384,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B_0xEJHUwAAJpuS.jpg",
       "sizes" : [ {
-        "h" : 759,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
         "h" : 444,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 759,
+        "resize" : "fit",
+        "w" : 1024
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 780,
-        "resize" : "fit",
-        "w" : 1052
-      }, {
         "h" : 252,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 780,
+        "resize" : "fit",
+        "w" : 1052
       } ],
       "display_url" : "pic.twitter.com\/lB7ZjtFR0L"
     } ],
@@ -2334,7 +2334,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2131arran retweeted",
+      "name" : "\u2131arran",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",

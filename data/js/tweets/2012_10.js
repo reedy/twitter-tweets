@@ -827,25 +827,25 @@ Grailbird.data.tweets_2012_10 =
       "id" : 262274850326978560,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A6PJljdCIAAcsUQ.jpg",
       "sizes" : [ {
+        "h" : 1365,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
         "h" : 453,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 2592,
         "resize" : "fit",
         "w" : 1944
       }, {
-        "h" : 1365,
+        "h" : 800,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       } ],
       "display_url" : "pic.twitter.com\/kZ8Wkt1e"
     } ],
@@ -1109,25 +1109,25 @@ Grailbird.data.tweets_2012_10 =
       "id" : 260475165782204416,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A51kyIFCYAAHJ40.jpg",
       "sizes" : [ {
+        "h" : 1944,
+        "resize" : "fit",
+        "w" : 2592
+      }, {
         "h" : 255,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 450,
         "resize" : "fit",
         "w" : 600
       }, {
-        "h" : 1944,
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 768,
         "resize" : "fit",
-        "w" : 2592
+        "w" : 1024
       } ],
       "display_url" : "pic.twitter.com\/spHgyJGl"
     } ],
@@ -1732,7 +1732,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "AngryBirds",
       "protected" : false,
       "id_str" : "17337554",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/601667131948683265\/VyGoeXd2_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626663912407089152\/z3ssUS73_normal.png",
       "id" : 17337554,
       "verified" : true
     }
@@ -2779,25 +2779,25 @@ Grailbird.data.tweets_2012_10 =
       "id" : 257126373150318592,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A5F_EvYCYAAP-I4.jpg",
       "sizes" : [ {
+        "h" : 1365,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
         "h" : 453,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 2592,
         "resize" : "fit",
         "w" : 1944
       }, {
-        "h" : 1365,
+        "h" : 800,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       } ],
       "display_url" : "pic.twitter.com\/G9Lpt2FG"
     } ],
@@ -4219,7 +4219,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "28318016",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528184589101961216\/Ipa2QbC3_normal.png",
       "id" : 28318016,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 253071912136232960,
@@ -4571,13 +4571,7 @@ Grailbird.data.tweets_2012_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "srsbizness",
@@ -4585,16 +4579,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "252876665351446529",
   "geo" : { },
   "id_str" : "252876837502468097",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr They must have big problems with people stealing watches, army knives and chocolate. #srsbizness",
   "id" : 252876837502468097,
-  "in_reply_to_status_id" : 252876665351446529,
   "created_at" : "2012-10-01 21:05:10 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4607,27 +4596,16 @@ Grailbird.data.tweets_2012_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "252876377282449409",
   "geo" : { },
   "id_str" : "252876577778569216",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Die Schweizer Luftwaffe",
   "id" : 252876577778569216,
-  "in_reply_to_status_id" : 252876377282449409,
   "created_at" : "2012-10-01 21:04:09 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4726,7 +4704,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "huffpostgay",
       "protected" : false,
       "id_str" : "366606110",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3434397523\/dc19ca87056bcdbe5448f88bb7efd33e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614479428668796928\/XaFrYuE1_normal.png",
       "id" : 366606110,
       "verified" : true
     }

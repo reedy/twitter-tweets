@@ -222,7 +222,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "WeldPond",
       "protected" : false,
       "id_str" : "14090906",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/527182409498771457\/KsacdwRH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613065292709801985\/LapqXdxh_normal.jpg",
       "id" : 14090906,
       "verified" : false
     }
@@ -1110,7 +1110,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "shinaku",
       "protected" : false,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590788853578997760\/11Gv8QLK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611246001546989568\/z1e_PH2V_normal.jpg",
       "id" : 14355014,
       "verified" : false
     }
@@ -1306,7 +1306,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587966711065931776\/ukOeNk0B_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630229827639906305\/tM1Tb0EY_normal.jpg",
       "id" : 94178695,
       "verified" : false
     }
@@ -1945,25 +1945,16 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "cpwcares",
-      "screen_name" : "cpwcares",
-      "indices" : [ 0, 9 ],
-      "id_str" : "80528911",
-      "id" : 80528911
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "6687073851416577",
-  "in_reply_to_user_id" : 80528911,
   "text" : "@cpwcares SimFree price - Discount for difference between SimFree and Advertised price + PAYG Top up = Price to pay :D",
   "id" : 6687073851416577,
   "created_at" : "2010-11-22 12:34:57 +0000",
-  "in_reply_to_screen_name" : "cpwcares",
-  "in_reply_to_user_id_str" : "80528911",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1976,27 +1967,16 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "cpwcares",
-      "screen_name" : "cpwcares",
-      "indices" : [ 0, 9 ],
-      "id_str" : "80528911",
-      "id" : 80528911
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "6650018580668416",
   "geo" : { },
   "id_str" : "6670687200612353",
-  "in_reply_to_user_id" : 80528911,
   "text" : "@cpwcares Cancel my online order from elsewhere.. There's a \u00A350 saving to be made. Surely this is false advertising then? Instore & mag :(",
   "id" : 6670687200612353,
-  "in_reply_to_status_id" : 6650018580668416,
   "created_at" : "2010-11-22 11:29:50 +0000",
-  "in_reply_to_screen_name" : "cpwcares",
-  "in_reply_to_user_id_str" : "80528911",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2009,27 +1989,16 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "cpwcares",
-      "screen_name" : "cpwcares",
-      "indices" : [ 0, 9 ],
-      "id_str" : "80528911",
-      "id" : 80528911
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "6650018580668416",
   "geo" : { },
   "id_str" : "6670297491050496",
-  "in_reply_to_user_id" : 80528911,
   "text" : "@cpwcares Thanks, that's annoying though. Your November magazine has it listed as 399.95 + Top up. Do I wait, & cancel my online order...",
   "id" : 6670297491050496,
-  "in_reply_to_status_id" : 6650018580668416,
   "created_at" : "2010-11-22 11:28:17 +0000",
-  "in_reply_to_screen_name" : "cpwcares",
-  "in_reply_to_user_id_str" : "80528911",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2067,27 +2036,16 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "cpwcares",
-      "screen_name" : "cpwcares",
-      "indices" : [ 0, 9 ],
-      "id_str" : "80528911",
-      "id" : 80528911
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "6643504042213377",
   "geo" : { },
   "id_str" : "6644636340723712",
-  "in_reply_to_user_id" : 80528911,
   "text" : "@cpwcares Hopefully you're gonna be working through last nights tweets today? :)",
   "id" : 6644636340723712,
-  "in_reply_to_status_id" : 6643504042213377,
   "created_at" : "2010-11-22 09:46:19 +0000",
-  "in_reply_to_screen_name" : "cpwcares",
-  "in_reply_to_user_id_str" : "80528911",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2132,7 +2090,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "SquidDLane",
       "protected" : false,
       "id_str" : "15911738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000365827252\/c7082d736a5a258deedb79daccffa1e0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611423341174370306\/r3pUltM7_normal.jpg",
       "id" : 15911738,
       "verified" : false
     }
@@ -2242,13 +2200,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "cpwcares",
-      "screen_name" : "cpwcares",
-      "indices" : [ 5, 14 ],
-      "id_str" : "80528911",
-      "id" : 80528911
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2534,27 +2486,16 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "5643979706081280",
   "geo" : { },
   "id_str" : "5644050203934721",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Surely it's cause HE CAN'T PLAY WOW",
   "id" : 5644050203934721,
-  "in_reply_to_status_id" : 5643979706081280,
   "created_at" : "2010-11-19 15:30:21 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2999,7 +2940,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "alanrenouf",
       "protected" : false,
       "id_str" : "15936036",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520776343496052737\/GxppJNzq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619635008051871745\/I7mzt0Nz_normal.jpg",
       "id" : 15936036,
       "verified" : false
     }
@@ -4515,57 +4456,6 @@ Grailbird.data.tweets_2010_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 3, 12 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3788450524299264",
-  "text" : "RT @olivarrr: 2 mins silence on the train. Good call.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "3764152300470272",
-    "text" : "2 mins silence on the train. Good call.",
-    "id" : 3764152300470272,
-    "created_at" : "2010-11-14 11:00:18 +0000",
-    "user" : {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "protected" : false,
-      "id_str" : "33717982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571966075816042497\/uJXFNSMQ_normal.jpeg",
-      "id" : 33717982,
-      "verified" : false
-    }
-  },
-  "id" : 3788450524299264,
-  "created_at" : "2010-11-14 12:36:51 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -5180,7 +5070,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "shinaku",
       "protected" : false,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590788853578997760\/11Gv8QLK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611246001546989568\/z1e_PH2V_normal.jpg",
       "id" : 14355014,
       "verified" : false
     }
@@ -5582,7 +5472,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "omgubuntu",
       "protected" : false,
       "id_str" : "72915446",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458275895787012096\/bkeDncpi_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627831364692389888\/L3tujQ89_normal.png",
       "id" : 72915446,
       "verified" : false
     }

@@ -2,27 +2,16 @@ Grailbird.data.tweets_2011_02 =
  [ {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "42268997927976960",
   "geo" : { },
   "id_str" : "42269060418899968",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr You alcomaholic.",
   "id" : 42269060418899968,
-  "in_reply_to_status_id" : 42268997927976960,
   "created_at" : "2011-02-28 17:05:03 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -441,7 +430,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "nvidiadeveloper",
       "protected" : false,
       "id_str" : "18691870",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/69895106\/nvda_logo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613087623075094528\/eewzqxVu_normal.jpg",
       "id" : 18691870,
       "verified" : false
     }
@@ -639,7 +628,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1124,7 +1113,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "AndroidDev",
       "protected" : false,
       "id_str" : "93711247",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2508170683\/m8jf0po4imu8t5eemjdd_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606585229034135553\/2NqZJYQI_normal.png",
       "id" : 93711247,
       "verified" : true
     }
@@ -1785,7 +1774,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2415722176\/0joo5f32yuw0juszwjx4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
       "verified" : false
     }
@@ -2303,7 +2292,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "tweeting_keith",
       "protected" : false,
       "id_str" : "20326811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602825530212220928\/ZGG_ttIC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623150110881542144\/IJT_FhAF_normal.jpg",
       "id" : 20326811,
       "verified" : false
     }
@@ -4244,7 +4233,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Insight_UK",
       "protected" : false,
       "id_str" : "38684147",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604616537266397184\/bSGQlBvF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606390973107597312\/orHYW_Vd_normal.png",
       "id" : 38684147,
       "verified" : false
     }
@@ -4295,7 +4284,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "1stvamp",
       "protected" : false,
       "id_str" : "1856171",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1585349211\/profile_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/612935770777755648\/UhQx65gX_normal.jpg",
       "id" : 1856171,
       "verified" : false
     }

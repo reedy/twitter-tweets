@@ -504,7 +504,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "phpstorm",
       "protected" : false,
       "id_str" : "115180931",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2938576625\/c2a11c8bd11f88ca8a69f3999785b94e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618757213495033856\/g6s7Ckox_normal.png",
       "id" : 115180931,
       "verified" : false
     }
@@ -1360,7 +1360,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xing - Education",
+      "name" : "Xing Education",
       "screen_name" : "XingSmoothies",
       "indices" : [ 0, 14 ],
       "id_str" : "67403076",
@@ -1391,7 +1391,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xing - Education",
+      "name" : "Xing Education",
       "screen_name" : "XingSmoothies",
       "indices" : [ 0, 14 ],
       "id_str" : "67403076",
@@ -1422,7 +1422,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xing - Education",
+      "name" : "Xing Education",
       "screen_name" : "XingSmoothies",
       "indices" : [ 0, 14 ],
       "id_str" : "67403076",
@@ -1915,7 +1915,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "phpstorm",
       "protected" : false,
       "id_str" : "115180931",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2938576625\/c2a11c8bd11f88ca8a69f3999785b94e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618757213495033856\/g6s7Ckox_normal.png",
       "id" : 115180931,
       "verified" : false
     }

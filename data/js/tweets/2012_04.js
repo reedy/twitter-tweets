@@ -643,27 +643,16 @@ Grailbird.data.tweets_2012_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "192018654794219520",
   "geo" : { },
   "id_str" : "192020713799024641",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Nose bleed",
   "id" : 192020713799024641,
-  "in_reply_to_status_id" : 192018654794219520,
   "created_at" : "2012-04-16 22:44:40 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -860,7 +849,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1251,27 +1240,16 @@ Grailbird.data.tweets_2012_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "190899538876317696",
   "geo" : { },
   "id_str" : "190907021548191744",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr At home!",
   "id" : 190907021548191744,
-  "in_reply_to_status_id" : 190899538876317696,
   "created_at" : "2012-04-13 20:59:15 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1327,17 +1305,17 @@ Grailbird.data.tweets_2012_04 =
         "resize" : "fit",
         "w" : 1024
       }, {
-        "h" : 203,
+        "h" : 358,
         "resize" : "fit",
-        "w" : 340
+        "w" : 600
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 358,
+        "h" : 203,
         "resize" : "fit",
-        "w" : 600
+        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/RIGYflK6"
     } ],
@@ -1653,27 +1631,16 @@ Grailbird.data.tweets_2012_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "187086928422776832",
   "geo" : { },
   "id_str" : "187089822538665984",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Of course you would!",
   "id" : 187089822538665984,
-  "in_reply_to_status_id" : 187086928422776832,
   "created_at" : "2012-04-03 08:11:04 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

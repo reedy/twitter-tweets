@@ -60,27 +60,16 @@ Grailbird.data.tweets_2012_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "241217954744766464",
   "geo" : { },
   "id_str" : "241218049863200768",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr After a massage?",
   "id" : 241218049863200768,
-  "in_reply_to_status_id" : 241217954744766464,
   "created_at" : "2012-08-30 16:57:19 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -326,25 +315,25 @@ Grailbird.data.tweets_2012_08 =
       "id" : 241142687187759105,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A1i1_xICcAEhDB_.jpg",
       "sizes" : [ {
+        "h" : 1944,
+        "resize" : "fit",
+        "w" : 2592
+      }, {
         "h" : 255,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 450,
         "resize" : "fit",
         "w" : 600
       }, {
-        "h" : 1944,
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 768,
         "resize" : "fit",
-        "w" : 2592
+        "w" : 1024
       } ],
       "display_url" : "pic.twitter.com\/DRJisXOh"
     } ],
@@ -1926,27 +1915,16 @@ Grailbird.data.tweets_2012_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "238033368531480576",
   "geo" : { },
   "id_str" : "238049996447035392",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr I'm sure your insurance company would love that ;)",
   "id" : 238049996447035392,
-  "in_reply_to_status_id" : 238033368531480576,
   "created_at" : "2012-08-21 23:08:36 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2130,7 +2108,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2415722176\/0joo5f32yuw0juszwjx4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
       "verified" : false
     }
@@ -2156,7 +2134,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "153956717",
       "id" : 153956717
     }, {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 10, 15 ],
       "id_str" : "14822382",
@@ -2189,7 +2167,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2823,7 +2801,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "20583184",
       "id" : 20583184
     }, {
-      "name" : "Rod Thunder",
+      "name" : "Rick Sanchez C-132",
       "screen_name" : "El_MUERkO",
       "indices" : [ 16, 26 ],
       "id_str" : "17177336",
@@ -3104,7 +3082,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "phpstorm",
       "protected" : false,
       "id_str" : "115180931",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2938576625\/c2a11c8bd11f88ca8a69f3999785b94e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618757213495033856\/g6s7Ckox_normal.png",
       "id" : 115180931,
       "verified" : false
     }
@@ -3656,13 +3634,7 @@ Grailbird.data.tweets_2012_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -3672,16 +3644,11 @@ Grailbird.data.tweets_2012_08 =
       "display_url" : "bit.ly\/R5JKvC"
     } ]
   },
-  "in_reply_to_status_id_str" : "234756244299186176",
   "geo" : { },
   "id_str" : "234757170162438144",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Language of the IOC. http:\/\/t.co\/PM8YJluH",
   "id" : 234757170162438144,
-  "in_reply_to_status_id" : 234756244299186176,
   "created_at" : "2012-08-12 21:04:05 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

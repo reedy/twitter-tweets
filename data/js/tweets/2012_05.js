@@ -156,27 +156,16 @@ Grailbird.data.tweets_2012_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "207946183656742913",
   "geo" : { },
   "id_str" : "207947267171291136",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr I am ignoring it. I was watching it count down to service in 0 miles. I then drove a few hundred more",
   "id" : 207947267171291136,
-  "in_reply_to_status_id" : 207946183656742913,
   "created_at" : "2012-05-30 21:31:06 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -217,27 +206,16 @@ Grailbird.data.tweets_2012_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "207945360532967424",
   "geo" : { },
   "id_str" : "207945663823097856",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Exactamon!",
   "id" : 207945663823097856,
-  "in_reply_to_status_id" : 207945360532967424,
   "created_at" : "2012-05-30 21:24:44 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -250,27 +228,16 @@ Grailbird.data.tweets_2012_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "207943555291938816",
   "geo" : { },
   "id_str" : "207945101060751361",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr If the TSA hadn't broken my laptop, could've fixed the issue. Though, it's not really helped by being numerous service strategies",
   "id" : 207945101060751361,
-  "in_reply_to_status_id" : 207943555291938816,
   "created_at" : "2012-05-30 21:22:30 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -283,27 +250,16 @@ Grailbird.data.tweets_2012_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "207943238580056064",
   "geo" : { },
   "id_str" : "207943455203266560",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Stupid German Efficiency. It's spend a fair amount of time doing around 120MPH today. All good.",
   "id" : 207943455203266560,
-  "in_reply_to_status_id" : 207943238580056064,
   "created_at" : "2012-05-30 21:15:57 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1150,7 +1106,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1242,25 +1198,25 @@ Grailbird.data.tweets_2012_05 =
       "id" : 205432554885611520,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AtnX0ftCAAAiAP7.jpg",
       "sizes" : [ {
+        "h" : 1944,
+        "resize" : "fit",
+        "w" : 2592
+      }, {
         "h" : 255,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 450,
         "resize" : "fit",
         "w" : 600
       }, {
-        "h" : 1944,
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 768,
         "resize" : "fit",
-        "w" : 2592
+        "w" : 1024
       } ],
       "display_url" : "pic.twitter.com\/Ykm4T3px"
     } ],
@@ -1377,7 +1333,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "94178695",
       "id" : 94178695
     }, {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 38, 43 ],
       "id_str" : "14822382",
@@ -1410,7 +1366,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1443,7 +1399,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 14, 19 ],
       "id_str" : "14822382",
@@ -2660,25 +2616,25 @@ Grailbird.data.tweets_2012_05 =
       "id" : 201057834081861632,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AspNCOvCQAAn3gu.jpg",
       "sizes" : [ {
+        "h" : 1365,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
         "h" : 453,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 2592,
         "resize" : "fit",
         "w" : 1944
       }, {
-        "h" : 1365,
+        "h" : 800,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       } ],
       "display_url" : "pic.twitter.com\/tX6LFhXz"
     } ],
@@ -2912,25 +2868,25 @@ Grailbird.data.tweets_2012_05 =
       "id" : 200028564467367938,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Asak62oCQAINcjf.jpg",
       "sizes" : [ {
+        "h" : 1944,
+        "resize" : "fit",
+        "w" : 2592
+      }, {
         "h" : 255,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 450,
         "resize" : "fit",
         "w" : 600
       }, {
-        "h" : 1944,
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 768,
         "resize" : "fit",
-        "w" : 2592
+        "w" : 1024
       } ],
       "display_url" : "pic.twitter.com\/4GJ1JdHq"
     } ],
@@ -3454,7 +3410,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3487,7 +3443,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3770,7 +3726,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

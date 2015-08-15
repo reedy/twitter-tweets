@@ -2975,25 +2975,25 @@ Grailbird.data.tweets_2012_12 =
       "id" : 281181343809933313,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A-b08UNCEAE3Pa9.jpg",
       "sizes" : [ {
+        "h" : 1365,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
         "h" : 453,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 2592,
         "resize" : "fit",
         "w" : 1944
       }, {
-        "h" : 1365,
+        "h" : 800,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       } ],
       "display_url" : "pic.twitter.com\/OapRrSGM"
     } ],
@@ -4890,7 +4890,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -6153,7 +6153,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -6227,7 +6227,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2415722176\/0joo5f32yuw0juszwjx4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
       "verified" : false
     }
@@ -7223,7 +7223,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "Battlefield",
       "protected" : false,
       "id_str" : "27855118",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540935547120652289\/XqS73vV5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/628676228531273728\/HLa9ottM_normal.jpg",
       "id" : 27855118,
       "verified" : true
     }
@@ -7519,25 +7519,25 @@ Grailbird.data.tweets_2012_12 =
       "id" : 274905033362006017,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A9Coq9yCYAEgd7w.jpg",
       "sizes" : [ {
-        "h" : 972,
-        "resize" : "fit",
-        "w" : 1296
-      }, {
         "h" : 255,
         "resize" : "fit",
         "w" : 340
       }, {
-        "h" : 768,
+        "h" : 450,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 600
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 450,
+        "h" : 768,
         "resize" : "fit",
-        "w" : 600
+        "w" : 1024
+      }, {
+        "h" : 972,
+        "resize" : "fit",
+        "w" : 1296
       } ],
       "display_url" : "pic.twitter.com\/yYr60jWt"
     } ],

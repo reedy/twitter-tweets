@@ -684,7 +684,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "87428004",
       "id" : 87428004
     }, {
-      "name" : "TechRadar",
+      "name" : "techradar",
       "screen_name" : "techradar",
       "indices" : [ 97, 107 ],
       "id_str" : "15560223",
@@ -701,7 +701,7 @@ Grailbird.data.tweets_2010_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "TechRadar",
+        "name" : "techradar",
         "screen_name" : "techradar",
         "indices" : [ 81, 91 ],
         "id_str" : "15560223",
@@ -875,7 +875,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "hhariri",
       "protected" : false,
       "id_str" : "15797140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592984252007976960\/M-fyPi6C_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/610340477771059200\/L-kSvHja_normal.png",
       "id" : 15797140,
       "verified" : false
     }
@@ -986,27 +986,16 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "27575138451",
   "geo" : { },
   "id_str" : "27584563476",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Aiden is apparently a gay, too. Lol",
   "id" : 27584563476,
-  "in_reply_to_status_id" : 27575138451,
   "created_at" : "2010-10-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1412,7 +1401,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "shinaku",
       "protected" : false,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590788853578997760\/11Gv8QLK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611246001546989568\/z1e_PH2V_normal.jpg",
       "id" : 14355014,
       "verified" : false
     }
@@ -1763,7 +1752,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587966711065931776\/ukOeNk0B_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630229827639906305\/tM1Tb0EY_normal.jpg",
       "id" : 94178695,
       "verified" : false
     }
@@ -2336,27 +2325,16 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "26585990249",
   "geo" : { },
   "id_str" : "26586045619",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr All together now, LESBIAAAAAN.",
   "id" : 26586045619,
-  "in_reply_to_status_id" : 26585990249,
   "created_at" : "2010-10-06 00:00:00 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

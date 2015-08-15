@@ -2740,7 +2740,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "dueledge",
       "protected" : true,
       "id_str" : "25743312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604210199147192321\/ii9Bi7xm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606152216844619776\/44eo0po-_normal.jpg",
       "id" : 25743312,
       "verified" : false
     }
@@ -3158,27 +3158,16 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "24224092916",
   "geo" : { },
   "id_str" : "24224176023",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr I'm really sorry for you.",
   "id" : 24224176023,
-  "in_reply_to_status_id" : 24224092916,
   "created_at" : "2010-09-11 00:00:00 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3223,7 +3212,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "1stvamp",
       "protected" : false,
       "id_str" : "1856171",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1585349211\/profile_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/612935770777755648\/UhQx65gX_normal.jpg",
       "id" : 1856171,
       "verified" : false
     }

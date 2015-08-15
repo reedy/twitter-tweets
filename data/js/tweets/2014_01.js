@@ -86,7 +86,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -119,7 +119,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -902,6 +902,10 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 340
       }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -909,10 +913,6 @@ Grailbird.data.tweets_2014_01 =
         "h" : 612,
         "resize" : "fit",
         "w" : 816
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 612,
         "resize" : "fit",
@@ -997,7 +997,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xing - Education",
+      "name" : "Xing Education",
       "screen_name" : "XingSmoothies",
       "indices" : [ 0, 14 ],
       "id_str" : "67403076",
@@ -1030,7 +1030,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xing - Education",
+      "name" : "Xing Education",
       "screen_name" : "XingSmoothies",
       "indices" : [ 0, 14 ],
       "id_str" : "67403076",
@@ -1249,14 +1249,6 @@ Grailbird.data.tweets_2014_01 =
       "id" : 424243615817158656,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BeM3UiMCUAAaAX1.jpg",
       "sizes" : [ {
-        "h" : 192,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 339,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 579,
         "resize" : "fit",
         "w" : 1024
@@ -1264,6 +1256,14 @@ Grailbird.data.tweets_2014_01 =
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 339,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 192,
+        "resize" : "fit",
+        "w" : 340
       }, {
         "h" : 662,
         "resize" : "fit",
@@ -1301,14 +1301,6 @@ Grailbird.data.tweets_2014_01 =
         "id" : 424243615817158656,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BeM3UiMCUAAaAX1.jpg",
         "sizes" : [ {
-          "h" : 192,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 339,
-          "resize" : "fit",
-          "w" : 600
-        }, {
           "h" : 579,
           "resize" : "fit",
           "w" : 1024
@@ -1316,6 +1308,14 @@ Grailbird.data.tweets_2014_01 =
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 339,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 192,
+          "resize" : "fit",
+          "w" : 340
         }, {
           "h" : 662,
           "resize" : "fit",
@@ -1734,27 +1734,16 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "423929673069125632",
   "geo" : { },
   "id_str" : "423929839444578305",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr What did he say? I only just saw the one saying he'd deleted it...",
   "id" : 423929839444578305,
-  "in_reply_to_status_id" : 423929673069125632,
   "created_at" : "2014-01-16 21:28:44 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2309,7 +2298,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2629,7 +2618,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3081,7 +3070,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4449,7 +4438,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4515,6 +4504,10 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 340
       }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -4522,10 +4515,6 @@ Grailbird.data.tweets_2014_01 =
         "h" : 612,
         "resize" : "fit",
         "w" : 816
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 612,
         "resize" : "fit",
@@ -4567,10 +4556,6 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 340
       }, {
-        "h" : 1820,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -4582,6 +4567,10 @@ Grailbird.data.tweets_2014_01 =
         "h" : 1066,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 1820,
+        "resize" : "fit",
+        "w" : 1024
       } ],
       "display_url" : "pic.twitter.com\/HXx3Mm2RFX"
     } ],
@@ -5537,27 +5526,16 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "419906986806116353",
   "geo" : { },
   "id_str" : "419907615108644866",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr No charity?",
   "id" : 419907615108644866,
-  "in_reply_to_status_id" : 419906986806116353,
   "created_at" : "2014-01-05 19:05:51 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5571,7 +5549,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5875,9 +5853,9 @@ Grailbird.data.tweets_2014_01 =
       "id" : 419175513274347520,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BdE16I9CcAA74qY.png",
       "sizes" : [ {
-        "h" : 668,
+        "h" : 454,
         "resize" : "fit",
-        "w" : 499
+        "w" : 340
       }, {
         "h" : 668,
         "resize" : "fit",
@@ -5887,13 +5865,13 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 454,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 668,
         "resize" : "fit",
         "w" : 500
+      }, {
+        "h" : 668,
+        "resize" : "fit",
+        "w" : 499
       } ],
       "display_url" : "pic.twitter.com\/E1ve93sTSC"
     } ],
@@ -5916,9 +5894,9 @@ Grailbird.data.tweets_2014_01 =
         "id" : 419175513274347520,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BdE16I9CcAA74qY.png",
         "sizes" : [ {
-          "h" : 668,
+          "h" : 454,
           "resize" : "fit",
-          "w" : 499
+          "w" : 340
         }, {
           "h" : 668,
           "resize" : "fit",
@@ -5928,13 +5906,13 @@ Grailbird.data.tweets_2014_01 =
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 454,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 668,
           "resize" : "fit",
           "w" : 500
+        }, {
+          "h" : 668,
+          "resize" : "fit",
+          "w" : 499
         } ],
         "display_url" : "pic.twitter.com\/E1ve93sTSC"
       } ],
@@ -7075,12 +7053,6 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    }, {
       "name" : "Freya Alcock",
       "screen_name" : "FreyaaAlcock",
       "indices" : [ 10, 23 ],
@@ -7091,16 +7063,11 @@ Grailbird.data.tweets_2014_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "418516132791066624",
   "geo" : { },
   "id_str" : "418516246611894272",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr @FreyaaAlcock It makes you wonder why more women aren't bald",
   "id" : 418516246611894272,
-  "in_reply_to_status_id" : 418516132791066624,
   "created_at" : "2014-01-01 22:57:03 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -7243,12 +7210,6 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    }, {
       "name" : "hungryhouse.co.uk",
       "screen_name" : "hungryhouse",
       "indices" : [ 10, 22 ],
@@ -7265,16 +7226,11 @@ Grailbird.data.tweets_2014_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "418471198884761601",
   "geo" : { },
   "id_str" : "418471396462063617",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr @hungryhouse @JustEatUK You could just do like normal people do and ring the actual place yourself",
   "id" : 418471396462063617,
-  "in_reply_to_status_id" : 418471198884761601,
   "created_at" : "2014-01-01 19:58:50 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -7288,7 +7244,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "AirDroid.com",
+      "name" : "AirDroid",
       "screen_name" : "AirDroidTeam",
       "indices" : [ 4, 17 ],
       "id_str" : "399366975",

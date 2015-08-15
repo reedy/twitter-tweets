@@ -154,7 +154,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "kgosztola",
       "protected" : false,
       "id_str" : "15808218",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000764200227\/06fdbd84de5e6bba08a2ff81e7fa56b0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627951363847098369\/ZwlkM7_C_normal.jpg",
       "id" : 15808218,
       "verified" : false
     }
@@ -708,27 +708,16 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "417061107292188672",
   "geo" : { },
   "id_str" : "417061411450523649",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr It offered SP1 with a load of other updates. So I deselected the others making sure SP1 went on before anything else...",
   "id" : 417061411450523649,
-  "in_reply_to_status_id" : 417061107292188672,
   "created_at" : "2013-12-28 22:36:03 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -741,27 +730,16 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "417060463240019968",
   "geo" : { },
   "id_str" : "417060962458693632",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Yet Windows Update doesn't offer me it? Fucking guh-reat.",
   "id" : 417060962458693632,
-  "in_reply_to_status_id" : 417060463240019968,
   "created_at" : "2013-12-28 22:34:16 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1210,27 +1188,16 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "415749709945667585",
   "geo" : { },
   "id_str" : "415750765102518272",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Ugh. 26, not 24. I'm 24",
   "id" : 415750765102518272,
-  "in_reply_to_status_id" : 415749709945667585,
   "created_at" : "2013-12-25 07:48:01 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1243,27 +1210,16 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "415749591934722048",
   "geo" : { },
   "id_str" : "415750453209890816",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr I was awoken by my 24 year old sister, telling me that we're apparently already \"late\"...",
   "id" : 415750453209890816,
-  "in_reply_to_status_id" : 415749591934722048,
   "created_at" : "2013-12-25 07:46:46 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1276,27 +1232,16 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "415748259161059328",
   "geo" : { },
   "id_str" : "415749463156985857",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Don't worry, you're not the only one",
   "id" : 415749463156985857,
-  "in_reply_to_status_id" : 415748259161059328,
   "created_at" : "2013-12-25 07:42:50 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1310,7 +1255,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wikipedia ",
+      "name" : "Wikipedia",
       "screen_name" : "Wikipedia",
       "indices" : [ 0, 10 ],
       "id_str" : "86390214",
@@ -1922,7 +1867,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "huffpostgay",
       "protected" : false,
       "id_str" : "366606110",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3434397523\/dc19ca87056bcdbe5448f88bb7efd33e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614479428668796928\/XaFrYuE1_normal.png",
       "id" : 366606110,
       "verified" : true
     }
@@ -2012,7 +1957,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "OwenJones84",
       "protected" : false,
       "id_str" : "65045121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/578230164296851456\/jFAGPYgX_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627383129716715520\/OFaLcYdb_normal.png",
       "id" : 65045121,
       "verified" : true
     }
@@ -2527,27 +2472,16 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "415062814739681280",
   "geo" : { },
   "id_str" : "415064024444063744",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Japan!",
   "id" : 415064024444063744,
-  "in_reply_to_status_id" : 415062814739681280,
   "created_at" : "2013-12-23 10:19:09 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2649,7 +2583,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sage (UK) Limited",
+      "name" : "Sage UK",
       "screen_name" : "sageuk",
       "indices" : [ 9, 16 ],
       "id_str" : "17309923",
@@ -3124,27 +3058,16 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "414539924856397824",
   "geo" : { },
   "id_str" : "414542808192917504",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr No. They'll die of loneliness.",
   "id" : 414542808192917504,
-  "in_reply_to_status_id" : 414539924856397824,
   "created_at" : "2013-12-21 23:48:01 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3391,17 +3314,9 @@ Grailbird.data.tweets_2013_12 =
       "id" : 414182660148178944,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bb9471pCMAATzQC.jpg",
       "sizes" : [ {
-        "h" : 816,
-        "resize" : "fit",
-        "w" : 612
-      }, {
         "h" : 453,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 816,
         "resize" : "fit",
@@ -3410,6 +3325,14 @@ Grailbird.data.tweets_2013_12 =
         "h" : 800,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 612
       } ],
       "display_url" : "pic.twitter.com\/jTPmuLRbia"
     } ],
@@ -5199,7 +5122,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5577,17 +5500,9 @@ Grailbird.data.tweets_2013_12 =
       "id" : 410885189343404032,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbPB5xpIYAAEUb-.jpg",
       "sizes" : [ {
-        "h" : 816,
-        "resize" : "fit",
-        "w" : 612
-      }, {
         "h" : 453,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 816,
         "resize" : "fit",
@@ -5596,6 +5511,14 @@ Grailbird.data.tweets_2013_12 =
         "h" : 800,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 612
       } ],
       "display_url" : "pic.twitter.com\/A8yeq9rHYv"
     } ],
@@ -5837,21 +5760,21 @@ Grailbird.data.tweets_2013_12 =
       "id" : 410145603205603328,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbEhQMlCIAAgeMz.jpg",
       "sizes" : [ {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 480,
         "resize" : "fit",
         "w" : 640
       }, {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
+      }, {
         "h" : 450,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 480,
         "resize" : "fit",
@@ -5891,21 +5814,21 @@ Grailbird.data.tweets_2013_12 =
         "id" : 410145603205603328,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbEhQMlCIAAgeMz.jpg",
         "sizes" : [ {
-          "h" : 255,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
           "h" : 480,
           "resize" : "fit",
           "w" : 640
         }, {
+          "h" : 255,
+          "resize" : "fit",
+          "w" : 340
+        }, {
           "h" : 450,
           "resize" : "fit",
           "w" : 600
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
           "h" : 480,
           "resize" : "fit",
@@ -5939,7 +5862,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "Corsair",
       "protected" : false,
       "id_str" : "26599573",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439475551024078848\/_cvoeXZN_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605405748739203072\/eClTNQkQ_normal.jpg",
       "id" : 26599573,
       "verified" : false
     }
@@ -6207,7 +6130,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -8018,7 +7941,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Jennings",
+      "name" : "Chris Dennings",
       "screen_name" : "chrsphr",
       "indices" : [ 0, 8 ],
       "id_str" : "7790832",

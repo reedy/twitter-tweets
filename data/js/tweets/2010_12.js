@@ -495,25 +495,16 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "18353992086065152",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr I was going to ask but completely forgot. Sowwy :-(",
   "id" : 18353992086065152,
   "created_at" : "2010-12-24 17:15:07 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -847,7 +838,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "phpstorm",
       "protected" : false,
       "id_str" : "115180931",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2938576625\/c2a11c8bd11f88ca8a69f3999785b94e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618757213495033856\/g6s7Ckox_normal.png",
       "id" : 115180931,
       "verified" : false
     }
@@ -1107,7 +1098,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "AndroidDev",
       "protected" : false,
       "id_str" : "93711247",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2508170683\/m8jf0po4imu8t5eemjdd_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606585229034135553\/2NqZJYQI_normal.png",
       "id" : 93711247,
       "verified" : true
     }
@@ -1675,7 +1666,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "AndroidDev",
       "protected" : false,
       "id_str" : "93711247",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2508170683\/m8jf0po4imu8t5eemjdd_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606585229034135553\/2NqZJYQI_normal.png",
       "id" : 93711247,
       "verified" : true
     }
@@ -2180,7 +2171,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "1stvamp",
       "protected" : false,
       "id_str" : "1856171",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1585349211\/profile_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/612935770777755648\/UhQx65gX_normal.jpg",
       "id" : 1856171,
       "verified" : false
     }
@@ -2341,25 +2332,16 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "14443147916480512",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Are you stating what I said is invalid?",
   "id" : 14443147916480512,
   "created_at" : "2010-12-13 22:14:49 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2372,25 +2354,16 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "14442419835633664",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr You really do act like a faggot sometimes. ;P",
   "id" : 14442419835633664,
   "created_at" : "2010-12-13 22:11:55 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2579,25 +2552,16 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "13910423703126017",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr kill them. Kill them all! Nao",
   "id" : 13910423703126017,
   "created_at" : "2010-12-12 10:57:58 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2610,25 +2574,16 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "13910243746512896",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Sherwood Forest centre parcs with my parents for my little sisters birthday",
   "id" : 13910243746512896,
   "created_at" : "2010-12-12 10:57:15 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2699,25 +2654,16 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "13901538850246656",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr itll be full of homos",
   "id" : 13901538850246656,
   "created_at" : "2010-12-12 10:22:39 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3549,7 +3495,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "dueledge",
       "protected" : true,
       "id_str" : "25743312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604210199147192321\/ii9Bi7xm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606152216844619776\/44eo0po-_normal.jpg",
       "id" : 25743312,
       "verified" : false
     }
@@ -3744,7 +3690,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "AndroidDev",
       "protected" : false,
       "id_str" : "93711247",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2508170683\/m8jf0po4imu8t5eemjdd_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606585229034135553\/2NqZJYQI_normal.png",
       "id" : 93711247,
       "verified" : true
     }
@@ -4508,7 +4454,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "phpstorm",
       "protected" : false,
       "id_str" : "115180931",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2938576625\/c2a11c8bd11f88ca8a69f3999785b94e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618757213495033856\/g6s7Ckox_normal.png",
       "id" : 115180931,
       "verified" : false
     }

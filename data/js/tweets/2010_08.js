@@ -34,7 +34,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "phpstorm",
       "protected" : false,
       "id_str" : "115180931",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2938576625\/c2a11c8bd11f88ca8a69f3999785b94e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618757213495033856\/g6s7Ckox_normal.png",
       "id" : 115180931,
       "verified" : false
     }
@@ -194,7 +194,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "phpstorm",
       "protected" : false,
       "id_str" : "115180931",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2938576625\/c2a11c8bd11f88ca8a69f3999785b94e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618757213495033856\/g6s7Ckox_normal.png",
       "id" : 115180931,
       "verified" : false
     }
@@ -302,27 +302,16 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "21816703560",
   "geo" : { },
   "id_str" : "21819469180",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr flight to sfo isn't till half 11",
   "id" : 21819469180,
-  "in_reply_to_status_id" : 21816703560,
   "created_at" : "2010-08-22 00:00:00 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -655,7 +644,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "phpstorm",
       "protected" : false,
       "id_str" : "115180931",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2938576625\/c2a11c8bd11f88ca8a69f3999785b94e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618757213495033856\/g6s7Ckox_normal.png",
       "id" : 115180931,
       "verified" : false
     }
@@ -907,27 +896,16 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "21505939329",
   "geo" : { },
   "id_str" : "21508360116",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr You're missing learn to drive.",
   "id" : 21508360116,
-  "in_reply_to_status_id" : 21505939329,
   "created_at" : "2010-08-18 00:00:00 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1213,27 +1191,16 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "21044139026",
   "geo" : { },
   "id_str" : "21044236993",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr lolnosympathy4u.",
   "id" : 21044236993,
-  "in_reply_to_status_id" : 21044139026,
   "created_at" : "2010-08-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2178,7 +2145,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wikipedia ",
+      "name" : "Wikipedia",
       "screen_name" : "Wikipedia",
       "indices" : [ 0, 10 ],
       "id_str" : "86390214",
@@ -2601,7 +2568,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "phpstorm",
       "protected" : false,
       "id_str" : "115180931",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2938576625\/c2a11c8bd11f88ca8a69f3999785b94e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618757213495033856\/g6s7Ckox_normal.png",
       "id" : 115180931,
       "verified" : false
     }
@@ -2716,7 +2683,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "AndroidDev",
       "protected" : false,
       "id_str" : "93711247",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2508170683\/m8jf0po4imu8t5eemjdd_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606585229034135553\/2NqZJYQI_normal.png",
       "id" : 93711247,
       "verified" : true
     }
@@ -2977,57 +2944,6 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 3, 12 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20246508248",
-  "text" : "RT @olivarrr: http:\/\/lolcatroulette.com\/ best website ever xD",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "20246072323",
-    "text" : "http:\/\/lolcatroulette.com\/ best website ever xD",
-    "id" : 20246072323,
-    "created_at" : "2010-08-03 19:53:21 +0000",
-    "user" : {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "protected" : false,
-      "id_str" : "33717982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571966075816042497\/uJXFNSMQ_normal.jpeg",
-      "id" : 33717982,
-      "verified" : false
-    }
-  },
-  "id" : 20246508248,
-  "created_at" : "2010-08-03 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3087,7 +3003,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "Corsair",
       "protected" : false,
       "id_str" : "26599573",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439475551024078848\/_cvoeXZN_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605405748739203072\/eClTNQkQ_normal.jpg",
       "id" : 26599573,
       "verified" : false
     }

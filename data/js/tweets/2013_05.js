@@ -968,27 +968,16 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "338246144226361346",
   "geo" : { },
   "id_str" : "338248317412732929",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr A taxi",
   "id" : 338248317412732929,
-  "in_reply_to_status_id" : 338246144226361346,
   "created_at" : "2013-05-25 11:00:57 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2163,7 +2152,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "95023423",
       "id" : 95023423
     }, {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 11, 16 ],
       "id_str" : "14822382",
@@ -3862,6 +3851,10 @@ Grailbird.data.tweets_2013_05 =
         "resize" : "fit",
         "w" : 340
       }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -3869,10 +3862,6 @@ Grailbird.data.tweets_2013_05 =
         "h" : 612,
         "resize" : "fit",
         "w" : 816
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 612,
         "resize" : "fit",
@@ -4072,17 +4061,9 @@ Grailbird.data.tweets_2013_05 =
       "id" : 332610820955578369,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BJ2rx4eCIAEU4J9.jpg",
       "sizes" : [ {
-        "h" : 816,
-        "resize" : "fit",
-        "w" : 612
-      }, {
         "h" : 453,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 816,
         "resize" : "fit",
@@ -4091,6 +4072,14 @@ Grailbird.data.tweets_2013_05 =
         "h" : 800,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 612
       } ],
       "display_url" : "pic.twitter.com\/FjyGz5Xh81"
     } ],
@@ -4326,6 +4315,10 @@ Grailbird.data.tweets_2013_05 =
         "resize" : "fit",
         "w" : 340
       }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -4333,10 +4326,6 @@ Grailbird.data.tweets_2013_05 =
         "h" : 612,
         "resize" : "fit",
         "w" : 816
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 612,
         "resize" : "fit",

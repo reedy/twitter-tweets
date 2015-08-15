@@ -396,27 +396,16 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "372774477295517696",
   "geo" : { },
   "id_str" : "372775449916477440",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Sell? Lol. Don't be silly. I don't fly on airlines that sell drinks",
   "id" : 372775449916477440,
-  "in_reply_to_status_id" : 372774477295517696,
   "created_at" : "2013-08-28 17:39:27 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -429,27 +418,16 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "372770699557208064",
   "geo" : { },
   "id_str" : "372771191200972800",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr That doesn't stop them stocking Coca Cola (which I think is horrible) and the \"new\" Sprite (also not nice)",
   "id" : 372771191200972800,
-  "in_reply_to_status_id" : 372770699557208064,
   "created_at" : "2013-08-28 17:22:32 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -913,7 +891,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -946,7 +924,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -983,7 +961,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "5010931",
       "id" : 5010931
     }, {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 126, 131 ],
       "id_str" : "14822382",
@@ -2516,27 +2494,16 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "369837175967600640",
   "geo" : { },
   "id_str" : "369837450715463680",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Haha. Nooooo. I would've slipstreamed SP2\/SP3 at least if I was doing that!",
   "id" : 369837450715463680,
-  "in_reply_to_status_id" : 369837175967600640,
   "created_at" : "2013-08-20 15:04:54 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2549,27 +2516,16 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "369836706243297280",
   "geo" : { },
   "id_str" : "369837152160735232",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr And hopefully with SP2 on, it should be able to run\/use Windows\/Microsoft Update",
   "id" : 369837152160735232,
-  "in_reply_to_status_id" : 369836706243297280,
   "created_at" : "2013-08-20 15:03:42 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2582,13 +2538,7 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -2598,16 +2548,11 @@ Grailbird.data.tweets_2013_08 =
       "display_url" : "bit.ly\/14yhfIo"
     } ]
   },
-  "in_reply_to_status_id_str" : "369836706243297280",
   "geo" : { },
   "id_str" : "369836978512330753",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Can't go straight to SP3 with no SP installed. Have to have SP1\/SP2 installed first apparently http:\/\/t.co\/7bITnQ674S",
   "id" : 369836978512330753,
-  "in_reply_to_status_id" : 369836706243297280,
   "created_at" : "2013-08-20 15:03:01 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2620,27 +2565,16 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Revilo",
-      "screen_name" : "olivarrr",
-      "indices" : [ 0, 9 ],
-      "id_str" : "33717982",
-      "id" : 33717982
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "369836362713006080",
   "geo" : { },
   "id_str" : "369836511845687296",
-  "in_reply_to_user_id" : 33717982,
   "text" : "@olivarrr Ancient XP laptop that needs some CNC software installing on it. Software won't install as the machine is too far out of date",
   "id" : 369836511845687296,
-  "in_reply_to_status_id" : 369836362713006080,
   "created_at" : "2013-08-20 15:01:10 +0000",
-  "in_reply_to_screen_name" : "olivarrr",
-  "in_reply_to_user_id_str" : "33717982",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3153,7 +3087,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3186,7 +3120,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3219,7 +3153,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4039,10 +3973,6 @@ Grailbird.data.tweets_2013_08 =
       "id" : 368479389354172416,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BR0aDWWCIAA9RLI.jpg",
       "sizes" : [ {
-        "h" : 1080,
-        "resize" : "fit",
-        "w" : 1920
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -4051,13 +3981,17 @@ Grailbird.data.tweets_2013_08 =
         "resize" : "fit",
         "w" : 340
       }, {
-        "h" : 576,
+        "h" : 1080,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 1920
       }, {
         "h" : 337,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 576,
+        "resize" : "fit",
+        "w" : 1024
       } ],
       "display_url" : "pic.twitter.com\/HxVF7suKB4"
     } ],
@@ -4083,10 +4017,6 @@ Grailbird.data.tweets_2013_08 =
         "id" : 368479389354172416,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BR0aDWWCIAA9RLI.jpg",
         "sizes" : [ {
-          "h" : 1080,
-          "resize" : "fit",
-          "w" : 1920
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -4095,13 +4025,17 @@ Grailbird.data.tweets_2013_08 =
           "resize" : "fit",
           "w" : 340
         }, {
-          "h" : 576,
+          "h" : 1080,
           "resize" : "fit",
-          "w" : 1024
+          "w" : 1920
         }, {
           "h" : 337,
           "resize" : "fit",
           "w" : 600
+        }, {
+          "h" : 576,
+          "resize" : "fit",
+          "w" : 1024
         } ],
         "display_url" : "pic.twitter.com\/HxVF7suKB4"
       } ],
@@ -4512,7 +4446,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4545,7 +4479,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4578,7 +4512,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4611,7 +4545,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4644,7 +4578,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5134,7 +5068,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -6069,17 +6003,9 @@ Grailbird.data.tweets_2013_08 =
       "id" : 365813269035905024,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BROhOuMCcAAIIDv.jpg",
       "sizes" : [ {
-        "h" : 816,
-        "resize" : "fit",
-        "w" : 612
-      }, {
         "h" : 453,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 816,
         "resize" : "fit",
@@ -6088,6 +6014,14 @@ Grailbird.data.tweets_2013_08 =
         "h" : 800,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 612
       } ],
       "display_url" : "pic.twitter.com\/eXgarG7JWc"
     } ],
@@ -6777,17 +6711,17 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Press Association",
+      "name" : "PA Election 2015",
       "screen_name" : "pressassoc",
       "indices" : [ 0, 11 ],
+      "id_str" : "3044860931",
+      "id" : 3044860931
+    }, {
+      "name" : "Press Association",
+      "screen_name" : "PA",
+      "indices" : [ 12, 15 ],
       "id_str" : "19983221",
       "id" : 19983221
-    }, {
-      "name" : "FLEAZ F4s",
-      "screen_name" : "pA",
-      "indices" : [ 12, 15 ],
-      "id_str" : "1702648232",
-      "id" : 1702648232
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6801,7 +6735,7 @@ Grailbird.data.tweets_2013_08 =
   "id" : 364763749451702275,
   "in_reply_to_status_id" : 364762572471283715,
   "created_at" : "2013-08-06 15:03:49 +0000",
-  "in_reply_to_screen_name" : "pressassoc",
+  "in_reply_to_screen_name" : "PA",
   "in_reply_to_user_id_str" : "19983221",
   "user" : {
     "name" : "Sam Reed",
@@ -6849,11 +6783,11 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Press Association",
+      "name" : "PA Election 2015",
       "screen_name" : "pressassoc",
       "indices" : [ 0, 11 ],
-      "id_str" : "19983221",
-      "id" : 19983221
+      "id_str" : "3044860931",
+      "id" : 3044860931
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6867,7 +6801,7 @@ Grailbird.data.tweets_2013_08 =
   "id" : 364760580353044480,
   "in_reply_to_status_id" : 364759653533483008,
   "created_at" : "2013-08-06 14:51:13 +0000",
-  "in_reply_to_screen_name" : "pressassoc",
+  "in_reply_to_screen_name" : "PA",
   "in_reply_to_user_id_str" : "19983221",
   "user" : {
     "name" : "Sam Reed",
@@ -6882,11 +6816,11 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Press Association",
+      "name" : "PA Election 2015",
       "screen_name" : "pressassoc",
       "indices" : [ 0, 11 ],
-      "id_str" : "19983221",
-      "id" : 19983221
+      "id_str" : "3044860931",
+      "id" : 3044860931
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6900,7 +6834,7 @@ Grailbird.data.tweets_2013_08 =
   "id" : 364757373191077888,
   "in_reply_to_status_id" : 364757119905447938,
   "created_at" : "2013-08-06 14:38:29 +0000",
-  "in_reply_to_screen_name" : "pressassoc",
+  "in_reply_to_screen_name" : "PA",
   "in_reply_to_user_id_str" : "19983221",
   "user" : {
     "name" : "Sam Reed",
@@ -7155,17 +7089,9 @@ Grailbird.data.tweets_2013_08 =
       "id" : 364740338797146112,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BQ_RZ9lCcAAOEya.jpg",
       "sizes" : [ {
-        "h" : 816,
-        "resize" : "fit",
-        "w" : 612
-      }, {
         "h" : 453,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 816,
         "resize" : "fit",
@@ -7174,6 +7100,14 @@ Grailbird.data.tweets_2013_08 =
         "h" : 800,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 612
       } ],
       "display_url" : "pic.twitter.com\/uTzjaL6TtF"
     } ],
@@ -7457,11 +7391,11 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Press Association",
+      "name" : "PA Election 2015",
       "screen_name" : "pressassoc",
       "indices" : [ 47, 58 ],
-      "id_str" : "19983221",
-      "id" : 19983221
+      "id_str" : "3044860931",
+      "id" : 3044860931
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7866,6 +7800,10 @@ Grailbird.data.tweets_2013_08 =
         "resize" : "fit",
         "w" : 340
       }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -7873,10 +7811,6 @@ Grailbird.data.tweets_2013_08 =
         "h" : 612,
         "resize" : "fit",
         "w" : 816
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 612,
         "resize" : "fit",
