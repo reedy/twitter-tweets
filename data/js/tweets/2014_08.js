@@ -607,7 +607,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -689,7 +689,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "621583",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 502600771264057344,
@@ -868,7 +868,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 79, 88 ],
       "id_str" : "245729302",
@@ -1445,7 +1445,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 53, 58 ],
       "id_str" : "14822382",
@@ -1802,7 +1802,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RIPE_Atlas ",
+      "name" : "RIPE_Atlas",
       "screen_name" : "RIPE_Atlas",
       "indices" : [ 0, 11 ],
       "id_str" : "1150672890",
@@ -2713,7 +2713,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "621583",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 496930730870841344,
@@ -3162,7 +3162,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam James",
+      "name" : "Adam James \u2039:",
       "screen_name" : "mrwizrd",
       "indices" : [ 0, 8 ],
       "id_str" : "16019962",
@@ -3262,7 +3262,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "436610824",
       "id" : 436610824
     }, {
-      "name" : "RIPE_Atlas ",
+      "name" : "RIPE_Atlas",
       "screen_name" : "RIPE_Atlas",
       "indices" : [ 15, 26 ],
       "id_str" : "1150672890",
@@ -3383,7 +3383,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam James",
+      "name" : "Adam James \u2039:",
       "screen_name" : "mrwizrd",
       "indices" : [ 0, 8 ],
       "id_str" : "16019962",
@@ -3422,7 +3422,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam James",
+      "name" : "Adam James \u2039:",
       "screen_name" : "mrwizrd",
       "indices" : [ 0, 8 ],
       "id_str" : "16019962",

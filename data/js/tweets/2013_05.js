@@ -2152,7 +2152,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "95023423",
       "id" : 95023423
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 11, 16 ],
       "id_str" : "14822382",
@@ -2300,7 +2300,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weeeeeeeeebl",
+      "name" : "Weeeeeeeeeeeeeeebl",
       "screen_name" : "TheWeebl",
       "indices" : [ 3, 12 ],
       "id_str" : "122040755",
@@ -2343,7 +2343,7 @@ Grailbird.data.tweets_2013_05 =
     "id" : 336529934690443264,
     "created_at" : "2013-05-20 17:12:43 +0000",
     "user" : {
-      "name" : "Weeeeeeeeebl",
+      "name" : "Weeeeeeeeeeeeeeebl",
       "screen_name" : "TheWeebl",
       "protected" : false,
       "id_str" : "122040755",

@@ -310,7 +310,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552610812531990528\/PLFV8G0a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666904096486486021\/LSoEJh9K_normal.png",
       "id" : 16170178,
       "verified" : false
     }
@@ -774,7 +774,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552610812531990528\/PLFV8G0a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666904096486486021\/LSoEJh9K_normal.png",
       "id" : 16170178,
       "verified" : false
     }
@@ -1175,7 +1175,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1208,7 +1208,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1241,7 +1241,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1274,7 +1274,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1743,7 +1743,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "tnorthcutt",
       "protected" : false,
       "id_str" : "18384476",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3544907864\/f5cbbb96ec279c49adedbb3f5f2ed82d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637636176128532480\/OeVsVCSR_normal.jpg",
       "id" : 18384476,
       "verified" : false
     }
@@ -2565,27 +2565,16 @@ Grailbird.data.tweets_2011_03 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Steven Walling",
-      "screen_name" : "StevenWalling",
-      "indices" : [ 0, 14 ],
-      "id_str" : "15433919",
-      "id" : 15433919
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "44140636034695168",
   "geo" : { },
   "id_str" : "44140839013859328",
-  "in_reply_to_user_id" : 15433919,
   "text" : "@StevenWalling Domas is going to move us to it soon ;D. And yeah, that's the awesome link :P",
   "id" : 44140839013859328,
-  "in_reply_to_status_id" : 44140636034695168,
   "created_at" : "2011-03-05 21:02:50 +0000",
-  "in_reply_to_screen_name" : "StevenWalling",
-  "in_reply_to_user_id_str" : "15433919",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2599,12 +2588,6 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven Walling",
-      "screen_name" : "StevenWalling",
-      "indices" : [ 0, 14 ],
-      "id_str" : "15433919",
-      "id" : 15433919
-    }, {
       "name" : "MongoDB",
       "screen_name" : "MongoDB",
       "indices" : [ 15, 23 ],
@@ -2615,16 +2598,11 @@ Grailbird.data.tweets_2011_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "44134765812658176",
   "geo" : { },
   "id_str" : "44135242361081856",
-  "in_reply_to_user_id" : 15433919,
   "text" : "@StevenWalling @mongodb is Webscale, dontyaknow?",
   "id" : 44135242361081856,
-  "in_reply_to_status_id" : 44134765812658176,
   "created_at" : "2011-03-05 20:40:36 +0000",
-  "in_reply_to_screen_name" : "StevenWalling",
-  "in_reply_to_user_id_str" : "15433919",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

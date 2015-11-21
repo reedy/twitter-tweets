@@ -1014,7 +1014,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630229827639906305\/tM1Tb0EY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/650311314762412034\/5hIONDen_normal.jpg",
       "id" : 94178695,
       "verified" : false
     }
@@ -1874,7 +1874,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -2107,7 +2107,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -2263,7 +2263,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -2360,7 +2360,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -2393,7 +2393,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -3142,7 +3142,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "621583",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 15717810843,
@@ -3569,7 +3569,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "codemonkey_uk",
+      "name" : "Thad",
       "screen_name" : "codemonkey_uk",
       "indices" : [ 0, 14 ],
       "id_str" : "44114848",
@@ -3938,7 +3938,7 @@ Grailbird.data.tweets_2010_06 =
   "id" : 15193884014,
   "in_reply_to_status_id" : 15188863888,
   "created_at" : "2010-06-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "HullGamer",
+  "in_reply_to_screen_name" : "hyxCSGO",
   "in_reply_to_user_id_str" : "20406311",
   "user" : {
     "name" : "Sam Reed",

@@ -28,7 +28,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -59,7 +59,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -234,7 +234,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -368,7 +368,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 3, 13 ],
       "id_str" : "15866848",
@@ -395,7 +395,7 @@ Grailbird.data.tweets_2009_11 =
     "id" : 6079322637,
     "created_at" : "2009-11-26 11:49:05 +0000",
     "user" : {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "protected" : false,
       "id_str" : "15866848",
@@ -553,7 +553,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",

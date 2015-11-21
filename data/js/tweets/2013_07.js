@@ -36,7 +36,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -427,7 +427,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1656,7 +1656,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459126531676049408\/9DtDFag4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649992948449329152\/7FHIs4h6_normal.png",
       "id" : 30261067,
       "verified" : true
     }
@@ -1944,7 +1944,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "621583",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 359695536380575744,
@@ -2870,7 +2870,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "15425377",
       "id" : 15425377
     }, {
-      "name" : "Cathay Pacific ",
+      "name" : "Cathay Pacific",
       "screen_name" : "cathaypacific",
       "indices" : [ 75, 89 ],
       "id_str" : "16898427",
@@ -3068,7 +3068,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "139748938",
       "id" : 139748938
     }, {
-      "name" : "Dan Leveille ",
+      "name" : "Dan Leveille",
       "screen_name" : "danlev",
       "indices" : [ 14, 21 ],
       "id_str" : "13612732",
@@ -3107,7 +3107,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "139748938",
       "id" : 139748938
     }, {
-      "name" : "Dan Leveille ",
+      "name" : "Dan Leveille",
       "screen_name" : "danlev",
       "indices" : [ 14, 21 ],
       "id_str" : "13612732",
@@ -3214,7 +3214,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "AndroidAuth",
       "protected" : false,
       "id_str" : "95438524",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487047133392949248\/sVTI9rGI_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651260268236812289\/vbpawQ35_normal.png",
       "id" : 95438524,
       "verified" : false
     }
@@ -3316,7 +3316,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4404,7 +4404,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "96966644",
       "id" : 96966644
     }, {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 40, 50 ],
       "id_str" : "96965958",
@@ -5182,7 +5182,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459126531676049408\/9DtDFag4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649992948449329152\/7FHIs4h6_normal.png",
       "id" : 30261067,
       "verified" : true
     }
@@ -5527,12 +5527,6 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "HP ProLiant",
-      "screen_name" : "ProLiant",
-      "indices" : [ 3, 12 ],
-      "id_str" : "17531482",
-      "id" : 17531482
-    }, {
       "name" : "Network World",
       "screen_name" : "NetworkWorld",
       "indices" : [ 17, 30 ],
@@ -5576,11 +5570,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 351793759421333507,
     "created_at" : "2013-07-01 20:05:42 +0000",
     "user" : {
-      "name" : "HP ProLiant",
-      "screen_name" : "ProLiant",
+      "name" : "HPE ProLiant",
+      "screen_name" : "HPE_ProLiant",
       "protected" : false,
       "id_str" : "17531482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3560154328\/650e0045a0871bab6a0fb5d34561c7ef_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/659439685756829696\/_5ecFDnj_normal.png",
       "id" : 17531482,
       "verified" : false
     }

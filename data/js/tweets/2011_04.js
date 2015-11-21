@@ -180,7 +180,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -213,7 +213,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -332,7 +332,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -1363,7 +1363,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "94178695",
       "id" : 94178695
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 13, 18 ],
       "id_str" : "14822382",
@@ -2346,7 +2346,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "621583",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 55264290172698625,

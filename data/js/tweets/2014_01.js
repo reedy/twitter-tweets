@@ -86,7 +86,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -119,7 +119,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2298,7 +2298,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2469,7 +2469,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille ",
+      "name" : "Dan Leveille",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",
@@ -2618,7 +2618,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2724,7 +2724,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "209004862",
       "id" : 209004862
     }, {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 93, 103 ],
       "id_str" : "96965958",
@@ -3070,7 +3070,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3853,7 +3853,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille ",
+      "name" : "Dan Leveille",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",
@@ -4383,7 +4383,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KC Home",
+      "name" : "KC",
       "screen_name" : "_KCHome",
       "indices" : [ 2, 10 ],
       "id_str" : "22005301",
@@ -4438,7 +4438,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4601,7 +4601,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "245717095",
       "id" : 245717095
     }, {
-      "name" : "The Guardian ",
+      "name" : "The Guardian",
       "screen_name" : "guardian",
       "indices" : [ 25, 34 ],
       "id_str" : "87818409",
@@ -4651,7 +4651,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "245717095",
       "id" : 245717095
     }, {
-      "name" : "The Guardian ",
+      "name" : "The Guardian",
       "screen_name" : "guardian",
       "indices" : [ 15, 24 ],
       "id_str" : "87818409",
@@ -5549,7 +5549,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

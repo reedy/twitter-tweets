@@ -1991,7 +1991,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "DabsDotCom",
       "protected" : false,
       "id_str" : "87428004",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552064105285050368\/jxcHKS_k_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646932727078473728\/UrDH_9e4_normal.jpg",
       "id" : 87428004,
       "verified" : false
     }

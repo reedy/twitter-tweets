@@ -563,7 +563,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -594,12 +594,6 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "flexxxv",
-      "screen_name" : "flexxxv",
-      "indices" : [ 0, 8 ],
-      "id_str" : "280014297",
-      "id" : 280014297
-    }, {
       "name" : "OMG! UBUNTU!",
       "screen_name" : "omgubuntu",
       "indices" : [ 9, 19 ],
@@ -622,16 +616,11 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "171283565261238273",
   "geo" : { },
   "id_str" : "171284195283451905",
-  "in_reply_to_user_id" : 280014297,
   "text" : "@flexxxv @omgubuntu @bigwhale @popey All keys now changed. Will need to login again! ;)",
   "id" : 171284195283451905,
-  "in_reply_to_status_id" : 171283565261238273,
   "created_at" : "2012-02-19 17:25:09 +0000",
-  "in_reply_to_screen_name" : "flexxxv",
-  "in_reply_to_user_id_str" : "280014297",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -645,12 +634,6 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "flexxxv",
-      "screen_name" : "flexxxv",
-      "indices" : [ 0, 8 ],
-      "id_str" : "280014297",
-      "id" : 280014297
-    }, {
       "name" : "OMG! UBUNTU!",
       "screen_name" : "omgubuntu",
       "indices" : [ 9, 19 ],
@@ -673,16 +656,11 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "171283565261238273",
   "geo" : { },
   "id_str" : "171284016367017984",
-  "in_reply_to_user_id" : 280014297,
   "text" : "@flexxxv @omgubuntu @bigwhale @popey Yup, we know, database password has already been changed :). Should probably change the auth keys",
   "id" : 171284016367017984,
-  "in_reply_to_status_id" : 171283565261238273,
   "created_at" : "2012-02-19 17:24:26 +0000",
-  "in_reply_to_screen_name" : "flexxxv",
-  "in_reply_to_user_id_str" : "280014297",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -736,7 +714,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -773,7 +751,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -806,7 +784,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -839,7 +817,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -872,7 +850,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -935,7 +913,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -1359,7 +1337,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1577,7 +1555,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -1616,7 +1594,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -1826,7 +1804,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1907,7 +1885,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554013912635822080\/VODqGzLj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632872868913745920\/JZKDOYQm_normal.jpg",
       "id" : 19058966,
       "verified" : false
     }
@@ -2049,7 +2027,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -2082,7 +2060,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2115,7 +2093,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2148,7 +2126,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

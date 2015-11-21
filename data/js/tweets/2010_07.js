@@ -188,7 +188,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "DabsDotCom",
       "protected" : false,
       "id_str" : "87428004",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552064105285050368\/jxcHKS_k_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646932727078473728\/UrDH_9e4_normal.jpg",
       "id" : 87428004,
       "verified" : false
     }
@@ -1883,7 +1883,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "opendns",
       "protected" : false,
       "id_str" : "689273",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464517732512186369\/KA1euiSu_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636886051819130880\/g8rA_v-s_normal.png",
       "id" : 689273,
       "verified" : true
     }

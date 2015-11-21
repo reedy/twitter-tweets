@@ -3,7 +3,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -36,7 +36,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -69,7 +69,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -102,7 +102,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -133,7 +133,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -408,7 +408,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 9, 14 ],
       "id_str" : "14822382",
@@ -447,7 +447,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 14, 19 ],
       "id_str" : "14822382",
@@ -486,7 +486,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 55, 60 ],
       "id_str" : "14822382",
@@ -525,7 +525,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joey Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 17, 22 ],
       "id_str" : "14822382",
@@ -631,7 +631,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 9, 14 ],
       "id_str" : "14822382",
@@ -695,7 +695,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joey-Elijah Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 9, 14 ],
       "id_str" : "14822382",
@@ -728,7 +728,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sporty's Pilot Shop ",
+      "name" : "Sporty's Pilot Shop",
       "screen_name" : "Sportys",
       "indices" : [ 0, 8 ],
       "id_str" : "20265548",
@@ -1038,7 +1038,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 3, 13 ],
       "id_str" : "15866848",
@@ -1093,7 +1093,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 603994524877201408,
     "created_at" : "2015-05-28 18:41:31 +0000",
     "user" : {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "protected" : false,
       "id_str" : "15866848",
@@ -2522,7 +2522,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "xdadevelopers",
       "protected" : false,
       "id_str" : "65119912",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514806075132895232\/HU2Ar_rW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635865458114084864\/Gy_lShBq_normal.png",
       "id" : 65119912,
       "verified" : true
     }
@@ -2711,7 +2711,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sporty's Pilot Shop ",
+      "name" : "Sporty's Pilot Shop",
       "screen_name" : "Sportys",
       "indices" : [ 0, 8 ],
       "id_str" : "20265548",
@@ -2744,7 +2744,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sporty's Pilot Shop ",
+      "name" : "Sporty's Pilot Shop",
       "screen_name" : "Sportys",
       "indices" : [ 0, 8 ],
       "id_str" : "20265548",
@@ -3627,7 +3627,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sporty's Pilot Shop ",
+      "name" : "Sporty's Pilot Shop",
       "screen_name" : "Sportys",
       "indices" : [ 0, 8 ],
       "id_str" : "20265548",
@@ -3660,7 +3660,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sporty's Pilot Shop ",
+      "name" : "Sporty's Pilot Shop",
       "screen_name" : "Sportys",
       "indices" : [ 0, 8 ],
       "id_str" : "20265548",
@@ -3691,7 +3691,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3757,7 +3757,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 0, 9 ],
       "id_str" : "245729302",

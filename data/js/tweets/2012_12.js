@@ -1118,27 +1118,16 @@ Grailbird.data.tweets_2012_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Steven Walling",
-      "screen_name" : "StevenWalling",
-      "indices" : [ 0, 14 ],
-      "id_str" : "15433919",
-      "id" : 15433919
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "284107327781629952",
   "geo" : { },
   "id_str" : "284107951239733249",
-  "in_reply_to_user_id" : 15433919,
   "text" : "@StevenWalling There's so many to go around that even his bumper sticker can have one?",
   "id" : 284107951239733249,
-  "in_reply_to_status_id" : 284107327781629952,
   "created_at" : "2012-12-27 01:26:28 +0000",
-  "in_reply_to_screen_name" : "StevenWalling",
-  "in_reply_to_user_id_str" : "15433919",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1839,12 +1828,6 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gav",
-      "screen_name" : "HullGamer",
-      "indices" : [ 6, 16 ],
-      "id_str" : "20406311",
-      "id" : 20406311
-    }, {
       "name" : "JibbaJabba",
       "screen_name" : "JibbaJabbaUK",
       "indices" : [ 22, 35 ],
@@ -2035,12 +2018,6 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gav",
-      "screen_name" : "HullGamer",
-      "indices" : [ 0, 10 ],
-      "id_str" : "20406311",
-      "id" : 20406311
-    }, {
       "name" : "JibbaJabba",
       "screen_name" : "JibbaJabbaUK",
       "indices" : [ 29, 42 ],
@@ -2059,7 +2036,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 282525528685154305,
   "in_reply_to_status_id" : 282524732585283584,
   "created_at" : "2012-12-22 16:38:29 +0000",
-  "in_reply_to_screen_name" : "HullGamer",
+  "in_reply_to_screen_name" : "hyxCSGO",
   "in_reply_to_user_id_str" : "20406311",
   "user" : {
     "name" : "Sam Reed",
@@ -2073,13 +2050,7 @@ Grailbird.data.tweets_2012_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Gav",
-      "screen_name" : "HullGamer",
-      "indices" : [ 0, 10 ],
-      "id_str" : "20406311",
-      "id" : 20406311
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2092,7 +2063,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 282525292642320385,
   "in_reply_to_status_id" : 282524732585283584,
   "created_at" : "2012-12-22 16:37:33 +0000",
-  "in_reply_to_screen_name" : "HullGamer",
+  "in_reply_to_screen_name" : "hyxCSGO",
   "in_reply_to_user_id_str" : "20406311",
   "user" : {
     "name" : "Sam Reed",
@@ -3833,13 +3804,13 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "76282443",
       "id" : 76282443
     }, {
-      "name" : "Bearded Glasses",
+      "name" : "Beardy Codsworth",
       "screen_name" : "m_garrigan",
       "indices" : [ 66, 77 ],
       "id_str" : "486902937",
       "id" : 486902937
     }, {
-      "name" : "Damien O'Meara",
+      "name" : "Damien J O'Meara",
       "screen_name" : "damoo_la",
       "indices" : [ 78, 87 ],
       "id_str" : "323473384",
@@ -4890,7 +4861,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5498,7 +5469,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -6153,7 +6124,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -6229,7 +6200,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "621583",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 277124547621294080,
@@ -6797,7 +6768,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "Kiwi_Si",
       "protected" : false,
       "id_str" : "779050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552034434744987648\/uIHxviZq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/665464656744620032\/KAJHT9gL_normal.png",
       "id" : 779050,
       "verified" : false
     }

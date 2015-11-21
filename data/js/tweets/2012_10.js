@@ -227,7 +227,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459126531676049408\/9DtDFag4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649992948449329152\/7FHIs4h6_normal.png",
       "id" : 30261067,
       "verified" : true
     }
@@ -587,7 +587,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -1732,7 +1732,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "AngryBirds",
       "protected" : false,
       "id_str" : "17337554",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626663912407089152\/z3ssUS73_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/661458689111429120\/qaZGbWkj_normal.png",
       "id" : 17337554,
       "verified" : true
     }
@@ -3042,7 +3042,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "johannhari101",
       "protected" : false,
       "id_str" : "78890225",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555000371865591809\/LNOIK4OO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632710285166538752\/hPRBfBEA_normal.jpg",
       "id" : 78890225,
       "verified" : true
     }
@@ -3325,7 +3325,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552610812531990528\/PLFV8G0a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666904096486486021\/LSoEJh9K_normal.png",
       "id" : 16170178,
       "verified" : false
     }
@@ -3599,7 +3599,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam James",
+      "name" : "Adam James \u2039:",
       "screen_name" : "mrwizrd",
       "indices" : [ 0, 8 ],
       "id_str" : "16019962",

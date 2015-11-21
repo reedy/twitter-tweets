@@ -643,7 +643,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "techradar",
       "protected" : false,
       "id_str" : "15560223",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1976741418\/tr_avatar_500x500__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666175375836381184\/TQGOEbNe_normal.jpg",
       "id" : 15560223,
       "verified" : true
     }
@@ -1098,7 +1098,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "AndroidAuth",
       "protected" : false,
       "id_str" : "95438524",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487047133392949248\/sVTI9rGI_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651260268236812289\/vbpawQ35_normal.png",
       "id" : 95438524,
       "verified" : false
     }
@@ -1346,7 +1346,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1379,7 +1379,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3262,7 +3262,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "AndroidAuth",
       "protected" : false,
       "id_str" : "95438524",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487047133392949248\/sVTI9rGI_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651260268236812289\/vbpawQ35_normal.png",
       "id" : 95438524,
       "verified" : false
     }
@@ -3390,7 +3390,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "AirlineReporter",
       "protected" : false,
       "id_str" : "40113236",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459006280812593152\/Tcl2QsDQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/644908177767567360\/ykNN6wC9_normal.jpg",
       "id" : 40113236,
       "verified" : false
     }
@@ -3577,7 +3577,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "I Am Bread",
+      "name" : "I Am GoatBread",
       "screen_name" : "IAmBreadGame",
       "indices" : [ 0, 13 ],
       "id_str" : "2821315132",
@@ -3734,7 +3734,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack LeF",
+      "name" : "Jack F-D",
       "screen_name" : "jackkkpot",
       "indices" : [ 0, 10 ],
       "id_str" : "400981382",

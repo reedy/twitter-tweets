@@ -263,7 +263,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "xdadevelopers",
       "protected" : false,
       "id_str" : "65119912",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514806075132895232\/HU2Ar_rW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635865458114084864\/Gy_lShBq_normal.png",
       "id" : 65119912,
       "verified" : true
     }
@@ -1071,13 +1071,7 @@ Grailbird.data.tweets_2015_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "velhotigreruim",
-      "screen_name" : "vgl",
-      "indices" : [ 0, 4 ],
-      "id_str" : "18877566",
-      "id" : 18877566
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1088,7 +1082,7 @@ Grailbird.data.tweets_2015_01 =
   "text" : "@vgl Your Android app sucks",
   "id" : 554736485837336576,
   "created_at" : "2015-01-12 20:27:39 +0000",
-  "in_reply_to_screen_name" : "vgl",
+  "in_reply_to_screen_name" : "vmmguilherme",
   "in_reply_to_user_id_str" : "18877566",
   "user" : {
     "name" : "Sam Reed",
@@ -2073,7 +2067,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "lenovo",
       "protected" : false,
       "id_str" : "17307429",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603740744885501952\/lhsn-W53_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/644355176573202432\/BvuLTyYH_normal.jpg",
       "id" : 17307429,
       "verified" : true
     }

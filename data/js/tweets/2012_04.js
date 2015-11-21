@@ -522,7 +522,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "DabsDotCom",
       "protected" : false,
       "id_str" : "87428004",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552064105285050368\/jxcHKS_k_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646932727078473728\/UrDH_9e4_normal.jpg",
       "id" : 87428004,
       "verified" : false
     }
@@ -849,7 +849,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

@@ -522,7 +522,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554013912635822080\/VODqGzLj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632872868913745920\/JZKDOYQm_normal.jpg",
       "id" : 19058966,
       "verified" : false
     }
@@ -796,7 +796,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -907,7 +907,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -990,7 +990,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam James",
+      "name" : "Adam James \u2039:",
       "screen_name" : "mrwizrd",
       "indices" : [ 0, 8 ],
       "id_str" : "16019962",
@@ -1108,9 +1108,9 @@ Grailbird.data.tweets_2010_11 =
     "user" : {
       "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611246001546989568\/z1e_PH2V_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658624950807470080\/0lSx9LWl_normal.jpg",
       "id" : 14355014,
       "verified" : false
     }
@@ -1306,7 +1306,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630229827639906305\/tM1Tb0EY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/650311314762412034\/5hIONDen_normal.jpg",
       "id" : 94178695,
       "verified" : false
     }
@@ -1746,7 +1746,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554013912635822080\/VODqGzLj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632872868913745920\/JZKDOYQm_normal.jpg",
       "id" : 19058966,
       "verified" : false
     }
@@ -3746,7 +3746,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hampton",
+      "name" : "Hampton #1",
       "screen_name" : "hcatlin",
       "indices" : [ 84, 92 ],
       "id_str" : "12986052",
@@ -4519,13 +4519,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Philippe Beaudette",
-      "screen_name" : "philippewiki",
-      "indices" : [ 0, 13 ],
-      "id_str" : "58569704",
-      "id" : 58569704
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4536,7 +4530,7 @@ Grailbird.data.tweets_2010_11 =
   "text" : "@philippewiki Isn't that like paying your own wages?",
   "id" : 3159374327447552,
   "created_at" : "2010-11-12 18:57:08 +0000",
-  "in_reply_to_screen_name" : "philippewiki",
+  "in_reply_to_screen_name" : "philippe_in_sf",
   "in_reply_to_user_id_str" : "58569704",
   "user" : {
     "name" : "Sam Reed",
@@ -4983,7 +4977,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -5068,9 +5062,9 @@ Grailbird.data.tweets_2010_11 =
     "user" : {
       "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611246001546989568\/z1e_PH2V_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658624950807470080\/0lSx9LWl_normal.jpg",
       "id" : 14355014,
       "verified" : false
     }
@@ -5911,27 +5905,16 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Steven Walling",
-      "screen_name" : "StevenWalling",
-      "indices" : [ 0, 14 ],
-      "id_str" : "15433919",
-      "id" : 15433919
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1760813786337280",
   "geo" : { },
   "id_str" : "1760898205089792",
-  "in_reply_to_user_id" : 15433919,
   "text" : "@StevenWalling Don't talk about MediaWiki like that!",
   "id" : 1760898205089792,
-  "in_reply_to_status_id" : 1760813786337280,
   "created_at" : "2010-11-08 22:20:05 +0000",
-  "in_reply_to_screen_name" : "StevenWalling",
-  "in_reply_to_user_id_str" : "15433919",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

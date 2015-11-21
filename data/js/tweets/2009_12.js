@@ -57,9 +57,9 @@ Grailbird.data.tweets_2009_12 =
     "user" : {
       "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611246001546989568\/z1e_PH2V_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658624950807470080\/0lSx9LWl_normal.jpg",
       "id" : 14355014,
       "verified" : false
     }
@@ -700,7 +700,7 @@ Grailbird.data.tweets_2009_12 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554013912635822080\/VODqGzLj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632872868913745920\/JZKDOYQm_normal.jpg",
       "id" : 19058966,
       "verified" : false
     }
@@ -1663,13 +1663,7 @@ Grailbird.data.tweets_2009_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HP ProLiant",
-      "screen_name" : "ProLiant",
-      "indices" : [ 0, 9 ],
-      "id_str" : "17531482",
-      "id" : 17531482
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1680,7 +1674,7 @@ Grailbird.data.tweets_2009_12 =
   "text" : "@ProLiant Any chance of getting the E200 Firmware Update utility for the M115 G5 upgraded from 1.72 to 1.84? Thanks!!",
   "id" : 6833384144,
   "created_at" : "2009-12-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ProLiant",
+  "in_reply_to_screen_name" : "HPE_ProLiant",
   "in_reply_to_user_id_str" : "17531482",
   "user" : {
     "name" : "Sam Reed",

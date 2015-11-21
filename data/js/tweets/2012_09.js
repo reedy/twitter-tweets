@@ -123,7 +123,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -162,7 +162,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -206,7 +206,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -239,7 +239,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2774,7 +2774,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack LeF",
+      "name" : "Jack F-D",
       "screen_name" : "jackkkpot",
       "indices" : [ 0, 10 ],
       "id_str" : "400981382",
@@ -2975,7 +2975,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459126531676049408\/9DtDFag4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649992948449329152\/7FHIs4h6_normal.png",
       "id" : 30261067,
       "verified" : true
     }
@@ -4275,7 +4275,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack LeF",
+      "name" : "Jack F-D",
       "screen_name" : "jackkkpot",
       "indices" : [ 0, 10 ],
       "id_str" : "400981382",
@@ -4419,7 +4419,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552610812531990528\/PLFV8G0a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666904096486486021\/LSoEJh9K_normal.png",
       "id" : 16170178,
       "verified" : false
     }
@@ -5702,7 +5702,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "621583",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 244064231828369409,
@@ -5920,12 +5920,6 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gav",
-      "screen_name" : "HullGamer",
-      "indices" : [ 0, 10 ],
-      "id_str" : "20406311",
-      "id" : 20406311
-    }, {
       "name" : "Battlefield",
       "screen_name" : "Battlefield",
       "indices" : [ 11, 23 ],
@@ -5944,7 +5938,7 @@ Grailbird.data.tweets_2012_09 =
   "id" : 243406867999649792,
   "in_reply_to_status_id" : 243406123112202240,
   "created_at" : "2012-09-05 17:54:54 +0000",
-  "in_reply_to_screen_name" : "HullGamer",
+  "in_reply_to_screen_name" : "hyxCSGO",
   "in_reply_to_user_id_str" : "20406311",
   "user" : {
     "name" : "Sam Reed",
@@ -6089,7 +6083,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459126531676049408\/9DtDFag4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649992948449329152\/7FHIs4h6_normal.png",
       "id" : 30261067,
       "verified" : true
     }

@@ -891,7 +891,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -924,7 +924,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -961,7 +961,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "5010931",
       "id" : 5010931
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 126, 131 ],
       "id_str" : "14822382",
@@ -1225,7 +1225,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weeeeeeeeebl",
+      "name" : "Weeeeeeeeeeeeeeebl",
       "screen_name" : "TheWeebl",
       "indices" : [ 3, 12 ],
       "id_str" : "122040755",
@@ -1262,7 +1262,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 371732089739427840,
     "created_at" : "2013-08-25 20:33:31 +0000",
     "user" : {
-      "name" : "Weeeeeeeeebl",
+      "name" : "Weeeeeeeeeeeeeeebl",
       "screen_name" : "TheWeebl",
       "protected" : false,
       "id_str" : "122040755",
@@ -3087,7 +3087,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3120,7 +3120,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3153,7 +3153,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4446,7 +4446,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4479,7 +4479,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4512,7 +4512,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4545,7 +4545,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4578,7 +4578,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5068,7 +5068,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5818,7 +5818,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille ",
+      "name" : "Dan Leveille",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",
@@ -7839,7 +7839,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille ",
+      "name" : "Dan Leveille",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",
@@ -8225,6 +8225,132 @@ Grailbird.data.tweets_2013_08 =
   "text" : "http:\/\/t.co\/VFOurD6nGm We made BBC news!",
   "id" : 364484207940485121,
   "created_at" : "2013-08-05 20:33:01 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Flightradar24",
+      "screen_name" : "flightradar24",
+      "indices" : [ 18, 32 ],
+      "id_str" : "134196350",
+      "id" : 134196350
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/BabybusBabe\/status\/364483287554613248\/photo\/1",
+      "indices" : [ 79, 101 ],
+      "url" : "http:\/\/t.co\/3v7J034CcZ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BQ7nnnHCYAA_bv7.jpg",
+      "id_str" : "364483287563001856",
+      "id" : 364483287563001856,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BQ7nnnHCYAA_bv7.jpg",
+      "sizes" : [ {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      } ],
+      "display_url" : "pic.twitter.com\/3v7J034CcZ"
+    } ],
+    "hashtags" : [ {
+      "text" : "BA25",
+      "indices" : [ 45, 50 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "364484129985142784",
+  "text" : "RT @LisaStabler1: @flightradar24 coverage of #BA25 makes the BBC News Channel: http:\/\/t.co\/3v7J034CcZ",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Flightradar24",
+        "screen_name" : "flightradar24",
+        "indices" : [ 0, 14 ],
+        "id_str" : "134196350",
+        "id" : 134196350
+      } ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/BabybusBabe\/status\/364483287554613248\/photo\/1",
+        "indices" : [ 61, 83 ],
+        "url" : "http:\/\/t.co\/3v7J034CcZ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BQ7nnnHCYAA_bv7.jpg",
+        "id_str" : "364483287563001856",
+        "id" : 364483287563001856,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BQ7nnnHCYAA_bv7.jpg",
+        "sizes" : [ {
+          "h" : 255,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 768,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 768,
+          "resize" : "fit",
+          "w" : 1024
+        } ],
+        "display_url" : "pic.twitter.com\/3v7J034CcZ"
+      } ],
+      "hashtags" : [ {
+        "text" : "BA25",
+        "indices" : [ 27, 32 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "364483287554613248",
+    "in_reply_to_user_id" : 134196350,
+    "text" : "@flightradar24 coverage of #BA25 makes the BBC News Channel: http:\/\/t.co\/3v7J034CcZ",
+    "id" : 364483287554613248,
+    "created_at" : "2013-08-05 20:29:22 +0000",
+    "in_reply_to_screen_name" : "flightradar24",
+    "in_reply_to_user_id_str" : "134196350",
+    "user" : {
+      "name" : "Lisa Hills",
+      "screen_name" : "BabybusBabe",
+      "protected" : false,
+      "id_str" : "290510050",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/665318716003893249\/Xh5vIBSS_normal.jpg",
+      "id" : 290510050,
+      "verified" : false
+    }
+  },
+  "id" : 364484129985142784,
+  "created_at" : "2013-08-05 20:32:43 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -8991,7 +9117,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille ",
+      "name" : "Dan Leveille",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",
@@ -9024,7 +9150,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille ",
+      "name" : "Dan Leveille",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",

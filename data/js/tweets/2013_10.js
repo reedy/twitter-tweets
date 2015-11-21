@@ -297,7 +297,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KC Home",
+      "name" : "KC",
       "screen_name" : "_KCHome",
       "indices" : [ 5, 13 ],
       "id_str" : "22005301",
@@ -1385,7 +1385,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "621583",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 394635935151054849,
@@ -2473,7 +2473,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 4, 14 ],
       "id_str" : "96965958",
@@ -2501,7 +2501,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 16, 26 ],
       "id_str" : "96965958",
@@ -2595,7 +2595,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille ",
+      "name" : "Dan Leveille",
       "screen_name" : "danlev",
       "indices" : [ 5, 12 ],
       "id_str" : "13612732",
@@ -3337,7 +3337,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459126531676049408\/9DtDFag4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649992948449329152\/7FHIs4h6_normal.png",
       "id" : 30261067,
       "verified" : true
     }
@@ -4181,7 +4181,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KC Home",
+      "name" : "KC",
       "screen_name" : "_KCHome",
       "indices" : [ 0, 8 ],
       "id_str" : "22005301",
@@ -4338,7 +4338,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5592,7 +5592,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 10, 20 ],
       "id_str" : "96965958",
@@ -5772,7 +5772,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 0, 9 ],
       "id_str" : "245729302",
@@ -5891,13 +5891,7 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HP ProLiant",
-      "screen_name" : "ProLiant",
-      "indices" : [ 23, 32 ],
-      "id_str" : "17531482",
-      "id" : 17531482
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5975,7 +5969,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 0, 9 ],
       "id_str" : "245729302",
@@ -6008,7 +6002,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 0, 9 ],
       "id_str" : "245729302",
@@ -6054,7 +6048,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 4, 13 ],
       "id_str" : "245729302",
@@ -6081,13 +6075,7 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HP ProLiant",
-      "screen_name" : "ProLiant",
-      "indices" : [ 25, 34 ],
-      "id_str" : "17531482",
-      "id" : 17531482
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6419,7 +6407,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 47, 57 ],
       "id_str" : "96965958",
@@ -6867,7 +6855,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 112, 122 ],
       "id_str" : "96965958",
@@ -7055,7 +7043,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 28, 33 ],
       "id_str" : "14822382",
@@ -7105,7 +7093,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 28, 37 ],
       "id_str" : "245729302",
@@ -7300,7 +7288,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam James",
+      "name" : "Adam James \u2039:",
       "screen_name" : "mrwizrd",
       "indices" : [ 0, 8 ],
       "id_str" : "16019962",
@@ -8548,7 +8536,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "621583",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 384820346266058752,

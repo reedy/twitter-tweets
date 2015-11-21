@@ -274,7 +274,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille ",
+      "name" : "Dan Leveille",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",
@@ -932,7 +932,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1082,7 +1082,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 0, 10 ],
       "id_str" : "96965958",
@@ -1143,7 +1143,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 0, 10 ],
       "id_str" : "96965958",
@@ -1176,7 +1176,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 0, 10 ],
       "id_str" : "96965958",
@@ -1209,7 +1209,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 0, 10 ],
       "id_str" : "96965958",
@@ -1242,7 +1242,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 3, 13 ],
       "id_str" : "96965958",
@@ -1286,7 +1286,7 @@ Grailbird.data.tweets_2013_06 =
     "in_reply_to_screen_name" : "tehreedy",
     "in_reply_to_user_id_str" : "19903171",
     "user" : {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "protected" : false,
       "id_str" : "96965958",
@@ -1310,7 +1310,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 116, 126 ],
       "id_str" : "96965958",
@@ -1349,7 +1349,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 27, 37 ],
       "id_str" : "96965958",
@@ -1487,7 +1487,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "621583",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 349869286950576129,
@@ -1721,7 +1721,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "139748938",
       "id" : 139748938
     }, {
-      "name" : "Dan Leveille ",
+      "name" : "Dan Leveille",
       "screen_name" : "danlev",
       "indices" : [ 40, 47 ],
       "id_str" : "13612732",
@@ -3319,7 +3319,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -4479,7 +4479,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5232,7 +5232,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -5461,7 +5461,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "DabsDotCom",
       "protected" : false,
       "id_str" : "87428004",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552064105285050368\/jxcHKS_k_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646932727078473728\/UrDH_9e4_normal.jpg",
       "id" : 87428004,
       "verified" : false
     }
@@ -5542,11 +5542,11 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Best Western Hotels",
-      "screen_name" : "TheBestWestern",
+      "name" : "Best Western",
+      "screen_name" : "thebestwestern",
       "indices" : [ 48, 63 ],
-      "id_str" : "22213638",
-      "id" : 22213638
+      "id_str" : "3663684914",
+      "id" : 3663684914
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5686,11 +5686,11 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Best Western Hotels",
-      "screen_name" : "TheBestWestern",
+      "name" : "Best Western",
+      "screen_name" : "thebestwestern",
       "indices" : [ 0, 15 ],
-      "id_str" : "22213638",
-      "id" : 22213638
+      "id_str" : "3663684914",
+      "id" : 3663684914
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5702,7 +5702,7 @@ Grailbird.data.tweets_2013_06 =
   "text" : "@TheBestWestern My account says \" Nights to Next Level: 0\". When does that update and move me to the next reward level? Thanks!",
   "id" : 342073905936224256,
   "created_at" : "2013-06-05 00:22:29 +0000",
-  "in_reply_to_screen_name" : "TheBestWestern",
+  "in_reply_to_screen_name" : "BestWestern",
   "in_reply_to_user_id_str" : "22213638",
   "user" : {
     "name" : "Sam Reed",
@@ -5830,7 +5830,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "WhiteHouse",
       "protected" : false,
       "id_str" : "30313925",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/628554883512168449\/ayVDK7Fj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655032843081547776\/VyZJbvWW_normal.jpg",
       "id" : 30313925,
       "verified" : true
     }

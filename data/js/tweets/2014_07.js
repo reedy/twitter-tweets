@@ -165,7 +165,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459126531676049408\/9DtDFag4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649992948449329152\/7FHIs4h6_normal.png",
       "id" : 30261067,
       "verified" : true
     }
@@ -732,7 +732,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1323,7 +1323,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "fightfortheftr",
       "protected" : false,
       "id_str" : "382376904",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/517778269119066112\/FP6eE5y5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/661546590864175104\/wTfc_WWI_normal.png",
       "id" : 382376904,
       "verified" : false
     }
@@ -1783,7 +1783,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 0, 9 ],
       "id_str" : "245729302",
@@ -1816,7 +1816,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 3, 12 ],
       "id_str" : "245729302",
@@ -1853,11 +1853,11 @@ Grailbird.data.tweets_2014_07 =
     "id" : 491255291993161728,
     "created_at" : "2014-07-21 16:16:03 +0000",
     "user" : {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "protected" : false,
       "id_str" : "245729302",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1580739988\/bytemark_twitter_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/663727834263896064\/Xm2921AM_normal.jpg",
       "id" : 245729302,
       "verified" : false
     }
@@ -2786,7 +2786,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3803,7 +3803,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4587,7 +4587,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam James",
+      "name" : "Adam James \u2039:",
       "screen_name" : "mrwizrd",
       "indices" : [ 0, 8 ],
       "id_str" : "16019962",
@@ -4695,7 +4695,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "fightfortheftr",
       "protected" : false,
       "id_str" : "382376904",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/517778269119066112\/FP6eE5y5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/661546590864175104\/wTfc_WWI_normal.png",
       "id" : 382376904,
       "verified" : false
     }
@@ -4795,7 +4795,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Royal Mail ",
+      "name" : "Royal Mail",
       "screen_name" : "RoyalMail",
       "indices" : [ 49, 59 ],
       "id_str" : "96965958",
@@ -5221,7 +5221,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille ",
+      "name" : "Dan Leveille",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",
@@ -5254,7 +5254,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Leveille ",
+      "name" : "Dan Leveille",
       "screen_name" : "danlev",
       "indices" : [ 0, 7 ],
       "id_str" : "13612732",
@@ -5405,7 +5405,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "jamesparton",
       "protected" : false,
       "id_str" : "15363704",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543359324739743744\/vsUkroxt_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638766545448108032\/oBFichVm_normal.jpg",
       "id" : 15363704,
       "verified" : false
     }
@@ -5516,7 +5516,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

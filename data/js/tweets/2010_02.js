@@ -36,7 +36,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Who is also a lion",
+      "name" : "Alien Megastructures",
       "screen_name" : "winjer",
       "indices" : [ 3, 10 ],
       "id_str" : "957411",
@@ -63,7 +63,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9771011599,
     "created_at" : "2010-02-28 09:43:30 +0000",
     "user" : {
-      "name" : "Who is also a lion",
+      "name" : "Alien Megastructures",
       "screen_name" : "winjer",
       "protected" : false,
       "id_str" : "957411",
@@ -272,7 +272,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9626833995,
     "created_at" : "2010-02-25 14:08:11 +0000",
     "user" : {
-      "name" : "KC Home",
+      "name" : "KC",
       "screen_name" : "_KCHome",
       "protected" : false,
       "id_str" : "22005301",
@@ -1035,7 +1035,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "2569881",
       "id" : 2569881
     }, {
-      "name" : "Who is also a lion",
+      "name" : "Alien Megastructures",
       "screen_name" : "winjer",
       "indices" : [ 13, 20 ],
       "id_str" : "957411",
@@ -1058,7 +1058,7 @@ Grailbird.data.tweets_2010_02 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Who is also a lion",
+        "name" : "Alien Megastructures",
         "screen_name" : "winjer",
         "indices" : [ 3, 10 ],
         "id_str" : "957411",
@@ -1137,7 +1137,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "621583",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
       "id" : 621583,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 9334146578,
@@ -1217,7 +1217,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 3, 13 ],
       "id_str" : "15866848",
@@ -1244,7 +1244,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9334735144,
     "created_at" : "2010-02-19 13:40:55 +0000",
     "user" : {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "protected" : false,
       "id_str" : "15866848",
@@ -1268,7 +1268,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 3, 13 ],
       "id_str" : "15866848",
@@ -1295,7 +1295,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9335020977,
     "created_at" : "2010-02-19 13:48:45 +0000",
     "user" : {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "protected" : false,
       "id_str" : "15866848",
@@ -1739,7 +1739,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo ",
+      "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -1836,7 +1836,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "Kiwi_Si",
       "protected" : false,
       "id_str" : "779050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552034434744987648\/uIHxviZq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/665464656744620032\/KAJHT9gL_normal.png",
       "id" : 779050,
       "verified" : false
     }
@@ -2987,9 +2987,9 @@ Grailbird.data.tweets_2010_02 =
     "user" : {
       "name" : "Shinsters.cs",
       "screen_name" : "shinaku",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611246001546989568\/z1e_PH2V_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658624950807470080\/0lSx9LWl_normal.jpg",
       "id" : 14355014,
       "verified" : false
     }

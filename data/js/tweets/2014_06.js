@@ -1606,7 +1606,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459126531676049408\/9DtDFag4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649992948449329152\/7FHIs4h6_normal.png",
       "id" : 30261067,
       "verified" : true
     }
@@ -1720,7 +1720,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 48, 53 ],
       "id_str" : "14822382",
@@ -1776,12 +1776,6 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven Walling",
-      "screen_name" : "StevenWalling",
-      "indices" : [ 0, 14 ],
-      "id_str" : "15433919",
-      "id" : 15433919
-    }, {
       "name" : "Stuart Hicks",
       "screen_name" : "stuarthicks",
       "indices" : [ 15, 27 ],
@@ -1792,16 +1786,11 @@ Grailbird.data.tweets_2014_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "478657230841991169",
   "geo" : { },
   "id_str" : "478659593422508032",
-  "in_reply_to_user_id" : 15433919,
   "text" : "@StevenWalling @stuarthicks said \"seemed... very iOS-like, but quite well done\"",
   "id" : 478659593422508032,
-  "in_reply_to_status_id" : 478657230841991169,
   "created_at" : "2014-06-16 22:05:14 +0000",
-  "in_reply_to_screen_name" : "StevenWalling",
-  "in_reply_to_user_id_str" : "15433919",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2722,7 +2711,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "AndroidAuth",
       "protected" : false,
       "id_str" : "95438524",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487047133392949248\/sVTI9rGI_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651260268236812289\/vbpawQ35_normal.png",
       "id" : 95438524,
       "verified" : false
     }
@@ -3504,7 +3493,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 0, 9 ],
       "id_str" : "245729302",
@@ -3542,7 +3531,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 0, 9 ],
       "id_str" : "245729302",
@@ -3580,7 +3569,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 0, 9 ],
       "id_str" : "245729302",
@@ -3636,7 +3625,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "190242663",
       "id" : 190242663
     }, {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 90, 99 ],
       "id_str" : "245729302",
@@ -3667,7 +3656,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bytemark Hosting",
+      "name" : "Bytemark",
       "screen_name" : "bytemark",
       "indices" : [ 101, 110 ],
       "id_str" : "245729302",

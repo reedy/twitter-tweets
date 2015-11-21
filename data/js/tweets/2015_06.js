@@ -25,7 +25,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sporty's Pilot Shop ",
+      "name" : "Sporty's Pilot Shop",
       "screen_name" : "Sportys",
       "indices" : [ 4, 12 ],
       "id_str" : "20265548",
@@ -189,7 +189,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 3, 14 ],
       "id_str" : "22987109",
@@ -257,11 +257,11 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_screen_name" : "AnzalPTI",
     "in_reply_to_user_id_str" : "875762660",
     "user" : {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "protected" : false,
       "id_str" : "22987109",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627816397175955457\/9JNykapT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_5_normal.png",
       "id" : 22987109,
       "verified" : false
     }
@@ -281,7 +281,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 3, 14 ],
       "id_str" : "22987109",
@@ -349,11 +349,11 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_screen_name" : "AnzalPTI",
     "in_reply_to_user_id_str" : "875762660",
     "user" : {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "protected" : false,
       "id_str" : "22987109",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627816397175955457\/9JNykapT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_5_normal.png",
       "id" : 22987109,
       "verified" : false
     }
@@ -373,7 +373,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 3, 14 ],
       "id_str" : "22987109",
@@ -385,7 +385,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @gamescom",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 26, 37 ],
       "id_str" : "116534927",
@@ -408,7 +408,7 @@ Grailbird.data.tweets_2015_06 =
         "id_str" : "875762660",
         "id" : 875762660
       }, {
-        "name" : "Ryan Brown @gamescom",
+        "name" : "Ryan Brown",
         "screen_name" : "Toadsanime",
         "indices" : [ 10, 21 ],
         "id_str" : "116534927",
@@ -429,11 +429,11 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_screen_name" : "AnzalPTI",
     "in_reply_to_user_id_str" : "875762660",
     "user" : {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "protected" : false,
       "id_str" : "22987109",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627816397175955457\/9JNykapT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_5_normal.png",
       "id" : 22987109,
       "verified" : false
     }
@@ -453,7 +453,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 3, 14 ],
       "id_str" : "22987109",
@@ -465,7 +465,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @gamescom",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 26, 37 ],
       "id_str" : "116534927",
@@ -488,7 +488,7 @@ Grailbird.data.tweets_2015_06 =
         "id_str" : "875762660",
         "id" : 875762660
       }, {
-        "name" : "Ryan Brown @gamescom",
+        "name" : "Ryan Brown",
         "screen_name" : "Toadsanime",
         "indices" : [ 10, 21 ],
         "id_str" : "116534927",
@@ -509,11 +509,11 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_screen_name" : "AnzalPTI",
     "in_reply_to_user_id_str" : "875762660",
     "user" : {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "protected" : false,
       "id_str" : "22987109",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627816397175955457\/9JNykapT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_5_normal.png",
       "id" : 22987109,
       "verified" : false
     }
@@ -545,7 +545,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 22, 33 ],
       "id_str" : "22987109",
@@ -623,7 +623,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 22, 33 ],
       "id_str" : "22987109",
@@ -668,7 +668,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 22, 33 ],
       "id_str" : "22987109",
@@ -713,7 +713,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 22, 33 ],
       "id_str" : "22987109",
@@ -758,7 +758,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 22, 33 ],
       "id_str" : "22987109",
@@ -893,7 +893,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 22, 33 ],
       "id_str" : "22987109",
@@ -944,7 +944,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 35, 46 ],
       "id_str" : "22987109",
@@ -995,7 +995,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 35, 46 ],
       "id_str" : "22987109",
@@ -1046,7 +1046,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 35, 46 ],
       "id_str" : "22987109",
@@ -1097,7 +1097,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "garridarko",
+      "name" : "garri",
       "screen_name" : "garridarko",
       "indices" : [ 35, 46 ],
       "id_str" : "22987109",
@@ -1136,7 +1136,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @gamescom",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -1385,7 +1385,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lowson ",
+      "name" : "Lowson",
       "screen_name" : "andrewlowson",
       "indices" : [ 0, 13 ],
       "id_str" : "15220298",
@@ -1397,7 +1397,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @gamescom",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 24, 35 ],
       "id_str" : "116534927",
@@ -1653,7 +1653,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1686,7 +1686,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2254,7 +2254,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sporty's Pilot Shop ",
+      "name" : "Sporty's Pilot Shop",
       "screen_name" : "Sportys",
       "indices" : [ 0, 8 ],
       "id_str" : "20265548",
@@ -2447,27 +2447,16 @@ Grailbird.data.tweets_2015_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "bespoke offers",
-      "screen_name" : "bespokeoffers",
-      "indices" : [ 0, 14 ],
-      "id_str" : "481947101",
-      "id" : 481947101
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "613306101019373568",
   "geo" : { },
   "id_str" : "613307858944454656",
-  "in_reply_to_user_id" : 481947101,
   "text" : "@bespokeoffers Think you guys need to follow me so I can DM you :)",
   "id" : 613307858944454656,
-  "in_reply_to_status_id" : 613306101019373568,
   "created_at" : "2015-06-23 11:29:22 +0000",
-  "in_reply_to_screen_name" : "bespokeoffers",
-  "in_reply_to_user_id_str" : "481947101",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2480,27 +2469,16 @@ Grailbird.data.tweets_2015_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "bespoke offers",
-      "screen_name" : "bespokeoffers",
-      "indices" : [ 0, 14 ],
-      "id_str" : "481947101",
-      "id" : 481947101
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "613241192973774848",
   "geo" : { },
   "id_str" : "613304111354761216",
-  "in_reply_to_user_id" : 481947101,
   "text" : "@bespokeoffers But on an item at \u00A3591.34, with 7.75 delivery, you'd sorta expect a tracking number of some kind. Not a small\/cheap order!",
   "id" : 613304111354761216,
-  "in_reply_to_status_id" : 613241192973774848,
   "created_at" : "2015-06-23 11:14:29 +0000",
-  "in_reply_to_screen_name" : "bespokeoffers",
-  "in_reply_to_user_id_str" : "481947101",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2513,27 +2491,16 @@ Grailbird.data.tweets_2015_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "bespoke offers",
-      "screen_name" : "bespokeoffers",
-      "indices" : [ 0, 14 ],
-      "id_str" : "481947101",
-      "id" : 481947101
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "613241192973774848",
   "geo" : { },
   "id_str" : "613303982547697664",
-  "in_reply_to_user_id" : 481947101,
   "text" : "@bespokeoffers Just been informed it's been delivered (didn't send it to my home address). So that is good at least! :)",
   "id" : 613303982547697664,
-  "in_reply_to_status_id" : 613241192973774848,
   "created_at" : "2015-06-23 11:13:58 +0000",
-  "in_reply_to_screen_name" : "bespokeoffers",
-  "in_reply_to_user_id_str" : "481947101",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2574,25 +2541,16 @@ Grailbird.data.tweets_2015_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "bespoke offers",
-      "screen_name" : "bespokeoffers",
-      "indices" : [ 0, 14 ],
-      "id_str" : "481947101",
-      "id" : 481947101
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "613132194664452096",
-  "in_reply_to_user_id" : 481947101,
   "text" : "@bespokeoffers Why aren't tracking numbers given when orders are despatched? \u00A37.75 for delivery and I've no idea where my order is...",
   "id" : 613132194664452096,
   "created_at" : "2015-06-22 23:51:21 +0000",
-  "in_reply_to_screen_name" : "bespokeoffers",
-  "in_reply_to_user_id_str" : "481947101",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2675,7 +2633,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sporty's Pilot Shop ",
+      "name" : "Sporty's Pilot Shop",
       "screen_name" : "Sportys",
       "indices" : [ 0, 8 ],
       "id_str" : "20265548",
@@ -3191,7 +3149,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sporty's Pilot Shop ",
+      "name" : "Sporty's Pilot Shop",
       "screen_name" : "Sportys",
       "indices" : [ 0, 8 ],
       "id_str" : "20265548",
@@ -3224,7 +3182,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sporty's Pilot Shop ",
+      "name" : "Sporty's Pilot Shop",
       "screen_name" : "Sportys",
       "indices" : [ 0, 8 ],
       "id_str" : "20265548",
@@ -3730,7 +3688,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459126531676049408\/9DtDFag4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649992948449329152\/7FHIs4h6_normal.png",
       "id" : 30261067,
       "verified" : true
     }
@@ -3783,7 +3741,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sporty's Pilot Shop ",
+      "name" : "Sporty's Pilot Shop",
       "screen_name" : "Sportys",
       "indices" : [ 0, 8 ],
       "id_str" : "20265548",
@@ -3816,7 +3774,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sporty's Pilot Shop ",
+      "name" : "Sporty's Pilot Shop",
       "screen_name" : "Sportys",
       "indices" : [ 0, 8 ],
       "id_str" : "20265548",
@@ -4470,7 +4428,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "____",
       "screen_name" : "d0od",
       "indices" : [ 19, 24 ],
       "id_str" : "14822382",

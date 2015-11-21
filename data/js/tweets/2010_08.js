@@ -697,74 +697,6 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nappa",
-      "screen_name" : "DBZNappa",
-      "indices" : [ 3, 12 ],
-      "id_str" : "89905959",
-      "id" : 89905959
-    }, {
-      "name" : "Sam Reed",
-      "screen_name" : "tehreedy",
-      "indices" : [ 14, 23 ],
-      "id_str" : "19903171",
-      "id" : 19903171
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21468382457",
-  "text" : "RT @DBZNappa: @tehreedy WHAT?! NINE THOUSAND?!",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dan.cx\/blog\/2011\/06\/twitter-autoreply-bot-dbznappa\" rel=\"nofollow\"\u003EOVER NINE THOUSAND!\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Sam Reed",
-        "screen_name" : "tehreedy",
-        "indices" : [ 0, 9 ],
-        "id_str" : "19903171",
-        "id" : 19903171
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "21468299223",
-    "geo" : { },
-    "id_str" : "21468363384",
-    "in_reply_to_user_id" : 19903171,
-    "text" : "@tehreedy WHAT?! NINE THOUSAND?!",
-    "id" : 21468363384,
-    "in_reply_to_status_id" : 21468299223,
-    "created_at" : "2010-08-18 06:20:02 +0000",
-    "in_reply_to_screen_name" : "tehreedy",
-    "in_reply_to_user_id_str" : "19903171",
-    "user" : {
-      "name" : "Nappa",
-      "screen_name" : "DBZNappa",
-      "protected" : false,
-      "id_str" : "89905959",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2826138619\/5ee036737ba9c6785df5590efa3bf3af_normal.jpeg",
-      "id" : 89905959,
-      "verified" : false
-    }
-  },
-  "id" : 21468382457,
-  "created_at" : "2010-08-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1386168731\/255050_10150660967400385_747360384_18955954_422872_n_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "PhpStorm\/WebStorm",
       "screen_name" : "webide",
       "indices" : [ 0, 7 ],
@@ -3003,7 +2935,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "Corsair",
       "protected" : false,
       "id_str" : "26599573",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605405748739203072\/eClTNQkQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666310677607219200\/ADFH2SJI_normal.jpg",
       "id" : 26599573,
       "verified" : false
     }
