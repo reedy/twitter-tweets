@@ -1,26 +1,17 @@
-Grailbird.data.tweets_2009_03 = 
+Grailbird.data.tweets_2009_05 = 
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "FreeSide IRC",
-      "screen_name" : "freeside",
-      "indices" : [ 0, 9 ],
-      "id_str" : "2309461",
-      "id" : 2309461
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1387840040",
-  "in_reply_to_user_id" : 2309461,
-  "text" : "@freeside OHAIDER",
-  "id" : 1387840040,
-  "created_at" : "2009-03-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "freeside",
-  "in_reply_to_user_id_str" : "2309461",
+  "id_str" : "1997172747",
+  "text" : "lolcat fails",
+  "id" : 1997172747,
+  "created_at" : "2009-06-01 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
