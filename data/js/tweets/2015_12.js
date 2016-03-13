@@ -318,25 +318,25 @@ Grailbird.data.tweets_2015_12 =
       "id" : 682007666009350144,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CXb6W9qUoAA1J2O.png",
       "sizes" : [ {
-        "h" : 133,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 235,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 730,
         "resize" : "fit",
         "w" : 1856
       }, {
-        "h" : 402,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 236,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 134,
+        "resize" : "fit",
+        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/7dDXS7Yyt9"
     } ],
@@ -3663,10 +3663,6 @@ Grailbird.data.tweets_2015_12 =
       "id" : 676431812831412224,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CWMrJl6XAAAiv_6.png",
       "sizes" : [ {
-        "h" : 874,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -3675,13 +3671,17 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "fit",
         "w" : 786
       }, {
+        "h" : 496,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 875,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 1146,
         "resize" : "fit",
         "w" : 786
-      }, {
-        "h" : 495,
-        "resize" : "fit",
-        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/gHyIlX4QDV"
     } ],
@@ -3711,7 +3711,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rail Simulator",
+      "name" : "Train Simulator",
       "screen_name" : "railsimulator",
       "indices" : [ 3, 17 ],
       "id_str" : "32368769",
@@ -3738,7 +3738,7 @@ Grailbird.data.tweets_2015_12 =
     "id" : 676420201437642752,
     "created_at" : "2015-12-14 15:15:17 +0000",
     "user" : {
-      "name" : "Rail Simulator",
+      "name" : "Train Simulator",
       "screen_name" : "railsimulator",
       "protected" : false,
       "id_str" : "32368769",

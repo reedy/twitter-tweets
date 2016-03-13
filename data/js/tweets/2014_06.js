@@ -405,11 +405,11 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "huffpostgay",
+      "name" : "Queer Voices",
       "screen_name" : "huffpostgay",
       "indices" : [ 0, 12 ],
-      "id_str" : "366606110",
-      "id" : 366606110
+      "id_str" : "4343856743",
+      "id" : 4343856743
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -423,7 +423,7 @@ Grailbird.data.tweets_2014_06 =
   "id" : 482196344485183488,
   "in_reply_to_status_id" : 482195626298310656,
   "created_at" : "2014-06-26 16:19:01 +0000",
-  "in_reply_to_screen_name" : "huffpostgay",
+  "in_reply_to_screen_name" : "huffpostqueer",
   "in_reply_to_user_id_str" : "366606110",
   "user" : {
     "name" : "Sam Reed",
@@ -1237,7 +1237,7 @@ Grailbird.data.tweets_2014_06 =
       "id" : 480782194932453376,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BqwU2-dIEAAk3S7.png",
       "sizes" : [ {
-        "h" : 1066,
+        "h" : 1067,
         "resize" : "fit",
         "w" : 600
       }, {
@@ -1520,9 +1520,9 @@ Grailbird.data.tweets_2014_06 =
       "id" : 479415870641668096,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bqc6Mb1IAAADjcb.jpg",
       "sizes" : [ {
-        "h" : 238,
+        "h" : 422,
         "resize" : "fit",
-        "w" : 340
+        "w" : 600
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -1532,9 +1532,9 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 770
       }, {
-        "h" : 421,
+        "h" : 239,
         "resize" : "fit",
-        "w" : 600
+        "w" : 340
       }, {
         "h" : 541,
         "resize" : "fit",
@@ -1566,9 +1566,9 @@ Grailbird.data.tweets_2014_06 =
         "id" : 479415870641668096,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bqc6Mb1IAAADjcb.jpg",
         "sizes" : [ {
-          "h" : 238,
+          "h" : 422,
           "resize" : "fit",
-          "w" : 340
+          "w" : 600
         }, {
           "h" : 150,
           "resize" : "crop",
@@ -1578,9 +1578,9 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "fit",
           "w" : 770
         }, {
-          "h" : 421,
+          "h" : 239,
           "resize" : "fit",
-          "w" : 600
+          "w" : 340
         }, {
           "h" : 541,
           "resize" : "fit",
@@ -1606,7 +1606,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686702479342309376\/j-nsgsmQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706920245881995264\/AbaEzk-8_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -1720,7 +1720,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 48, 53 ],
       "id_str" : "14822382",
@@ -3836,13 +3836,13 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 280,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 159,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 281,
+        "resize" : "fit",
+        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/ecWpVocpAu"
     } ],
@@ -3877,13 +3877,13 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 280,
-          "resize" : "fit",
-          "w" : 600
-        }, {
           "h" : 159,
           "resize" : "fit",
           "w" : 340
+        }, {
+          "h" : 281,
+          "resize" : "fit",
+          "w" : 600
         } ],
         "display_url" : "pic.twitter.com\/ecWpVocpAu"
       } ],

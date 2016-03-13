@@ -847,7 +847,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00D8rta",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -2140,7 +2140,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "95023423",
       "id" : 95023423
     }, {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 11, 16 ],
       "id_str" : "14822382",
@@ -2360,12 +2360,6 @@ Grailbird.data.tweets_2013_05 =
       "indices" : [ 3, 11 ],
       "id_str" : "14355014",
       "id" : 14355014
-    }, {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 41, 56 ],
-      "id_str" : "356720556",
-      "id" : 356720556
     }, {
       "name" : "BT",
       "screen_name" : "BTCare",

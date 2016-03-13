@@ -199,12 +199,6 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 18, 33 ],
-      "id_str" : "356720556",
-      "id" : 356720556
-    }, {
       "name" : "HullFireLocal1657",
       "screen_name" : "hullfire",
       "indices" : [ 47, 56 ],
@@ -239,12 +233,6 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 17, 32 ],
-      "id_str" : "356720556",
-      "id" : 356720556
-    }, {
       "name" : "HullFireLocal1657",
       "screen_name" : "hullfire",
       "indices" : [ 46, 55 ],
@@ -1175,7 +1163,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1208,7 +1196,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1241,7 +1229,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1274,7 +1262,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

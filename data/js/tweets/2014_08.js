@@ -100,10 +100,6 @@ Grailbird.data.tweets_2014_08 =
         "resize" : "fit",
         "w" : 516
       }, {
-        "h" : 401,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -111,6 +107,10 @@ Grailbird.data.tweets_2014_08 =
         "h" : 610,
         "resize" : "fit",
         "w" : 516
+      }, {
+        "h" : 402,
+        "resize" : "fit",
+        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/DjsDjKvVeb"
     } ],
@@ -141,10 +141,6 @@ Grailbird.data.tweets_2014_08 =
           "resize" : "fit",
           "w" : 516
         }, {
-          "h" : 401,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -152,6 +148,10 @@ Grailbird.data.tweets_2014_08 =
           "h" : 610,
           "resize" : "fit",
           "w" : 516
+        }, {
+          "h" : 402,
+          "resize" : "fit",
+          "w" : 340
         } ],
         "display_url" : "pic.twitter.com\/DjsDjKvVeb"
       } ],
@@ -291,13 +291,13 @@ Grailbird.data.tweets_2014_08 =
       "id" : 504668771949506561,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BwDxkwFIcAEkAOR.jpg",
       "sizes" : [ {
+        "h" : 1067,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 1920,
         "resize" : "fit",
         "w" : 1080
-      }, {
-        "h" : 1066,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -607,7 +607,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -921,7 +921,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rail Simulator",
+      "name" : "Train Simulator",
       "screen_name" : "railsimulator",
       "indices" : [ 0, 14 ],
       "id_str" : "32368769",
@@ -960,7 +960,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "Rail Simulator",
+      "name" : "Train Simulator",
       "screen_name" : "railsimulator",
       "indices" : [ 12, 26 ],
       "id_str" : "32368769",
@@ -999,7 +999,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "Rail Simulator",
+      "name" : "Train Simulator",
       "screen_name" : "railsimulator",
       "indices" : [ 12, 26 ],
       "id_str" : "32368769",
@@ -1038,7 +1038,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "Rail Simulator",
+      "name" : "Train Simulator",
       "screen_name" : "railsimulator",
       "indices" : [ 26, 40 ],
       "id_str" : "32368769",
@@ -1445,7 +1445,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 53, 58 ],
       "id_str" : "14822382",

@@ -2,78 +2,6 @@ Grailbird.data.tweets_2010_02 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 100, 103 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9802699980",
-  "text" : "So it seems my laptop post screen repair is overheating. Exhaust fan seems to be doing naff all. :( #fb",
-  "id" : 9802699980,
-  "created_at" : "2010-03-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 32, 35 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9825289078",
-  "text" : "Kamilla buys the best biscuits! #fb",
-  "id" : 9825289078,
-  "created_at" : "2010-03-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9830900393",
-  "text" : "EASTERNEUROPEINTOMTOM http:\/\/twitgoo.com\/fcufa",
-  "id" : 9830900393,
-  "created_at" : "2010-03-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Wes Mason",
       "screen_name" : "1stvamp",
@@ -139,7 +67,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "winjer",
       "protected" : false,
       "id_str" : "957411",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/621907382986272768\/N2mn7ldL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700626043996995584\/AxJI0Tb4_normal.jpg",
       "id" : 957411,
       "verified" : false
     }
@@ -217,7 +145,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00D8rta",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -305,12 +233,6 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 3, 18 ],
-      "id_str" : "356720556",
-      "id" : 356720556
-    }, {
       "name" : "Raymond Mcfee",
       "screen_name" : "Raymond_Mcfee",
       "indices" : [ 50, 64 ],
@@ -1101,7 +1023,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00D8rta",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "indices" : [ 3, 8 ],
       "id_str" : "2569881",
@@ -1152,7 +1074,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9327933130,
     "created_at" : "2010-02-19 09:36:22 +0000",
     "user" : {
-      "name" : "\u00D8rta",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "protected" : false,
       "id_str" : "2569881",
@@ -3095,6 +3017,132 @@ Grailbird.data.tweets_2010_02 =
   },
   "id" : 8554545367,
   "created_at" : "2010-02-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tom Lawrence",
+      "screen_name" : "tjlawrence",
+      "indices" : [ 3, 14 ],
+      "id_str" : "28587521",
+      "id" : 28587521
+    }, {
+      "name" : "Sam Reed",
+      "screen_name" : "tehreedy",
+      "indices" : [ 16, 25 ],
+      "id_str" : "19903171",
+      "id" : 19903171
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8500336828",
+  "text" : "RT @tjlawrence: @tehreedy's having a wonderful start to the semester http:\/\/twitpic.com\/10v22b",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Sam Reed",
+        "screen_name" : "tehreedy",
+        "indices" : [ 0, 9 ],
+        "id_str" : "19903171",
+        "id" : 19903171
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "8499535636",
+    "in_reply_to_user_id" : 19903171,
+    "text" : "@tehreedy's having a wonderful start to the semester http:\/\/twitpic.com\/10v22b",
+    "id" : 8499535636,
+    "created_at" : "2010-02-01 14:09:24 +0000",
+    "in_reply_to_screen_name" : "tehreedy",
+    "in_reply_to_user_id_str" : "19903171",
+    "user" : {
+      "name" : "Tom Lawrence",
+      "screen_name" : "tjlawrence",
+      "protected" : false,
+      "id_str" : "28587521",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774180995\/icon_normal.jpg",
+      "id" : 28587521,
+      "verified" : false
+    }
+  },
+  "id" : 8500336828,
+  "created_at" : "2010-02-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "8500383077",
+  "geo" : { },
+  "id_str" : "8500459278",
+  "in_reply_to_user_id" : 50338462,
+  "text" : "@simonbutcher Hard drive fell on it, from a shelf :-\/. Not good!",
+  "id" : 8500459278,
+  "in_reply_to_status_id" : 8500383077,
+  "created_at" : "2010-02-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "le__bon",
+  "in_reply_to_user_id_str" : "50338462",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tom Wardill",
+      "screen_name" : "tomwardill",
+      "indices" : [ 0, 11 ],
+      "id_str" : "2004411",
+      "id" : 2004411
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "8500545985",
+  "geo" : { },
+  "id_str" : "8500787611",
+  "in_reply_to_user_id" : 2004411,
+  "text" : "@tomwardill all that stuff isn't cheap :(. The mono tools would be useful, but expensive!",
+  "id" : 8500787611,
+  "in_reply_to_status_id" : 8500545985,
+  "created_at" : "2010-02-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tomwardill",
+  "in_reply_to_user_id_str" : "2004411",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

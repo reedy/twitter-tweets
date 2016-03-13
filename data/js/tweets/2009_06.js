@@ -2,13 +2,7 @@ Grailbird.data.tweets_2009_06 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Microsoft Office US",
-      "screen_name" : "MSOfficeUS",
-      "indices" : [ 8, 19 ],
-      "id_str" : "19780203",
-      "id" : 19780203
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -49,6 +43,28 @@ Grailbird.data.tweets_2009_06 =
   "created_at" : "2009-06-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "1stvamp",
   "in_reply_to_user_id_str" : "1856171",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1997172747",
+  "text" : "lolcat fails",
+  "id" : 1997172747,
+  "created_at" : "2009-06-01 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

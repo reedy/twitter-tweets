@@ -520,7 +520,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1067,7 +1067,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1397,7 +1397,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack F-D",
+      "name" : "Jack",
       "screen_name" : "jackkkpot",
       "indices" : [ 0, 10 ],
       "id_str" : "400981382",
@@ -1430,7 +1430,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack F-D",
+      "name" : "Jack",
       "screen_name" : "jackkkpot",
       "indices" : [ 0, 10 ],
       "id_str" : "400981382",
@@ -1834,9 +1834,9 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "Raspberry_Pi",
       "protected" : false,
       "id_str" : "302666251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684542083315707905\/lwVs1OVf_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703215307066904576\/xZOr5kMf_normal.jpg",
       "id" : 302666251,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 301139318355927040,
@@ -1947,7 +1947,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686702479342309376\/j-nsgsmQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706920245881995264\/AbaEzk-8_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -2606,7 +2606,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "andrewpercy",
       "protected" : false,
       "id_str" : "15048694",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/643372850087378944\/7FjoClAO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706144853642473472\/fsRvn28e_normal.jpg",
       "id" : 15048694,
       "verified" : true
     }
@@ -2801,117 +2801,6 @@ Grailbird.data.tweets_2013_02 =
   "text" : "PlayStation 20.02.2012 \"Be the first to know\". Well, you keep telling everyone... http:\/\/t.co\/Y4bxTDE7",
   "id" : 298591103530172416,
   "created_at" : "2013-02-05 00:37:21 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Stephen Fry",
-      "screen_name" : "stephenfry",
-      "indices" : [ 3, 14 ],
-      "id_str" : "15439395",
-      "id" : 15439395
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/stephenfry\/status\/298517218256384000\/photo\/1",
-      "indices" : [ 78, 98 ],
-      "url" : "http:\/\/t.co\/EvK9If3v",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BCSL1BICcAAq4nl.jpg",
-      "id_str" : "298517218264772608",
-      "id" : 298517218264772608,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BCSL1BICcAAq4nl.jpg",
-      "sizes" : [ {
-        "h" : 548,
-        "resize" : "fit",
-        "w" : 580
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 548,
-        "resize" : "fit",
-        "w" : 580
-      }, {
-        "h" : 321,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 548,
-        "resize" : "fit",
-        "w" : 580
-      } ],
-      "display_url" : "pic.twitter.com\/EvK9If3v"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "298519470429835264",
-  "text" : "RT @stephenfry: No, it's a puppy. A puppy. It. Is. A. Puppy. Got it? A puppy. http:\/\/t.co\/EvK9If3v",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EPhotos on iOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/stephenfry\/status\/298517218256384000\/photo\/1",
-        "indices" : [ 62, 82 ],
-        "url" : "http:\/\/t.co\/EvK9If3v",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BCSL1BICcAAq4nl.jpg",
-        "id_str" : "298517218264772608",
-        "id" : 298517218264772608,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BCSL1BICcAAq4nl.jpg",
-        "sizes" : [ {
-          "h" : 548,
-          "resize" : "fit",
-          "w" : 580
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 548,
-          "resize" : "fit",
-          "w" : 580
-        }, {
-          "h" : 321,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 548,
-          "resize" : "fit",
-          "w" : 580
-        } ],
-        "display_url" : "pic.twitter.com\/EvK9If3v"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "298517218256384000",
-    "text" : "No, it's a puppy. A puppy. It. Is. A. Puppy. Got it? A puppy. http:\/\/t.co\/EvK9If3v",
-    "id" : 298517218256384000,
-    "created_at" : "2013-02-04 19:43:45 +0000",
-    "user" : {
-      "name" : "Stephen Fry",
-      "screen_name" : "stephenfry",
-      "protected" : false,
-      "id_str" : "15439395",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504060630450438144\/3tEN_Y7C_normal.png",
-      "id" : 15439395,
-      "verified" : true
-    }
-  },
-  "id" : 298519470429835264,
-  "created_at" : "2013-02-04 19:52:42 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

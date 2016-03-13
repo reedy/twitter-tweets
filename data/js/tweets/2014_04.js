@@ -573,7 +573,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -910,7 +910,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2291,13 +2291,13 @@ Grailbird.data.tweets_2014_04 =
       "id" : 454357276904538113,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bk4ziTsCQAENrDe.jpg",
       "sizes" : [ {
+        "h" : 571,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
         "h" : 189,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 570,
-        "resize" : "fit",
-        "w" : 1024
       }, {
         "h" : 613,
         "resize" : "fit",
@@ -2341,13 +2341,13 @@ Grailbird.data.tweets_2014_04 =
         "id" : 454357276904538113,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bk4ziTsCQAENrDe.jpg",
         "sizes" : [ {
+          "h" : 571,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
           "h" : 189,
           "resize" : "fit",
           "w" : 340
-        }, {
-          "h" : 570,
-          "resize" : "fit",
-          "w" : 1024
         }, {
           "h" : 613,
           "resize" : "fit",
@@ -2949,7 +2949,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3892,7 +3892,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rail Simulator",
+      "name" : "Train Simulator",
       "screen_name" : "railsimulator",
       "indices" : [ 0, 14 ],
       "id_str" : "32368769",

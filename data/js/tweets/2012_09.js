@@ -123,7 +123,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -162,7 +162,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -206,7 +206,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -239,7 +239,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -899,7 +899,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "UKVolkswagen",
       "protected" : false,
       "id_str" : "196609435",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689052297712762880\/5rqGgQrV_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/705421598363357184\/uaGAww8k_normal.jpg",
       "id" : 196609435,
       "verified" : true
     }
@@ -1010,7 +1010,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "UKVolkswagen",
       "protected" : false,
       "id_str" : "196609435",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689052297712762880\/5rqGgQrV_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/705421598363357184\/uaGAww8k_normal.jpg",
       "id" : 196609435,
       "verified" : true
     }
@@ -2774,7 +2774,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack F-D",
+      "name" : "Jack",
       "screen_name" : "jackkkpot",
       "indices" : [ 0, 10 ],
       "id_str" : "400981382",
@@ -2975,7 +2975,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686702479342309376\/j-nsgsmQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706920245881995264\/AbaEzk-8_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -3239,7 +3239,13 @@ Grailbird.data.tweets_2012_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "sammy gee",
+      "screen_name" : "sammygee1",
+      "indices" : [ 0, 10 ],
+      "id_str" : "707308308529549312",
+      "id" : 707308308529549312
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3261,7 +3267,13 @@ Grailbird.data.tweets_2012_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "sammy gee",
+      "screen_name" : "sammygee1",
+      "indices" : [ 0, 10 ],
+      "id_str" : "707308308529549312",
+      "id" : 707308308529549312
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3662,13 +3674,13 @@ Grailbird.data.tweets_2012_09 =
         "resize" : "fit",
         "w" : 720
       }, {
-        "h" : 1066,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 1067,
+        "resize" : "fit",
+        "w" : 600
       }, {
         "h" : 604,
         "resize" : "fit",
@@ -4213,11 +4225,11 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "1029420246",
       "id" : 1029420246
     }, {
-      "name" : "huffpostgay",
+      "name" : "Queer Voices",
       "screen_name" : "huffpostgay",
       "indices" : [ 14, 26 ],
-      "id_str" : "366606110",
-      "id" : 366606110
+      "id_str" : "4343856743",
+      "id" : 4343856743
     }, {
       "name" : "Ben Harvey",
       "screen_name" : "djbenharvey",
@@ -4255,7 +4267,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack F-D",
+      "name" : "Jack",
       "screen_name" : "jackkkpot",
       "indices" : [ 0, 10 ],
       "id_str" : "400981382",
@@ -6063,7 +6075,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686702479342309376\/j-nsgsmQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706920245881995264\/AbaEzk-8_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }

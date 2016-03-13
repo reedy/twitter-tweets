@@ -1826,11 +1826,11 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "huffpostgay",
+      "name" : "Queer Voices",
       "screen_name" : "huffpostgay",
       "indices" : [ 3, 15 ],
-      "id_str" : "366606110",
-      "id" : 366606110
+      "id_str" : "4343856743",
+      "id" : 4343856743
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1863,8 +1863,8 @@ Grailbird.data.tweets_2013_12 =
     "id" : 415269384719171585,
     "created_at" : "2013-12-23 23:55:11 +0000",
     "user" : {
-      "name" : "huffpostgay",
-      "screen_name" : "huffpostgay",
+      "name" : "huffpostqueer",
+      "screen_name" : "huffpostqueer",
       "protected" : false,
       "id_str" : "366606110",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614479428668796928\/XaFrYuE1_normal.png",
@@ -5104,7 +5104,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -6112,7 +6112,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

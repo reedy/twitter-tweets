@@ -44,7 +44,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686702479342309376\/j-nsgsmQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706920245881995264\/AbaEzk-8_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -101,19 +101,19 @@ Grailbird.data.tweets_2014_02 =
       "id" : 439495190974582784,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BhlmjDKIUAA3LfM.png",
       "sizes" : [ {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 403
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
         "h" : 450,
         "resize" : "fit",
-        "w" : 402
+        "w" : 403
       }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 402
-      }, {
-        "h" : 379,
+        "h" : 380,
         "resize" : "fit",
         "w" : 340
       }, {
@@ -147,19 +147,19 @@ Grailbird.data.tweets_2014_02 =
         "id" : 439495190974582784,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BhlmjDKIUAA3LfM.png",
         "sizes" : [ {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 403
+        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
           "h" : 450,
           "resize" : "fit",
-          "w" : 402
+          "w" : 403
         }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 402
-        }, {
-          "h" : 379,
+          "h" : 380,
           "resize" : "fit",
           "w" : 340
         }, {
@@ -449,7 +449,7 @@ Grailbird.data.tweets_2014_02 =
       "id_str" : "153956717",
       "id" : 153956717
     }, {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 10, 15 ],
       "id_str" : "14822382",
@@ -482,7 +482,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -515,7 +515,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1391,7 +1391,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1512,7 +1512,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1848,7 +1848,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack F-D",
+      "name" : "Jack",
       "screen_name" : "jackkkpot",
       "indices" : [ 0, 10 ],
       "id_str" : "400981382",
@@ -1881,7 +1881,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack F-D",
+      "name" : "Jack",
       "screen_name" : "jackkkpot",
       "indices" : [ 0, 10 ],
       "id_str" : "400981382",
@@ -2041,7 +2041,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack F-D",
+      "name" : "Jack",
       "screen_name" : "jackkkpot",
       "indices" : [ 0, 10 ],
       "id_str" : "400981382",
@@ -3356,7 +3356,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3722,7 +3722,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack F-D",
+      "name" : "Jack",
       "screen_name" : "jackkkpot",
       "indices" : [ 0, 10 ],
       "id_str" : "400981382",
@@ -4324,7 +4324,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

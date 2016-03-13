@@ -427,7 +427,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -732,17 +732,17 @@ Grailbird.data.tweets_2012_11 =
         "resize" : "fit",
         "w" : 597
       }, {
-        "h" : 96,
-        "resize" : "fit",
-        "w" : 597
-      }, {
-        "h" : 54,
+        "h" : 55,
         "resize" : "fit",
         "w" : 340
       }, {
         "h" : 96,
+        "resize" : "fit",
+        "w" : 597
+      }, {
+        "h" : 96,
         "resize" : "crop",
-        "w" : 150
+        "w" : 96
       } ],
       "display_url" : "pic.twitter.com\/d82Kr5kk"
     } ],
@@ -784,17 +784,17 @@ Grailbird.data.tweets_2012_11 =
           "resize" : "fit",
           "w" : 597
         }, {
-          "h" : 96,
-          "resize" : "fit",
-          "w" : 597
-        }, {
-          "h" : 54,
+          "h" : 55,
           "resize" : "fit",
           "w" : 340
         }, {
           "h" : 96,
+          "resize" : "fit",
+          "w" : 597
+        }, {
+          "h" : 96,
           "resize" : "crop",
-          "w" : 150
+          "w" : 96
         } ],
         "display_url" : "pic.twitter.com\/d82Kr5kk"
       } ],
@@ -2248,7 +2248,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2542,7 +2542,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3020,7 +3020,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3053,7 +3053,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3086,7 +3086,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3429,7 +3429,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3556,7 +3556,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4539,57 +4539,6 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Stephen Fry",
-      "screen_name" : "stephenfry",
-      "indices" : [ 3, 14 ],
-      "id_str" : "15439395",
-      "id" : 15439395
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "265214430286073856",
-  "text" : "RT @stephenfry: Voting time in the US. None of my business, but I have met Mitt and \u2026 well. Please not. Please.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "265214368856297472",
-    "text" : "Voting time in the US. None of my business, but I have met Mitt and \u2026 well. Please not. Please.",
-    "id" : 265214368856297472,
-    "created_at" : "2012-11-04 22:10:07 +0000",
-    "user" : {
-      "name" : "Stephen Fry",
-      "screen_name" : "stephenfry",
-      "protected" : false,
-      "id_str" : "15439395",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504060630450438144\/3tEN_Y7C_normal.png",
-      "id" : 15439395,
-      "verified" : true
-    }
-  },
-  "id" : 265214430286073856,
-  "created_at" : "2012-11-04 22:10:22 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4712,7 +4661,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4847,7 +4796,13 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "sammy gee",
+      "screen_name" : "sammygee1",
+      "indices" : [ 0, 10 ],
+      "id_str" : "707308308529549312",
+      "id" : 707308308529549312
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4907,7 +4862,13 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "sammy gee",
+      "screen_name" : "sammygee1",
+      "indices" : [ 0, 10 ],
+      "id_str" : "707308308529549312",
+      "id" : 707308308529549312
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4929,7 +4890,13 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "sammy gee",
+      "screen_name" : "sammygee1",
+      "indices" : [ 0, 10 ],
+      "id_str" : "707308308529549312",
+      "id" : 707308308529549312
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

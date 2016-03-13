@@ -658,13 +658,7 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 12, 27 ],
-      "id_str" : "356720556",
-      "id" : 356720556
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "fb",
@@ -2427,12 +2421,6 @@ Grailbird.data.tweets_2010_12 =
       "indices" : [ 5, 14 ],
       "id_str" : "15205083",
       "id" : 15205083
-    }, {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 26, 41 ],
-      "id_str" : "356720556",
-      "id" : 356720556
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3234,13 +3222,7 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 3, 18 ],
-      "id_str" : "356720556",
-      "id" : 356720556
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "fb",
@@ -3909,57 +3891,6 @@ Grailbird.data.tweets_2010_12 =
   "text" : "Apparently I \"fixed\" 13 Wikimedia bugs in Bugzilla. Shame I created 10 in the same period... #fb",
   "id" : 11705175764897792,
   "created_at" : "2010-12-06 08:55:06 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Stephen Fry",
-      "screen_name" : "stephenfry",
-      "indices" : [ 3, 14 ],
-      "id_str" : "15439395",
-      "id" : 15439395
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11696525893701632",
-  "text" : "RT @stephenfry: My first time on Ryan Air.  It's very, um... that's to say it isn't ... How can I best out this? Yes.  Well, there you a ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "11667713273372672",
-    "text" : "My first time on Ryan Air.  It's very, um... that's to say it isn't ... How can I best out this? Yes.  Well, there you are, you see.",
-    "id" : 11667713273372672,
-    "created_at" : "2010-12-06 06:26:14 +0000",
-    "user" : {
-      "name" : "Stephen Fry",
-      "screen_name" : "stephenfry",
-      "protected" : false,
-      "id_str" : "15439395",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504060630450438144\/3tEN_Y7C_normal.png",
-      "id" : 15439395,
-      "verified" : true
-    }
-  },
-  "id" : 11696525893701632,
-  "created_at" : "2010-12-06 08:20:43 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

@@ -1180,11 +1180,11 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "huffpostgay",
+      "name" : "Queer Voices",
       "screen_name" : "huffpostgay",
       "indices" : [ 0, 12 ],
-      "id_str" : "366606110",
-      "id" : 366606110
+      "id_str" : "4343856743",
+      "id" : 4343856743
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1198,7 +1198,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 284105820571066368,
   "in_reply_to_status_id" : 284105099385638912,
   "created_at" : "2012-12-27 01:18:00 +0000",
-  "in_reply_to_screen_name" : "huffpostgay",
+  "in_reply_to_screen_name" : "huffpostqueer",
   "in_reply_to_user_id_str" : "366606110",
   "user" : {
     "name" : "Sam Reed",
@@ -3868,12 +3868,6 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephen Fry",
-      "screen_name" : "stephenfry",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15439395",
-      "id" : 15439395
-    }, {
       "name" : "Youth Chances",
       "screen_name" : "YouthChances",
       "indices" : [ 12, 25 ],
@@ -3884,16 +3878,11 @@ Grailbird.data.tweets_2012_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "281003510408044544",
   "geo" : { },
   "id_str" : "281005830810259456",
-  "in_reply_to_user_id" : 15439395,
   "text" : "@stephenfry @YouthChances You broke it! \"The system is currently busy\nPlease try again later.\"",
   "id" : 281005830810259456,
-  "in_reply_to_status_id" : 281003510408044544,
   "created_at" : "2012-12-18 11:59:45 +0000",
-  "in_reply_to_screen_name" : "stephenfry",
-  "in_reply_to_user_id_str" : "15439395",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4861,7 +4850,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -6091,7 +6080,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -7161,7 +7150,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "Battlefield",
       "protected" : false,
       "id_str" : "27855118",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/676532819519127552\/nrkCb0tO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697841646268866560\/NfIdN90m_normal.jpg",
       "id" : 27855118,
       "verified" : true
     }

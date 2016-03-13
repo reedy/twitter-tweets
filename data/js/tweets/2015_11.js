@@ -665,7 +665,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "710013",
       "id" : 710013
     }, {
-      "name" : "\u00D8rta",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "indices" : [ 9, 14 ],
       "id_str" : "2569881",
@@ -746,7 +746,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "1856851",
       "id" : 1856851
     }, {
-      "name" : "\u00D8rta",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "indices" : [ 13, 18 ],
       "id_str" : "2569881",
@@ -1466,7 +1466,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "k          eir",
+      "name" : "DannyDyer_fan",
       "screen_name" : "kier_abshy",
       "indices" : [ 12, 23 ],
       "id_str" : "414743251",
@@ -1499,7 +1499,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "k          eir",
+      "name" : "DannyDyer_fan",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1544,7 +1544,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "k          eir",
+      "name" : "DannyDyer_fan",
       "screen_name" : "kier_abshy",
       "indices" : [ 12, 23 ],
       "id_str" : "414743251",
@@ -1577,7 +1577,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "k          eir",
+      "name" : "DannyDyer_fan",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1616,7 +1616,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "k          eir",
+      "name" : "DannyDyer_fan",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1694,7 +1694,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "k          eir",
+      "name" : "DannyDyer_fan",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1739,7 +1739,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "k          eir",
+      "name" : "DannyDyer_fan",
       "screen_name" : "kier_abshy",
       "indices" : [ 12, 23 ],
       "id_str" : "414743251",
@@ -2942,7 +2942,7 @@ Grailbird.data.tweets_2015_11 =
       "id" : 666235909508042752,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CT7yB6LWEAAZboN.png",
       "sizes" : [ {
-        "h" : 1066,
+        "h" : 1067,
         "resize" : "fit",
         "w" : 600
       }, {
@@ -2972,7 +2972,7 @@ Grailbird.data.tweets_2015_11 =
       "id" : 666235913161326593,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CT7yCHyWwAEVLV9.png",
       "sizes" : [ {
-        "h" : 1066,
+        "h" : 1067,
         "resize" : "fit",
         "w" : 600
       }, {
@@ -3098,7 +3098,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3864,13 +3864,13 @@ Grailbird.data.tweets_2015_11 =
         "resize" : "fit",
         "w" : 568
       }, {
+        "h" : 201,
+        "resize" : "fit",
+        "w" : 340
+      }, {
         "h" : 335,
         "resize" : "fit",
         "w" : 568
-      }, {
-        "h" : 200,
-        "resize" : "fit",
-        "w" : 340
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -4290,7 +4290,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

@@ -2958,4 +2958,55 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19903171,
     "verified" : false
   }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Hadi Hariri",
+      "screen_name" : "hhariri",
+      "indices" : [ 3, 11 ],
+      "id_str" : "15797140",
+      "id" : 15797140
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17503464884",
+  "text" : "RT @hhariri: Apple marketing rocks. Together with their devs they made an OS upgrade so crap that forces people to buy new phone.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "17503312111",
+    "text" : "Apple marketing rocks. Together with their devs they made an OS upgrade so crap that forces people to buy new phone.",
+    "id" : 17503312111,
+    "created_at" : "2010-07-01 16:15:07 +0000",
+    "user" : {
+      "name" : "Hadi Hariri",
+      "screen_name" : "hhariri",
+      "protected" : false,
+      "id_str" : "15797140",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/610340477771059200\/L-kSvHja_normal.png",
+      "id" : 15797140,
+      "verified" : false
+    }
+  },
+  "id" : 17503464884,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
 } ]

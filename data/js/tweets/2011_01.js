@@ -671,13 +671,7 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 0, 15 ],
-      "id_str" : "356720556",
-      "id" : 356720556
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -710,12 +704,6 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
       "id" : 14355014
-    }, {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 48, 63 ],
-      "id_str" : "356720556",
-      "id" : 356720556
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -749,12 +737,6 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 3, 11 ],
       "id_str" : "14355014",
       "id" : 14355014
-    }, {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 13, 28 ],
-      "id_str" : "356720556",
-      "id" : 356720556
     } ],
     "media" : [ ],
     "hashtags" : [ ],

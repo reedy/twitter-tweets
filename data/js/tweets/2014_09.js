@@ -219,7 +219,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -724,13 +724,13 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "fit",
         "w" : 3736
       }, {
-        "h" : 508,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 288,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 509,
+        "resize" : "fit",
+        "w" : 600
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -765,13 +765,13 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 3736
         }, {
-          "h" : 508,
-          "resize" : "fit",
-          "w" : 600
-        }, {
           "h" : 288,
           "resize" : "fit",
           "w" : 340
+        }, {
+          "h" : 509,
+          "resize" : "fit",
+          "w" : 600
         }, {
           "h" : 150,
           "resize" : "crop",
@@ -1255,57 +1255,6 @@ Grailbird.data.tweets_2014_09 =
   "created_at" : "2014-09-23 18:40:22 +0000",
   "in_reply_to_screen_name" : "FlightstoreUK",
   "in_reply_to_user_id_str" : "160909553",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Stephen Fry",
-      "screen_name" : "stephenfry",
-      "indices" : [ 3, 14 ],
-      "id_str" : "15439395",
-      "id" : 15439395
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "514453546193149952",
-  "text" : "RT @stephenfry: If it\u2019s illegal to smoke in public why the heckfire is it legal to wear Lynx (Axe in the US) in public? Something wrong the\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "514452839893303298",
-    "text" : "If it\u2019s illegal to smoke in public why the heckfire is it legal to wear Lynx (Axe in the US) in public? Something wrong there, surely?",
-    "id" : 514452839893303298,
-    "created_at" : "2014-09-23 16:34:49 +0000",
-    "user" : {
-      "name" : "Stephen Fry",
-      "screen_name" : "stephenfry",
-      "protected" : false,
-      "id_str" : "15439395",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504060630450438144\/3tEN_Y7C_normal.png",
-      "id" : 15439395,
-      "verified" : true
-    }
-  },
-  "id" : 514453546193149952,
-  "created_at" : "2014-09-23 16:37:38 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2022,7 +1971,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2807,11 +2756,11 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "huffpostgay",
+      "name" : "Queer Voices",
       "screen_name" : "huffpostgay",
       "indices" : [ 0, 12 ],
-      "id_str" : "366606110",
-      "id" : 366606110
+      "id_str" : "4343856743",
+      "id" : 4343856743
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2825,7 +2774,7 @@ Grailbird.data.tweets_2014_09 =
   "id" : 509876978892406784,
   "in_reply_to_status_id" : 509876580458713088,
   "created_at" : "2014-09-11 01:31:59 +0000",
-  "in_reply_to_screen_name" : "huffpostgay",
+  "in_reply_to_screen_name" : "huffpostqueer",
   "in_reply_to_user_id_str" : "366606110",
   "user" : {
     "name" : "Sam Reed",
@@ -2986,7 +2935,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "tindie",
       "protected" : false,
       "id_str" : "712685130",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692467769330290689\/OHASD6Ts_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694634209567068160\/R8oCIMeb_normal.png",
       "id" : 712685130,
       "verified" : false
     }
@@ -3120,11 +3069,7 @@ Grailbird.data.tweets_2014_09 =
       "id" : 509424206316969984,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BxHWndmCIAAV70q.jpg",
       "sizes" : [ {
-        "h" : 231,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 408,
+        "h" : 409,
         "resize" : "fit",
         "w" : 600
       }, {
@@ -3139,6 +3084,10 @@ Grailbird.data.tweets_2014_09 =
         "h" : 698,
         "resize" : "fit",
         "w" : 1024
+      }, {
+        "h" : 232,
+        "resize" : "fit",
+        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/NrwbqHMVL4"
     } ],
@@ -3161,11 +3110,7 @@ Grailbird.data.tweets_2014_09 =
         "id" : 509424206316969984,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BxHWndmCIAAV70q.jpg",
         "sizes" : [ {
-          "h" : 231,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 408,
+          "h" : 409,
           "resize" : "fit",
           "w" : 600
         }, {
@@ -3180,6 +3125,10 @@ Grailbird.data.tweets_2014_09 =
           "h" : 698,
           "resize" : "fit",
           "w" : 1024
+        }, {
+          "h" : 232,
+          "resize" : "fit",
+          "w" : 340
         } ],
         "display_url" : "pic.twitter.com\/NrwbqHMVL4"
       } ],

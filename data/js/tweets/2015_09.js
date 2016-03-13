@@ -239,7 +239,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rail Simulator",
+      "name" : "Train Simulator",
       "screen_name" : "railsimulator",
       "indices" : [ 0, 14 ],
       "id_str" : "32368769",
@@ -441,7 +441,7 @@ Grailbird.data.tweets_2015_09 =
         "resize" : "fit",
         "w" : 580
       }, {
-        "h" : 226,
+        "h" : 227,
         "resize" : "fit",
         "w" : 340
       }, {
@@ -499,7 +499,7 @@ Grailbird.data.tweets_2015_09 =
           "resize" : "fit",
           "w" : 580
         }, {
-          "h" : 226,
+          "h" : 227,
           "resize" : "fit",
           "w" : 340
         }, {
@@ -580,7 +580,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rail Simulator",
+      "name" : "Train Simulator",
       "screen_name" : "railsimulator",
       "indices" : [ 0, 14 ],
       "id_str" : "32368769",
@@ -613,7 +613,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rail Simulator",
+      "name" : "Train Simulator",
       "screen_name" : "railsimulator",
       "indices" : [ 0, 14 ],
       "id_str" : "32368769",

@@ -3,132 +3,6 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Lawrence",
-      "screen_name" : "tjlawrence",
-      "indices" : [ 3, 14 ],
-      "id_str" : "28587521",
-      "id" : 28587521
-    }, {
-      "name" : "Sam Reed",
-      "screen_name" : "tehreedy",
-      "indices" : [ 16, 25 ],
-      "id_str" : "19903171",
-      "id" : 19903171
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8500336828",
-  "text" : "RT @tjlawrence: @tehreedy's having a wonderful start to the semester http:\/\/twitpic.com\/10v22b",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Sam Reed",
-        "screen_name" : "tehreedy",
-        "indices" : [ 0, 9 ],
-        "id_str" : "19903171",
-        "id" : 19903171
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "8499535636",
-    "in_reply_to_user_id" : 19903171,
-    "text" : "@tehreedy's having a wonderful start to the semester http:\/\/twitpic.com\/10v22b",
-    "id" : 8499535636,
-    "created_at" : "2010-02-01 14:09:24 +0000",
-    "in_reply_to_screen_name" : "tehreedy",
-    "in_reply_to_user_id_str" : "19903171",
-    "user" : {
-      "name" : "Tom Lawrence",
-      "screen_name" : "tjlawrence",
-      "protected" : false,
-      "id_str" : "28587521",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774180995\/icon_normal.jpg",
-      "id" : 28587521,
-      "verified" : false
-    }
-  },
-  "id" : 8500336828,
-  "created_at" : "2010-02-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "8500383077",
-  "geo" : { },
-  "id_str" : "8500459278",
-  "in_reply_to_user_id" : 50338462,
-  "text" : "@simonbutcher Hard drive fell on it, from a shelf :-\/. Not good!",
-  "id" : 8500459278,
-  "in_reply_to_status_id" : 8500383077,
-  "created_at" : "2010-02-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "le__bon",
-  "in_reply_to_user_id_str" : "50338462",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tom Wardill",
-      "screen_name" : "tomwardill",
-      "indices" : [ 0, 11 ],
-      "id_str" : "2004411",
-      "id" : 2004411
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "8500545985",
-  "geo" : { },
-  "id_str" : "8500787611",
-  "in_reply_to_user_id" : 2004411,
-  "text" : "@tomwardill all that stuff isn't cheap :(. The mono tools would be useful, but expensive!",
-  "id" : 8500787611,
-  "in_reply_to_status_id" : 8500545985,
-  "created_at" : "2010-02-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "tomwardill",
-  "in_reply_to_user_id_str" : "2004411",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Phil Cluff",
       "screen_name" : "GeneticGenesis",
       "indices" : [ 0, 15 ],
@@ -1309,12 +1183,6 @@ Grailbird.data.tweets_2010_01 =
       "indices" : [ 0, 12 ],
       "id_str" : "19058966",
       "id" : 19058966
-    }, {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 18, 33 ],
-      "id_str" : "356720556",
-      "id" : 356720556
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4223,6 +4091,92 @@ Grailbird.data.tweets_2010_01 =
   "text" : "#hsbc win. 3.5 minutes on the phone to order a new debit card as the chips knackered on mine. English person too!",
   "id" : 7307323564,
   "created_at" : "2010-01-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 16, 19 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7252360303",
+  "text" : "Happy New Year! #fb",
+  "id" : 7252360303,
+  "created_at" : "2010-01-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "uksnow",
+      "indices" : [ 29, 36 ]
+    }, {
+      "text" : "fb",
+      "indices" : [ 46, 49 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7254724738",
+  "text" : "It's already snowed in 2010! #uksnow 2\/10 HU5 #fb",
+  "id" : 7254724738,
+  "created_at" : "2010-01-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Shinsters.cs",
+      "screen_name" : "shinaku",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14355014",
+      "id" : 14355014
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "7273933070",
+  "geo" : { },
+  "id_str" : "7276570351",
+  "in_reply_to_user_id" : 14355014,
+  "text" : "@shinaku aye. Midnight nye is the busiest time for mobile networks!",
+  "id" : 7276570351,
+  "in_reply_to_status_id" : 7273933070,
+  "created_at" : "2010-01-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

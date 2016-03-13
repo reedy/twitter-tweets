@@ -2,193 +2,6 @@ Grailbird.data.tweets_2009_11 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Hexage",
-      "screen_name" : "hexage",
-      "indices" : [ 0, 7 ],
-      "id_str" : "40857295",
-      "id" : 40857295
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "6217080051",
-  "geo" : { },
-  "id_str" : "6221592061",
-  "in_reply_to_user_id" : 40857295,
-  "text" : "@hexage Congrats!",
-  "id" : 6221592061,
-  "in_reply_to_status_id" : 6217080051,
-  "created_at" : "2009-12-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hexage",
-  "in_reply_to_user_id_str" : "40857295",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Leonard Challis",
-      "screen_name" : "LeonardChallis",
-      "indices" : [ 0, 15 ],
-      "id_str" : "2991771",
-      "id" : 2991771
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "6230125184",
-  "geo" : { },
-  "id_str" : "6233053962",
-  "in_reply_to_user_id" : 2991771,
-  "text" : "@LeonardChallis aren't they supposed to let you on for free if they have no change?",
-  "id" : 6233053962,
-  "in_reply_to_status_id" : 6230125184,
-  "created_at" : "2009-12-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "LeonardChallis",
-  "in_reply_to_user_id_str" : "2991771",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "joinRED",
-      "screen_name" : "joinRED",
-      "indices" : [ 3, 11 ],
-      "id_str" : "13632",
-      "id" : 13632
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "red",
-      "indices" : [ 70, 74 ]
-    }, {
-      "text" : "laceupsavelives",
-      "indices" : [ 78, 94 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6233482951",
-  "text" : "RT @joinred: It\u2019s World AIDS Day. Turn Twitter (RED) - literally! Use #red or #laceupsavelives & turn tweets the color red. ONE COLOR UN ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "red",
-        "indices" : [ 57, 61 ]
-      }, {
-        "text" : "laceupsavelives",
-        "indices" : [ 65, 81 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "6229398069",
-    "text" : "It\u2019s World AIDS Day. Turn Twitter (RED) - literally! Use #red or #laceupsavelives & turn tweets the color red. ONE COLOR UNITES US. Pls RT.",
-    "id" : 6229398069,
-    "created_at" : "2009-12-01 08:10:00 +0000",
-    "user" : {
-      "name" : "(RED)",
-      "screen_name" : "RED",
-      "protected" : false,
-      "id_str" : "16423109",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692430353923964928\/RTDuY4d8_normal.jpg",
-      "id" : 16423109,
-      "verified" : true
-    }
-  },
-  "id" : 6233482951,
-  "created_at" : "2009-12-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "red",
-      "indices" : [ 60, 64 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6233527588",
-  "text" : "Anyone know wheres selling Aids Day Ribbons\/Bands\/whatever? #red",
-  "id" : 6233527588,
-  "created_at" : "2009-12-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Leonard Challis",
-      "screen_name" : "LeonardChallis",
-      "indices" : [ 0, 15 ],
-      "id_str" : "2991771",
-      "id" : 2991771
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "6233561665",
-  "geo" : { },
-  "id_str" : "6233627365",
-  "in_reply_to_user_id" : 2991771,
-  "text" : "@LeonardChallis Bus!",
-  "id" : 6233627365,
-  "in_reply_to_status_id" : 6233561665,
-  "created_at" : "2009-12-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "LeonardChallis",
-  "in_reply_to_user_id_str" : "2991771",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
@@ -839,7 +652,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00D8rta",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -1064,7 +877,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00D8rta",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -1444,7 +1257,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00D8rta",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -1556,6 +1369,34 @@ Grailbird.data.tweets_2009_11 =
   "text" : "RT @PiratePartyUK NSA to store a YOTABYTE (1x10^15GB)of personal data (email, phone calls, receipts etc) in Utah - http:\/\/bit.ly\/3DwW49",
   "id" : 5369921749,
   "created_at" : "2009-11-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Open Rights Group",
+      "screen_name" : "OpenRightsGroup",
+      "indices" : [ 3, 19 ],
+      "id_str" : "15028398",
+      "id" : 15028398
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "5336793775",
+  "text" : "RT @Openrightsgroup Demos: illicit downloaders spend more on music, crackdown might damage music industry http:\/\/bit.ly\/3EOf7b",
+  "id" : 5336793775,
+  "created_at" : "2009-11-01 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

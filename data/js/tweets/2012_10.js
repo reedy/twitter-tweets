@@ -95,13 +95,7 @@ Grailbird.data.tweets_2012_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Stephen Fry",
-      "screen_name" : "stephenfry",
-      "indices" : [ 1, 12 ],
-      "id_str" : "15439395",
-      "id" : 15439395
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -227,7 +221,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686702479342309376\/j-nsgsmQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706920245881995264\/AbaEzk-8_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -1732,7 +1726,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "AngryBirds",
       "protected" : false,
       "id_str" : "17337554",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692135324747694080\/vIMdaWlG_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/704936562937692161\/mfASbN47_normal.jpg",
       "id" : 17337554,
       "verified" : true
     }
@@ -2938,8 +2932,8 @@ Grailbird.data.tweets_2012_10 =
       "name" : "Motorola Support",
       "screen_name" : "MotorolaSupport",
       "indices" : [ 0, 16 ],
-      "id_str" : "334953605",
-      "id" : 334953605
+      "id_str" : "696172878417543169",
+      "id" : 696172878417543169
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2953,7 +2947,7 @@ Grailbird.data.tweets_2012_10 =
   "id" : 256118097575018497,
   "in_reply_to_status_id" : 256116517421318144,
   "created_at" : "2012-10-10 19:44:47 +0000",
-  "in_reply_to_screen_name" : "MotorolaSupport",
+  "in_reply_to_screen_name" : "Moto_Support",
   "in_reply_to_user_id_str" : "334953605",
   "user" : {
     "name" : "Sam Reed",
@@ -2971,8 +2965,8 @@ Grailbird.data.tweets_2012_10 =
       "name" : "Motorola Support",
       "screen_name" : "MotorolaSupport",
       "indices" : [ 0, 16 ],
-      "id_str" : "334953605",
-      "id" : 334953605
+      "id_str" : "696172878417543169",
+      "id" : 696172878417543169
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2986,7 +2980,7 @@ Grailbird.data.tweets_2012_10 =
   "id" : 256116797185593346,
   "in_reply_to_status_id" : 256116517421318144,
   "created_at" : "2012-10-10 19:39:37 +0000",
-  "in_reply_to_screen_name" : "MotorolaSupport",
+  "in_reply_to_screen_name" : "Moto_Support",
   "in_reply_to_user_id_str" : "334953605",
   "user" : {
     "name" : "Sam Reed",
@@ -3062,17 +3056,17 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Motorola Mobility",
-      "screen_name" : "Motorola",
+      "name" : "Motorola",
+      "screen_name" : "motorola",
       "indices" : [ 0, 9 ],
-      "id_str" : "49753110",
-      "id" : 49753110
+      "id_str" : "4874940065",
+      "id" : 4874940065
     }, {
       "name" : "Motorola Support",
       "screen_name" : "MotorolaSupport",
       "indices" : [ 10, 26 ],
-      "id_str" : "334953605",
-      "id" : 334953605
+      "id_str" : "696172878417543169",
+      "id" : 696172878417543169
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3086,7 +3080,7 @@ Grailbird.data.tweets_2012_10 =
   "id" : 256093673526292480,
   "in_reply_to_status_id" : 256086611736014849,
   "created_at" : "2012-10-10 18:07:44 +0000",
-  "in_reply_to_screen_name" : "Motorola",
+  "in_reply_to_screen_name" : "Moto_USA",
   "in_reply_to_user_id_str" : "49753110",
   "user" : {
     "name" : "Sam Reed",
@@ -3123,11 +3117,11 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Motorola Mobility",
-      "screen_name" : "Motorola",
+      "name" : "Motorola",
+      "screen_name" : "motorola",
       "indices" : [ 13, 22 ],
-      "id_str" : "49753110",
-      "id" : 49753110
+      "id_str" : "4874940065",
+      "id" : 4874940065
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4663,11 +4657,11 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "huffpostgay",
+      "name" : "Queer Voices",
       "screen_name" : "huffpostgay",
       "indices" : [ 3, 15 ],
-      "id_str" : "366606110",
-      "id" : 366606110
+      "id_str" : "4343856743",
+      "id" : 4343856743
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4700,8 +4694,8 @@ Grailbird.data.tweets_2012_10 =
     "id" : 252834036798590976,
     "created_at" : "2012-10-01 18:15:06 +0000",
     "user" : {
-      "name" : "huffpostgay",
-      "screen_name" : "huffpostgay",
+      "name" : "huffpostqueer",
+      "screen_name" : "huffpostqueer",
       "protected" : false,
       "id_str" : "366606110",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614479428668796928\/XaFrYuE1_normal.png",

@@ -534,7 +534,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00D8rta",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "indices" : [ 3, 8 ],
       "id_str" : "2569881",
@@ -561,7 +561,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21579340961,
     "created_at" : "2010-08-19 13:59:33 +0000",
     "user" : {
-      "name" : "\u00D8rta",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "protected" : false,
       "id_str" : "2569881",
@@ -2406,7 +2406,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joel Hooks",
+      "name" : "Joel",
       "screen_name" : "jhooks",
       "indices" : [ 3, 10 ],
       "id_str" : "12087242",
@@ -2433,7 +2433,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 20407317866,
     "created_at" : "2010-08-05 18:22:43 +0000",
     "user" : {
-      "name" : "Joel Hooks",
+      "name" : "Joel",
       "screen_name" : "jhooks",
       "protected" : false,
       "id_str" : "12087242",

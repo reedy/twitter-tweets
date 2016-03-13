@@ -1331,12 +1331,6 @@ Grailbird.data.tweets_2010_11 =
       "indices" : [ 3, 12 ],
       "id_str" : "7508362",
       "id" : 7508362
-    }, {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 23, 38 ],
-      "id_str" : "356720556",
-      "id" : 356720556
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1351,13 +1345,7 @@ Grailbird.data.tweets_2010_11 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/mobileways.de\/gravity\" rel=\"nofollow\"\u003EGravity\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "KarooBroadband",
-        "screen_name" : "KarooBroadband",
-        "indices" : [ 9, 24 ],
-        "id_str" : "356720556",
-        "id" : 356720556
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ {
         "text" : "idontlikemonopoly",
@@ -2325,12 +2313,6 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 9, 24 ],
-      "id_str" : "356720556",
-      "id" : 356720556
-    }, {
       "name" : "John Polling",
       "screen_name" : "pollingj",
       "indices" : [ 25, 34 ],
@@ -2555,7 +2537,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00D8rta",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -2593,12 +2575,6 @@ Grailbird.data.tweets_2010_11 =
       "indices" : [ 3, 12 ],
       "id_str" : "15205083",
       "id" : 15205083
-    }, {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 14, 29 ],
-      "id_str" : "356720556",
-      "id" : 356720556
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2610,13 +2586,7 @@ Grailbird.data.tweets_2010_11 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "KarooBroadband",
-        "screen_name" : "KarooBroadband",
-        "indices" : [ 0, 15 ],
-        "id_str" : "356720556",
-        "id" : 356720556
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
@@ -4673,12 +4643,6 @@ Grailbird.data.tweets_2010_11 =
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
       "id" : 14355014
-    }, {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 39, 54 ],
-      "id_str" : "356720556",
-      "id" : 356720556
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5215,13 +5179,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "KarooBroadband",
-      "screen_name" : "KarooBroadband",
-      "indices" : [ 22, 37 ],
-      "id_str" : "356720556",
-      "id" : 356720556
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

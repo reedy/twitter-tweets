@@ -40,7 +40,7 @@ Grailbird.data.tweets_2015_08 =
       "id" : 637627103970783232,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNlOeQdW8AA8fNK.png",
       "sizes" : [ {
-        "h" : 1066,
+        "h" : 1067,
         "resize" : "fit",
         "w" : 600
       }, {
@@ -116,7 +116,7 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "756145",
       "id" : 756145
     }, {
-      "name" : "\u00D8rta",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "indices" : [ 69, 74 ],
       "id_str" : "2569881",
@@ -821,21 +821,21 @@ Grailbird.data.tweets_2015_08 =
         "resize" : "fit",
         "w" : 706
       }, {
-        "h" : 447,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
+        "h" : 254,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 448,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 527,
         "resize" : "fit",
         "w" : 706
-      }, {
-        "h" : 253,
-        "resize" : "fit",
-        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/4Ljrv4IGiN"
     } ],
@@ -882,21 +882,21 @@ Grailbird.data.tweets_2015_08 =
           "resize" : "fit",
           "w" : 706
         }, {
-          "h" : 447,
-          "resize" : "fit",
-          "w" : 600
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
+          "h" : 254,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 448,
+          "resize" : "fit",
+          "w" : 600
+        }, {
           "h" : 527,
           "resize" : "fit",
           "w" : 706
-        }, {
-          "h" : 253,
-          "resize" : "fit",
-          "w" : 340
         } ],
         "display_url" : "pic.twitter.com\/4Ljrv4IGiN"
       } ],
@@ -2154,7 +2154,7 @@ Grailbird.data.tweets_2015_08 =
       "id" : 627807900170371072,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CLZr9XzWwAA4qe_.png",
       "sizes" : [ {
-        "h" : 1066,
+        "h" : 1067,
         "resize" : "fit",
         "w" : 600
       }, {

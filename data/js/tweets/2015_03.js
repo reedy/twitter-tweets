@@ -1461,7 +1461,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1494,7 +1494,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1527,7 +1527,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1560,7 +1560,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1605,7 +1605,7 @@ Grailbird.data.tweets_2015_03 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joe Squared",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 9, 14 ],
       "id_str" : "14822382",
@@ -2288,6 +2288,10 @@ Grailbird.data.tweets_2015_03 =
       "id" : 575670274609168384,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B_0xEJHUwAAJpuS.jpg",
       "sizes" : [ {
+        "h" : 445,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 780,
         "resize" : "fit",
         "w" : 1052
@@ -2299,10 +2303,6 @@ Grailbird.data.tweets_2015_03 =
         "h" : 252,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 444,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 759,
         "resize" : "fit",
