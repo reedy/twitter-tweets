@@ -123,7 +123,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -162,7 +162,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -206,7 +206,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -239,7 +239,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1176,7 +1176,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "GooglePlay",
       "protected" : false,
       "id_str" : "243381107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/570048775591182336\/dMDodbju_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717080514931376129\/hfhzm06Q_normal.jpg",
       "id" : 243381107,
       "verified" : true
     }
@@ -2446,7 +2446,13 @@ Grailbird.data.tweets_2012_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2513,7 +2519,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt",
+      "name" : "Matt Garforth",
       "screen_name" : "MattGarforth",
       "indices" : [ 0, 13 ],
       "id_str" : "15168409",
@@ -2975,7 +2981,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706920245881995264\/AbaEzk-8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718145129786114048\/ZPRUZJc2_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -3899,39 +3905,6 @@ Grailbird.data.tweets_2012_09 =
   },
   "in_reply_to_status_id_str" : "246806457616580608",
   "geo" : { },
-  "id_str" : "246822616919318528",
-  "in_reply_to_user_id" : 22536055,
-  "text" : "@AmericanAir Going to miss my 08:45 out of JFK though!",
-  "id" : 246822616919318528,
-  "in_reply_to_status_id" : 246806457616580608,
-  "created_at" : "2012-09-15 04:07:52 +0000",
-  "in_reply_to_screen_name" : "AmericanAir",
-  "in_reply_to_user_id_str" : "22536055",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "American Airlines",
-      "screen_name" : "AmericanAir",
-      "indices" : [ 0, 12 ],
-      "id_str" : "22536055",
-      "id" : 22536055
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "246806457616580608",
-  "geo" : { },
   "id_str" : "246822616931917824",
   "in_reply_to_user_id" : 22536055,
   "text" : "@AmericanAir Ah, cool. Not too bad then, eh? Though a 767 for SFO to LAX seems overkill ;)",
@@ -3987,6 +3960,39 @@ Grailbird.data.tweets_2012_09 =
   "text" : "Do some (gay) guys purposely try to make themselves look like Lesbians? #fb",
   "id" : 246822617242279936,
   "created_at" : "2012-09-15 04:07:52 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "American Airlines",
+      "screen_name" : "AmericanAir",
+      "indices" : [ 0, 12 ],
+      "id_str" : "22536055",
+      "id" : 22536055
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "246806457616580608",
+  "geo" : { },
+  "id_str" : "246822616919318528",
+  "in_reply_to_user_id" : 22536055,
+  "text" : "@AmericanAir Going to miss my 08:45 out of JFK though!",
+  "id" : 246822616919318528,
+  "in_reply_to_status_id" : 246806457616580608,
+  "created_at" : "2012-09-15 04:07:52 +0000",
+  "in_reply_to_screen_name" : "AmericanAir",
+  "in_reply_to_user_id_str" : "22536055",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4589,7 +4595,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carlos Montero",
+      "name" : "\u2605 Carlos Montero",
       "screen_name" : "cman2k",
       "indices" : [ 3, 10 ],
       "id_str" : "10416942",
@@ -4616,11 +4622,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 245603655640821762,
     "created_at" : "2012-09-11 19:24:09 +0000",
     "user" : {
-      "name" : "Carlos Montero",
+      "name" : "\u2605 Carlos Montero",
       "screen_name" : "cman2k",
       "protected" : false,
       "id_str" : "10416942",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/600150016469012481\/v9dHIEqn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/720077499053400064\/AuGXptmg_normal.jpg",
       "id" : 10416942,
       "verified" : false
     }
@@ -6075,7 +6081,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706920245881995264\/AbaEzk-8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718145129786114048\/ZPRUZJc2_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }

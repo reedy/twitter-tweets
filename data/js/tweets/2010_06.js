@@ -490,7 +490,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "Ebuyer",
       "protected" : false,
       "id_str" : "20662765",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532840755031597057\/tc2CkSI8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726019679060373504\/TgmHksP__normal.jpg",
       "id" : 20662765,
       "verified" : false
     }
@@ -559,7 +559,13 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1014,7 +1020,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/650311314762412034\/5hIONDen_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737990291416862720\/sjnxBLMI_normal.jpg",
       "id" : 94178695,
       "verified" : false
     }
@@ -1170,7 +1176,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "hhariri",
       "protected" : false,
       "id_str" : "15797140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/610340477771059200\/L-kSvHja_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731390445838839809\/0zvrOZE0_normal.jpg",
       "id" : 15797140,
       "verified" : false
     }

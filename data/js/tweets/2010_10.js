@@ -684,7 +684,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "87428004",
       "id" : 87428004
     }, {
-      "name" : "techradar",
+      "name" : "TechRadar",
       "screen_name" : "techradar",
       "indices" : [ 97, 107 ],
       "id_str" : "15560223",
@@ -701,7 +701,7 @@ Grailbird.data.tweets_2010_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "techradar",
+        "name" : "TechRadar",
         "screen_name" : "techradar",
         "indices" : [ 81, 91 ],
         "id_str" : "15560223",
@@ -875,7 +875,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "hhariri",
       "protected" : false,
       "id_str" : "15797140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/610340477771059200\/L-kSvHja_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731390445838839809\/0zvrOZE0_normal.jpg",
       "id" : 15797140,
       "verified" : false
     }
@@ -980,7 +980,13 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1395,7 +1401,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "shinaku",
       "protected" : true,
       "id_str" : "14355014",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658624950807470080\/0lSx9LWl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735880408953413632\/Tsx0O8Qw_normal.jpg",
       "id" : 14355014,
       "verified" : false
     }
@@ -1746,7 +1752,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/650311314762412034\/5hIONDen_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737990291416862720\/sjnxBLMI_normal.jpg",
       "id" : 94178695,
       "verified" : false
     }
@@ -2201,7 +2207,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "firefox",
       "protected" : false,
       "id_str" : "2142731",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/656560245997744128\/cXaGVfB4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/721079232592412672\/bpT3Kx2f_normal.jpg",
       "id" : 2142731,
       "verified" : true
     }
@@ -2319,7 +2325,13 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

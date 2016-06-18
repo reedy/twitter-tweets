@@ -65,7 +65,7 @@ Grailbird.data.tweets_2015_02 =
   "id" : 569964171279929344,
   "in_reply_to_status_id" : 569962555822768128,
   "created_at" : "2015-02-23 20:57:02 +0000",
-  "in_reply_to_screen_name" : "SamsoniteUS",
+  "in_reply_to_screen_name" : "SamsoniteUSA",
   "in_reply_to_user_id_str" : "109345097",
   "user" : {
     "name" : "Sam Reed",
@@ -365,11 +365,11 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KC Business",
+      "name" : "Ryan L. Guzman",
       "screen_name" : "KC_Business",
       "indices" : [ 1, 13 ],
-      "id_str" : "89161337",
-      "id" : 89161337
+      "id_str" : "718351568458891264",
+      "id" : 718351568458891264
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -386,7 +386,7 @@ Grailbird.data.tweets_2015_02 =
   "id" : 565170052635574272,
   "in_reply_to_status_id" : 565169070035587072,
   "created_at" : "2015-02-10 15:26:55 +0000",
-  "in_reply_to_screen_name" : "KC_Business",
+  "in_reply_to_screen_name" : "KCOMheybusiness",
   "in_reply_to_user_id_str" : "89161337",
   "user" : {
     "name" : "Sam Reed",
@@ -703,7 +703,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "T-Mobile USA",
+      "name" : "T-Mobile Help",
       "screen_name" : "TMobileHelp",
       "indices" : [ 0, 12 ],
       "id_str" : "185728888",
@@ -1195,7 +1195,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -1234,7 +1234,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -1267,7 +1267,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -1300,7 +1300,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 13, 20 ],
       "id_str" : "35737385",

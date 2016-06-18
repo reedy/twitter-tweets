@@ -238,7 +238,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt",
+      "name" : "Matt Garforth",
       "screen_name" : "MattGarforth",
       "indices" : [ 0, 13 ],
       "id_str" : "15168409",
@@ -1118,7 +1118,13 @@ Grailbird.data.tweets_2012_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u0412\u0435\u0440\u0430 \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0430",
+      "screen_name" : "StevenWalling",
+      "indices" : [ 0, 14 ],
+      "id_str" : "2227459469",
+      "id" : 2227459469
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1737,7 +1743,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt",
+      "name" : "Matt Garforth",
       "screen_name" : "MattGarforth",
       "indices" : [ 0, 13 ],
       "id_str" : "15168409",
@@ -4850,7 +4856,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5819,7 +5825,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sean Paul Lockhart",
+      "name" : "Sean Lockhart",
       "screen_name" : "SeanPaulLock",
       "indices" : [ 0, 13 ],
       "id_str" : "394207281",
@@ -6008,7 +6014,13 @@ Grailbird.data.tweets_2012_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "sammy gee",
+      "screen_name" : "sammygee1",
+      "indices" : [ 0, 10 ],
+      "id_str" : "707308308529549312",
+      "id" : 707308308529549312
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6030,7 +6042,13 @@ Grailbird.data.tweets_2012_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "sammy gee",
+      "screen_name" : "sammygee1",
+      "indices" : [ 0, 10 ],
+      "id_str" : "707308308529549312",
+      "id" : 707308308529549312
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -6057,7 +6075,13 @@ Grailbird.data.tweets_2012_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "sammy gee",
+      "screen_name" : "sammygee1",
+      "indices" : [ 0, 10 ],
+      "id_str" : "707308308529549312",
+      "id" : 707308308529549312
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6080,7 +6104,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -7150,7 +7174,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "Battlefield",
       "protected" : false,
       "id_str" : "27855118",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697841646268866560\/NfIdN90m_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728687810543132673\/rJJHEYs2_normal.jpg",
       "id" : 27855118,
       "verified" : true
     }

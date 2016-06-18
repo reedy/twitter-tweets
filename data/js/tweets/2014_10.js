@@ -857,7 +857,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1191,7 +1191,13 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1965,7 +1971,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Parking Tickets",
+      "name" : "Parking Eye Appeals",
       "screen_name" : "Appealtickets",
       "indices" : [ 0, 14 ],
       "id_str" : "2999564632",
@@ -2468,7 +2474,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "314706473",
       "id" : 314706473
     }, {
-      "name" : "Parking Tickets",
+      "name" : "Parking Eye Appeals",
       "screen_name" : "Appealtickets",
       "indices" : [ 53, 67 ],
       "id_str" : "2999564632",
@@ -3109,7 +3115,13 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3269,7 +3281,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -3302,7 +3314,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -3335,7 +3347,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -4061,11 +4073,11 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KC Business",
+      "name" : "Ryan L. Guzman",
       "screen_name" : "KC_Business",
       "indices" : [ 3, 15 ],
-      "id_str" : "89161337",
-      "id" : 89161337
+      "id_str" : "718351568458891264",
+      "id" : 718351568458891264
     } ],
     "media" : [ {
       "expanded_url" : "http:\/\/twitter.com\/KC_Business\/status\/519509869817503744\/photo\/1",
@@ -4148,11 +4160,11 @@ Grailbird.data.tweets_2014_10 =
     "id" : 519509869817503744,
     "created_at" : "2014-10-07 15:29:39 +0000",
     "user" : {
-      "name" : "KC Business",
-      "screen_name" : "KC_Business",
+      "name" : "KCOM HEY Business",
+      "screen_name" : "KCOMheybusiness",
       "protected" : false,
       "id_str" : "89161337",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/591531853317861378\/4bPTd_nc_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716715925819490304\/g6UqaeYK_normal.jpg",
       "id" : 89161337,
       "verified" : false
     }
@@ -4350,27 +4362,16 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "518490968841256960",
   "geo" : { },
   "id_str" : "518492920144740352",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy Is it bad form for you to start taking selfies?",
   "id" : 518492920144740352,
-  "in_reply_to_status_id" : 518490968841256960,
   "created_at" : "2014-10-04 20:08:39 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4468,7 +4469,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flight Sim 2015",
+      "name" : "Flight Sim 2016",
       "screen_name" : "FlightSimShow",
       "indices" : [ 0, 14 ],
       "id_str" : "1547892510",
@@ -4501,7 +4502,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flight Sim 2015",
+      "name" : "Flight Sim 2016",
       "screen_name" : "FlightSimShow",
       "indices" : [ 0, 14 ],
       "id_str" : "1547892510",

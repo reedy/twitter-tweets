@@ -189,350 +189,6 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "garri",
-      "screen_name" : "garridarko",
-      "indices" : [ 3, 14 ],
-      "id_str" : "22987109",
-      "id" : 22987109
-    }, {
-      "name" : "Syed Anzal Abbas",
-      "screen_name" : "AnzalPTI",
-      "indices" : [ 16, 25 ],
-      "id_str" : "875762660",
-      "id" : 875762660
-    }, {
-      "name" : "Amanwaris",
-      "screen_name" : "Amanwaris21",
-      "indices" : [ 26, 38 ],
-      "id_str" : "2701557462",
-      "id" : 2701557462
-    }, {
-      "name" : "Ryan Brown",
-      "screen_name" : "Toadsanime",
-      "indices" : [ 39, 50 ],
-      "id_str" : "116534927",
-      "id" : 116534927
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "615524477628092416",
-  "text" : "RT @garridarko: @AnzalPTI @Amanwaris21 @Toadsanime because you have no factual evidence to prove god disapproves. You're just hoping that b\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Syed Anzal Abbas",
-        "screen_name" : "AnzalPTI",
-        "indices" : [ 0, 9 ],
-        "id_str" : "875762660",
-        "id" : 875762660
-      }, {
-        "name" : "Amanwaris",
-        "screen_name" : "Amanwaris21",
-        "indices" : [ 10, 22 ],
-        "id_str" : "2701557462",
-        "id" : 2701557462
-      }, {
-        "name" : "Ryan Brown",
-        "screen_name" : "Toadsanime",
-        "indices" : [ 23, 34 ],
-        "id_str" : "116534927",
-        "id" : 116534927
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "615273776763260932",
-    "geo" : { },
-    "id_str" : "615274189902213120",
-    "in_reply_to_user_id" : 875762660,
-    "text" : "@AnzalPTI @Amanwaris21 @Toadsanime because you have no factual evidence to prove god disapproves. You're just hoping that book is true.",
-    "id" : 615274189902213120,
-    "in_reply_to_status_id" : 615273776763260932,
-    "created_at" : "2015-06-28 21:42:52 +0000",
-    "in_reply_to_screen_name" : "AnzalPTI",
-    "in_reply_to_user_id_str" : "875762660",
-    "user" : {
-      "name" : "garri",
-      "screen_name" : "garridarko",
-      "protected" : false,
-      "id_str" : "22987109",
-      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_5_normal.png",
-      "id" : 22987109,
-      "verified" : false
-    }
-  },
-  "id" : 615524477628092416,
-  "created_at" : "2015-06-29 14:17:26 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "garri",
-      "screen_name" : "garridarko",
-      "indices" : [ 3, 14 ],
-      "id_str" : "22987109",
-      "id" : 22987109
-    }, {
-      "name" : "Syed Anzal Abbas",
-      "screen_name" : "AnzalPTI",
-      "indices" : [ 16, 25 ],
-      "id_str" : "875762660",
-      "id" : 875762660
-    }, {
-      "name" : "Amanwaris",
-      "screen_name" : "Amanwaris21",
-      "indices" : [ 26, 38 ],
-      "id_str" : "2701557462",
-      "id" : 2701557462
-    }, {
-      "name" : "Ryan Brown",
-      "screen_name" : "Toadsanime",
-      "indices" : [ 39, 50 ],
-      "id_str" : "116534927",
-      "id" : 116534927
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "615524452680347648",
-  "text" : "RT @garridarko: @AnzalPTI @Amanwaris21 @Toadsanime its funny how everything you say is fact, yet something you dont agree on is opinion.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Syed Anzal Abbas",
-        "screen_name" : "AnzalPTI",
-        "indices" : [ 0, 9 ],
-        "id_str" : "875762660",
-        "id" : 875762660
-      }, {
-        "name" : "Amanwaris",
-        "screen_name" : "Amanwaris21",
-        "indices" : [ 10, 22 ],
-        "id_str" : "2701557462",
-        "id" : 2701557462
-      }, {
-        "name" : "Ryan Brown",
-        "screen_name" : "Toadsanime",
-        "indices" : [ 23, 34 ],
-        "id_str" : "116534927",
-        "id" : 116534927
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "615276480118038531",
-    "geo" : { },
-    "id_str" : "615277060114808832",
-    "in_reply_to_user_id" : 875762660,
-    "text" : "@AnzalPTI @Amanwaris21 @Toadsanime its funny how everything you say is fact, yet something you dont agree on is opinion.",
-    "id" : 615277060114808832,
-    "in_reply_to_status_id" : 615276480118038531,
-    "created_at" : "2015-06-28 21:54:17 +0000",
-    "in_reply_to_screen_name" : "AnzalPTI",
-    "in_reply_to_user_id_str" : "875762660",
-    "user" : {
-      "name" : "garri",
-      "screen_name" : "garridarko",
-      "protected" : false,
-      "id_str" : "22987109",
-      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_5_normal.png",
-      "id" : 22987109,
-      "verified" : false
-    }
-  },
-  "id" : 615524452680347648,
-  "created_at" : "2015-06-29 14:17:20 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "garri",
-      "screen_name" : "garridarko",
-      "indices" : [ 3, 14 ],
-      "id_str" : "22987109",
-      "id" : 22987109
-    }, {
-      "name" : "Syed Anzal Abbas",
-      "screen_name" : "AnzalPTI",
-      "indices" : [ 16, 25 ],
-      "id_str" : "875762660",
-      "id" : 875762660
-    }, {
-      "name" : "Ryan Brown",
-      "screen_name" : "Toadsanime",
-      "indices" : [ 26, 37 ],
-      "id_str" : "116534927",
-      "id" : 116534927
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "615524417175621632",
-  "text" : "RT @garridarko: @AnzalPTI @Toadsanime so then why is there more than one religion, if there is only one god. Religion is just a man made so\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Syed Anzal Abbas",
-        "screen_name" : "AnzalPTI",
-        "indices" : [ 0, 9 ],
-        "id_str" : "875762660",
-        "id" : 875762660
-      }, {
-        "name" : "Ryan Brown",
-        "screen_name" : "Toadsanime",
-        "indices" : [ 10, 21 ],
-        "id_str" : "116534927",
-        "id" : 116534927
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "615278428112207872",
-    "geo" : { },
-    "id_str" : "615278776398839808",
-    "in_reply_to_user_id" : 875762660,
-    "text" : "@AnzalPTI @Toadsanime so then why is there more than one religion, if there is only one god. Religion is just a man made social club",
-    "id" : 615278776398839808,
-    "in_reply_to_status_id" : 615278428112207872,
-    "created_at" : "2015-06-28 22:01:06 +0000",
-    "in_reply_to_screen_name" : "AnzalPTI",
-    "in_reply_to_user_id_str" : "875762660",
-    "user" : {
-      "name" : "garri",
-      "screen_name" : "garridarko",
-      "protected" : false,
-      "id_str" : "22987109",
-      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_5_normal.png",
-      "id" : 22987109,
-      "verified" : false
-    }
-  },
-  "id" : 615524417175621632,
-  "created_at" : "2015-06-29 14:17:11 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "garri",
-      "screen_name" : "garridarko",
-      "indices" : [ 3, 14 ],
-      "id_str" : "22987109",
-      "id" : 22987109
-    }, {
-      "name" : "Syed Anzal Abbas",
-      "screen_name" : "AnzalPTI",
-      "indices" : [ 16, 25 ],
-      "id_str" : "875762660",
-      "id" : 875762660
-    }, {
-      "name" : "Ryan Brown",
-      "screen_name" : "Toadsanime",
-      "indices" : [ 26, 37 ],
-      "id_str" : "116534927",
-      "id" : 116534927
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "615524391833595905",
-  "text" : "RT @garridarko: @AnzalPTI @Toadsanime allah guided me to homosexuality, how can you prove he didnt?",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Syed Anzal Abbas",
-        "screen_name" : "AnzalPTI",
-        "indices" : [ 0, 9 ],
-        "id_str" : "875762660",
-        "id" : 875762660
-      }, {
-        "name" : "Ryan Brown",
-        "screen_name" : "Toadsanime",
-        "indices" : [ 10, 21 ],
-        "id_str" : "116534927",
-        "id" : 116534927
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "615278428112207872",
-    "geo" : { },
-    "id_str" : "615279148324491264",
-    "in_reply_to_user_id" : 875762660,
-    "text" : "@AnzalPTI @Toadsanime allah guided me to homosexuality, how can you prove he didnt?",
-    "id" : 615279148324491264,
-    "in_reply_to_status_id" : 615278428112207872,
-    "created_at" : "2015-06-28 22:02:34 +0000",
-    "in_reply_to_screen_name" : "AnzalPTI",
-    "in_reply_to_user_id_str" : "875762660",
-    "user" : {
-      "name" : "garri",
-      "screen_name" : "garridarko",
-      "protected" : false,
-      "id_str" : "22987109",
-      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_5_normal.png",
-      "id" : 22987109,
-      "verified" : false
-    }
-  },
-  "id" : 615524391833595905,
-  "created_at" : "2015-06-29 14:17:05 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Syed Anzal Abbas",
       "screen_name" : "AnzalPTI",
       "indices" : [ 0, 9 ],
@@ -577,13 +233,7 @@ Grailbird.data.tweets_2015_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Samsonite US",
-      "screen_name" : "SamsoniteUS",
-      "indices" : [ 0, 12 ],
-      "id_str" : "109345097",
-      "id" : 109345097
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -596,7 +246,7 @@ Grailbird.data.tweets_2015_06 =
   "id" : 615520874574254080,
   "in_reply_to_status_id" : 615501179666190337,
   "created_at" : "2015-06-29 14:03:06 +0000",
-  "in_reply_to_screen_name" : "SamsoniteUS",
+  "in_reply_to_screen_name" : "SamsoniteUSA",
   "in_reply_to_user_id_str" : "109345097",
   "user" : {
     "name" : "Sam Reed",
@@ -1624,13 +1274,7 @@ Grailbird.data.tweets_2015_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Samsonite US",
-      "screen_name" : "SamsoniteUS",
-      "indices" : [ 4, 16 ],
-      "id_str" : "109345097",
-      "id" : 109345097
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1653,7 +1297,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1686,7 +1330,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3688,7 +3332,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706920245881995264\/AbaEzk-8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718145129786114048\/ZPRUZJc2_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -4428,7 +4072,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 19, 24 ],
       "id_str" : "14822382",

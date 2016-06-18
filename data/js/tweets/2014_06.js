@@ -68,27 +68,16 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "File Transporter",
-      "screen_name" : "FileTransporter",
-      "indices" : [ 0, 16 ],
-      "id_str" : "868874827",
-      "id" : 868874827
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "483388264573698048",
   "geo" : { },
   "id_str" : "483388603331272704",
-  "in_reply_to_user_id" : 868874827,
   "text" : "@FileTransporter 100 dollars isn't a great deal. Depends over what timeframe. Over a lifetime? ;)",
   "id" : 483388603331272704,
-  "in_reply_to_status_id" : 483388264573698048,
   "created_at" : "2014-06-29 23:16:38 +0000",
-  "in_reply_to_screen_name" : "FileTransporter",
-  "in_reply_to_user_id_str" : "868874827",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -245,7 +234,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -1606,7 +1595,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706920245881995264\/AbaEzk-8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718145129786114048\/ZPRUZJc2_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -1720,7 +1709,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 48, 53 ],
       "id_str" : "14822382",
@@ -1776,6 +1765,12 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "\u0412\u0435\u0440\u0430 \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0430",
+      "screen_name" : "StevenWalling",
+      "indices" : [ 0, 14 ],
+      "id_str" : "2227459469",
+      "id" : 2227459469
+    }, {
       "name" : "Stuart Hicks",
       "screen_name" : "stuarthicks",
       "indices" : [ 15, 27 ],
@@ -2087,6 +2082,12 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    }, {
       "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 10, 17 ],
@@ -2114,7 +2115,13 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2137,6 +2144,12 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    }, {
       "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 10, 17 ],
@@ -3776,7 +3789,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt",
+      "name" : "Matt Garforth",
       "screen_name" : "MattGarforth",
       "indices" : [ 0, 13 ],
       "id_str" : "15168409",
@@ -4378,7 +4391,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "flightradar24",
       "protected" : false,
       "id_str" : "134196350",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2417857345\/2s9s2y0tlqzl8k0er2nt_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710502600593035265\/eU_SCiU9_normal.jpg",
       "id" : 134196350,
       "verified" : true
     }

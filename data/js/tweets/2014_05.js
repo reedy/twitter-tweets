@@ -115,7 +115,13 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "737197812459409408",
+      "id" : 737197812459409408
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -418,27 +424,16 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "470670844348624897",
   "geo" : { },
   "id_str" : "470673461674004480",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy Seriously? Godfrey?",
   "id" : 470673461674004480,
-  "in_reply_to_status_id" : 470670844348624897,
   "created_at" : "2014-05-25 21:11:12 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -782,7 +777,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weeeeeeeeeeeeeeebl",
+      "name" : "Brian Weebls",
       "screen_name" : "TheWeebl",
       "indices" : [ 0, 9 ],
       "id_str" : "122040755",
@@ -1187,27 +1182,16 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "468358658116833280",
   "geo" : { },
   "id_str" : "468372083085676544",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy Flood Update: Its not flooding",
   "id" : 468372083085676544,
-  "in_reply_to_status_id" : 468358658116833280,
   "created_at" : "2014-05-19 12:46:21 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1928,7 +1912,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "helen_hollins",
       "protected" : false,
       "id_str" : "1082287658",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/690096647741771777\/Mi1FSbRg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736130019982905344\/Rpteb6NK_normal.jpg",
       "id" : 1082287658,
       "verified" : false
     }
@@ -1969,7 +1953,13 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2577,7 +2567,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2616,7 +2606,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2649,7 +2639,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

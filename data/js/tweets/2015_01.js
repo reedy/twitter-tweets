@@ -743,7 +743,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "TheRealRevK",
       "protected" : false,
       "id_str" : "227666609",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422387638419476480\/3k8H1nYs_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709389375965106177\/a7rMPrUQ_normal.jpg",
       "id" : 227666609,
       "verified" : false
     }
@@ -1052,7 +1052,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "Toadsanime",
       "protected" : false,
       "id_str" : "116534927",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/704786745532010496\/-b1SQ8tm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725859444115017728\/8ObOd6dT_normal.jpg",
       "id" : 116534927,
       "verified" : false
     }
@@ -1096,13 +1096,7 @@ Grailbird.data.tweets_2015_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 4, 16 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -2067,7 +2061,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "lenovo",
       "protected" : false,
       "id_str" : "17307429",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/705043718101995520\/_AOU5XIm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738264300272422913\/9-51-HxP_normal.jpg",
       "id" : 17307429,
       "verified" : true
     }
@@ -2219,7 +2213,13 @@ Grailbird.data.tweets_2015_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

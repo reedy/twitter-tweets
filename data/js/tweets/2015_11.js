@@ -1466,7 +1466,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "DannyDyer_fan",
+      "name" : "brockley big boy",
       "screen_name" : "kier_abshy",
       "indices" : [ 12, 23 ],
       "id_str" : "414743251",
@@ -1499,7 +1499,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DannyDyer_fan",
+      "name" : "brockley big boy",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1544,7 +1544,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "DannyDyer_fan",
+      "name" : "brockley big boy",
       "screen_name" : "kier_abshy",
       "indices" : [ 12, 23 ],
       "id_str" : "414743251",
@@ -1577,7 +1577,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DannyDyer_fan",
+      "name" : "brockley big boy",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1616,7 +1616,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DannyDyer_fan",
+      "name" : "brockley big boy",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1694,7 +1694,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DannyDyer_fan",
+      "name" : "brockley big boy",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1739,7 +1739,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "DannyDyer_fan",
+      "name" : "brockley big boy",
       "screen_name" : "kier_abshy",
       "indices" : [ 12, 23 ],
       "id_str" : "414743251",
@@ -2332,25 +2332,16 @@ Grailbird.data.tweets_2015_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "668069761062977536",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy Hey, FYI... It seems in the Spaldington Parish less than 10% of the houses actually get any benefit from the FTTC rollout :(",
   "id" : 668069761062977536,
   "created_at" : "2015-11-21 14:13:37 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3098,7 +3089,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4109,7 +4100,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "TheRealRevK",
       "protected" : false,
       "id_str" : "227666609",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422387638419476480\/3k8H1nYs_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709389375965106177\/a7rMPrUQ_normal.jpg",
       "id" : 227666609,
       "verified" : false
     }
@@ -4290,7 +4281,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

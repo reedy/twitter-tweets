@@ -678,8 +678,8 @@ Grailbird.data.tweets_2015_08 =
       "name" : "David King",
       "screen_name" : "derpenxyne",
       "indices" : [ 0, 11 ],
-      "id_str" : "43089589",
-      "id" : 43089589
+      "id_str" : "721974426196123648",
+      "id" : 721974426196123648
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -693,7 +693,7 @@ Grailbird.data.tweets_2015_08 =
   "id" : 635894561311731716,
   "in_reply_to_status_id" : 635894117663424512,
   "created_at" : "2015-08-24 19:20:52 +0000",
-  "in_reply_to_screen_name" : "derpenxyne",
+  "in_reply_to_screen_name" : "DavidPJKing",
   "in_reply_to_user_id_str" : "43089589",
   "user" : {
     "name" : "Sam Reed",
@@ -790,7 +790,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M2)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Khalil (pilgrim)",
+      "name" : "Khalil Sehnaoui",
       "screen_name" : "sehnaoui",
       "indices" : [ 3, 12 ],
       "id_str" : "60428991",
@@ -917,7 +917,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 634740838673702912,
     "created_at" : "2015-08-21 14:56:23 +0000",
     "user" : {
-      "name" : "Khalil (pilgrim)",
+      "name" : "Khalil Sehnaoui",
       "screen_name" : "sehnaoui",
       "protected" : false,
       "id_str" : "60428991",

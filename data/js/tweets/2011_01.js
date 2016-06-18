@@ -684,7 +684,7 @@ Grailbird.data.tweets_2011_01 =
   "id" : 29540245011693568,
   "in_reply_to_status_id" : 29540097217011712,
   "created_at" : "2011-01-24 14:05:17 +0000",
-  "in_reply_to_screen_name" : "_KCHome",
+  "in_reply_to_screen_name" : "KCOMhome",
   "in_reply_to_user_id_str" : "22005301",
   "user" : {
     "name" : "Sam Reed",
@@ -1683,7 +1683,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "firebox",
       "protected" : false,
       "id_str" : "15083005",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3375665316\/0f63cc7808506b1d823900b685e7e026_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/733267184118554624\/0Oev5L5__normal.jpg",
       "id" : 15083005,
       "verified" : true
     }

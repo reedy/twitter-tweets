@@ -368,6 +368,34 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Jonty Wareing",
+      "screen_name" : "jonty",
+      "indices" : [ 3, 9 ],
+      "id_str" : "1856851",
+      "id" : 1856851
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "6066781329",
+  "text" : "RT @jonty Spectacular use of pie charts. http:\/\/www.27bslash6.com\/p2p.html",
+  "id" : 6066781329,
+  "created_at" : "2009-11-26 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "thebigboo",
       "screen_name" : "thebigboo",
       "indices" : [ 3, 13 ],
@@ -461,34 +489,6 @@ Grailbird.data.tweets_2009_11 =
   "created_at" : "2009-11-26 00:00:00 +0000",
   "in_reply_to_screen_name" : "stuarthicks",
   "in_reply_to_user_id_str" : "19058966",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jonty Wareing",
-      "screen_name" : "jonty",
-      "indices" : [ 3, 9 ],
-      "id_str" : "1856851",
-      "id" : 1856851
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6066781329",
-  "text" : "RT @jonty Spectacular use of pie charts. http:\/\/www.27bslash6.com\/p2p.html",
-  "id" : 6066781329,
-  "created_at" : "2009-11-26 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

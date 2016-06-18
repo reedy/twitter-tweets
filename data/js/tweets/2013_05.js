@@ -112,7 +112,13 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "737197812459409408",
+      "id" : 737197812459409408
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -468,12 +474,6 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "File Transporter",
-      "screen_name" : "FileTransporter",
-      "indices" : [ 0, 16 ],
-      "id_str" : "868874827",
-      "id" : 868874827
-    }, {
       "name" : "Drobo",
       "screen_name" : "drobo",
       "indices" : [ 17, 23 ],
@@ -484,16 +484,11 @@ Grailbird.data.tweets_2013_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "339483366682394624",
   "geo" : { },
   "id_str" : "339484276779274242",
-  "in_reply_to_user_id" : 868874827,
   "text" : "@FileTransporter @Drobo So what does that mean? Transporter software on the drobo?",
   "id" : 339484276779274242,
-  "in_reply_to_status_id" : 339483366682394624,
   "created_at" : "2013-05-28 20:52:13 +0000",
-  "in_reply_to_screen_name" : "FileTransporter",
-  "in_reply_to_user_id_str" : "868874827",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -553,7 +548,13 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "737197812459409408",
+      "id" : 737197812459409408
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -956,7 +957,13 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1228,7 +1235,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt",
+      "name" : "Matt Garforth",
       "screen_name" : "MattGarforth",
       "indices" : [ 0, 13 ],
       "id_str" : "15168409",
@@ -2140,7 +2147,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "95023423",
       "id" : 95023423
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 11, 16 ],
       "id_str" : "14822382",
@@ -2288,7 +2295,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weeeeeeeeeeeeeeebl",
+      "name" : "Brian Weebls",
       "screen_name" : "TheWeebl",
       "indices" : [ 3, 12 ],
       "id_str" : "122040755",
@@ -2331,7 +2338,7 @@ Grailbird.data.tweets_2013_05 =
     "id" : 336529934690443264,
     "created_at" : "2013-05-20 17:12:43 +0000",
     "user" : {
-      "name" : "Weeeeeeeeeeeeeeebl",
+      "name" : "Brian Weebls",
       "screen_name" : "TheWeebl",
       "protected" : false,
       "id_str" : "122040755",
@@ -2361,7 +2368,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "14355014",
       "id" : 14355014
     }, {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 100, 107 ],
       "id_str" : "35737385",
@@ -2439,7 +2446,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CCL Computers Ltd",
+      "name" : "CCL Computers",
       "screen_name" : "CCLcomputers",
       "indices" : [ 0, 13 ],
       "id_str" : "34905264",
@@ -2472,7 +2479,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CCL Computers Ltd",
+      "name" : "CCL Computers",
       "screen_name" : "CCLcomputers",
       "indices" : [ 0, 13 ],
       "id_str" : "34905264",
@@ -2722,7 +2729,13 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 63, 76 ],
+      "id_str" : "737197812459409408",
+      "id" : 737197812459409408
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2749,7 +2762,13 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "737197812459409408",
+      "id" : 737197812459409408
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2820,7 +2839,13 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "737197812459409408",
+      "id" : 737197812459409408
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3592,7 +3617,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -3625,7 +3650,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -4350,27 +4375,16 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "File Transporter",
-      "screen_name" : "FileTransporter",
-      "indices" : [ 0, 16 ],
-      "id_str" : "868874827",
-      "id" : 868874827
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "332236123373969408",
   "geo" : { },
   "id_str" : "332239825468014592",
-  "in_reply_to_user_id" : 868874827,
   "text" : "@FileTransporter Hell, with 10% off is $179.10 which is \u00A3115.30 GBP. \u00A364 GBP cheaper :|",
   "id" : 332239825468014592,
-  "in_reply_to_status_id" : 332236123373969408,
   "created_at" : "2013-05-08 21:05:21 +0000",
-  "in_reply_to_screen_name" : "FileTransporter",
-  "in_reply_to_user_id_str" : "868874827",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4383,27 +4397,16 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "File Transporter",
-      "screen_name" : "FileTransporter",
-      "indices" : [ 0, 16 ],
-      "id_str" : "868874827",
-      "id" : 868874827
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "332236123373969408",
   "geo" : { },
   "id_str" : "332238079605739523",
-  "in_reply_to_user_id" : 868874827,
   "text" : "@FileTransporter \u00A3179 is $278. $199 in your us store, \u00A3128. \u00A351 cheaper to buy it from the US? Even more annoying as an early k\/s backer....",
   "id" : 332238079605739523,
-  "in_reply_to_status_id" : 332236123373969408,
   "created_at" : "2013-05-08 20:58:25 +0000",
-  "in_reply_to_screen_name" : "FileTransporter",
-  "in_reply_to_user_id_str" : "868874827",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4416,13 +4419,7 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "File Transporter",
-      "screen_name" : "FileTransporter",
-      "indices" : [ 9, 25 ],
-      "id_str" : "868874827",
-      "id" : 868874827
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

@@ -168,7 +168,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "RDGluck",
       "protected" : false,
       "id_str" : "62607006",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593021466909650944\/sHAV09XH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726589856491687936\/iGbHRm22_normal.jpg",
       "id" : 62607006,
       "verified" : false
     }
@@ -397,7 +397,13 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -573,27 +579,16 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "503583514605125632",
   "geo" : { },
   "id_str" : "503584247131545600",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy And BT are uplifting? ;)",
   "id" : 503584247131545600,
-  "in_reply_to_status_id" : 503583514605125632,
   "created_at" : "2014-08-24 16:46:55 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -607,7 +602,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1154,27 +1149,16 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "500992786796396544",
   "geo" : { },
   "id_str" : "500993263864938497",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy \"Why do you think the UK should leave the EU? Because Opal Fruits\"",
   "id" : 500993263864938497,
-  "in_reply_to_status_id" : 500992786796396544,
   "created_at" : "2014-08-17 13:11:16 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1403,7 +1387,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "flightradar24",
       "protected" : false,
       "id_str" : "134196350",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2417857345\/2s9s2y0tlqzl8k0er2nt_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710502600593035265\/eU_SCiU9_normal.jpg",
       "id" : 134196350,
       "verified" : true
     }
@@ -1445,7 +1429,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 53, 58 ],
       "id_str" : "14822382",

@@ -813,12 +813,6 @@ Grailbird.data.tweets_2016_01 =
       "indices" : [ 0, 10 ],
       "id_str" : "256493047",
       "id" : 256493047
-    }, {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 11, 23 ],
-      "id_str" : "15048694",
-      "id" : 15048694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -918,12 +912,6 @@ Grailbird.data.tweets_2016_01 =
       "indices" : [ 0, 10 ],
       "id_str" : "256493047",
       "id" : 256493047
-    }, {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 11, 23 ],
-      "id_str" : "15048694",
-      "id" : 15048694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -957,12 +945,6 @@ Grailbird.data.tweets_2016_01 =
       "indices" : [ 0, 10 ],
       "id_str" : "256493047",
       "id" : 256493047
-    }, {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 11, 23 ],
-      "id_str" : "15048694",
-      "id" : 15048694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -990,27 +972,16 @@ Grailbird.data.tweets_2016_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "692114851880112128",
   "geo" : { },
   "id_str" : "692115426478800899",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy Yeah, he's talking about H&amp;H. Gilberdyke, Newport (among others) have KC and BT coverage.. Don't know where it becomes KC only",
   "id" : 692115426478800899,
-  "in_reply_to_status_id" : 692114851880112128,
   "created_at" : "2016-01-26 22:42:31 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1029,12 +1000,6 @@ Grailbird.data.tweets_2016_01 =
       "indices" : [ 0, 10 ],
       "id_str" : "256493047",
       "id" : 256493047
-    }, {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 11, 23 ],
-      "id_str" : "15048694",
-      "id" : 15048694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1068,12 +1033,6 @@ Grailbird.data.tweets_2016_01 =
       "indices" : [ 0, 10 ],
       "id_str" : "256493047",
       "id" : 256493047
-    }, {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 11, 23 ],
-      "id_str" : "15048694",
-      "id" : 15048694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1101,27 +1060,16 @@ Grailbird.data.tweets_2016_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "692094920694370304",
   "geo" : { },
   "id_str" : "692096823591342083",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy Do they want a new job? ;D I'm getting sick of dealing with BT for copper faults, and other long line related issues. Madness",
   "id" : 692096823591342083,
-  "in_reply_to_status_id" : 692094920694370304,
   "created_at" : "2016-01-26 21:28:35 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1134,13 +1082,7 @@ Grailbird.data.tweets_2016_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -1182,13 +1124,7 @@ Grailbird.data.tweets_2016_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -1200,12 +1136,9 @@ Grailbird.data.tweets_2016_01 =
   },
   "geo" : { },
   "id_str" : "692091406328975364",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy Any idea if this is all of ERYC? Or just Goole area? Wondering if its worth for Howden and Haltemprice  https:\/\/t.co\/hv0mKk3ivX",
   "id" : 692091406328975364,
   "created_at" : "2016-01-26 21:07:04 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1982,7 +1915,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 9, 14 ],
       "id_str" : "14822382",
@@ -2440,7 +2373,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 1, 8 ],
       "id_str" : "35737385",
@@ -2589,7 +2522,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 1, 8 ],
       "id_str" : "35737385",
@@ -2661,7 +2594,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 1, 8 ],
       "id_str" : "35737385",
@@ -2700,7 +2633,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -2733,7 +2666,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -2766,7 +2699,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -2799,7 +2732,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -2832,7 +2765,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 1, 8 ],
       "id_str" : "35737385",
@@ -2865,7 +2798,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 1, 8 ],
       "id_str" : "35737385",
@@ -3437,7 +3370,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "techradar",
+      "name" : "TechRadar",
       "screen_name" : "techradar",
       "indices" : [ 3, 13 ],
       "id_str" : "15560223",
@@ -3534,7 +3467,7 @@ Grailbird.data.tweets_2016_01 =
     "id" : 688331161416929280,
     "created_at" : "2016-01-16 12:05:12 +0000",
     "user" : {
-      "name" : "techradar",
+      "name" : "TechRadar",
       "screen_name" : "techradar",
       "protected" : false,
       "id_str" : "15560223",
@@ -3558,7 +3491,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CCL Computers Ltd",
+      "name" : "CCL Computers",
       "screen_name" : "CCLcomputers",
       "indices" : [ 0, 13 ],
       "id_str" : "34905264",
@@ -3926,7 +3859,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "17048726",
       "id" : 17048726
     }, {
-      "name" : "CCL Computers Ltd",
+      "name" : "CCL Computers",
       "screen_name" : "CCLcomputers",
       "indices" : [ 43, 56 ],
       "id_str" : "34905264",
@@ -5406,7 +5339,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "techradar",
+      "name" : "TechRadar",
       "screen_name" : "techradar",
       "indices" : [ 3, 13 ],
       "id_str" : "15560223",
@@ -5503,7 +5436,7 @@ Grailbird.data.tweets_2016_01 =
     "id" : 684407508606279683,
     "created_at" : "2016-01-05 16:14:00 +0000",
     "user" : {
-      "name" : "techradar",
+      "name" : "TechRadar",
       "screen_name" : "techradar",
       "protected" : false,
       "id_str" : "15560223",
@@ -5555,7 +5488,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 1, 8 ],
       "id_str" : "35737385",
@@ -5588,7 +5521,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CCL Computers Ltd",
+      "name" : "CCL Computers",
       "screen_name" : "CCLcomputers",
       "indices" : [ 0, 13 ],
       "id_str" : "34905264",

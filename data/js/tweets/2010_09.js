@@ -1018,7 +1018,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 0, 7 ],
       "id_str" : "35737385",
@@ -1807,7 +1807,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 25314372560,
     "in_reply_to_status_id" : 25313592596,
     "created_at" : "2010-09-23 14:58:16 +0000",
-    "in_reply_to_screen_name" : "_KCHome",
+    "in_reply_to_screen_name" : "KCOMhome",
     "in_reply_to_user_id_str" : "22005301",
     "user" : {
       "name" : "John Polling",
@@ -3128,7 +3128,13 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

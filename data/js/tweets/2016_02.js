@@ -25,7 +25,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "techradar",
+      "name" : "TechRadar",
       "screen_name" : "techradar",
       "indices" : [ 0, 10 ],
       "id_str" : "15560223",
@@ -1838,7 +1838,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fibre Community",
+      "name" : "Community Fibre",
       "screen_name" : "fibrecommunity",
       "indices" : [ 0, 15 ],
       "id_str" : "14079974",
@@ -2590,7 +2590,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fibre Community",
+      "name" : "Community Fibre",
       "screen_name" : "fibrecommunity",
       "indices" : [ 0, 15 ],
       "id_str" : "14079974",
@@ -2629,7 +2629,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3856,7 +3856,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "TheRealRevK",
       "protected" : false,
       "id_str" : "227666609",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422387638419476480\/3k8H1nYs_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709389375965106177\/a7rMPrUQ_normal.jpg",
       "id" : 227666609,
       "verified" : false
     }

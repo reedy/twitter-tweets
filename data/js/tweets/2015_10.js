@@ -216,12 +216,6 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    }, {
       "name" : "David Davis MP",
       "screen_name" : "DavidDavisMP",
       "indices" : [ 13, 26 ],
@@ -232,16 +226,11 @@ Grailbird.data.tweets_2015_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "659157321046732800",
   "geo" : { },
   "id_str" : "659157903056773121",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy @DavidDavisMP Honestly not sure what is worse. Their rollout, or the communication about it",
   "id" : 659157903056773121,
-  "in_reply_to_status_id" : 659157321046732800,
   "created_at" : "2015-10-28 00:01:05 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -309,12 +298,6 @@ Grailbird.data.tweets_2015_10 =
       "indices" : [ 3, 16 ],
       "id_str" : "2797521996",
       "id" : 2797521996
-    }, {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 125, 137 ],
-      "id_str" : "15048694",
-      "id" : 15048694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -759,7 +742,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ash Furraux",
+      "name" : "Orta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -1065,12 +1048,6 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    }, {
       "name" : "David Davis MP",
       "screen_name" : "DavidDavisMP",
       "indices" : [ 13, 26 ],
@@ -1104,12 +1081,6 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    }, {
       "name" : "David Davis MP",
       "screen_name" : "DavidDavisMP",
       "indices" : [ 52, 65 ],
@@ -1120,16 +1091,11 @@ Grailbird.data.tweets_2015_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "655751042341163009",
   "geo" : { },
   "id_str" : "655752881224683520",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy Either way, be interesting to see what @DavidDavisMP has to say... If cost is a factor.. Have they asked constituents whod pay?",
   "id" : 655752881224683520,
-  "in_reply_to_status_id" : 655751042341163009,
   "created_at" : "2015-10-18 14:30:44 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1142,27 +1108,16 @@ Grailbird.data.tweets_2015_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "655751042341163009",
   "geo" : { },
   "id_str" : "655752303547424768",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy Although KC have been slow in their areas, they're at least doing it properly, fibre all the way, rather than BT style stop gap",
   "id" : 655752303547424768,
-  "in_reply_to_status_id" : 655751042341163009,
   "created_at" : "2015-10-18 14:28:27 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1202,27 +1157,16 @@ Grailbird.data.tweets_2015_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "655739029095337984",
   "geo" : { },
   "id_str" : "655750236854472704",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy Thought it was worth asking around to see if you had any insight w\/ the overlap. ERYC rollout is a joke compared to neighbours",
   "id" : 655750236854472704,
-  "in_reply_to_status_id" : 655739029095337984,
   "created_at" : "2015-10-18 14:20:14 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1236,12 +1180,6 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    }, {
       "name" : "David Davis MP",
       "screen_name" : "DavidDavisMP",
       "indices" : [ 34, 47 ],
@@ -1252,16 +1190,11 @@ Grailbird.data.tweets_2015_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "655739029095337984",
   "geo" : { },
   "id_str" : "655749895811432448",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy Cheers. Have emailed @DavidDavisMP usually get a response in the post fairly quickly, depending on if he writes to ERYC for ans",
   "id" : 655749895811432448,
-  "in_reply_to_status_id" : 655739029095337984,
   "created_at" : "2015-10-18 14:18:53 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1274,25 +1207,16 @@ Grailbird.data.tweets_2015_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Percy",
-      "screen_name" : "andrewpercy",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15048694",
-      "id" : 15048694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "655738232458579969",
-  "in_reply_to_user_id" : 15048694,
   "text" : "@andrewpercy Any suggestions why ERYC and Hull area occupied so many bad spots of superfast internet coverage? Emailed DDavis about Howden..",
   "id" : 655738232458579969,
   "created_at" : "2015-10-18 13:32:32 +0000",
-  "in_reply_to_screen_name" : "andrewpercy",
-  "in_reply_to_user_id_str" : "15048694",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1306,7 +1230,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1476,7 +1400,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "techradar",
+      "name" : "TechRadar",
       "screen_name" : "techradar",
       "indices" : [ 1, 11 ],
       "id_str" : "15560223",
@@ -2647,7 +2571,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3229,11 +3153,11 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "The Co-operativeFood",
-      "screen_name" : "CooperativeFood",
+      "name" : "cooperativefood",
+      "screen_name" : "cooperativefood",
       "indices" : [ 76, 92 ],
-      "id_str" : "46361818",
-      "id" : 46361818
+      "id_str" : "4425735100",
+      "id" : 4425735100
     } ],
     "media" : [ ],
     "hashtags" : [ ],

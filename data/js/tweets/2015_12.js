@@ -1854,7 +1854,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "25583",
       "id" : 25583
     }, {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 95, 102 ],
       "id_str" : "35737385",
@@ -1893,7 +1893,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "25583",
       "id" : 25583
     }, {
-      "name" : "BT",
+      "name" : "BTCare",
       "screen_name" : "BTCare",
       "indices" : [ 47, 54 ],
       "id_str" : "35737385",

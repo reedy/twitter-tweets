@@ -360,7 +360,13 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -570,7 +576,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "22054297",
       "id" : 22054297
     }, {
-      "name" : "Bletchley Park Trust",
+      "name" : "Bletchley Park",
       "screen_name" : "bletchleypark",
       "indices" : [ 30, 44 ],
       "id_str" : "18975155",
@@ -1477,7 +1483,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CCL Computers Ltd",
+      "name" : "CCL Computers",
       "screen_name" : "CCLcomputers",
       "indices" : [ 90, 103 ],
       "id_str" : "34905264",
@@ -2993,7 +2999,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "hhariri",
       "protected" : false,
       "id_str" : "15797140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/610340477771059200\/L-kSvHja_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731390445838839809\/0zvrOZE0_normal.jpg",
       "id" : 15797140,
       "verified" : false
     }
