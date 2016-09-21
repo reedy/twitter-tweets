@@ -628,7 +628,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -661,7 +661,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -1161,7 +1161,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -2292,9 +2292,9 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "tweeting_keith",
       "protected" : false,
       "id_str" : "20326811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737006331949899776\/WAj3aoj2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757613132470743040\/yMdOKaxW_normal.jpg",
       "id" : 20326811,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 37479266513989632,
@@ -3047,7 +3047,7 @@ Grailbird.data.tweets_2011_02 =
       "id_str" : "19058966",
       "id" : 19058966
     }, {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 17, 25 ],
       "id_str" : "14355014",
@@ -3070,7 +3070,7 @@ Grailbird.data.tweets_2011_02 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Shinsters.cs",
+        "name" : "shinsters.js",
         "screen_name" : "shinaku",
         "indices" : [ 0, 8 ],
         "id_str" : "14355014",
@@ -3372,25 +3372,16 @@ Grailbird.data.tweets_2011_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chad H.",
-      "screen_name" : "wikichad",
-      "indices" : [ 0, 9 ],
-      "id_str" : "138008469",
-      "id" : 138008469
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "34414636262494209",
-  "in_reply_to_user_id" : 138008469,
   "text" : "@wikichad Ugh, crappy error handling and adverts. Seems to be limited to your own assigned bugs...",
   "id" : 34414636262494209,
   "created_at" : "2011-02-07 00:54:23 +0000",
-  "in_reply_to_screen_name" : "wikichad",
-  "in_reply_to_user_id_str" : "138008469",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3431,25 +3422,16 @@ Grailbird.data.tweets_2011_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chad H.",
-      "screen_name" : "wikichad",
-      "indices" : [ 0, 9 ],
-      "id_str" : "138008469",
-      "id" : 138008469
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "34413235591450625",
-  "in_reply_to_user_id" : 138008469,
   "text" : "@wikichad There's bugclubzilla on Android market now. Not tried it yet",
   "id" : 34413235591450625,
   "created_at" : "2011-02-07 00:48:49 +0000",
-  "in_reply_to_screen_name" : "wikichad",
-  "in_reply_to_user_id_str" : "138008469",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

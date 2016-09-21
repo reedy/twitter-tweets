@@ -305,27 +305,16 @@ Grailbird.data.tweets_2012_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lewis Cawte",
-      "screen_name" : "Lcawte",
-      "indices" : [ 0, 7 ],
-      "id_str" : "57938220",
-      "id" : 57938220
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "193796466685390849",
   "geo" : { },
   "id_str" : "193821867725946881",
-  "in_reply_to_user_id" : 57938220,
   "text" : "@Lcawte I've been here for a week for Wikidata related stuff. Heading home tomorrow",
   "id" : 193821867725946881,
-  "in_reply_to_status_id" : 193796466685390849,
   "created_at" : "2012-04-21 22:01:48 +0000",
-  "in_reply_to_screen_name" : "Lcawte",
-  "in_reply_to_user_id_str" : "57938220",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -855,7 +844,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1757,27 +1746,16 @@ Grailbird.data.tweets_2012_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lewis Cawte",
-      "screen_name" : "Lcawte",
-      "indices" : [ 0, 7 ],
-      "id_str" : "57938220",
-      "id" : 57938220
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "186924686846853121",
   "geo" : { },
   "id_str" : "186931324429406208",
-  "in_reply_to_user_id" : 57938220,
   "text" : "@Lcawte I got an account in the beta reduced price time...",
   "id" : 186931324429406208,
-  "in_reply_to_status_id" : 186924686846853121,
   "created_at" : "2012-04-02 21:41:15 +0000",
-  "in_reply_to_screen_name" : "Lcawte",
-  "in_reply_to_user_id_str" : "57938220",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1880,8 +1858,8 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ {
       "indices" : [ 93, 113 ],
       "url" : "http:\/\/t.co\/Yj15LVui",
-      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
-      "display_url" : "bit.ly\/jPWQAY"
+      "expanded_url" : "http:\/\/t.co\/Yj15LVui",
+      "display_url" : "t.co\/Yj15LVui"
     } ]
   },
   "geo" : { },
@@ -1961,8 +1939,8 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ {
       "indices" : [ 65, 85 ],
       "url" : "http:\/\/t.co\/oqRUd0r0",
-      "expanded_url" : "http:\/\/bit.ly\/stopthesnooping",
-      "display_url" : "bit.ly\/stopthesnooping"
+      "expanded_url" : "http:\/\/t.co\/oqRUd0r0",
+      "display_url" : "t.co\/oqRUd0r0"
     } ]
   },
   "geo" : { },

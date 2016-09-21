@@ -47,8 +47,8 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ {
       "indices" : [ 93, 115 ],
       "url" : "http:\/\/t.co\/QtuyKM7JuM",
-      "expanded_url" : "http:\/\/cnet.co\/11zr1Jq",
-      "display_url" : "cnet.co\/11zr1Jq"
+      "expanded_url" : "http:\/\/t.co\/QtuyKM7JuM",
+      "display_url" : "t.co\/QtuyKM7JuM"
     } ]
   },
   "geo" : { },
@@ -63,8 +63,8 @@ Grailbird.data.tweets_2013_04 =
       "urls" : [ {
         "indices" : [ 83, 105 ],
         "url" : "http:\/\/t.co\/QtuyKM7JuM",
-        "expanded_url" : "http:\/\/cnet.co\/11zr1Jq",
-        "display_url" : "cnet.co\/11zr1Jq"
+        "expanded_url" : "http:\/\/t.co\/QtuyKM7JuM",
+        "display_url" : "t.co\/QtuyKM7JuM"
       } ]
     },
     "geo" : { },
@@ -77,7 +77,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718145129786114048\/ZPRUZJc2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913385794928643\/P_CichEc_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -202,12 +202,7 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 121, 140 ],
-      "url" : "http:\/\/t.co\/tclah8bZyS",
-      "expanded_url" : "http:\/\/cnet.co\/17V84Gn",
-      "display_url" : "cnet.co\/17V84Gn"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "328542397741010946",
@@ -235,7 +230,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718145129786114048\/ZPRUZJc2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913385794928643\/P_CichEc_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -825,7 +820,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718145129786114048\/ZPRUZJc2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913385794928643\/P_CichEc_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -1248,8 +1243,8 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ {
       "indices" : [ 54, 76 ],
       "url" : "http:\/\/t.co\/2OtZo04M2T",
-      "expanded_url" : "http:\/\/bit.ly\/XPruIu",
-      "display_url" : "bit.ly\/XPruIu"
+      "expanded_url" : "http:\/\/t.co\/2OtZo04M2T",
+      "display_url" : "t.co\/2OtZo04M2T"
     } ]
   },
   "geo" : { },
@@ -2221,8 +2216,8 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ {
       "indices" : [ 107, 129 ],
       "url" : "http:\/\/t.co\/wug4DZTJ9m",
-      "expanded_url" : "http:\/\/38d.gs\/npowertax",
-      "display_url" : "38d.gs\/npowertax"
+      "expanded_url" : "http:\/\/t.co\/wug4DZTJ9m",
+      "display_url" : "t.co\/wug4DZTJ9m"
     } ]
   },
   "geo" : { },
@@ -2419,7 +2414,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718145129786114048\/ZPRUZJc2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913385794928643\/P_CichEc_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -2860,8 +2855,8 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ {
       "indices" : [ 37, 59 ],
       "url" : "http:\/\/t.co\/2qszqkZZ3C",
-      "expanded_url" : "http:\/\/bit.ly\/16Z5uvH",
-      "display_url" : "bit.ly\/16Z5uvH"
+      "expanded_url" : "http:\/\/t.co\/2qszqkZZ3C",
+      "display_url" : "t.co\/2qszqkZZ3C"
     } ]
   },
   "geo" : { },
@@ -2932,12 +2927,6 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lewis Cawte",
-      "screen_name" : "Lcawte",
-      "indices" : [ 0, 7 ],
-      "id_str" : "57938220",
-      "id" : 57938220
-    }, {
       "name" : "Cineworld Cinemas",
       "screen_name" : "cineworld",
       "indices" : [ 92, 102 ],
@@ -2948,16 +2937,11 @@ Grailbird.data.tweets_2013_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "322077633003282432",
   "geo" : { },
   "id_str" : "322080504528637952",
-  "in_reply_to_user_id" : 57938220,
   "text" : "@Lcawte I think its really nothing more than a very simple wrapper around their mobile site @cineworld",
   "id" : 322080504528637952,
-  "in_reply_to_status_id" : 322077633003282432,
   "created_at" : "2013-04-10 20:15:50 +0000",
-  "in_reply_to_screen_name" : "Lcawte",
-  "in_reply_to_user_id_str" : "57938220",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3121,8 +3105,8 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ {
       "indices" : [ 102, 124 ],
       "url" : "http:\/\/t.co\/0hs1LZPQCK",
-      "expanded_url" : "http:\/\/bbc.in\/10UIHAg",
-      "display_url" : "bbc.in\/10UIHAg"
+      "expanded_url" : "http:\/\/t.co\/0hs1LZPQCK",
+      "display_url" : "t.co\/0hs1LZPQCK"
     } ]
   },
   "geo" : { },
@@ -3137,8 +3121,8 @@ Grailbird.data.tweets_2013_04 =
       "urls" : [ {
         "indices" : [ 89, 111 ],
         "url" : "http:\/\/t.co\/0hs1LZPQCK",
-        "expanded_url" : "http:\/\/bbc.in\/10UIHAg",
-        "display_url" : "bbc.in\/10UIHAg"
+        "expanded_url" : "http:\/\/t.co\/0hs1LZPQCK",
+        "display_url" : "t.co\/0hs1LZPQCK"
       } ]
     },
     "geo" : { },
@@ -3634,27 +3618,16 @@ Grailbird.data.tweets_2013_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lewis Cawte",
-      "screen_name" : "Lcawte",
-      "indices" : [ 0, 7 ],
-      "id_str" : "57938220",
-      "id" : 57938220
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "319861670409281536",
   "geo" : { },
   "id_str" : "319880867206029313",
-  "in_reply_to_user_id" : 57938220,
   "text" : "@Lcawte And works pretty well for the throwaway test apps I'm writing to grab from some data sources. Final thing will likely be in C# too",
   "id" : 319880867206029313,
-  "in_reply_to_status_id" : 319861670409281536,
   "created_at" : "2013-04-04 18:35:16 +0000",
-  "in_reply_to_screen_name" : "Lcawte",
-  "in_reply_to_user_id_str" : "57938220",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3667,27 +3640,16 @@ Grailbird.data.tweets_2013_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lewis Cawte",
-      "screen_name" : "Lcawte",
-      "indices" : [ 0, 7 ],
-      "id_str" : "57938220",
-      "id" : 57938220
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "319861670409281536",
   "geo" : { },
   "id_str" : "319880654433157122",
-  "in_reply_to_user_id" : 57938220,
   "text" : "@Lcawte Language I'm comfortable in, if a little rusty. CBA with php and having 2 write HTML tables out or similar. .NET has useful controls",
   "id" : 319880654433157122,
-  "in_reply_to_status_id" : 319861670409281536,
   "created_at" : "2013-04-04 18:34:25 +0000",
-  "in_reply_to_screen_name" : "Lcawte",
-  "in_reply_to_user_id_str" : "57938220",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4043,13 +4005,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ {
       "indices" : [ 48, 70 ],
       "url" : "http:\/\/t.co\/zxgsD3yiN3",
-      "expanded_url" : "http:\/\/bbc.in\/16wnkYt",
-      "display_url" : "bbc.in\/16wnkYt"
+      "expanded_url" : "http:\/\/t.co\/zxgsD3yiN3",
+      "display_url" : "t.co\/zxgsD3yiN3"
     }, {
       "indices" : [ 71, 93 ],
       "url" : "http:\/\/t.co\/dAZIaehAjT",
-      "expanded_url" : "http:\/\/bbc.in\/16wnizO",
-      "display_url" : "bbc.in\/16wnizO"
+      "expanded_url" : "http:\/\/t.co\/dAZIaehAjT",
+      "display_url" : "t.co\/dAZIaehAjT"
     } ]
   },
   "in_reply_to_status_id_str" : "319427813872640001",
@@ -4133,8 +4095,8 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ {
       "indices" : [ 71, 93 ],
       "url" : "http:\/\/t.co\/PXE6aokWrm",
-      "expanded_url" : "http:\/\/bit.ly\/YSu0Ov",
-      "display_url" : "bit.ly\/YSu0Ov"
+      "expanded_url" : "http:\/\/t.co\/PXE6aokWrm",
+      "display_url" : "t.co\/PXE6aokWrm"
     } ]
   },
   "in_reply_to_status_id_str" : "319427813872640001",
@@ -4367,8 +4329,8 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ {
       "indices" : [ 93, 115 ],
       "url" : "http:\/\/t.co\/uRkmjHCZp7",
-      "expanded_url" : "http:\/\/bit.ly\/XI5aSh",
-      "display_url" : "bit.ly\/XI5aSh"
+      "expanded_url" : "http:\/\/t.co\/uRkmjHCZp7",
+      "display_url" : "t.co\/uRkmjHCZp7"
     } ]
   },
   "geo" : { },
@@ -4461,8 +4423,8 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ {
       "indices" : [ 16, 38 ],
       "url" : "http:\/\/t.co\/VdHU6LNv9S",
-      "expanded_url" : "http:\/\/bit.ly\/12crKBo",
-      "display_url" : "bit.ly\/12crKBo"
+      "expanded_url" : "http:\/\/t.co\/VdHU6LNv9S",
+      "display_url" : "t.co\/VdHU6LNv9S"
     } ]
   },
   "in_reply_to_status_id_str" : "318674948250025984",
@@ -4653,8 +4615,8 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ {
       "indices" : [ 16, 38 ],
       "url" : "http:\/\/t.co\/nUcpLgkbud",
-      "expanded_url" : "http:\/\/bit.ly\/Z4CQV9",
-      "display_url" : "bit.ly\/Z4CQV9"
+      "expanded_url" : "http:\/\/t.co\/nUcpLgkbud",
+      "display_url" : "t.co\/nUcpLgkbud"
     } ]
   },
   "in_reply_to_status_id_str" : "318118849511825408",
@@ -4716,7 +4678,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5161,7 +5123,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

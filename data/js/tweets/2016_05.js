@@ -139,12 +139,7 @@ Grailbird.data.tweets_2016_05 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/a5P0tpNFWX",
-      "expanded_url" : "https:\/\/twitter.com\/eljefedelrodeo\/status\/737588388329459713",
-      "display_url" : "twitter.com\/eljefedelrodeo\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "737601244626178049",
@@ -174,7 +169,7 @@ Grailbird.data.tweets_2016_05 =
       "id_str" : "51049452",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000793737967\/504e16c697e3422a3c1a35d88cf65782_normal.jpeg",
       "id" : 51049452,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 737601244626178049,
@@ -282,7 +277,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Davis",
+      "name" : " Bryan Davis",
       "screen_name" : "bd808",
       "indices" : [ 0, 6 ],
       "id_str" : "14311035",
@@ -315,7 +310,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Davis",
+      "name" : " Bryan Davis",
       "screen_name" : "bd808",
       "indices" : [ 0, 6 ],
       "id_str" : "14311035",
@@ -612,13 +607,7 @@ Grailbird.data.tweets_2016_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James",
-      "screen_name" : "JamesTLS90",
-      "indices" : [ 0, 11 ],
-      "id_str" : "1974862314",
-      "id" : 1974862314
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -631,7 +620,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736165387834916865,
   "in_reply_to_status_id" : 736165185598201856,
   "created_at" : "2016-05-27 12:01:20 +0000",
-  "in_reply_to_screen_name" : "JamesTLS90",
+  "in_reply_to_screen_name" : "JamesMCR90",
   "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
@@ -645,13 +634,7 @@ Grailbird.data.tweets_2016_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James",
-      "screen_name" : "JamesTLS90",
-      "indices" : [ 0, 11 ],
-      "id_str" : "1974862314",
-      "id" : 1974862314
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -664,7 +647,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736165092111290368,
   "in_reply_to_status_id" : 736164240495673344,
   "created_at" : "2016-05-27 12:00:09 +0000",
-  "in_reply_to_screen_name" : "JamesTLS90",
+  "in_reply_to_screen_name" : "JamesMCR90",
   "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
@@ -1143,13 +1126,7 @@ Grailbird.data.tweets_2016_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James",
-      "screen_name" : "JamesTLS90",
-      "indices" : [ 0, 11 ],
-      "id_str" : "1974862314",
-      "id" : 1974862314
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1162,7 +1139,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 733257379781939201,
   "in_reply_to_status_id" : 733254966136213504,
   "created_at" : "2016-05-19 11:25:57 +0000",
-  "in_reply_to_screen_name" : "JamesTLS90",
+  "in_reply_to_screen_name" : "JamesMCR90",
   "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
@@ -1176,13 +1153,7 @@ Grailbird.data.tweets_2016_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James",
-      "screen_name" : "JamesTLS90",
-      "indices" : [ 0, 11 ],
-      "id_str" : "1974862314",
-      "id" : 1974862314
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1195,7 +1166,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 733257317299421184,
   "in_reply_to_status_id" : 733254966136213504,
   "created_at" : "2016-05-19 11:25:42 +0000",
-  "in_reply_to_screen_name" : "JamesTLS90",
+  "in_reply_to_screen_name" : "JamesMCR90",
   "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
@@ -1209,13 +1180,7 @@ Grailbird.data.tweets_2016_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James",
-      "screen_name" : "JamesTLS90",
-      "indices" : [ 0, 11 ],
-      "id_str" : "1974862314",
-      "id" : 1974862314
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1228,7 +1193,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 733254060472668160,
   "in_reply_to_status_id" : 733253529457037312,
   "created_at" : "2016-05-19 11:12:45 +0000",
-  "in_reply_to_screen_name" : "JamesTLS90",
+  "in_reply_to_screen_name" : "JamesMCR90",
   "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
@@ -1265,7 +1230,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown",
+      "name" : "Ryan Brown @EGX",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1739,7 +1704,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "5UB",
+      "name" : "Steven Levitt",
       "screen_name" : "fiveub",
       "indices" : [ 0, 7 ],
       "id_str" : "1706468510",

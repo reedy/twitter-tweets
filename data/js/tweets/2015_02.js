@@ -1007,12 +1007,6 @@ Grailbird.data.tweets_2015_02 =
       "indices" : [ 3, 12 ],
       "id_str" : "31284372",
       "id" : 31284372
-    }, {
-      "name" : "The Verge",
-      "screen_name" : "verge",
-      "indices" : [ 136, 140 ],
-      "id_str" : "275686563",
-      "id" : 275686563
     } ],
     "media" : [ ],
     "hashtags" : [ ],

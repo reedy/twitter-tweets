@@ -72,8 +72,8 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ {
       "indices" : [ 13, 33 ],
       "url" : "http:\/\/t.co\/d7FVIfUz",
-      "expanded_url" : "http:\/\/bit.ly\/H91b7C",
-      "display_url" : "bit.ly\/H91b7C"
+      "expanded_url" : "http:\/\/t.co\/d7FVIfUz",
+      "display_url" : "t.co\/d7FVIfUz"
     } ]
   },
   "geo" : { },
@@ -93,27 +93,16 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lewis Cawte",
-      "screen_name" : "Lcawte",
-      "indices" : [ 0, 7 ],
-      "id_str" : "57938220",
-      "id" : 57938220
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "185838312131538944",
   "geo" : { },
   "id_str" : "185839728183095298",
-  "in_reply_to_user_id" : 57938220,
   "text" : "@Lcawte The post would've been more use if Plume had actually attached the image to it also...",
   "id" : 185839728183095298,
-  "in_reply_to_status_id" : 185838312131538944,
   "created_at" : "2012-03-30 21:23:38 +0000",
-  "in_reply_to_screen_name" : "Lcawte",
-  "in_reply_to_user_id_str" : "57938220",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -365,8 +354,8 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ {
       "indices" : [ 12, 32 ],
       "url" : "http:\/\/t.co\/5v7XHhir",
-      "expanded_url" : "http:\/\/bit.ly\/GWs777",
-      "display_url" : "bit.ly\/GWs777"
+      "expanded_url" : "http:\/\/t.co\/5v7XHhir",
+      "display_url" : "t.co\/5v7XHhir"
     } ]
   },
   "geo" : { },
@@ -639,8 +628,8 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ {
       "indices" : [ 83, 103 ],
       "url" : "http:\/\/t.co\/Yj15LVui",
-      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
-      "display_url" : "bit.ly\/jPWQAY"
+      "expanded_url" : "http:\/\/t.co\/Yj15LVui",
+      "display_url" : "t.co\/Yj15LVui"
     } ]
   },
   "geo" : { },
@@ -741,8 +730,8 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ {
       "indices" : [ 90, 110 ],
       "url" : "http:\/\/t.co\/Yj15LVui",
-      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
-      "display_url" : "bit.ly\/jPWQAY"
+      "expanded_url" : "http:\/\/t.co\/Yj15LVui",
+      "display_url" : "t.co\/Yj15LVui"
     } ]
   },
   "geo" : { },
@@ -1472,27 +1461,16 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lewis Cawte",
-      "screen_name" : "Lcawte",
-      "indices" : [ 0, 7 ],
-      "id_str" : "57938220",
-      "id" : 57938220
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "180351448230535169",
   "geo" : { },
   "id_str" : "180351946530619392",
-  "in_reply_to_user_id" : 57938220,
   "text" : "@Lcawte Just don't have 52 shots of tequila",
   "id" : 180351946530619392,
-  "in_reply_to_status_id" : 180351448230535169,
   "created_at" : "2012-03-15 17:57:09 +0000",
-  "in_reply_to_screen_name" : "Lcawte",
-  "in_reply_to_user_id_str" : "57938220",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1505,27 +1483,16 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lewis Cawte",
-      "screen_name" : "Lcawte",
-      "indices" : [ 0, 7 ],
-      "id_str" : "57938220",
-      "id" : 57938220
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "180351448230535169",
   "geo" : { },
   "id_str" : "180351883607670785",
-  "in_reply_to_user_id" : 57938220,
   "text" : "@Lcawte You can drink on the street, and they sell beer at Train Stations... 2 years ago I didn't see anyone get ID'd....",
   "id" : 180351883607670785,
-  "in_reply_to_status_id" : 180351448230535169,
   "created_at" : "2012-03-15 17:56:54 +0000",
-  "in_reply_to_screen_name" : "Lcawte",
-  "in_reply_to_user_id_str" : "57938220",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1599,27 +1566,16 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lewis Cawte",
-      "screen_name" : "Lcawte",
-      "indices" : [ 0, 7 ],
-      "id_str" : "57938220",
-      "id" : 57938220
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "180348898647347200",
   "geo" : { },
   "id_str" : "180349580502773760",
-  "in_reply_to_user_id" : 57938220,
   "text" : "@Lcawte 9 hours? Try 14 for me... Or 11 from Brighton apparently...",
   "id" : 180349580502773760,
-  "in_reply_to_status_id" : 180348898647347200,
   "created_at" : "2012-03-15 17:47:45 +0000",
-  "in_reply_to_screen_name" : "Lcawte",
-  "in_reply_to_user_id_str" : "57938220",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1843,7 +1799,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2326,7 +2282,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737990291416862720\/sjnxBLMI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745004790560620544\/P8PYYMsC_normal.jpg",
       "id" : 94178695,
       "verified" : false
     }
@@ -2418,12 +2374,7 @@ Grailbird.data.tweets_2012_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/byvhxULv",
-      "expanded_url" : "http:\/\/www.cjemicros.co.uk\/micros\/individual\/newprodpages\/prodinfo.php?prodcode=4D-RaspberryPi-RealTimeClock-RTC",
-      "display_url" : "cjemicros.co.uk\/micros\/individ\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "176716282878623745",

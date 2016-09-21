@@ -60,7 +60,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -317,12 +317,6 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chad H.",
-      "screen_name" : "wikichad",
-      "indices" : [ 0, 9 ],
-      "id_str" : "138008469",
-      "id" : 138008469
-    }, {
       "name" : "PhpStorm",
       "screen_name" : "phpstorm",
       "indices" : [ 14, 23 ],
@@ -333,16 +327,11 @@ Grailbird.data.tweets_2010_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "17359065914",
   "geo" : { },
   "id_str" : "17366388876",
-  "in_reply_to_user_id" : 138008469,
   "text" : "@wikichad Try @phpstorm? ;)",
   "id" : 17366388876,
-  "in_reply_to_status_id" : 17359065914,
   "created_at" : "2010-06-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "wikichad",
-  "in_reply_to_user_id_str" : "138008469",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -646,11 +635,11 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Foy",
-      "screen_name" : "fuzzyness",
+      "name" : "Revo | Fuzzyness",
+      "screen_name" : "Fuzzyness",
       "indices" : [ 0, 10 ],
-      "id_str" : "761365",
-      "id" : 761365
+      "id_str" : "1513268550",
+      "id" : 1513268550
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -664,7 +653,7 @@ Grailbird.data.tweets_2010_06 =
   "id" : 16911379488,
   "in_reply_to_status_id" : 16911124135,
   "created_at" : "2010-06-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "fuzzyness",
+  "in_reply_to_screen_name" : "MrDaveFoy",
   "in_reply_to_user_id_str" : "761365",
   "user" : {
     "name" : "Sam Reed",
@@ -735,11 +724,11 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Foy",
-      "screen_name" : "fuzzyness",
+      "name" : "Revo | Fuzzyness",
+      "screen_name" : "Fuzzyness",
       "indices" : [ 0, 10 ],
-      "id_str" : "761365",
-      "id" : 761365
+      "id_str" : "1513268550",
+      "id" : 1513268550
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -753,7 +742,7 @@ Grailbird.data.tweets_2010_06 =
   "id" : 16831555203,
   "in_reply_to_status_id" : 16831349885,
   "created_at" : "2010-06-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "fuzzyness",
+  "in_reply_to_screen_name" : "MrDaveFoy",
   "in_reply_to_user_id_str" : "761365",
   "user" : {
     "name" : "Sam Reed",
@@ -1020,7 +1009,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737990291416862720\/sjnxBLMI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745004790560620544\/P8PYYMsC_normal.jpg",
       "id" : 94178695,
       "verified" : false
     }
@@ -1442,6 +1431,53 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "16535107339",
+  "text" : "Im tweeting from a sinclair zx spectrum 3",
+  "id" : 16535107339,
+  "created_at" : "2010-06-19 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "vcf",
+      "indices" : [ 45, 49 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "16537828179",
+  "text" : "In soviet russia, decatron tubes collect you #vcf",
+  "id" : 16537828179,
+  "created_at" : "2010-06-19 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1702,53 +1738,6 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16535107339",
-  "text" : "Im tweeting from a sinclair zx spectrum 3",
-  "id" : 16535107339,
-  "created_at" : "2010-06-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "vcf",
-      "indices" : [ 45, 49 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16537828179",
-  "text" : "In soviet russia, decatron tubes collect you #vcf",
-  "id" : 16537828179,
-  "created_at" : "2010-06-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1946,11 +1935,11 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Foy",
-      "screen_name" : "fuzzyness",
+      "name" : "Revo | Fuzzyness",
+      "screen_name" : "Fuzzyness",
       "indices" : [ 0, 10 ],
-      "id_str" : "761365",
-      "id" : 761365
+      "id_str" : "1513268550",
+      "id" : 1513268550
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1964,7 +1953,7 @@ Grailbird.data.tweets_2010_06 =
   "id" : 16288388618,
   "in_reply_to_status_id" : 16234285598,
   "created_at" : "2010-06-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "fuzzyness",
+  "in_reply_to_screen_name" : "MrDaveFoy",
   "in_reply_to_user_id_str" : "761365",
   "user" : {
     "name" : "Sam Reed",
@@ -2016,11 +2005,11 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "15205083",
       "id" : 15205083
     }, {
-      "name" : "Dave Foy",
-      "screen_name" : "fuzzyness",
+      "name" : "Revo | Fuzzyness",
+      "screen_name" : "Fuzzyness",
       "indices" : [ 10, 20 ],
-      "id_str" : "761365",
-      "id" : 761365
+      "id_str" : "1513268550",
+      "id" : 1513268550
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3163,6 +3152,34 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "lastfm",
+      "indices" : [ 28, 35 ]
+    }, {
+      "text" : "fb",
+      "indices" : [ 64, 67 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15663327355",
+  "text" : "I really need to pollute my #lastfm library with some new music #fb",
+  "id" : 15663327355,
+  "created_at" : "2010-06-07 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -3287,7 +3304,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "16488676",
       "id" : 16488676
     }, {
-      "name" : "Solidarity Forever",
+      "name" : "#Solidarity101",
       "screen_name" : "MarkDilley",
       "indices" : [ 15, 26 ],
       "id_str" : "899271",
@@ -3304,7 +3321,7 @@ Grailbird.data.tweets_2010_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Solidarity Forever",
+        "name" : "#Solidarity101",
         "screen_name" : "MarkDilley",
         "indices" : [ 3, 14 ],
         "id_str" : "899271",
@@ -3358,34 +3375,6 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15651402358",
   "text" : "OMG OMG OMG OMG THERE IS A NEW IPHONE. And? #care #fb",
   "id" : 15651402358,
-  "created_at" : "2010-06-07 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "lastfm",
-      "indices" : [ 28, 35 ]
-    }, {
-      "text" : "fb",
-      "indices" : [ 64, 67 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15663327355",
-  "text" : "I really need to pollute my #lastfm library with some new music #fb",
-  "id" : 15663327355,
   "created_at" : "2010-06-07 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",

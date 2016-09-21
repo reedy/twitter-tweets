@@ -86,7 +86,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -119,7 +119,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2304,7 +2304,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2624,7 +2624,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2770,17 +2770,11 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "161939679",
       "id" : 161939679
     }, {
-      "name" : "Dell Security",
-      "screen_name" : "DellSecurity",
-      "indices" : [ 12, 25 ],
+      "name" : "SonicWALL and IAM",
+      "screen_name" : "SonicWALL",
+      "indices" : [ 26, 36 ],
       "id_str" : "18147893",
       "id" : 18147893
-    }, {
-      "name" : "Dell Security Cares",
-      "screen_name" : "SonicWall",
-      "indices" : [ 26, 36 ],
-      "id_str" : "172371956",
-      "id" : 172371956
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3076,7 +3070,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3158,7 +3152,13 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Andrew Percy",
+      "screen_name" : "AndrewPercy",
+      "indices" : [ 0, 12 ],
+      "id_str" : "754763748208967680",
+      "id" : 754763748208967680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4200,12 +4200,7 @@ Grailbird.data.tweets_2014_01 =
       "text" : "EPinquiry",
       "indices" : [ 121, 131 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/jyGSyQJna1",
-      "expanded_url" : "https:\/\/www.openrightsgroup.org\/blog\/2013\/meps-release-draft-report-damning-blanket-internet-surveillance",
-      "display_url" : "openrightsgroup.org\/blog\/2013\/meps\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "421001213149466624",
@@ -4433,7 +4428,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5240,27 +5235,16 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lewis Cawte",
-      "screen_name" : "Lcawte",
-      "indices" : [ 0, 7 ],
-      "id_str" : "57938220",
-      "id" : 57938220
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "420160273899859968",
   "geo" : { },
   "id_str" : "420163157626470400",
-  "in_reply_to_user_id" : 57938220,
   "text" : "@Lcawte Not flooded around here. River is well in its banks",
   "id" : 420163157626470400,
-  "in_reply_to_status_id" : 420160273899859968,
   "created_at" : "2014-01-06 12:01:17 +0000",
-  "in_reply_to_screen_name" : "Lcawte",
-  "in_reply_to_user_id_str" : "57938220",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5550,7 +5534,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5626,27 +5610,16 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chad H.",
-      "screen_name" : "wikichad",
-      "indices" : [ 0, 9 ],
-      "id_str" : "138008469",
-      "id" : 138008469
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "419328980332732417",
   "geo" : { },
   "id_str" : "419521345756872704",
-  "in_reply_to_user_id" : 138008469,
   "text" : "@wikichad It seems after running git gc over them all... All extensions now only takes 2.2G. Decent drop on only WMF ones too",
   "id" : 419521345756872704,
-  "in_reply_to_status_id" : 419328980332732417,
   "created_at" : "2014-01-04 17:30:57 +0000",
-  "in_reply_to_screen_name" : "wikichad",
-  "in_reply_to_user_id_str" : "138008469",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -6862,7 +6835,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -6895,11 +6868,11 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Foy",
-      "screen_name" : "fuzzyness",
+      "name" : "Revo | Fuzzyness",
+      "screen_name" : "Fuzzyness",
       "indices" : [ 0, 10 ],
-      "id_str" : "761365",
-      "id" : 761365
+      "id_str" : "1513268550",
+      "id" : 1513268550
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6913,7 +6886,7 @@ Grailbird.data.tweets_2014_01 =
   "id" : 418777718109786112,
   "in_reply_to_status_id" : 418777578888237056,
   "created_at" : "2014-01-02 16:16:03 +0000",
-  "in_reply_to_screen_name" : "fuzzyness",
+  "in_reply_to_screen_name" : "MrDaveFoy",
   "in_reply_to_user_id_str" : "761365",
   "user" : {
     "name" : "Sam Reed",
@@ -7229,7 +7202,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "21117752",
       "id" : 21117752
     }, {
-      "name" : "JUST EAT UK",
+      "name" : "Just Eat UK",
       "screen_name" : "JustEatUK",
       "indices" : [ 23, 33 ],
       "id_str" : "25320756",

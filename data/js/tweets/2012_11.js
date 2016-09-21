@@ -427,7 +427,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -708,51 +708,10 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 3, 13 ],
       "id_str" : "21993653",
       "id" : 21993653
-    }, {
-      "name" : "THQ",
-      "screen_name" : "THQ",
-      "indices" : [ 31, 35 ],
-      "id_str" : "160839015",
-      "id" : 160839015
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/SaintsRow\/status\/274215049965494272\/photo\/1",
-      "indices" : [ 108, 128 ],
-      "url" : "http:\/\/t.co\/d82Kr5kk",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/A841IpXCYAE8JSP.jpg",
-      "id_str" : "274215049973882881",
-      "id" : 274215049973882881,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A841IpXCYAE8JSP.jpg",
-      "sizes" : [ {
-        "h" : 96,
-        "resize" : "fit",
-        "w" : 597
-      }, {
-        "h" : 96,
-        "resize" : "fit",
-        "w" : 597
-      }, {
-        "h" : 55,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 96,
-        "resize" : "fit",
-        "w" : 597
-      }, {
-        "h" : 96,
-        "resize" : "crop",
-        "w" : 96
-      } ],
-      "display_url" : "pic.twitter.com\/d82Kr5kk"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 87, 107 ],
-      "url" : "http:\/\/t.co\/y6fhRN8w",
-      "expanded_url" : "http:\/\/www.humblebundle.com",
-      "display_url" : "humblebundle.com"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "274215798841696256",
@@ -760,13 +719,7 @@ Grailbird.data.tweets_2012_11 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "THQ",
-        "screen_name" : "THQ",
-        "indices" : [ 16, 20 ],
-        "id_str" : "160839015",
-        "id" : 160839015
-      } ],
+      "user_mentions" : [ ],
       "media" : [ {
         "expanded_url" : "http:\/\/twitter.com\/SaintsRow\/status\/274215049965494272\/photo\/1",
         "indices" : [ 93, 113 ],
@@ -1282,7 +1235,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "98335997",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563109834988335104\/mYPfSB_b_normal.png",
       "id" : 98335997,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 273574224952709120,
@@ -1389,8 +1342,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 84, 104 ],
       "url" : "http:\/\/t.co\/8Gc3HMcy",
-      "expanded_url" : "http:\/\/www.geeky-gadgets.com\/samsung-stops-supplying-apple-with-batteries-for-ipad-and-macbook-25-11-2012\/",
-      "display_url" : "geeky-gadgets.com\/samsung-stops-\u2026"
+      "expanded_url" : "http:\/\/t.co\/8Gc3HMcy",
+      "display_url" : "t.co\/8Gc3HMcy"
     } ]
   },
   "geo" : { },
@@ -1444,8 +1397,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 36, 56 ],
       "url" : "http:\/\/t.co\/Yj11ell8",
-      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
-      "display_url" : "bit.ly\/jPWQAY"
+      "expanded_url" : "http:\/\/t.co\/Yj11ell8",
+      "display_url" : "t.co\/Yj11ell8"
     } ]
   },
   "geo" : { },
@@ -1666,8 +1619,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 11, 31 ],
       "url" : "http:\/\/t.co\/CuEN5aPr",
-      "expanded_url" : "http:\/\/bit.ly\/QC7jfZ",
-      "display_url" : "bit.ly\/QC7jfZ"
+      "expanded_url" : "http:\/\/t.co\/CuEN5aPr",
+      "display_url" : "t.co\/CuEN5aPr"
     } ]
   },
   "geo" : { },
@@ -1821,8 +1774,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 112, 132 ],
       "url" : "http:\/\/t.co\/huRTQnIC",
-      "expanded_url" : "http:\/\/kck.st\/10dMVmO",
-      "display_url" : "kck.st\/10dMVmO"
+      "expanded_url" : "http:\/\/t.co\/huRTQnIC",
+      "display_url" : "t.co\/huRTQnIC"
     } ]
   },
   "geo" : { },
@@ -1898,8 +1851,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 79, 99 ],
       "url" : "http:\/\/t.co\/kvMrhib7",
-      "expanded_url" : "http:\/\/buff.ly\/XDeplW",
-      "display_url" : "buff.ly\/XDeplW"
+      "expanded_url" : "http:\/\/t.co\/kvMrhib7",
+      "display_url" : "t.co\/kvMrhib7"
     } ]
   },
   "geo" : { },
@@ -1914,8 +1867,8 @@ Grailbird.data.tweets_2012_11 =
       "urls" : [ {
         "indices" : [ 60, 80 ],
         "url" : "http:\/\/t.co\/kvMrhib7",
-        "expanded_url" : "http:\/\/buff.ly\/XDeplW",
-        "display_url" : "buff.ly\/XDeplW"
+        "expanded_url" : "http:\/\/t.co\/kvMrhib7",
+        "display_url" : "t.co\/kvMrhib7"
       } ]
     },
     "geo" : { },
@@ -2171,8 +2124,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 43, 63 ],
       "url" : "http:\/\/t.co\/YUB47YR7",
-      "expanded_url" : "http:\/\/bit.ly\/SaGDzD",
-      "display_url" : "bit.ly\/SaGDzD"
+      "expanded_url" : "http:\/\/t.co\/YUB47YR7",
+      "display_url" : "t.co\/YUB47YR7"
     } ]
   },
   "geo" : { },
@@ -2254,7 +2207,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2411,8 +2364,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 103, 123 ],
       "url" : "http:\/\/t.co\/Yj11ell8",
-      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
-      "display_url" : "bit.ly\/jPWQAY"
+      "expanded_url" : "http:\/\/t.co\/Yj11ell8",
+      "display_url" : "t.co\/Yj11ell8"
     } ]
   },
   "geo" : { },
@@ -2548,7 +2501,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2711,8 +2664,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 74, 94 ],
       "url" : "http:\/\/t.co\/VndQ7ij4",
-      "expanded_url" : "http:\/\/bit.ly\/RZNqh3",
-      "display_url" : "bit.ly\/RZNqh3"
+      "expanded_url" : "http:\/\/t.co\/VndQ7ij4",
+      "display_url" : "t.co\/VndQ7ij4"
     } ]
   },
   "geo" : { },
@@ -3032,7 +2985,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3065,7 +3018,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3098,7 +3051,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3453,7 +3406,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3580,7 +3533,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3676,8 +3629,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 117, 137 ],
       "url" : "http:\/\/t.co\/rzCbGJp4",
-      "expanded_url" : "http:\/\/bit.ly\/SlnbhU",
-      "display_url" : "bit.ly\/SlnbhU"
+      "expanded_url" : "http:\/\/t.co\/rzCbGJp4",
+      "display_url" : "t.co\/rzCbGJp4"
     } ]
   },
   "geo" : { },
@@ -3892,8 +3845,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 100, 120 ],
       "url" : "http:\/\/t.co\/Yj11ell8",
-      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
-      "display_url" : "bit.ly\/jPWQAY"
+      "expanded_url" : "http:\/\/t.co\/Yj11ell8",
+      "display_url" : "t.co\/Yj11ell8"
     } ]
   },
   "geo" : { },
@@ -3925,8 +3878,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 96, 116 ],
       "url" : "http:\/\/t.co\/GKtUwIdp",
-      "expanded_url" : "http:\/\/amzn.to\/S8mjgy",
-      "display_url" : "amzn.to\/S8mjgy"
+      "expanded_url" : "http:\/\/t.co\/GKtUwIdp",
+      "display_url" : "t.co\/GKtUwIdp"
     } ]
   },
   "in_reply_to_status_id_str" : "267276738701168641",
@@ -3977,7 +3930,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -4078,7 +4031,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "98335997",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563109834988335104\/mYPfSB_b_normal.png",
       "id" : 98335997,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 266998229449703424,
@@ -4190,8 +4143,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 83, 103 ],
       "url" : "http:\/\/t.co\/QfL5XhHM",
-      "expanded_url" : "http:\/\/bbc.in\/TuDUyK",
-      "display_url" : "bbc.in\/TuDUyK"
+      "expanded_url" : "http:\/\/t.co\/QfL5XhHM",
+      "display_url" : "t.co\/QfL5XhHM"
     } ]
   },
   "geo" : { },
@@ -4564,6 +4517,57 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Stephen Fry",
+      "screen_name" : "stephenfry",
+      "indices" : [ 3, 14 ],
+      "id_str" : "15439395",
+      "id" : 15439395
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "265214430286073856",
+  "text" : "RT @stephenfry: Voting time in the US. None of my business, but I have met Mitt and \u2026 well. Please not. Please.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "265214368856297472",
+    "text" : "Voting time in the US. None of my business, but I have met Mitt and \u2026 well. Please not. Please.",
+    "id" : 265214368856297472,
+    "created_at" : "2012-11-04 22:10:07 +0000",
+    "user" : {
+      "name" : "Stephen Fry",
+      "screen_name" : "stephenfry",
+      "protected" : false,
+      "id_str" : "15439395",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504060630450438144\/3tEN_Y7C_normal.png",
+      "id" : 15439395,
+      "verified" : true
+    }
+  },
+  "id" : 265214430286073856,
+  "created_at" : "2012-11-04 22:10:22 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Danica Olivar",
       "screen_name" : "olivarrr",
       "indices" : [ 0, 9 ],
@@ -4600,8 +4604,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 94, 114 ],
       "url" : "http:\/\/t.co\/Yj11ell8",
-      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
-      "display_url" : "bit.ly\/jPWQAY"
+      "expanded_url" : "http:\/\/t.co\/Yj11ell8",
+      "display_url" : "t.co\/Yj11ell8"
     } ]
   },
   "geo" : { },
@@ -4691,7 +4695,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4860,8 +4864,8 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ {
       "indices" : [ 14, 34 ],
       "url" : "http:\/\/t.co\/KvsoIwlc",
-      "expanded_url" : "http:\/\/bit.ly\/SBzWIa",
-      "display_url" : "bit.ly\/SBzWIa"
+      "expanded_url" : "http:\/\/t.co\/KvsoIwlc",
+      "display_url" : "t.co\/KvsoIwlc"
     } ]
   },
   "geo" : { },

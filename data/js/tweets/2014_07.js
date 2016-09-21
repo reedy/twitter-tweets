@@ -9,37 +9,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "30542242",
       "id" : 30542242
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/JustFlight\/status\/494797206793506816\/photo\/1",
-      "indices" : [ 143, 144 ],
-      "url" : "http:\/\/t.co\/iUBZixxcnF",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bt3fb9OIgAA1oRe.jpg",
-      "id_str" : "494797205463924736",
-      "id" : 494797205463924736,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bt3fb9OIgAA1oRe.jpg",
-      "sizes" : [ {
-        "h" : 585,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 1400
-      }, {
-        "h" : 194,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 343,
-        "resize" : "fit",
-        "w" : 600
-      } ],
-      "display_url" : "pic.twitter.com\/iUBZixxcnF"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 114, 136 ],
@@ -165,7 +135,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718145129786114048\/ZPRUZJc2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913385794928643\/P_CichEc_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -732,7 +702,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1240,37 +1210,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "382376904",
       "id" : 382376904
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/fightfortheftr\/status\/492322574932525057\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/aIwV9u4Vg2",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BtUUxZNCcAAH7eu.jpg",
-      "id_str" : "492322573078654976",
-      "id" : 492322573078654976,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BtUUxZNCcAAH7eu.jpg",
-      "sizes" : [ {
-        "h" : 191,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 337,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 1123,
-        "resize" : "fit",
-        "w" : 2000
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 575,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/aIwV9u4Vg2"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 115, 137 ],
@@ -1335,7 +1275,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "fightfortheftr",
       "protected" : false,
       "id_str" : "382376904",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710075057440104448\/GzaCkpR-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753709059317071873\/JF5D0OMI_normal.jpg",
       "id" : 382376904,
       "verified" : false
     }
@@ -1399,7 +1339,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown",
+      "name" : "Ryan Brown @EGX",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1432,7 +1372,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown",
+      "name" : "Ryan Brown @EGX",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1465,7 +1405,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown",
+      "name" : "Ryan Brown @EGX",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1611,12 +1551,7 @@ Grailbird.data.tweets_2014_07 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/ZXRgaFCdpo",
-      "expanded_url" : "http:\/\/ow.ly\/zqcJr",
-      "display_url" : "ow.ly\/zqcJr"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "491391693317763072",
@@ -1836,12 +1771,7 @@ Grailbird.data.tweets_2014_07 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 118, 140 ],
-      "url" : "http:\/\/t.co\/oh3BzkxbQG",
-      "expanded_url" : "http:\/\/j.mp\/Uk9pDR",
-      "display_url" : "j.mp\/Uk9pDR"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "491256371489546240",
@@ -2798,7 +2728,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3815,7 +3745,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4093,7 +4023,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tanner Filip",
+      "name" : "tanner",
       "screen_name" : "tannerfilip",
       "indices" : [ 10, 22 ],
       "id_str" : "18496297",
@@ -4137,7 +4067,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tanner Filip",
+      "name" : "tanner",
       "screen_name" : "tannerfilip",
       "indices" : [ 0, 12 ],
       "id_str" : "18496297",
@@ -4176,7 +4106,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tanner Filip",
+      "name" : "tanner",
       "screen_name" : "tannerfilip",
       "indices" : [ 0, 12 ],
       "id_str" : "18496297",
@@ -4668,12 +4598,7 @@ Grailbird.data.tweets_2014_07 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/kfhrsOYgjg",
-      "expanded_url" : "https:\/\/www.eff.org\/deeplinks\/2014\/07\/ngos-launch-digital-first-aid-kit",
-      "display_url" : "eff.org\/deeplinks\/2014\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "487327064442568704",
@@ -4707,7 +4632,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "fightfortheftr",
       "protected" : false,
       "id_str" : "382376904",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710075057440104448\/GzaCkpR-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753709059317071873\/JF5D0OMI_normal.jpg",
       "id" : 382376904,
       "verified" : false
     }
@@ -4936,16 +4861,8 @@ Grailbird.data.tweets_2014_07 =
       "id" : 15028398
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "DRIP",
-      "indices" : [ 139, 140 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/jSlQ00wWbt",
-      "expanded_url" : "https:\/\/www.openrightsgroup.org\/campaigns\/no-emergency-stop-the-data-retention-stitch-up",
-      "display_url" : "openrightsgroup.org\/campaigns\/no-e\u2026"
-    } ]
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "487203534509973504",
@@ -5024,7 +4941,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown",
+      "name" : "Ryan Brown @EGX",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -5069,7 +4986,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown",
+      "name" : "Ryan Brown @EGX",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -5108,7 +5025,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown",
+      "name" : "Ryan Brown @EGX",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -5438,10 +5355,10 @@ Grailbird.data.tweets_2014_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "XH558",
-      "screen_name" : "XH558",
+      "screen_name" : "xh558",
       "indices" : [ 0, 6 ],
-      "id_str" : "16185155",
-      "id" : 16185155
+      "id_str" : "745622629902585857",
+      "id" : 745622629902585857
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5455,7 +5372,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 485496505240133632,
   "in_reply_to_status_id" : 485474056217853952,
   "created_at" : "2014-07-05 18:52:41 +0000",
-  "in_reply_to_screen_name" : "XH558",
+  "in_reply_to_screen_name" : "vulcantothesky",
   "in_reply_to_user_id_str" : "16185155",
   "user" : {
     "name" : "Sam Reed",
@@ -5528,7 +5445,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

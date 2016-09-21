@@ -325,7 +325,7 @@ Grailbird.data.tweets_2010_01 =
     "user" : {
       "name" : "Joseph",
       "screen_name" : "dueledge",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "25743312",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606152216844619776\/44eo0po-_normal.jpg",
       "id" : 25743312,
@@ -577,7 +577,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "ROIdude",
       "protected" : false,
       "id_str" : "21817647",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/674568190609854464\/DSNAfyQI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/739295977593405440\/WMXitEd0_normal.jpg",
       "id" : 21817647,
       "verified" : false
     }
@@ -796,7 +796,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "LeonardChallis",
       "protected" : false,
       "id_str" : "2991771",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730479500631416832\/8zLyw39S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748939158199136256\/RQf8xCFS_normal.jpg",
       "id" : 2991771,
       "verified" : false
     }
@@ -862,7 +862,7 @@ Grailbird.data.tweets_2010_01 =
     "user" : {
       "name" : "Joseph",
       "screen_name" : "dueledge",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "25743312",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606152216844619776\/44eo0po-_normal.jpg",
       "id" : 25743312,
@@ -884,7 +884,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 3, 11 ],
       "id_str" : "14355014",
@@ -911,7 +911,7 @@ Grailbird.data.tweets_2010_01 =
     "id" : 8230711943,
     "created_at" : "2010-01-26 10:36:40 +0000",
     "user" : {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "protected" : true,
       "id_str" : "14355014",
@@ -1221,7 +1221,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "19058966",
       "id" : 19058966
     }, {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 13, 21 ],
       "id_str" : "14355014",
@@ -1351,7 +1351,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -1502,6 +1502,69 @@ Grailbird.data.tweets_2010_01 =
   "text" : "In the cinema waiting for #avatar 3D to start!",
   "id" : 8083864230,
   "created_at" : "2010-01-22 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jon Moss",
+      "screen_name" : "jonmoss",
+      "indices" : [ 3, 11 ],
+      "id_str" : "13501",
+      "id" : 13501
+    }, {
+      "name" : "Mashable",
+      "screen_name" : "mashable",
+      "indices" : [ 16, 25 ],
+      "id_str" : "972651",
+      "id" : 972651
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8034195356",
+  "text" : "RT @jonmoss: RT @mashable: Firefox 3.6 Released - http:\/\/bit.ly\/7jfmkD",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Mashable",
+        "screen_name" : "mashable",
+        "indices" : [ 3, 12 ],
+        "id_str" : "972651",
+        "id" : 972651
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "8034095008",
+    "text" : "RT @mashable: Firefox 3.6 Released - http:\/\/bit.ly\/7jfmkD",
+    "id" : 8034095008,
+    "created_at" : "2010-01-21 17:09:04 +0000",
+    "user" : {
+      "name" : "Jon Moss",
+      "screen_name" : "jonmoss",
+      "protected" : false,
+      "id_str" : "13501",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/598893790791901186\/hTM_aBMy_normal.jpg",
+      "id" : 13501,
+      "verified" : false
+    }
+  },
+  "id" : 8034195356,
+  "created_at" : "2010-01-21 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1672,69 +1735,6 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jon Moss",
-      "screen_name" : "jonmoss",
-      "indices" : [ 3, 11 ],
-      "id_str" : "13501",
-      "id" : 13501
-    }, {
-      "name" : "Mashable",
-      "screen_name" : "mashable",
-      "indices" : [ 16, 25 ],
-      "id_str" : "972651",
-      "id" : 972651
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8034195356",
-  "text" : "RT @jonmoss: RT @mashable: Firefox 3.6 Released - http:\/\/bit.ly\/7jfmkD",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Mashable",
-        "screen_name" : "mashable",
-        "indices" : [ 3, 12 ],
-        "id_str" : "972651",
-        "id" : 972651
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "8034095008",
-    "text" : "RT @mashable: Firefox 3.6 Released - http:\/\/bit.ly\/7jfmkD",
-    "id" : 8034095008,
-    "created_at" : "2010-01-21 17:09:04 +0000",
-    "user" : {
-      "name" : "Jon Moss",
-      "screen_name" : "jonmoss",
-      "protected" : false,
-      "id_str" : "13501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/598893790791901186\/hTM_aBMy_normal.jpg",
-      "id" : 13501,
-      "verified" : false
-    }
-  },
-  "id" : 8034195356,
-  "created_at" : "2010-01-21 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "ExpanDrive",
       "screen_name" : "expandrive",
       "indices" : [ 0, 11 ],
@@ -1792,7 +1792,13 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Danica Olivar",
+      "screen_name" : "olivarrr",
+      "indices" : [ 0, 9 ],
+      "id_str" : "736549693258235904",
+      "id" : 736549693258235904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2466,7 +2472,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 3, 11 ],
       "id_str" : "14355014",
@@ -2493,7 +2499,7 @@ Grailbird.data.tweets_2010_01 =
     "id" : 7736630581,
     "created_at" : "2010-01-14 04:44:08 +0000",
     "user" : {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "protected" : true,
       "id_str" : "14355014",
@@ -2606,7 +2612,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "28587521",
       "id" : 28587521
     }, {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 12, 20 ],
       "id_str" : "14355014",
@@ -3054,6 +3060,94 @@ Grailbird.data.tweets_2010_01 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "7526359212",
+  "text" : "Truck now stuck on the other side of the bridge on the incline. Ie heading into town..  Anlaby road",
+  "id" : 7526359212,
+  "created_at" : "2010-01-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7527329101",
+  "text" : "Well that was nice. My htc magic just turned itself off",
+  "id" : 7527329101,
+  "created_at" : "2010-01-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7527785644",
+  "text" : "Must be getting cold. Roads getting icy",
+  "id" : 7527785644,
+  "created_at" : "2010-01-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7528185524",
+  "text" : "Please indicate people. It REALLY helps people guess where your going. With stopping and starting being hard enough on ice. Kthxbai",
+  "id" : 7528185524,
+  "created_at" : "2010-01-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "7528389217",
   "text" : "There's something amusing about watching cars come out of a junction after the other lights go green",
   "id" : 7528389217,
@@ -3439,94 +3533,6 @@ Grailbird.data.tweets_2010_01 =
   "id_str" : "7526095917",
   "text" : "Currently reading Jeremy Clarksons latest book while not moving. #fb",
   "id" : 7526095917,
-  "created_at" : "2010-01-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7526359212",
-  "text" : "Truck now stuck on the other side of the bridge on the incline. Ie heading into town..  Anlaby road",
-  "id" : 7526359212,
-  "created_at" : "2010-01-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7527329101",
-  "text" : "Well that was nice. My htc magic just turned itself off",
-  "id" : 7527329101,
-  "created_at" : "2010-01-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7527785644",
-  "text" : "Must be getting cold. Roads getting icy",
-  "id" : 7527785644,
-  "created_at" : "2010-01-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7528185524",
-  "text" : "Please indicate people. It REALLY helps people guess where your going. With stopping and starting being hard enough on ice. Kthxbai",
-  "id" : 7528185524,
   "created_at" : "2010-01-08 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
@@ -4187,7 +4193,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",

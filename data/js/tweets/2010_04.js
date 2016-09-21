@@ -354,84 +354,6 @@ Grailbird.data.tweets_2010_04 =
     "media" : [ ],
     "hashtags" : [ {
       "text" : "fb",
-      "indices" : [ 89, 92 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12807748101",
-  "text" : "Somewhere in the humber. Hull wet, grey, and overcast. Why did I expect anything better? #fb",
-  "id" : 12807748101,
-  "created_at" : "2010-04-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "vodafone",
-      "indices" : [ 5, 14 ]
-    }, {
-      "text" : "fb",
-      "indices" : [ 93, 96 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12807848211",
-  "text" : "Dear #vodafone why are you welcoming me to vodafone nl? I'm quite clearly in British waters. #fb",
-  "id" : 12807848211,
-  "created_at" : "2010-04-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 31, 34 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12809885227",
-  "text" : "Back on British soil. Finally. #fb",
-  "id" : 12809885227,
-  "created_at" : "2010-04-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
       "indices" : [ 123, 126 ]
     } ],
     "urls" : [ ]
@@ -507,6 +429,84 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-25 00:00:00 +0000",
   "in_reply_to_screen_name" : "mrwizrd",
   "in_reply_to_user_id_str" : "16019962",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 89, 92 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12807748101",
+  "text" : "Somewhere in the humber. Hull wet, grey, and overcast. Why did I expect anything better? #fb",
+  "id" : 12807748101,
+  "created_at" : "2010-04-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "vodafone",
+      "indices" : [ 5, 14 ]
+    }, {
+      "text" : "fb",
+      "indices" : [ 93, 96 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12807848211",
+  "text" : "Dear #vodafone why are you welcoming me to vodafone nl? I'm quite clearly in British waters. #fb",
+  "id" : 12807848211,
+  "created_at" : "2010-04-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 31, 34 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12809885227",
+  "text" : "Back on British soil. Finally. #fb",
+  "id" : 12809885227,
+  "created_at" : "2010-04-25 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -936,13 +936,7 @@ Grailbird.data.tweets_2010_04 =
       "id" : 64672345
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ashtag",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "euva",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -1011,10 +1005,7 @@ Grailbird.data.tweets_2010_04 =
       "id" : 133490014
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ashtag",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2010,6 +2001,109 @@ Grailbird.data.tweets_2010_04 =
     "media" : [ ],
     "hashtags" : [ {
       "text" : "wmcon",
+      "indices" : [ 75, 81 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12210704609",
+  "text" : "(Some) 'UK Airports Closed By Ash Cloud From Volcano' http:\/\/bit.ly\/9YWGTg #wmcon Could affect a few people, if flying over too",
+  "id" : 12210704609,
+  "created_at" : "2010-04-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wmcon",
+      "indices" : [ 63, 69 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12212544802",
+  "text" : "http:\/\/toolserver.org\/~reedy\/timetable.JPG Timetable for today #wmcon",
+  "id" : 12212544802,
+  "created_at" : "2010-04-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wmcon",
+      "indices" : [ 129, 135 ]
+    }, {
+      "text" : "fb",
+      "indices" : [ 136, 139 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12224835817",
+  "text" : "Flights over the UK are cancelled until 0700BST on Friday as ash from a volcanic eruption in Iceland causes chaos across Europe. #wmcon #fb",
+  "id" : 12224835817,
+  "created_at" : "2010-04-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wmcon",
+      "indices" : [ 47, 53 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12224895069",
+  "text" : "http:\/\/news.bbc.co.uk\/2\/hi\/uk_news\/8621407.stm #wmcon",
+  "id" : 12224895069,
+  "created_at" : "2010-04-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wmcon",
       "indices" : [ 101, 107 ]
     }, {
       "text" : "fb",
@@ -2150,109 +2244,6 @@ Grailbird.data.tweets_2010_04 =
     }
   },
   "id" : 12210072423,
-  "created_at" : "2010-04-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "wmcon",
-      "indices" : [ 75, 81 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12210704609",
-  "text" : "(Some) 'UK Airports Closed By Ash Cloud From Volcano' http:\/\/bit.ly\/9YWGTg #wmcon Could affect a few people, if flying over too",
-  "id" : 12210704609,
-  "created_at" : "2010-04-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "wmcon",
-      "indices" : [ 63, 69 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12212544802",
-  "text" : "http:\/\/toolserver.org\/~reedy\/timetable.JPG Timetable for today #wmcon",
-  "id" : 12212544802,
-  "created_at" : "2010-04-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "wmcon",
-      "indices" : [ 129, 135 ]
-    }, {
-      "text" : "fb",
-      "indices" : [ 136, 139 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12224835817",
-  "text" : "Flights over the UK are cancelled until 0700BST on Friday as ash from a volcanic eruption in Iceland causes chaos across Europe. #wmcon #fb",
-  "id" : 12224835817,
-  "created_at" : "2010-04-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "wmcon",
-      "indices" : [ 47, 53 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12224895069",
-  "text" : "http:\/\/news.bbc.co.uk\/2\/hi\/uk_news\/8621407.stm #wmcon",
-  "id" : 12224895069,
   "created_at" : "2010-04-15 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
@@ -2633,9 +2624,6 @@ Grailbird.data.tweets_2010_04 =
     "hashtags" : [ {
       "text" : "ukelection",
       "indices" : [ 125, 136 ]
-    }, {
-      "text" : "votepirate",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -2668,7 +2656,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "38447898",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469108187950354432\/NAm6R7iv_normal.png",
       "id" : 38447898,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 12064228705,
@@ -2787,7 +2775,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -3208,23 +3196,14 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "15028398",
       "id" : 15028398
     }, {
-      "name" : "tom_watson",
+      "name" : "Tom Watson \uD83C\uDDEC\uD83C\uDDE7",
       "screen_name" : "tom_watson",
       "indices" : [ 31, 42 ],
       "id_str" : "14190551",
       "id" : 14190551
-    }, {
-      "name" : "Eric Joyce",
-      "screen_name" : "ericjoyce",
-      "indices" : [ 57, 67 ],
-      "id_str" : "22388326",
-      "id" : 22388326
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "DEBill",
-      "indices" : [ 117, 124 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -3234,7 +3213,7 @@ Grailbird.data.tweets_2010_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "tom_watson",
+        "name" : "Tom Watson \uD83C\uDDEC\uD83C\uDDE7",
         "screen_name" : "tom_watson",
         "indices" : [ 10, 21 ],
         "id_str" : "14190551",
@@ -3347,7 +3326,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "38447898",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469108187950354432\/NAm6R7iv_normal.png",
       "id" : 38447898,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 11789859833,

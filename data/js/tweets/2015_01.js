@@ -710,12 +710,7 @@ Grailbird.data.tweets_2015_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/5kW9mHdbvf",
-      "expanded_url" : "http:\/\/bit.ly\/1FUCfAI",
-      "display_url" : "bit.ly\/1FUCfAI"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "555348078530920448",
@@ -949,7 +944,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown",
+      "name" : "Ryan Brown @EGX",
       "screen_name" : "Toadsanime",
       "indices" : [ 3, 14 ],
       "id_str" : "116534927",
@@ -961,37 +956,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "103065157",
       "id" : 103065157
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Toadsanime\/status\/554957997190176769\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/lFBEEdytHR",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B7ObT7PCAAAUMxV.jpg",
-      "id_str" : "554957945717260288",
-      "id" : 554957945717260288,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B7ObT7PCAAAUMxV.jpg",
-      "sizes" : [ {
-        "h" : 635,
-        "resize" : "fit",
-        "w" : 599
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 635,
-        "resize" : "fit",
-        "w" : 599
-      }, {
-        "h" : 635,
-        "resize" : "fit",
-        "w" : 599
-      }, {
-        "h" : 360,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/lFBEEdytHR"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -1048,13 +1013,13 @@ Grailbird.data.tweets_2015_01 =
     "id" : 554957997190176769,
     "created_at" : "2015-01-13 11:07:51 +0000",
     "user" : {
-      "name" : "Ryan Brown",
+      "name" : "Ryan Brown @EGX",
       "screen_name" : "Toadsanime",
       "protected" : false,
       "id_str" : "116534927",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725859444115017728\/8ObOd6dT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/764481824030687233\/n7OtV9g9_normal.jpg",
       "id" : 116534927,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 554958624058269697,
@@ -1096,7 +1061,13 @@ Grailbird.data.tweets_2015_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Andrew Percy",
+      "screen_name" : "AndrewPercy",
+      "indices" : [ 4, 16 ],
+      "id_str" : "754763748208967680",
+      "id" : 754763748208967680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -1877,12 +1848,7 @@ Grailbird.data.tweets_2015_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 127, 140 ],
-      "url" : "http:\/\/t.co\/ncRJi9n9Eo",
-      "expanded_url" : "http:\/\/on.mash.to\/1FcvYjw",
-      "display_url" : "on.mash.to\/1FcvYjw"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "552244664167043072",
@@ -1997,7 +1963,7 @@ Grailbird.data.tweets_2015_01 =
   "id_str" : "552130260419223552",
   "text" : "RT @lenovo: JUST REVEALED AT #CES2015: A New X1 Carbon For a New Year. More: http:\/\/t.co\/uAlJ955xda @intel #LenovoCES http:\/\/t.co\/KvJWqGcAHL",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Intel",
@@ -2061,7 +2027,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "lenovo",
       "protected" : false,
       "id_str" : "17307429",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738264300272422913\/9-51-HxP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775174561025368064\/YFaHUydb_normal.jpg",
       "id" : 17307429,
       "verified" : true
     }

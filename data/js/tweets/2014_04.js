@@ -573,7 +573,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -910,7 +910,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1218,7 +1218,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "dmacvicar",
       "protected" : false,
       "id_str" : "10855542",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635521003729350657\/CScOMoCL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774700366994833408\/K3E39qV4_normal.jpg",
       "id" : 10855542,
       "verified" : false
     }
@@ -1406,27 +1406,16 @@ Grailbird.data.tweets_2014_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lewis Cawte",
-      "screen_name" : "Lcawte",
-      "indices" : [ 0, 7 ],
-      "id_str" : "57938220",
-      "id" : 57938220
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "456164191418609664",
   "geo" : { },
   "id_str" : "456164474333175808",
-  "in_reply_to_user_id" : 57938220,
   "text" : "@Lcawte My account is also 10 years old on 7th December 2014...",
   "id" : 456164474333175808,
-  "in_reply_to_status_id" : 456164191418609664,
   "created_at" : "2014-04-15 20:17:40 +0000",
-  "in_reply_to_screen_name" : "Lcawte",
-  "in_reply_to_user_id_str" : "57938220",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2027,7 +2016,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brian Weebls",
+      "name" : "Weebl",
       "screen_name" : "TheWeebl",
       "indices" : [ 3, 12 ],
       "id_str" : "122040755",
@@ -2076,11 +2065,11 @@ Grailbird.data.tweets_2014_04 =
     "id" : 454936079343558656,
     "created_at" : "2014-04-12 10:56:28 +0000",
     "user" : {
-      "name" : "Brian Weebls",
+      "name" : "Weebl",
       "screen_name" : "TheWeebl",
       "protected" : false,
       "id_str" : "122040755",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416480836364816384\/Ibgjcdo4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755318986296946688\/Xk4Cgl1S_normal.jpg",
       "id" : 122040755,
       "verified" : false
     }
@@ -2288,37 +2277,7 @@ Grailbird.data.tweets_2014_04 =
       "id_str" : "17679727",
       "id" : 17679727
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Miramax\/status\/454357276896149504\/photo\/1",
-      "indices" : [ 124, 140 ],
-      "url" : "http:\/\/t.co\/uxn2bz5WZ4",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bk4ziTsCQAENrDe.jpg",
-      "id_str" : "454357276904538113",
-      "id" : 454357276904538113,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bk4ziTsCQAENrDe.jpg",
-      "sizes" : [ {
-        "h" : 571,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 189,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 613,
-        "resize" : "fit",
-        "w" : 1100
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 334,
-        "resize" : "fit",
-        "w" : 600
-      } ],
-      "display_url" : "pic.twitter.com\/uxn2bz5WZ4"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "PulpFiction",
       "indices" : [ 73, 85 ]
@@ -2616,25 +2575,20 @@ Grailbird.data.tweets_2014_04 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kim Bruning",
-      "screen_name" : "Kim_Bruning",
+      "screen_name" : "kim_bruning",
       "indices" : [ 0, 12 ],
-      "id_str" : "110151335",
-      "id" : 110151335
+      "id_str" : "766742580465807360",
+      "id" : 766742580465807360
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "454248716065837057",
   "geo" : { },
   "id_str" : "454249929683533824",
-  "in_reply_to_user_id" : 110151335,
   "text" : "@Kim_Bruning Unfortunately, for this nature of software there's no OSS equivalent. And I've not got the time to write an ERP app myself",
   "id" : 454249929683533824,
-  "in_reply_to_status_id" : 454248716065837057,
   "created_at" : "2014-04-10 13:29:57 +0000",
-  "in_reply_to_screen_name" : "Kim_Bruning",
-  "in_reply_to_user_id_str" : "110151335",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2682,25 +2636,20 @@ Grailbird.data.tweets_2014_04 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kim Bruning",
-      "screen_name" : "Kim_Bruning",
+      "screen_name" : "kim_bruning",
       "indices" : [ 0, 12 ],
-      "id_str" : "110151335",
-      "id" : 110151335
+      "id_str" : "766742580465807360",
+      "id" : 766742580465807360
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "454247695411326976",
   "geo" : { },
   "id_str" : "454248146743619584",
-  "in_reply_to_user_id" : 110151335,
   "text" : "@Kim_Bruning Causing spectacular crashes for users among other things :(",
   "id" : 454248146743619584,
-  "in_reply_to_status_id" : 454247695411326976,
   "created_at" : "2014-04-10 13:22:52 +0000",
-  "in_reply_to_screen_name" : "Kim_Bruning",
-  "in_reply_to_user_id_str" : "110151335",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2715,25 +2664,20 @@ Grailbird.data.tweets_2014_04 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kim Bruning",
-      "screen_name" : "Kim_Bruning",
+      "screen_name" : "kim_bruning",
       "indices" : [ 0, 12 ],
-      "id_str" : "110151335",
-      "id" : 110151335
+      "id_str" : "766742580465807360",
+      "id" : 766742580465807360
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "454247695411326976",
   "geo" : { },
   "id_str" : "454248031106633728",
-  "in_reply_to_user_id" : 110151335,
   "text" : "@Kim_Bruning SAP Business One (ie expensive software) not trapping exceptions, which are making it to the Windows Event Viewer...",
   "id" : 454248031106633728,
-  "in_reply_to_status_id" : 454247695411326976,
   "created_at" : "2014-04-10 13:22:24 +0000",
-  "in_reply_to_screen_name" : "Kim_Bruning",
-  "in_reply_to_user_id_str" : "110151335",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2944,7 +2888,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3761,25 +3705,20 @@ Grailbird.data.tweets_2014_04 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kim Bruning",
-      "screen_name" : "Kim_Bruning",
+      "screen_name" : "kim_bruning",
       "indices" : [ 0, 12 ],
-      "id_str" : "110151335",
-      "id" : 110151335
+      "id_str" : "766742580465807360",
+      "id" : 766742580465807360
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "453115815244869632",
   "geo" : { },
   "id_str" : "453117191396020224",
-  "in_reply_to_user_id" : 110151335,
   "text" : "@Kim_Bruning There's a few tools for doing it... Hell, you've technically been able to do it with Grub (minus user friendliness) for years!",
   "id" : 453117191396020224,
-  "in_reply_to_status_id" : 453115815244869632,
   "created_at" : "2014-04-07 10:28:51 +0000",
-  "in_reply_to_screen_name" : "Kim_Bruning",
-  "in_reply_to_user_id_str" : "110151335",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4254,12 +4193,7 @@ Grailbird.data.tweets_2014_04 =
       "text" : "VisualStudio",
       "indices" : [ 33, 46 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 124, 144 ],
-      "url" : "http:\/\/t.co\/mduldEMgb5",
-      "expanded_url" : "http:\/\/bit.ly\/1kvTwSa",
-      "display_url" : "bit.ly\/1kvTwSa"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "452159348471779329",
@@ -4468,7 +4402,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Beardy McBeardface",
+      "name" : "Blair McBride",
       "screen_name" : "theunfocused",
       "indices" : [ 0, 13 ],
       "id_str" : "15657543",

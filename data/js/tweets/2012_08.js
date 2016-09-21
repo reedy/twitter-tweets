@@ -312,39 +312,14 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "19058966",
       "id" : 19058966
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/241142687183564800\/photo\/1",
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
       "indices" : [ 93, 113 ],
       "url" : "http:\/\/t.co\/DRJisXOh",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/A1i1_xICcAEhDB_.jpg",
-      "id_str" : "241142687187759105",
-      "id" : 241142687187759105,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A1i1_xICcAEhDB_.jpg",
-      "sizes" : [ {
-        "h" : 1944,
-        "resize" : "fit",
-        "w" : 2592
-      }, {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/DRJisXOh"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
+      "expanded_url" : "http:\/\/t.co\/DRJisXOh",
+      "display_url" : "t.co\/DRJisXOh"
+    } ]
   },
   "geo" : { },
   "id_str" : "241142687183564800",
@@ -369,8 +344,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 27, 47 ],
       "url" : "http:\/\/t.co\/482QUEvy",
-      "expanded_url" : "http:\/\/www.amazon.co.uk\/appstore-web",
-      "display_url" : "amazon.co.uk\/appstore-web"
+      "expanded_url" : "http:\/\/t.co\/482QUEvy",
+      "display_url" : "t.co\/482QUEvy"
     } ]
   },
   "geo" : { },
@@ -686,8 +661,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 58, 78 ],
       "url" : "http:\/\/t.co\/3VWA85Kv",
-      "expanded_url" : "http:\/\/cnet.co\/Oo7Ixq",
-      "display_url" : "cnet.co\/Oo7Ixq"
+      "expanded_url" : "http:\/\/t.co\/3VWA85Kv",
+      "display_url" : "t.co\/3VWA85Kv"
     } ]
   },
   "geo" : { },
@@ -2146,7 +2121,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "153956717",
       "id" : 153956717
     }, {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 10, 15 ],
       "id_str" : "14822382",
@@ -2179,7 +2154,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2257,13 +2232,13 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 43, 63 ],
       "url" : "http:\/\/t.co\/MxLuLN5n",
-      "expanded_url" : "http:\/\/Guardian.co.uk",
-      "display_url" : "Guardian.co.uk"
+      "expanded_url" : "http:\/\/t.co\/MxLuLN5n",
+      "display_url" : "t.co\/MxLuLN5n"
     }, {
       "indices" : [ 97, 117 ],
       "url" : "http:\/\/t.co\/Sclly2Kj",
-      "expanded_url" : "http:\/\/m.guardian.co.uk\/ms\/p\/gnm\/op\/view.m?id=15&gid=%2Fworld%2Fus-news-blog%2F2012%2Faug%2F17%2Fhow-to-be-gay-in-10-steps&cat=world#.UDFALytlPql.twitter",
-      "display_url" : "m.guardian.co.uk\/ms\/p\/gnm\/op\/vi\u2026"
+      "expanded_url" : "http:\/\/t.co\/Sclly2Kj",
+      "display_url" : "t.co\/Sclly2Kj"
     } ]
   },
   "geo" : { },
@@ -2460,8 +2435,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 37, 57 ],
       "url" : "http:\/\/t.co\/Yj11ell8",
-      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
-      "display_url" : "bit.ly\/jPWQAY"
+      "expanded_url" : "http:\/\/t.co\/Yj11ell8",
+      "display_url" : "t.co\/Yj11ell8"
     } ]
   },
   "geo" : { },
@@ -2483,10 +2458,10 @@ Grailbird.data.tweets_2012_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "XH558",
-      "screen_name" : "XH558",
+      "screen_name" : "xh558",
       "indices" : [ 12, 18 ],
-      "id_str" : "16185155",
-      "id" : 16185155
+      "id_str" : "745622629902585857",
+      "id" : 745622629902585857
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2554,8 +2529,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 11, 31 ],
       "url" : "http:\/\/t.co\/comE2vSV",
-      "expanded_url" : "http:\/\/kck.st\/NwHpEc",
-      "display_url" : "kck.st\/NwHpEc"
+      "expanded_url" : "http:\/\/t.co\/comE2vSV",
+      "display_url" : "t.co\/comE2vSV"
     } ]
   },
   "geo" : { },
@@ -2584,8 +2559,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 43, 63 ],
       "url" : "http:\/\/t.co\/O1SAjvyq",
-      "expanded_url" : "http:\/\/lnv.gy\/NwFBuW",
-      "display_url" : "lnv.gy\/NwFBuW"
+      "expanded_url" : "http:\/\/t.co\/O1SAjvyq",
+      "display_url" : "t.co\/O1SAjvyq"
     } ]
   },
   "geo" : { },
@@ -2623,8 +2598,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 54, 74 ],
       "url" : "http:\/\/t.co\/oeQPoxIv",
-      "expanded_url" : "http:\/\/www.patheos.com\/blogs\/friendlyatheist\/2012\/08\/16\/mitt-romney-might-not-be-on-the-washington-state-ballot-in-november\/",
-      "display_url" : "patheos.com\/blogs\/friendly\u2026"
+      "expanded_url" : "http:\/\/t.co\/oeQPoxIv",
+      "display_url" : "t.co\/oeQPoxIv"
     } ]
   },
   "geo" : { },
@@ -2722,8 +2697,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 118, 138 ],
       "url" : "http:\/\/t.co\/K8h3TkAq",
-      "expanded_url" : "http:\/\/bit.ly\/Ps2z8V",
-      "display_url" : "bit.ly\/Ps2z8V"
+      "expanded_url" : "http:\/\/t.co\/K8h3TkAq",
+      "display_url" : "t.co\/K8h3TkAq"
     } ]
   },
   "in_reply_to_status_id_str" : "236607032604631040",
@@ -2896,8 +2871,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 105, 125 ],
       "url" : "http:\/\/t.co\/iI9Tewso",
-      "expanded_url" : "http:\/\/bit.ly\/OjoYEh",
-      "display_url" : "bit.ly\/OjoYEh"
+      "expanded_url" : "http:\/\/t.co\/iI9Tewso",
+      "display_url" : "t.co\/iI9Tewso"
     } ]
   },
   "geo" : { },
@@ -2923,8 +2898,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 59, 79 ],
       "url" : "http:\/\/t.co\/iI9Tewso",
-      "expanded_url" : "http:\/\/bit.ly\/OjoYEh",
-      "display_url" : "bit.ly\/OjoYEh"
+      "expanded_url" : "http:\/\/t.co\/iI9Tewso",
+      "display_url" : "t.co\/iI9Tewso"
     } ]
   },
   "geo" : { },
@@ -3261,8 +3236,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 51, 71 ],
       "url" : "http:\/\/t.co\/w6YzNfZh",
-      "expanded_url" : "http:\/\/bit.ly\/PaJs3H",
-      "display_url" : "bit.ly\/PaJs3H"
+      "expanded_url" : "http:\/\/t.co\/w6YzNfZh",
+      "display_url" : "t.co\/w6YzNfZh"
     } ]
   },
   "geo" : { },
@@ -3300,8 +3275,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 107, 127 ],
       "url" : "http:\/\/t.co\/Bdlypdc3",
-      "expanded_url" : "http:\/\/bit.ly\/Ognfj0",
-      "display_url" : "bit.ly\/Ognfj0"
+      "expanded_url" : "http:\/\/t.co\/Bdlypdc3",
+      "display_url" : "t.co\/Bdlypdc3"
     } ]
   },
   "geo" : { },
@@ -3558,20 +3533,14 @@ Grailbird.data.tweets_2012_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lewis Cawte",
-      "screen_name" : "Lcawte",
-      "indices" : [ 1, 8 ],
-      "id_str" : "57938220",
-      "id" : 57938220
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 38, 58 ],
       "url" : "http:\/\/t.co\/oUpHM4QZ",
-      "expanded_url" : "http:\/\/bit.ly\/QsxmiJ",
-      "display_url" : "bit.ly\/QsxmiJ"
+      "expanded_url" : "http:\/\/t.co\/oUpHM4QZ",
+      "display_url" : "t.co\/oUpHM4QZ"
     } ]
   },
   "geo" : { },
@@ -3591,27 +3560,16 @@ Grailbird.data.tweets_2012_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lewis Cawte",
-      "screen_name" : "Lcawte",
-      "indices" : [ 0, 7 ],
-      "id_str" : "57938220",
-      "id" : 57938220
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "234780356711153664",
   "geo" : { },
   "id_str" : "234780478530547712",
-  "in_reply_to_user_id" : 57938220,
   "text" : "@Lcawte San Francisco to Washington Dulles via Chicago O'Hare and Miami..",
   "id" : 234780478530547712,
-  "in_reply_to_status_id" : 234780356711153664,
   "created_at" : "2012-08-12 22:36:42 +0000",
-  "in_reply_to_screen_name" : "Lcawte",
-  "in_reply_to_user_id_str" : "57938220",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3658,8 +3616,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 31, 51 ],
       "url" : "http:\/\/t.co\/PM8YJluH",
-      "expanded_url" : "http:\/\/bit.ly\/R5JKvC",
-      "display_url" : "bit.ly\/R5JKvC"
+      "expanded_url" : "http:\/\/t.co\/PM8YJluH",
+      "display_url" : "t.co\/PM8YJluH"
     } ]
   },
   "geo" : { },
@@ -3968,8 +3926,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 43, 63 ],
       "url" : "http:\/\/t.co\/tuO8s6w3",
-      "expanded_url" : "http:\/\/amzn.to\/MPwB3z",
-      "display_url" : "amzn.to\/MPwB3z"
+      "expanded_url" : "http:\/\/t.co\/tuO8s6w3",
+      "display_url" : "t.co\/tuO8s6w3"
     } ]
   },
   "geo" : { },
@@ -4274,8 +4232,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 61, 81 ],
       "url" : "http:\/\/t.co\/Yj11ell8",
-      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
-      "display_url" : "bit.ly\/jPWQAY"
+      "expanded_url" : "http:\/\/t.co\/Yj11ell8",
+      "display_url" : "t.co\/Yj11ell8"
     } ]
   },
   "geo" : { },
@@ -4431,8 +4389,8 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 59, 79 ],
       "url" : "http:\/\/t.co\/kYsq2PC7",
-      "expanded_url" : "http:\/\/cnet.co\/NoW4zt",
-      "display_url" : "cnet.co\/NoW4zt"
+      "expanded_url" : "http:\/\/t.co\/kYsq2PC7",
+      "display_url" : "t.co\/kYsq2PC7"
     } ]
   },
   "geo" : { },

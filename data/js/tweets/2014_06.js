@@ -645,7 +645,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tindie",
+      "name" : "Tindie Maker Market",
       "screen_name" : "tindie",
       "indices" : [ 0, 7 ],
       "id_str" : "712685130",
@@ -683,7 +683,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tindie",
+      "name" : "Tindie Maker Market",
       "screen_name" : "tindie",
       "indices" : [ 0, 7 ],
       "id_str" : "712685130",
@@ -885,7 +885,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -1500,37 +1500,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "30261067",
       "id" : 30261067
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/CNET\/status\/479415871027576832\/photo\/1",
-      "indices" : [ 122, 140 ],
-      "url" : "http:\/\/t.co\/HMKwkwnVTP",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bqc6Mb1IAAADjcb.jpg",
-      "id_str" : "479415870641668096",
-      "id" : 479415870641668096,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bqc6Mb1IAAADjcb.jpg",
-      "sizes" : [ {
-        "h" : 422,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 541,
-        "resize" : "fit",
-        "w" : 770
-      }, {
-        "h" : 239,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 541,
-        "resize" : "fit",
-        "w" : 770
-      } ],
-      "display_url" : "pic.twitter.com\/HMKwkwnVTP"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 99, 121 ],
@@ -1595,7 +1565,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718145129786114048\/ZPRUZJc2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913385794928643\/P_CichEc_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -1623,12 +1593,7 @@ Grailbird.data.tweets_2014_06 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 126, 140 ],
-      "url" : "http:\/\/t.co\/fVxn9YWCuu",
-      "expanded_url" : "http:\/\/buff.ly\/1iGbznb",
-      "display_url" : "buff.ly\/1iGbznb"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "479345266920030208",
@@ -1709,7 +1674,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 48, 53 ],
       "id_str" : "14822382",
@@ -2726,7 +2691,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "95438524",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651260268236812289\/vbpawQ35_normal.png",
       "id" : 95438524,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 476146798848135168,
@@ -4358,12 +4323,7 @@ Grailbird.data.tweets_2014_06 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/zgME7zZTht",
-      "expanded_url" : "https:\/\/www.youtube.com\/watch?v=MiM_xM5kcNQ",
-      "display_url" : "youtube.com\/watch?v=MiM_xM\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "473112731282059265",

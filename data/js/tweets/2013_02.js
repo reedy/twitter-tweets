@@ -509,7 +509,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -617,13 +617,13 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 38, 60 ],
       "url" : "http:\/\/t.co\/CnGFDFCzdY",
-      "expanded_url" : "http:\/\/www.gnut.co.uk",
-      "display_url" : "gnut.co.uk"
+      "expanded_url" : "http:\/\/t.co\/CnGFDFCzdY",
+      "display_url" : "t.co\/CnGFDFCzdY"
     }, {
       "indices" : [ 75, 97 ],
       "url" : "http:\/\/t.co\/2W9oBogicp",
-      "expanded_url" : "http:\/\/kck.st\/14NK7zd",
-      "display_url" : "kck.st\/14NK7zd"
+      "expanded_url" : "http:\/\/t.co\/2W9oBogicp",
+      "display_url" : "t.co\/2W9oBogicp"
     } ]
   },
   "geo" : { },
@@ -770,7 +770,13 @@ Grailbird.data.tweets_2013_02 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Andrew Percy",
+      "screen_name" : "AndrewPercy",
+      "indices" : [ 0, 12 ],
+      "id_str" : "754763748208967680",
+      "id" : 754763748208967680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1051,7 +1057,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1271,8 +1277,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 13, 34 ],
       "url" : "https:\/\/t.co\/d73mudOD",
-      "expanded_url" : "https:\/\/www.rackspace.co.uk\/email-apps\/email-hosting\/microsoft-exchange\/",
-      "display_url" : "rackspace.co.uk\/email-apps\/ema\u2026"
+      "expanded_url" : "https:\/\/t.co\/d73mudOD",
+      "display_url" : "t.co\/d73mudOD"
     } ]
   },
   "geo" : { },
@@ -1359,8 +1365,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 36, 56 ],
       "url" : "http:\/\/t.co\/Yj11ell8",
-      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
-      "display_url" : "bit.ly\/jPWQAY"
+      "expanded_url" : "http:\/\/t.co\/Yj11ell8",
+      "display_url" : "t.co\/Yj11ell8"
     } ]
   },
   "geo" : { },
@@ -1535,8 +1541,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 0, 20 ],
       "url" : "http:\/\/t.co\/pJEDOE57",
-      "expanded_url" : "http:\/\/bit.ly\/XSLU0R",
-      "display_url" : "bit.ly\/XSLU0R"
+      "expanded_url" : "http:\/\/t.co\/pJEDOE57",
+      "display_url" : "t.co\/pJEDOE57"
     } ]
   },
   "geo" : { },
@@ -1612,8 +1618,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 58, 78 ],
       "url" : "http:\/\/t.co\/zWCaSEpK",
-      "expanded_url" : "http:\/\/ur1.ca\/csz23",
-      "display_url" : "ur1.ca\/csz23"
+      "expanded_url" : "http:\/\/t.co\/zWCaSEpK",
+      "display_url" : "t.co\/zWCaSEpK"
     } ]
   },
   "geo" : { },
@@ -1628,8 +1634,8 @@ Grailbird.data.tweets_2013_02 =
       "urls" : [ {
         "indices" : [ 44, 64 ],
         "url" : "http:\/\/t.co\/zWCaSEpK",
-        "expanded_url" : "http:\/\/ur1.ca\/csz23",
-        "display_url" : "ur1.ca\/csz23"
+        "expanded_url" : "http:\/\/t.co\/zWCaSEpK",
+        "display_url" : "t.co\/zWCaSEpK"
       } ]
     },
     "geo" : { },
@@ -1782,12 +1788,7 @@ Grailbird.data.tweets_2013_02 =
       "text" : "Minecraft",
       "indices" : [ 39, 49 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/HwkmtNa7",
-      "expanded_url" : "http:\/\/www.raspberrypi.org\/archives\/3263",
-      "display_url" : "raspberrypi.org\/archives\/3263"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "301139318355927040",
@@ -1843,8 +1844,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 86, 106 ],
       "url" : "http:\/\/t.co\/S4Z24ym8",
-      "expanded_url" : "http:\/\/bit.ly\/11Cv2BK",
-      "display_url" : "bit.ly\/11Cv2BK"
+      "expanded_url" : "http:\/\/t.co\/S4Z24ym8",
+      "display_url" : "t.co\/S4Z24ym8"
     } ]
   },
   "geo" : { },
@@ -1931,7 +1932,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718145129786114048\/ZPRUZJc2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913385794928643\/P_CichEc_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -2340,12 +2341,7 @@ Grailbird.data.tweets_2013_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/dPUKFxbY",
-      "expanded_url" : "http:\/\/ow.ly\/htEV3",
-      "display_url" : "ow.ly\/htEV3"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "299216096110714881",
@@ -2698,8 +2694,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 13, 33 ],
       "url" : "http:\/\/t.co\/CqGI3rGm",
-      "expanded_url" : "http:\/\/bit.ly\/12ow6rX",
-      "display_url" : "bit.ly\/12ow6rX"
+      "expanded_url" : "http:\/\/t.co\/CqGI3rGm",
+      "display_url" : "t.co\/CqGI3rGm"
     } ]
   },
   "geo" : { },
@@ -2725,8 +2721,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 82, 102 ],
       "url" : "http:\/\/t.co\/Y4bxTDE7",
-      "expanded_url" : "http:\/\/bit.ly\/XSQ8TK",
-      "display_url" : "bit.ly\/XSQ8TK"
+      "expanded_url" : "http:\/\/t.co\/Y4bxTDE7",
+      "display_url" : "t.co\/Y4bxTDE7"
     } ]
   },
   "geo" : { },
@@ -2734,6 +2730,117 @@ Grailbird.data.tweets_2013_02 =
   "text" : "PlayStation 20.02.2012 \"Be the first to know\". Well, you keep telling everyone... http:\/\/t.co\/Y4bxTDE7",
   "id" : 298591103530172416,
   "created_at" : "2013-02-05 00:37:21 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Stephen Fry",
+      "screen_name" : "stephenfry",
+      "indices" : [ 3, 14 ],
+      "id_str" : "15439395",
+      "id" : 15439395
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/stephenfry\/status\/298517218256384000\/photo\/1",
+      "indices" : [ 78, 98 ],
+      "url" : "http:\/\/t.co\/EvK9If3v",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BCSL1BICcAAq4nl.jpg",
+      "id_str" : "298517218264772608",
+      "id" : 298517218264772608,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BCSL1BICcAAq4nl.jpg",
+      "sizes" : [ {
+        "h" : 548,
+        "resize" : "fit",
+        "w" : 580
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 548,
+        "resize" : "fit",
+        "w" : 580
+      }, {
+        "h" : 321,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 548,
+        "resize" : "fit",
+        "w" : 580
+      } ],
+      "display_url" : "pic.twitter.com\/EvK9If3v"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "298519470429835264",
+  "text" : "RT @stephenfry: No, it's a puppy. A puppy. It. Is. A. Puppy. Got it? A puppy. http:\/\/t.co\/EvK9If3v",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EPhotos on iOS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/stephenfry\/status\/298517218256384000\/photo\/1",
+        "indices" : [ 62, 82 ],
+        "url" : "http:\/\/t.co\/EvK9If3v",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BCSL1BICcAAq4nl.jpg",
+        "id_str" : "298517218264772608",
+        "id" : 298517218264772608,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BCSL1BICcAAq4nl.jpg",
+        "sizes" : [ {
+          "h" : 548,
+          "resize" : "fit",
+          "w" : 580
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 548,
+          "resize" : "fit",
+          "w" : 580
+        }, {
+          "h" : 321,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 548,
+          "resize" : "fit",
+          "w" : 580
+        } ],
+        "display_url" : "pic.twitter.com\/EvK9If3v"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "298517218256384000",
+    "text" : "No, it's a puppy. A puppy. It. Is. A. Puppy. Got it? A puppy. http:\/\/t.co\/EvK9If3v",
+    "id" : 298517218256384000,
+    "created_at" : "2013-02-04 19:43:45 +0000",
+    "user" : {
+      "name" : "Stephen Fry",
+      "screen_name" : "stephenfry",
+      "protected" : false,
+      "id_str" : "15439395",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504060630450438144\/3tEN_Y7C_normal.png",
+      "id" : 15439395,
+      "verified" : true
+    }
+  },
+  "id" : 298519470429835264,
+  "created_at" : "2013-02-04 19:52:42 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2755,8 +2862,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 119, 139 ],
       "url" : "http:\/\/t.co\/4ALAubjX",
-      "expanded_url" : "http:\/\/bit.ly\/openpostcode",
-      "display_url" : "bit.ly\/openpostcode"
+      "expanded_url" : "http:\/\/t.co\/4ALAubjX",
+      "display_url" : "t.co\/4ALAubjX"
     } ]
   },
   "geo" : { },
@@ -3112,8 +3219,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 33, 53 ],
       "url" : "http:\/\/t.co\/Awr1YtJw",
-      "expanded_url" : "http:\/\/www.bbc.co.uk\/news\/health-21277450",
-      "display_url" : "bbc.co.uk\/news\/health-21\u2026"
+      "expanded_url" : "http:\/\/t.co\/Awr1YtJw",
+      "display_url" : "t.co\/Awr1YtJw"
     } ]
   },
   "geo" : { },
@@ -3259,8 +3366,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 12, 32 ],
       "url" : "http:\/\/t.co\/wzXvj2mI",
-      "expanded_url" : "http:\/\/bit.ly\/W46JGx",
-      "display_url" : "bit.ly\/W46JGx"
+      "expanded_url" : "http:\/\/t.co\/wzXvj2mI",
+      "display_url" : "t.co\/wzXvj2mI"
     } ]
   },
   "in_reply_to_status_id_str" : "297148787774861312",

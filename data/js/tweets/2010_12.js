@@ -1342,7 +1342,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "gabrielmilland",
       "protected" : false,
       "id_str" : "19311894",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713693441520246784\/wO1CuALi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743074190694207488\/rYyqZChp_normal.jpg",
       "id" : 19311894,
       "verified" : false
     }
@@ -3229,7 +3229,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 7, 15 ],
       "id_str" : "14355014",
@@ -3511,7 +3511,7 @@ Grailbird.data.tweets_2010_12 =
     "user" : {
       "name" : "Joseph",
       "screen_name" : "dueledge",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "25743312",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606152216844619776\/44eo0po-_normal.jpg",
       "id" : 25743312,
@@ -3814,7 +3814,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -3987,6 +3987,57 @@ Grailbird.data.tweets_2010_12 =
   "text" : "Apparently I \"fixed\" 13 Wikimedia bugs in Bugzilla. Shame I created 10 in the same period... #fb",
   "id" : 11705175764897792,
   "created_at" : "2010-12-06 08:55:06 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Stephen Fry",
+      "screen_name" : "stephenfry",
+      "indices" : [ 3, 14 ],
+      "id_str" : "15439395",
+      "id" : 15439395
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11696525893701632",
+  "text" : "RT @stephenfry: My first time on Ryan Air.  It's very, um... that's to say it isn't ... How can I best out this? Yes.  Well, there you a ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "11667713273372672",
+    "text" : "My first time on Ryan Air.  It's very, um... that's to say it isn't ... How can I best out this? Yes.  Well, there you are, you see.",
+    "id" : 11667713273372672,
+    "created_at" : "2010-12-06 06:26:14 +0000",
+    "user" : {
+      "name" : "Stephen Fry",
+      "screen_name" : "stephenfry",
+      "protected" : false,
+      "id_str" : "15439395",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504060630450438144\/3tEN_Y7C_normal.png",
+      "id" : 15439395,
+      "verified" : true
+    }
+  },
+  "id" : 11696525893701632,
+  "created_at" : "2010-12-06 08:20:43 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4828,7 +4879,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "UniOfHull",
       "protected" : false,
       "id_str" : "59761280",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/660389350740463616\/7Ugcqv5p_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/778161789523660800\/a69ewSw6_normal.jpg",
       "id" : 59761280,
       "verified" : false
     }

@@ -235,95 +235,16 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chad H.",
-      "screen_name" : "wikichad",
-      "indices" : [ 3, 12 ],
-      "id_str" : "138008469",
-      "id" : 138008469
-    }, {
-      "name" : "Sam Reed",
-      "screen_name" : "tehreedy",
-      "indices" : [ 14, 23 ],
-      "id_str" : "19903171",
-      "id" : 19903171
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : { },
-  "id_str" : "25789078415",
-  "text" : "RT @wikichad: @tehreedy it's always good to get exposed to alternative viewpoints :P  After dealing with source safe, I'm not trusting M ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Sam Reed",
-        "screen_name" : "tehreedy",
-        "indices" : [ 0, 9 ],
-        "id_str" : "19903171",
-        "id" : 19903171
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "25776378809",
-    "geo" : { },
-    "id_str" : "25776727075",
-    "in_reply_to_user_id" : 19903171,
-    "text" : "@tehreedy it's always good to get exposed to alternative viewpoints :P  After dealing with source safe, I'm not trusting MSFT for VCS again",
-    "id" : 25776727075,
-    "in_reply_to_status_id" : 25776378809,
-    "created_at" : "2010-09-28 11:45:45 +0000",
-    "in_reply_to_screen_name" : "tehreedy",
-    "in_reply_to_user_id_str" : "19903171",
-    "user" : {
-      "name" : "Chad H.",
-      "screen_name" : "wikichad",
-      "protected" : false,
-      "id_str" : "138008469",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552864329771393024\/ZDtic3WW_normal.jpeg",
-      "id" : 138008469,
-      "verified" : false
-    }
-  },
-  "id" : 25789078415,
-  "created_at" : "2010-09-28 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chad H.",
-      "screen_name" : "wikichad",
-      "indices" : [ 0, 9 ],
-      "id_str" : "138008469",
-      "id" : 138008469
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "25776727075",
   "geo" : { },
   "id_str" : "25789118626",
-  "in_reply_to_user_id" : 138008469,
   "text" : "@wikichad Unfortunately, for one project, (unless we do Mac dev) we HAVE to use it, otherwise we lose marks. Or something.",
   "id" : 25789118626,
-  "in_reply_to_status_id" : 25776727075,
   "created_at" : "2010-09-28 00:00:00 +0000",
-  "in_reply_to_screen_name" : "wikichad",
-  "in_reply_to_user_id_str" : "138008469",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1057,7 +978,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "28587521",
       "id" : 28587521
     }, {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 50, 58 ],
       "id_str" : "14355014",
@@ -1203,6 +1124,39 @@ Grailbird.data.tweets_2010_09 =
   "text" : "Bloody freshers (well, students and their parents), you're making Hull busy. Go away. #fb",
   "id" : 25498717110,
   "created_at" : "2010-09-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Wes Mason",
+      "screen_name" : "1stvamp",
+      "indices" : [ 0, 8 ],
+      "id_str" : "1856171",
+      "id" : 1856171
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "25401161045",
+  "geo" : { },
+  "id_str" : "25403588414",
+  "in_reply_to_user_id" : 1856171,
+  "text" : "@1stvamp larkin, Wilberforce. Pfft. Same difference!",
+  "id" : 25403588414,
+  "in_reply_to_status_id" : 25401161045,
+  "created_at" : "2010-09-24 00:00:00 +0000",
+  "in_reply_to_screen_name" : "1stvamp",
+  "in_reply_to_user_id_str" : "1856171",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1396,13 +1350,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Phil Cooper",
-      "screen_name" : "philcooper",
-      "indices" : [ 0, 11 ],
-      "id_str" : "374713833",
-      "id" : 374713833
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1572,39 +1520,6 @@ Grailbird.data.tweets_2010_09 =
   "text" : "Hmm, should @freeside bid for a Wilberforce Toad? :D",
   "id" : 25400722288,
   "created_at" : "2010-09-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Wes Mason",
-      "screen_name" : "1stvamp",
-      "indices" : [ 0, 8 ],
-      "id_str" : "1856171",
-      "id" : 1856171
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "25401161045",
-  "geo" : { },
-  "id_str" : "25403588414",
-  "in_reply_to_user_id" : 1856171,
-  "text" : "@1stvamp larkin, Wilberforce. Pfft. Same difference!",
-  "id" : 25403588414,
-  "in_reply_to_status_id" : 25401161045,
-  "created_at" : "2010-09-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "1stvamp",
-  "in_reply_to_user_id_str" : "1856171",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2191,7 +2106,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "1856171",
       "id" : 1856171
     }, {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 9, 17 ],
       "id_str" : "14355014",
@@ -2449,7 +2364,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "28587521",
       "id" : 28587521
     }, {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 12, 20 ],
       "id_str" : "14355014",
@@ -2527,7 +2442,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -2708,7 +2623,7 @@ Grailbird.data.tweets_2010_09 =
     "user" : {
       "name" : "Joseph",
       "screen_name" : "dueledge",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "25743312",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606152216844619776\/44eo0po-_normal.jpg",
       "id" : 25743312,
@@ -2775,6 +2690,39 @@ Grailbird.data.tweets_2010_09 =
   "created_at" : "2010-09-16 00:00:00 +0000",
   "in_reply_to_screen_name" : "philfree",
   "in_reply_to_user_id_str" : "8215152",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Revo | Fuzzyness",
+      "screen_name" : "Fuzzyness",
+      "indices" : [ 0, 10 ],
+      "id_str" : "1513268550",
+      "id" : 1513268550
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "24597947593",
+  "geo" : { },
+  "id_str" : "24599246513",
+  "in_reply_to_user_id" : 761365,
+  "text" : "@fuzzyness \"good\" is subjective. Couriers seem to be VERY YMMV.",
+  "id" : 24599246513,
+  "in_reply_to_status_id" : 24597947593,
+  "created_at" : "2010-09-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "MrDaveFoy",
+  "in_reply_to_user_id_str" : "761365",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2987,39 +2935,6 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Foy",
-      "screen_name" : "fuzzyness",
-      "indices" : [ 0, 10 ],
-      "id_str" : "761365",
-      "id" : 761365
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "24597947593",
-  "geo" : { },
-  "id_str" : "24599246513",
-  "in_reply_to_user_id" : 761365,
-  "text" : "@fuzzyness \"good\" is subjective. Couriers seem to be VERY YMMV.",
-  "id" : 24599246513,
-  "in_reply_to_status_id" : 24597947593,
-  "created_at" : "2010-09-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "fuzzyness",
-  "in_reply_to_user_id_str" : "761365",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Pogoplug",
       "screen_name" : "pogoplug",
       "indices" : [ 3, 12 ],
@@ -3214,7 +3129,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "19058966",
       "id" : 19058966
     }, {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 13, 21 ],
       "id_str" : "14355014",
@@ -3247,7 +3162,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",
@@ -3313,7 +3228,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 0, 8 ],
       "id_str" : "14355014",

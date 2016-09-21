@@ -15,7 +15,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "13332772",
       "id" : 13332772
     }, {
-      "name" : "Casey West",
+      "name" : "Casey West @ London",
       "screen_name" : "caseywest",
       "indices" : [ 111, 121 ],
       "id_str" : "13640312",
@@ -44,7 +44,7 @@ Grailbird.data.tweets_2010_07 =
         "id_str" : "13332772",
         "id" : 13332772
       }, {
-        "name" : "Casey West",
+        "name" : "Casey West @ London",
         "screen_name" : "caseywest",
         "indices" : [ 98, 108 ],
         "id_str" : "13640312",
@@ -650,7 +650,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "115181416",
       "id" : 115181416
     }, {
-      "name" : "Shinsters.cs",
+      "name" : "shinsters.js",
       "screen_name" : "shinaku",
       "indices" : [ 59, 67 ],
       "id_str" : "14355014",
@@ -1032,6 +1032,62 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Solwise",
+      "screen_name" : "Solwise",
+      "indices" : [ 39, 47 ],
+      "id_str" : "19596204",
+      "id" : 19596204
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 67, 70 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18673555315",
+  "text" : "Wonder where Mr. Postman is. I want my @solwise homeplugs today... #fb",
+  "id" : 18673555315,
+  "created_at" : "2010-07-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 133, 136 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18673611401",
+  "text" : "More LED monitors are starting to appear.. When they start getting a bit bigger (24-26\") I think I'll look at replacing my 22\"'s.... #fb",
+  "id" : 18673611401,
+  "created_at" : "2010-07-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Andrew Garrett",
       "screen_name" : "werdnum",
       "indices" : [ 0, 8 ],
@@ -1389,62 +1445,6 @@ Grailbird.data.tweets_2010_07 =
   "created_at" : "2010-07-16 00:00:00 +0000",
   "in_reply_to_screen_name" : "Kiwi_Si",
   "in_reply_to_user_id_str" : "779050",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Solwise",
-      "screen_name" : "Solwise",
-      "indices" : [ 39, 47 ],
-      "id_str" : "19596204",
-      "id" : 19596204
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 67, 70 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18673555315",
-  "text" : "Wonder where Mr. Postman is. I want my @solwise homeplugs today... #fb",
-  "id" : 18673555315,
-  "created_at" : "2010-07-16 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 133, 136 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18673611401",
-  "text" : "More LED monitors are starting to appear.. When they start getting a bit bigger (24-26\") I think I'll look at replacing my 22\"'s.... #fb",
-  "id" : 18673611401,
-  "created_at" : "2010-07-16 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
