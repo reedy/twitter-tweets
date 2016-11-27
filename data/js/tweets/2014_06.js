@@ -645,7 +645,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tindie Maker Market",
+      "name" : "Tindie",
       "screen_name" : "tindie",
       "indices" : [ 0, 7 ],
       "id_str" : "712685130",
@@ -683,7 +683,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tindie Maker Market",
+      "name" : "Tindie",
       "screen_name" : "tindie",
       "indices" : [ 0, 7 ],
       "id_str" : "712685130",
@@ -1163,7 +1163,7 @@ Grailbird.data.tweets_2014_06 =
       "id" : 549608648
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/480834864493903873\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/480834864493903873\/photo\/1",
       "indices" : [ 35, 57 ],
       "url" : "http:\/\/t.co\/kzlAVYGVXX",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BqxEwvCIgAA2pGd.jpg",
@@ -1218,7 +1218,7 @@ Grailbird.data.tweets_2014_06 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/480782195096043520\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/480782195096043520\/photo\/1",
       "indices" : [ 13, 35 ],
       "url" : "http:\/\/t.co\/IG28q5mNj5",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BqwU2-dIEAAk3S7.png",
@@ -1565,7 +1565,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913385794928643\/P_CichEc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796768714896986112\/1AeHyrgP_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -2177,7 +2177,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "17679727",
       "id" : 17679727
     }, {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 11, 26 ],
       "id_str" : "28117032",
@@ -3161,7 +3161,7 @@ Grailbird.data.tweets_2014_06 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/475653297022722048\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/475653297022722048\/photo\/1",
       "indices" : [ 94, 116 ],
       "url" : "http:\/\/t.co\/aK5CJTNq5W",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BpncJq1CYAAb6dR.jpg",
@@ -3794,7 +3794,7 @@ Grailbird.data.tweets_2014_06 =
       "id" : 9615352
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/dwr\/status\/473256019963826176\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/dwr\/status\/473256019963826176\/photo\/1",
       "indices" : [ 54, 76 ],
       "url" : "http:\/\/t.co\/ecWpVocpAu",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BpFX14qIQAEoZ9R.png",
@@ -3835,7 +3835,7 @@ Grailbird.data.tweets_2014_06 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/dwr\/status\/473256019963826176\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/dwr\/status\/473256019963826176\/photo\/1",
         "indices" : [ 45, 67 ],
         "url" : "http:\/\/t.co\/ecWpVocpAu",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BpFX14qIQAEoZ9R.png",
@@ -3989,7 +3989,7 @@ Grailbird.data.tweets_2014_06 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/474150067411357696\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/474150067411357696\/photo\/1",
       "indices" : [ 30, 52 ],
       "url" : "http:\/\/t.co\/WOMx9o3JUP",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BpSE-VJIUAADTzV.jpg",

@@ -167,8 +167,8 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ {
       "indices" : [ 78, 98 ],
       "url" : "http:\/\/t.co\/yDbfEcR8",
-      "expanded_url" : "http:\/\/t.co\/yDbfEcR8",
-      "display_url" : "t.co\/yDbfEcR8"
+      "expanded_url" : "http:\/\/bit.ly\/A2yppY",
+      "display_url" : "bit.ly\/A2yppY"
     } ]
   },
   "geo" : { },
@@ -287,8 +287,8 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ {
       "indices" : [ 29, 50 ],
       "url" : "https:\/\/t.co\/uS8C6dFa",
-      "expanded_url" : "https:\/\/t.co\/uS8C6dFa",
-      "display_url" : "t.co\/uS8C6dFa"
+      "expanded_url" : "https:\/\/commons.wikimedia.org\/wiki\/File:Qantas_Boeing_747-400_VH-OJU_over_Starbeyevo_Kustov.jpg",
+      "display_url" : "commons.wikimedia.org\/wiki\/File:Qant\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "172103717057863680",
@@ -328,8 +328,8 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ {
       "indices" : [ 48, 68 ],
       "url" : "http:\/\/t.co\/kVKsCeY7",
-      "expanded_url" : "http:\/\/t.co\/kVKsCeY7",
-      "display_url" : "t.co\/kVKsCeY7"
+      "expanded_url" : "http:\/\/bbc.in\/ynKRlK",
+      "display_url" : "bbc.in\/ynKRlK"
     } ]
   },
   "geo" : { },
@@ -541,8 +541,8 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ {
       "indices" : [ 97, 117 ],
       "url" : "http:\/\/t.co\/Yj15LVui",
-      "expanded_url" : "http:\/\/t.co\/Yj15LVui",
-      "display_url" : "t.co\/Yj15LVui"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -606,7 +606,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "16184339",
       "id" : 16184339
     }, {
-      "name" : "Alan Pope \uD83C\uDF7A\uD83D\uDC27\uD83D\uDC31",
+      "name" : "Alan Pope \uD83C\uDF7A\uD83D\uDC27\uD83D\uDC31\uD83E\uDD84",
       "screen_name" : "popey",
       "indices" : [ 30, 36 ],
       "id_str" : "12325402",
@@ -646,7 +646,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "16184339",
       "id" : 16184339
     }, {
-      "name" : "Alan Pope \uD83C\uDF7A\uD83D\uDC27\uD83D\uDC31",
+      "name" : "Alan Pope \uD83C\uDF7A\uD83D\uDC27\uD83D\uDC31\uD83E\uDD84",
       "screen_name" : "popey",
       "indices" : [ 30, 36 ],
       "id_str" : "12325402",
@@ -686,7 +686,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "16184339",
       "id" : 16184339
     }, {
-      "name" : "Alan Pope \uD83C\uDF7A\uD83D\uDC27\uD83D\uDC31",
+      "name" : "Alan Pope \uD83C\uDF7A\uD83D\uDC27\uD83D\uDC31\uD83E\uDD84",
       "screen_name" : "popey",
       "indices" : [ 32, 38 ],
       "id_str" : "12325402",
@@ -891,8 +891,8 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ {
       "indices" : [ 64, 84 ],
       "url" : "http:\/\/t.co\/DZ4HZLUV",
-      "expanded_url" : "http:\/\/t.co\/DZ4HZLUV",
-      "display_url" : "t.co\/DZ4HZLUV"
+      "expanded_url" : "http:\/\/bit.ly\/xPUPzU",
+      "display_url" : "bit.ly\/xPUPzU"
     } ]
   },
   "geo" : { },
@@ -962,7 +962,13 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 0, 7 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -984,7 +990,13 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 0, 7 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1141,8 +1153,8 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ {
       "indices" : [ 60, 80 ],
       "url" : "http:\/\/t.co\/fdF9pnRz",
-      "expanded_url" : "http:\/\/t.co\/fdF9pnRz",
-      "display_url" : "t.co\/fdF9pnRz"
+      "expanded_url" : "http:\/\/bit.ly\/wlts6w",
+      "display_url" : "bit.ly\/wlts6w"
     } ]
   },
   "geo" : { },
@@ -1293,8 +1305,8 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ {
       "indices" : [ 91, 111 ],
       "url" : "http:\/\/t.co\/Yj15LVui",
-      "expanded_url" : "http:\/\/t.co\/Yj15LVui",
-      "display_url" : "t.co\/Yj15LVui"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -1660,8 +1672,8 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ {
       "indices" : [ 76, 96 ],
       "url" : "http:\/\/t.co\/npJL1Rge",
-      "expanded_url" : "http:\/\/t.co\/npJL1Rge",
-      "display_url" : "t.co\/npJL1Rge"
+      "expanded_url" : "http:\/\/bit.ly\/zOdEo1",
+      "display_url" : "bit.ly\/zOdEo1"
     } ]
   },
   "geo" : { },
@@ -1682,7 +1694,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 1, 16 ],
       "id_str" : "28117032",
@@ -1916,8 +1928,8 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ {
       "indices" : [ 100, 120 ],
       "url" : "http:\/\/t.co\/6hnyXDAR",
-      "expanded_url" : "http:\/\/t.co\/6hnyXDAR",
-      "display_url" : "t.co\/6hnyXDAR"
+      "expanded_url" : "http:\/\/38d.gs\/zqSNI9",
+      "display_url" : "38d.gs\/zqSNI9"
     } ]
   },
   "geo" : { },
@@ -2280,8 +2292,8 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ {
       "indices" : [ 90, 110 ],
       "url" : "http:\/\/t.co\/Yj15LVui",
-      "expanded_url" : "http:\/\/t.co\/Yj15LVui",
-      "display_url" : "t.co\/Yj15LVui"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -2589,18 +2601,18 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ {
       "indices" : [ 71, 91 ],
       "url" : "http:\/\/t.co\/HaslWt3U",
-      "expanded_url" : "http:\/\/t.co\/HaslWt3U",
-      "display_url" : "t.co\/HaslWt3U"
+      "expanded_url" : "http:\/\/bit.ly\/xiYj1h",
+      "display_url" : "bit.ly\/xiYj1h"
     }, {
       "indices" : [ 92, 112 ],
       "url" : "http:\/\/t.co\/K4FdKMwx",
-      "expanded_url" : "http:\/\/t.co\/K4FdKMwx",
-      "display_url" : "t.co\/K4FdKMwx"
+      "expanded_url" : "http:\/\/bit.ly\/w7x5SX",
+      "display_url" : "bit.ly\/w7x5SX"
     }, {
       "indices" : [ 113, 133 ],
       "url" : "http:\/\/t.co\/8Tk03mTZ",
-      "expanded_url" : "http:\/\/t.co\/8Tk03mTZ",
-      "display_url" : "t.co\/8Tk03mTZ"
+      "expanded_url" : "http:\/\/bit.ly\/wzO9fg",
+      "display_url" : "bit.ly\/wzO9fg"
     } ]
   },
   "in_reply_to_status_id_str" : "164746247914262529",

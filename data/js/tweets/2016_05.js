@@ -167,7 +167,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "FiloSottile",
       "protected" : false,
       "id_str" : "51049452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000793737967\/504e16c697e3422a3c1a35d88cf65782_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796495993487302656\/K6rX3ZSn_normal.jpg",
       "id" : 51049452,
       "verified" : true
     }
@@ -498,7 +498,7 @@ Grailbird.data.tweets_2016_05 =
       "id" : 15351161
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/736690770481152000\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/736690770481152000\/photo\/1",
       "indices" : [ 117, 140 ],
       "url" : "https:\/\/t.co\/yGpfQYOiyT",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CjlAWduW0AAqW2X.jpg",
@@ -612,16 +612,11 @@ Grailbird.data.tweets_2016_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "736165185598201856",
   "geo" : { },
   "id_str" : "736165387834916865",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 I'd know what? :O",
   "id" : 736165387834916865,
-  "in_reply_to_status_id" : 736165185598201856,
   "created_at" : "2016-05-27 12:01:20 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -639,16 +634,11 @@ Grailbird.data.tweets_2016_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "736164240495673344",
   "geo" : { },
   "id_str" : "736165092111290368",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 What about when they get excited?",
   "id" : 736165092111290368,
-  "in_reply_to_status_id" : 736164240495673344,
   "created_at" : "2016-05-27 12:00:09 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1131,16 +1121,11 @@ Grailbird.data.tweets_2016_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "733254966136213504",
   "geo" : { },
   "id_str" : "733257379781939201",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 Always? Try looking at older planes where the stronger pilot could win",
   "id" : 733257379781939201,
-  "in_reply_to_status_id" : 733254966136213504,
   "created_at" : "2016-05-19 11:25:57 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1158,16 +1143,11 @@ Grailbird.data.tweets_2016_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "733254966136213504",
   "geo" : { },
   "id_str" : "733257317299421184",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 Well, it crashed because it was stalling, falling and they didn't recognise :P",
   "id" : 733257317299421184,
-  "in_reply_to_status_id" : 733254966136213504,
   "created_at" : "2016-05-19 11:25:42 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1185,16 +1165,11 @@ Grailbird.data.tweets_2016_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "733253529457037312",
   "geo" : { },
   "id_str" : "733254060472668160",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 Though, if the control columns are pushed different ways, doesn't that put the put the flight surfaces into weird positions?",
   "id" : 733254060472668160,
-  "in_reply_to_status_id" : 733253529457037312,
   "created_at" : "2016-05-19 11:12:45 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1230,7 +1205,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",

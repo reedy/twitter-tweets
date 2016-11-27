@@ -1,5 +1,1151 @@
 Grailbird.data.tweets_2016_09 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 53, 76 ],
+      "url" : "https:\/\/t.co\/9DTYmTT3SF",
+      "expanded_url" : "https:\/\/twitter.com\/QuicklineUK\/status\/781937985768067074",
+      "display_url" : "twitter.com\/QuicklineUK\/st\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "781938404288233473",
+  "text" : "They can't get a strong enough signal to install it. https:\/\/t.co\/9DTYmTT3SF",
+  "id" : 781938404288233473,
+  "created_at" : "2016-09-30 19:26:57 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ben Haines",
+      "screen_name" : "benjaminhaines",
+      "indices" : [ 0, 15 ],
+      "id_str" : "25984895",
+      "id" : 25984895
+    }, {
+      "name" : "Community Fibre",
+      "screen_name" : "fibrecommunity",
+      "indices" : [ 16, 31 ],
+      "id_str" : "14079974",
+      "id" : 14079974
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "781936950135652352",
+  "geo" : { },
+  "id_str" : "781937957402009600",
+  "in_reply_to_user_id" : 25984895,
+  "text" : "@benjaminhaines @fibrecommunity Value for money then? Hahaha",
+  "id" : 781937957402009600,
+  "in_reply_to_status_id" : 781936950135652352,
+  "created_at" : "2016-09-30 19:25:11 +0000",
+  "in_reply_to_screen_name" : "benjaminhaines",
+  "in_reply_to_user_id_str" : "25984895",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Steven Levitt",
+      "screen_name" : "fiveub",
+      "indices" : [ 0, 7 ],
+      "id_str" : "1706468510",
+      "id" : 1706468510
+    }, {
+      "name" : "Jess \uD83D\uDCF7\uD83C\uDF47",
+      "screen_name" : "Jessius",
+      "indices" : [ 8, 16 ],
+      "id_str" : "55602307",
+      "id" : 55602307
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "781921433970675712",
+  "geo" : { },
+  "id_str" : "781923118365433857",
+  "in_reply_to_user_id" : 1706468510,
+  "text" : "@fiveub @Jessius Surely it's warm still at 9pm? Warm already suggests it's only just getting warm ;)",
+  "id" : 781923118365433857,
+  "in_reply_to_status_id" : 781921433970675712,
+  "created_at" : "2016-09-30 18:26:13 +0000",
+  "in_reply_to_screen_name" : "fiveub",
+  "in_reply_to_user_id_str" : "1706468510",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andrew Blum",
+      "screen_name" : "ajblum",
+      "indices" : [ 0, 7 ],
+      "id_str" : "18152276",
+      "id" : 18152276
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "781880838401167360",
+  "geo" : { },
+  "id_str" : "781881692676059136",
+  "in_reply_to_user_id" : 18152276,
+  "text" : "@ajblum So \"in the cloud\" isn't a valid answer? ;P",
+  "id" : 781881692676059136,
+  "in_reply_to_status_id" : 781880838401167360,
+  "created_at" : "2016-09-30 15:41:36 +0000",
+  "in_reply_to_screen_name" : "ajblum",
+  "in_reply_to_user_id_str" : "18152276",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Community Fibre",
+      "screen_name" : "fibrecommunity",
+      "indices" : [ 9, 24 ],
+      "id_str" : "14079974",
+      "id" : 14079974
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "781879378926006273",
+  "text" : "Why does @fibrecommunity mostly post what is essentially clickbait?",
+  "id" : 781879378926006273,
+  "created_at" : "2016-09-30 15:32:25 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sporty's Pilot Shop",
+      "screen_name" : "Sportys",
+      "indices" : [ 0, 8 ],
+      "id_str" : "20265548",
+      "id" : 20265548
+    }, {
+      "name" : "ForeFlight",
+      "screen_name" : "ForeFlight",
+      "indices" : [ 16, 27 ],
+      "id_str" : "15379366",
+      "id" : 15379366
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "781236161654251520",
+  "geo" : { },
+  "id_str" : "781439504112549888",
+  "in_reply_to_user_id" : 20265548,
+  "text" : "@Sportys I wish @ForeFlight was useful in the UK... And the Sirius kit was actually useable (and useful!) in the UK too!",
+  "id" : 781439504112549888,
+  "in_reply_to_status_id" : 781236161654251520,
+  "created_at" : "2016-09-29 10:24:30 +0000",
+  "in_reply_to_screen_name" : "Sportys",
+  "in_reply_to_user_id_str" : "20265548",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "781410831590301697",
+  "text" : "Appointment in London at 13:00 on 10\/10... When to come down, and when to go home....? Out Friday afternoon\/night, back Monday night?",
+  "id" : 781410831590301697,
+  "created_at" : "2016-09-29 08:30:34 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "TPP",
+      "screen_name" : "TPP_SystmOne",
+      "indices" : [ 1, 14 ],
+      "id_str" : "127805037",
+      "id" : 127805037
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "781205680858472448",
+  "text" : ".@TPP_SystmOne Why does your systmonline website just not work from outside the UK? Why do I have to VPN to access it when abroad?",
+  "id" : 781205680858472448,
+  "created_at" : "2016-09-28 18:55:23 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Chris",
+      "screen_name" : "cyberdoyle",
+      "indices" : [ 0, 11 ],
+      "id_str" : "762274",
+      "id" : 762274
+    }, {
+      "name" : "Simon Wade",
+      "screen_name" : "SimonWadeWales",
+      "indices" : [ 12, 27 ],
+      "id_str" : "296434650",
+      "id" : 296434650
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "780883440782675970",
+  "geo" : { },
+  "id_str" : "780884320332443648",
+  "in_reply_to_user_id" : 762274,
+  "text" : "@cyberdoyle @SimonWadeWales Is the stake incase any Vampires turn up to leech on the connection?",
+  "id" : 780884320332443648,
+  "in_reply_to_status_id" : 780883440782675970,
+  "created_at" : "2016-09-27 21:38:24 +0000",
+  "in_reply_to_screen_name" : "cyberdoyle",
+  "in_reply_to_user_id_str" : "762274",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 26, 49 ],
+      "url" : "https:\/\/t.co\/tpgWAQGBcS",
+      "expanded_url" : "https:\/\/twitter.com\/thinkbroadband\/status\/780696187275837441",
+      "display_url" : "twitter.com\/thinkbroadband\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "780697636454170625",
+  "text" : "Well, doesn't that *suck* https:\/\/t.co\/tpgWAQGBcS",
+  "id" : 780697636454170625,
+  "created_at" : "2016-09-27 09:16:35 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Stuart Hicks",
+      "screen_name" : "stuarthicks",
+      "indices" : [ 0, 12 ],
+      "id_str" : "19058966",
+      "id" : 19058966
+    }, {
+      "name" : "Monzo",
+      "screen_name" : "monzo",
+      "indices" : [ 17, 23 ],
+      "id_str" : "3224409977",
+      "id" : 3224409977
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "780049452597858304",
+  "geo" : { },
+  "id_str" : "780164036897931265",
+  "in_reply_to_user_id" : 19058966,
+  "text" : "@stuarthicks Are @monzo worth signing up for?",
+  "id" : 780164036897931265,
+  "in_reply_to_status_id" : 780049452597858304,
+  "created_at" : "2016-09-25 21:56:15 +0000",
+  "in_reply_to_screen_name" : "stuarthicks",
+  "in_reply_to_user_id_str" : "19058966",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "James  Hannah",
+      "screen_name" : "jiphex",
+      "indices" : [ 0, 7 ],
+      "id_str" : "917061",
+      "id" : 917061
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "780150775976722432",
+  "geo" : { },
+  "id_str" : "780163699394940928",
+  "in_reply_to_user_id" : 917061,
+  "text" : "@jiphex Ta. At a quick play it seems to do what I want (turned off auto downloading of maps) to the level of detail that's sufficient! :)",
+  "id" : 780163699394940928,
+  "in_reply_to_status_id" : 780150775976722432,
+  "created_at" : "2016-09-25 21:54:55 +0000",
+  "in_reply_to_screen_name" : "jiphex",
+  "in_reply_to_user_id_str" : "917061",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Stuart Henderson",
+      "screen_name" : "sthen_",
+      "indices" : [ 0, 7 ],
+      "id_str" : "198680411",
+      "id" : 198680411
+    }, {
+      "name" : "RevK",
+      "screen_name" : "TheRealRevK",
+      "indices" : [ 8, 20 ],
+      "id_str" : "227666609",
+      "id" : 227666609
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "780143537694334976",
+  "geo" : { },
+  "id_str" : "780162194931650560",
+  "in_reply_to_user_id" : 198680411,
+  "text" : "@sthen_ @TheRealRevK \"Zero Handoff currently doesn't work with this firmware... please downgrade to firmware 3.7.8 or earlier.\"",
+  "id" : 780162194931650560,
+  "in_reply_to_status_id" : 780143537694334976,
+  "created_at" : "2016-09-25 21:48:56 +0000",
+  "in_reply_to_screen_name" : "sthen_",
+  "in_reply_to_user_id_str" : "198680411",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Stuart Henderson",
+      "screen_name" : "sthen_",
+      "indices" : [ 0, 7 ],
+      "id_str" : "198680411",
+      "id" : 198680411
+    }, {
+      "name" : "RevK",
+      "screen_name" : "TheRealRevK",
+      "indices" : [ 8, 20 ],
+      "id_str" : "227666609",
+      "id" : 227666609
+    }, {
+      "name" : "Ubiquiti Networks",
+      "screen_name" : "ubnt",
+      "indices" : [ 80, 85 ],
+      "id_str" : "171163790",
+      "id" : 171163790
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 86, 109 ],
+      "url" : "https:\/\/t.co\/lthU9rXqSM",
+      "expanded_url" : "https:\/\/community.ubnt.com\/t5\/UniFi-Updates-Blog\/UniFi-5-2-7-is-released\/ba-p\/1680663",
+      "display_url" : "community.ubnt.com\/t5\/UniFi-Updat\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "780143537694334976",
+  "geo" : { },
+  "id_str" : "780161890383237120",
+  "in_reply_to_user_id" : 198680411,
+  "text" : "@sthen_ @TheRealRevK Why they don't list it on the release announcement though? @ubnt https:\/\/t.co\/lthU9rXqSM",
+  "id" : 780161890383237120,
+  "in_reply_to_status_id" : 780143537694334976,
+  "created_at" : "2016-09-25 21:47:44 +0000",
+  "in_reply_to_screen_name" : "sthen_",
+  "in_reply_to_user_id_str" : "198680411",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "780033466318684160",
+  "geo" : { },
+  "id_str" : "780150624927289349",
+  "in_reply_to_user_id" : 19903171,
+  "text" : "Quick look looks like GMaps won't let you just download a fairly generic worldwide offline map. OSM? Which client for iOS?",
+  "id" : 780150624927289349,
+  "in_reply_to_status_id" : 780033466318684160,
+  "created_at" : "2016-09-25 21:02:58 +0000",
+  "in_reply_to_screen_name" : "tehreedy",
+  "in_reply_to_user_id_str" : "19903171",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "780062474200547329",
+  "text" : "I'm on a train!",
+  "id" : 780062474200547329,
+  "created_at" : "2016-09-25 15:12:41 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "RevK",
+      "screen_name" : "TheRealRevK",
+      "indices" : [ 0, 12 ],
+      "id_str" : "227666609",
+      "id" : 227666609
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "780038764383113216",
+  "geo" : { },
+  "id_str" : "780040707176357888",
+  "in_reply_to_user_id" : 227666609,
+  "text" : "@TheRealRevK Are you a member of their beta site? They post detailed ish change logs there, with caveats such as that :(",
+  "id" : 780040707176357888,
+  "in_reply_to_status_id" : 780038764383113216,
+  "created_at" : "2016-09-25 13:46:11 +0000",
+  "in_reply_to_screen_name" : "TheRealRevK",
+  "in_reply_to_user_id_str" : "227666609",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "RevK",
+      "screen_name" : "TheRealRevK",
+      "indices" : [ 0, 12 ],
+      "id_str" : "227666609",
+      "id" : 227666609
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "780036866879795200",
+  "geo" : { },
+  "id_str" : "780037328639238149",
+  "in_reply_to_user_id" : 227666609,
+  "text" : "@TheRealRevK Roaming is known broken under 3.7.17.5220 AFAIK",
+  "id" : 780037328639238149,
+  "in_reply_to_status_id" : 780036866879795200,
+  "created_at" : "2016-09-25 13:32:46 +0000",
+  "in_reply_to_screen_name" : "TheRealRevK",
+  "in_reply_to_user_id_str" : "227666609",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "screen_name" : "d0od",
+      "indices" : [ 0, 5 ],
+      "id_str" : "14822382",
+      "id" : 14822382
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "780034299663884288",
+  "geo" : { },
+  "id_str" : "780035383920910336",
+  "in_reply_to_user_id" : 14822382,
+  "text" : "@d0od About?",
+  "id" : 780035383920910336,
+  "in_reply_to_status_id" : 780034299663884288,
+  "created_at" : "2016-09-25 13:25:02 +0000",
+  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_user_id_str" : "14822382",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "780033466318684160",
+  "text" : "Suggestions for an iOS Maps app that I can get offline maps for? Don't need much detail, but worldwide, cities etc annotated. Will GMap work",
+  "id" : 780033466318684160,
+  "created_at" : "2016-09-25 13:17:25 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "FinnairHelps",
+      "screen_name" : "FinnairHelps",
+      "indices" : [ 0, 13 ],
+      "id_str" : "543141733",
+      "id" : 543141733
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "780030098862899201",
+  "geo" : { },
+  "id_str" : "780032433622245376",
+  "in_reply_to_user_id" : 19903171,
+  "text" : "@FinnairHelps Not doing much better in the lounge either by gate 22... Only salad, soup, bread etc. None of the pasta available in time here",
+  "id" : 780032433622245376,
+  "in_reply_to_status_id" : 780030098862899201,
+  "created_at" : "2016-09-25 13:13:19 +0000",
+  "in_reply_to_screen_name" : "tehreedy",
+  "in_reply_to_user_id_str" : "19903171",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "FinnairHelps",
+      "screen_name" : "FinnairHelps",
+      "indices" : [ 0, 13 ],
+      "id_str" : "543141733",
+      "id" : 543141733
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "780030098862899201",
+  "in_reply_to_user_id" : 543141733,
+  "text" : "@FinnairHelps AY934 flying business.. VLML meal ordered, and on manifest. Wasn't loaded. How do I make a complaint as tickets weren't cheap!",
+  "id" : 780030098862899201,
+  "created_at" : "2016-09-25 13:04:02 +0000",
+  "in_reply_to_screen_name" : "FinnairHelps",
+  "in_reply_to_user_id_str" : "543141733",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Finnair",
+      "screen_name" : "Finnair",
+      "indices" : [ 0, 8 ],
+      "id_str" : "16694416",
+      "id" : 16694416
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "780023391042535424",
+  "in_reply_to_user_id" : 16694416,
+  "text" : "@Finnair AY934 flying business... VLML meal ordered, and on manifest. Wasn't loaded. How do I make a complaint as tickets weren't cheap!",
+  "id" : 780023391042535424,
+  "created_at" : "2016-09-25 12:37:23 +0000",
+  "in_reply_to_screen_name" : "Finnair",
+  "in_reply_to_user_id_str" : "16694416",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "779708913633591296",
+  "text" : "\"Your claim request has been accepted. The Defendant has 14 days from the date of service of the claim to reply.\" Gulp. Let the fun commence",
+  "id" : 779708913633591296,
+  "created_at" : "2016-09-24 15:47:45 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Server Density",
+      "screen_name" : "serverdensity",
+      "indices" : [ 3, 17 ],
+      "id_str" : "23840756",
+      "id" : 23840756
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 49, 72 ],
+      "url" : "https:\/\/t.co\/0KwffkEcwD",
+      "expanded_url" : "http:\/\/bit.ly\/2cQhpd7",
+      "display_url" : "bit.ly\/2cQhpd7"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "779372149521977345",
+  "text" : "RT @serverdensity: Microservices \u2013 Please, don\u2019t https:\/\/t.co\/0KwffkEcwD",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 30, 53 ],
+        "url" : "https:\/\/t.co\/0KwffkEcwD",
+        "expanded_url" : "http:\/\/bit.ly\/2cQhpd7",
+        "display_url" : "bit.ly\/2cQhpd7"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "779371270169300994",
+    "text" : "Microservices \u2013 Please, don\u2019t https:\/\/t.co\/0KwffkEcwD",
+    "id" : 779371270169300994,
+    "created_at" : "2016-09-23 17:26:05 +0000",
+    "user" : {
+      "name" : "Server Density",
+      "screen_name" : "serverdensity",
+      "protected" : false,
+      "id_str" : "23840756",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458974086073290753\/2SzsXCPW_normal.png",
+      "id" : 23840756,
+      "verified" : true
+    }
+  },
+  "id" : 779372149521977345,
+  "created_at" : "2016-09-23 17:29:35 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Holiday Extras",
+      "screen_name" : "HolidayExtras",
+      "indices" : [ 1, 15 ],
+      "id_str" : "16436604",
+      "id" : 16436604
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "779301978367221760",
+  "geo" : { },
+  "id_str" : "779302590928527360",
+  "in_reply_to_user_id" : 16436604,
+  "text" : ".@HolidayExtras What if someone is stood behind me? Isn't that the reason most websites make you enter it twice?",
+  "id" : 779302590928527360,
+  "in_reply_to_status_id" : 779301978367221760,
+  "created_at" : "2016-09-23 12:53:11 +0000",
+  "in_reply_to_screen_name" : "HolidayExtras",
+  "in_reply_to_user_id_str" : "16436604",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Holiday Extras",
+      "screen_name" : "HolidayExtras",
+      "indices" : [ 10, 24 ],
+      "id_str" : "16436604",
+      "id" : 16436604
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/779290801033605122\/photo\/1",
+      "indices" : [ 28, 51 ],
+      "url" : "https:\/\/t.co\/z3K0ATMMaY",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CtCY2KGXgAECyQP.jpg",
+      "id_str" : "779290791726514177",
+      "id" : 779290791726514177,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CtCY2KGXgAECyQP.jpg",
+      "sizes" : [ {
+        "h" : 274,
+        "resize" : "fit",
+        "w" : 1174
+      }, {
+        "h" : 274,
+        "resize" : "fit",
+        "w" : 1174
+      }, {
+        "h" : 274,
+        "resize" : "fit",
+        "w" : 1174
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 159,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/z3K0ATMMaY"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "779290801033605122",
+  "text" : "Seriously @HolidayExtras !? https:\/\/t.co\/z3K0ATMMaY",
+  "id" : 779290801033605122,
+  "created_at" : "2016-09-23 12:06:20 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "THE INCENTIVE",
+      "screen_name" : "incentivefilm",
+      "indices" : [ 0, 14 ],
+      "id_str" : "719070882388422657",
+      "id" : 719070882388422657
+    }, {
+      "name" : "Rob Callender",
+      "screen_name" : "RobCallender",
+      "indices" : [ 27, 40 ],
+      "id_str" : "881910649",
+      "id" : 881910649
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "779270962353152000",
+  "geo" : { },
+  "id_str" : "779271353371389952",
+  "in_reply_to_user_id" : 719070882388422657,
+  "text" : "@incentivefilm A date with @RobCallender ? ;)",
+  "id" : 779271353371389952,
+  "in_reply_to_status_id" : 779270962353152000,
+  "created_at" : "2016-09-23 10:49:03 +0000",
+  "in_reply_to_screen_name" : "incentivefilm",
+  "in_reply_to_user_id_str" : "719070882388422657",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Quidco",
+      "screen_name" : "quidco",
+      "indices" : [ 0, 7 ],
+      "id_str" : "20055191",
+      "id" : 20055191
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "778997463218806784",
+  "geo" : { },
+  "id_str" : "778997825371774976",
+  "in_reply_to_user_id" : 20055191,
+  "text" : "@quidco What's the email on about 6 weeks for then? :\/",
+  "id" : 778997825371774976,
+  "in_reply_to_status_id" : 778997463218806784,
+  "created_at" : "2016-09-22 16:42:09 +0000",
+  "in_reply_to_screen_name" : "quidco",
+  "in_reply_to_user_id_str" : "20055191",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Quidco",
+      "screen_name" : "quidco",
+      "indices" : [ 0, 7 ],
+      "id_str" : "20055191",
+      "id" : 20055191
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "778995478490910720",
+  "in_reply_to_user_id" : 20055191,
+  "text" : "@quidco \"Go, go, go! You've got 6 weeks to hit your Quidco Rewards bonus\" but website says \"You must complete your level by 11\/02\/2017...\"",
+  "id" : 778995478490910720,
+  "created_at" : "2016-09-22 16:32:49 +0000",
+  "in_reply_to_screen_name" : "quidco",
+  "in_reply_to_user_id_str" : "20055191",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Synology Inc.",
+      "screen_name" : "Synology",
+      "indices" : [ 0, 9 ],
+      "id_str" : "24155760",
+      "id" : 24155760
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/778994297299410944\/photo\/1",
+      "indices" : [ 70, 93 ],
+      "url" : "https:\/\/t.co\/wtptbnxVAI",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Cs-LIKEWcAEzUeF.jpg",
+      "id_str" : "778994232816201729",
+      "id" : 778994232816201729,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cs-LIKEWcAEzUeF.jpg",
+      "sizes" : [ {
+        "h" : 310,
+        "resize" : "fit",
+        "w" : 650
+      }, {
+        "h" : 310,
+        "resize" : "fit",
+        "w" : 650
+      }, {
+        "h" : 310,
+        "resize" : "fit",
+        "w" : 650
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 310,
+        "resize" : "fit",
+        "w" : 650
+      } ],
+      "display_url" : "pic.twitter.com\/wtptbnxVAI"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "778994297299410944",
+  "in_reply_to_user_id" : 24155760,
+  "text" : "@Synology I think the image you're using here is a bit optimistic! :D https:\/\/t.co\/wtptbnxVAI",
+  "id" : 778994297299410944,
+  "created_at" : "2016-09-22 16:28:08 +0000",
+  "in_reply_to_screen_name" : "Synology",
+  "in_reply_to_user_id_str" : "24155760",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Samsonite",
+      "screen_name" : "MySamsonite",
+      "indices" : [ 123, 135 ],
+      "id_str" : "2228777910",
+      "id" : 2228777910
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "778985028873256960",
+  "geo" : { },
+  "id_str" : "778985187065593856",
+  "in_reply_to_user_id" : 19903171,
+  "text" : "Apparently no parts. So can't be repaired. Waiting on decision what to do next. Not even half way through 10 year warranty @MySamsonite",
+  "id" : 778985187065593856,
+  "in_reply_to_status_id" : 778985028873256960,
+  "created_at" : "2016-09-22 15:51:56 +0000",
+  "in_reply_to_screen_name" : "tehreedy",
+  "in_reply_to_user_id_str" : "19903171",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Samsonite",
+      "screen_name" : "MySamsonite",
+      "indices" : [ 30, 42 ],
+      "id_str" : "2228777910",
+      "id" : 2228777910
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "778985028873256960",
+  "text" : "Getting somewhat annoyed with @MySamsonite. Took my carry on suitcase for repair at the start of august, not had it back yet in any form",
+  "id" : 778985028873256960,
+  "created_at" : "2016-09-22 15:51:18 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1216,7 +2362,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1307,7 +2453,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",

@@ -72,8 +72,8 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ {
       "indices" : [ 13, 33 ],
       "url" : "http:\/\/t.co\/d7FVIfUz",
-      "expanded_url" : "http:\/\/t.co\/d7FVIfUz",
-      "display_url" : "t.co\/d7FVIfUz"
+      "expanded_url" : "http:\/\/bit.ly\/H91b7C",
+      "display_url" : "bit.ly\/H91b7C"
     } ]
   },
   "geo" : { },
@@ -93,7 +93,13 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 0, 7 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -294,7 +300,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Orta Therox",
+      "name" : "\uD83D\uDC8Drta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -354,8 +360,8 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ {
       "indices" : [ 12, 32 ],
       "url" : "http:\/\/t.co\/5v7XHhir",
-      "expanded_url" : "http:\/\/t.co\/5v7XHhir",
-      "display_url" : "t.co\/5v7XHhir"
+      "expanded_url" : "http:\/\/bit.ly\/GWs777",
+      "display_url" : "bit.ly\/GWs777"
     } ]
   },
   "geo" : { },
@@ -628,8 +634,8 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ {
       "indices" : [ 83, 103 ],
       "url" : "http:\/\/t.co\/Yj15LVui",
-      "expanded_url" : "http:\/\/t.co\/Yj15LVui",
-      "display_url" : "t.co\/Yj15LVui"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -730,8 +736,8 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ {
       "indices" : [ 90, 110 ],
       "url" : "http:\/\/t.co\/Yj15LVui",
-      "expanded_url" : "http:\/\/t.co\/Yj15LVui",
-      "display_url" : "t.co\/Yj15LVui"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -1461,7 +1467,13 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 0, 7 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1483,7 +1495,13 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 0, 7 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1566,7 +1584,13 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 0, 7 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1987,7 +2011,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2020,7 +2044,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2133,7 +2157,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Orta Therox",
+      "name" : "\uD83D\uDC8Drta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",

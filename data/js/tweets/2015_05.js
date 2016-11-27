@@ -139,7 +139,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "14822382",
       "id" : 14822382
     }, {
-      "name" : "\u2131arran",
+      "name" : "\u2131arramoose",
       "screen_name" : "fazzaan",
       "indices" : [ 6, 14 ],
       "id_str" : "53681528",
@@ -178,7 +178,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "\u2131arran",
+      "name" : "\u2131arramoose",
       "screen_name" : "fazzaan",
       "indices" : [ 12, 20 ],
       "id_str" : "53681528",
@@ -211,7 +211,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2131arran",
+      "name" : "\u2131arramoose",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -402,7 +402,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2131arran",
+      "name" : "\u2131arramoose",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -441,7 +441,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2131arran",
+      "name" : "\u2131arramoose",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -480,7 +480,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2131arran",
+      "name" : "\u2131arramoose",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -519,7 +519,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2131arran",
+      "name" : "\u2131arramoose",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -625,7 +625,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2131arran",
+      "name" : "\u2131arramoose",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -689,7 +689,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2131arran",
+      "name" : "\u2131arramoose",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -972,7 +972,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1005,7 +1005,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1766,7 +1766,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Orta Therox",
+      "name" : "\uD83D\uDC8Drta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -2287,11 +2287,11 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wikia",
+      "name" : "Wikia, Inc.",
       "screen_name" : "wikia",
       "indices" : [ 24, 30 ],
-      "id_str" : "4833746891",
-      "id" : 4833746891
+      "id_str" : "783335174893211648",
+      "id" : 783335174893211648
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2613,7 +2613,7 @@ Grailbird.data.tweets_2015_05 =
       "id" : 227666609
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/TheRealRevK\/status\/598927100444332033\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/TheRealRevK\/status\/598927100444332033\/photo\/1",
       "indices" : [ 107, 129 ],
       "url" : "http:\/\/t.co\/wS9TOaDP8v",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CE_RA8HWoAEp8b2.jpg",
@@ -2654,7 +2654,7 @@ Grailbird.data.tweets_2015_05 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/TheRealRevK\/status\/598927100444332033\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/TheRealRevK\/status\/598927100444332033\/photo\/1",
         "indices" : [ 90, 112 ],
         "url" : "http:\/\/t.co\/wS9TOaDP8v",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CE_RA8HWoAEp8b2.jpg",
@@ -2915,7 +2915,7 @@ Grailbird.data.tweets_2015_05 =
       "id" : 22536055
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/598242318051909632\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/598242318051909632\/photo\/1",
       "indices" : [ 45, 67 ],
       "url" : "http:\/\/t.co\/cHu1h1r6Q4",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CE1iNztUsAASfaK.jpg",

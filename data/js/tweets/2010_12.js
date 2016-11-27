@@ -1935,7 +1935,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wikimedia Tech Staff",
+      "name" : "Wikimedia Tech SAL",
       "screen_name" : "wikimediatech",
       "indices" : [ 3, 17 ],
       "id_str" : "21156165",
@@ -1962,7 +1962,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15128889328144385,
     "created_at" : "2010-12-15 19:39:42 +0000",
     "user" : {
-      "name" : "Wikimedia Tech Staff",
+      "name" : "Wikimedia Tech SAL",
       "screen_name" : "wikimediatech",
       "protected" : false,
       "id_str" : "21156165",

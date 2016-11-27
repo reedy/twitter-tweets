@@ -3,7 +3,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morgan Sloat",
+      "name" : "Mustang Winterbottom",
       "screen_name" : "David_ONeill_",
       "indices" : [ 0, 14 ],
       "id_str" : "20401912",
@@ -421,7 +421,7 @@ Grailbird.data.tweets_2015_09 =
       "id" : 15778012
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/JohnnyJet\/status\/645451811852169218\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/JohnnyJet\/status\/645451811852169218\/photo\/1",
       "indices" : [ 104, 126 ],
       "url" : "http:\/\/t.co\/nE1lkx7UwC",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CPUa_aIUsAAUy6t.jpg",
@@ -479,7 +479,7 @@ Grailbird.data.tweets_2015_09 =
         "id" : 15778012
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/JohnnyJet\/status\/645451811852169218\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/JohnnyJet\/status\/645451811852169218\/photo\/1",
         "indices" : [ 89, 111 ],
         "url" : "http:\/\/t.co\/nE1lkx7UwC",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CPUa_aIUsAAUy6t.jpg",
@@ -864,7 +864,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -958,7 +958,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",

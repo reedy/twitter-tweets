@@ -192,7 +192,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 20009086
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/682213819112927232\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/682213819112927232\/photo\/1",
       "indices" : [ 60, 83 ],
       "url" : "https:\/\/t.co\/XPy9IITKLk",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CXe10ACWwAAZwI_.jpg",
@@ -222,7 +222,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/XPy9IITKLk"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/682213819112927232\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/682213819112927232\/photo\/1",
       "indices" : [ 60, 83 ],
       "url" : "https:\/\/t.co\/XPy9IITKLk",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CXe12h2WYAAofjF.jpg",
@@ -310,7 +310,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/682007667443777538\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/682007667443777538\/photo\/1",
       "indices" : [ 24, 47 ],
       "url" : "https:\/\/t.co\/7dDXS7Yyt9",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CXb6W9qUoAA1J2O.png",
@@ -423,7 +423,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/681897314655535104\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/681897314655535104\/photo\/1",
       "indices" : [ 0, 23 ],
       "url" : "https:\/\/t.co\/LVGxgp1MWC",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CXaV7t1WcAEub9d.jpg",
@@ -453,7 +453,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/LVGxgp1MWC"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/681897314655535104\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/681897314655535104\/photo\/1",
       "indices" : [ 0, 23 ],
       "url" : "https:\/\/t.co\/LVGxgp1MWC",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CXaV_jFWwAARyXX.jpg",
@@ -504,7 +504,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -898,16 +898,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "680811106164674564",
   "geo" : { },
   "id_str" : "680826207793999872",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 My phone has got GPS fixes over Northern Canada before now... It's in my Google Location History",
   "id" : 680826207793999872,
-  "in_reply_to_status_id" : 680811106164674564,
   "created_at" : "2015-12-26 19:03:11 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -925,16 +920,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "680752881755107328",
   "geo" : { },
   "id_str" : "680753327836102656",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 Look at the flight history for the whole day for the plane. It's probably knock on delays",
   "id" : 680753327836102656,
-  "in_reply_to_status_id" : 680752881755107328,
   "created_at" : "2015-12-26 14:13:35 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -970,7 +960,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1003,7 +993,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1036,7 +1026,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1262,7 +1252,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1295,7 +1285,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1329,7 +1319,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/680338578157735936\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/680338578157735936\/photo\/1",
       "indices" : [ 20, 43 ],
       "url" : "https:\/\/t.co\/KxKNuNFLyp",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CXEMVG3WwAAqqJ6.jpg",
@@ -1403,7 +1393,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/679983633281728513\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/679983633281728513\/photo\/1",
       "indices" : [ 96, 119 ],
       "url" : "https:\/\/t.co\/uj2B0nIrS7",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CW_JgiKWsAA2ri7.jpg",
@@ -1549,7 +1539,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/679740781666676736\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/679740781666676736\/photo\/1",
       "indices" : [ 40, 63 ],
       "url" : "https:\/\/t.co\/t1jjg26Tc9",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CW7so3CWkAEVxQp.jpg",
@@ -1601,7 +1591,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/679740368972345344\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/679740368972345344\/photo\/1",
       "indices" : [ 112, 135 ],
       "url" : "https:\/\/t.co\/5AHHkLKrzJ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CW7sKf8W8AAs2TI.jpg",
@@ -1631,7 +1621,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/5AHHkLKrzJ"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/679740368972345344\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/679740368972345344\/photo\/1",
       "indices" : [ 112, 135 ],
       "url" : "https:\/\/t.co\/5AHHkLKrzJ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CW7sMUdWkAAWvgk.jpg",
@@ -1661,7 +1651,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/5AHHkLKrzJ"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/679740368972345344\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/679740368972345344\/photo\/1",
       "indices" : [ 112, 135 ],
       "url" : "https:\/\/t.co\/5AHHkLKrzJ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CW7sOZjWYAAfnR9.jpg",
@@ -1691,7 +1681,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/5AHHkLKrzJ"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/679740368972345344\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/679740368972345344\/photo\/1",
       "indices" : [ 112, 135 ],
       "url" : "https:\/\/t.co\/5AHHkLKrzJ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CW7sQwHWwAQcK9T.jpg",
@@ -1947,7 +1937,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1980,7 +1970,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2141,7 +2131,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/678905996840955905\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/678905996840955905\/photo\/1",
       "indices" : [ 17, 40 ],
       "url" : "https:\/\/t.co\/yEkZ2nuGkG",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWv1Z8LWoAAcW18.jpg",
@@ -2215,7 +2205,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/678882025290530816\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/678882025290530816\/photo\/1",
       "indices" : [ 54, 77 ],
       "url" : "https:\/\/t.co\/bytFLzOwDj",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWvfmk2WEAAvBpq.jpg",
@@ -2336,16 +2326,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "678672749976514560",
   "geo" : { },
   "id_str" : "678673121528963072",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 Because they have blackberries in the White House.",
   "id" : 678673121528963072,
-  "in_reply_to_status_id" : 678672749976514560,
   "created_at" : "2015-12-20 20:27:35 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2599,7 +2584,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 26180582
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/NVIDIA_UK\/status\/678584628526059520\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/NVIDIA_UK\/status\/678584628526059520\/photo\/1",
       "indices" : [ 85, 108 ],
       "url" : "https:\/\/t.co\/QvQphIgBeO",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWrRH53WcAEv1TS.png",
@@ -2646,7 +2631,7 @@ Grailbird.data.tweets_2015_12 =
         "id" : 26180582
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/NVIDIA_UK\/status\/678584628526059520\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/NVIDIA_UK\/status\/678584628526059520\/photo\/1",
         "indices" : [ 70, 93 ],
         "url" : "https:\/\/t.co\/QvQphIgBeO",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CWrRH53WcAEv1TS.png",
@@ -2737,7 +2722,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/678294191500353537\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/678294191500353537\/photo\/1",
       "indices" : [ 28, 51 ],
       "url" : "https:\/\/t.co\/z2b2bgifSx",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWnI-LeWIAA2LoA.jpg",
@@ -2850,7 +2835,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/678205986105094145\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/678205986105094145\/photo\/1",
       "indices" : [ 116, 139 ],
       "url" : "https:\/\/t.co\/T0QTPlaVLn",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWl4uIBWUAAIe6i.jpg",
@@ -2880,7 +2865,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/T0QTPlaVLn"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/678205986105094145\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/678205986105094145\/photo\/1",
       "indices" : [ 116, 139 ],
       "url" : "https:\/\/t.co\/T0QTPlaVLn",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWl4v63W4AAWXrw.jpg",
@@ -2931,7 +2916,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2965,7 +2950,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/677473433656164352\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/677473433656164352\/photo\/1",
       "indices" : [ 18, 41 ],
       "url" : "https:\/\/t.co\/RH3Ba5226z",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWbefwyWwAAwzWD.jpg",
@@ -3017,7 +3002,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/677443686926581761\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/677443686926581761\/photo\/1",
       "indices" : [ 16, 39 ],
       "url" : "https:\/\/t.co\/VkSx6YFaIA",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWbDcP3WIAAecNm.jpg",
@@ -3068,7 +3053,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3135,7 +3120,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/677254129127919617\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/677254129127919617\/photo\/1",
       "indices" : [ 44, 67 ],
       "url" : "https:\/\/t.co\/BRVnIZQcnZ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWYXClzWEAAKSte.png",
@@ -3193,7 +3178,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 196609435
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/677214171872796673\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/677214171872796673\/photo\/1",
       "indices" : [ 61, 84 ],
       "url" : "https:\/\/t.co\/AncewxjyVi",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWXysvgWoAEG5Yn.jpg",
@@ -3355,7 +3340,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3388,7 +3373,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3637,7 +3622,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 171163790
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/676431813917736960\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/676431813917736960\/photo\/1",
       "indices" : [ 113, 136 ],
       "url" : "https:\/\/t.co\/gHyIlX4QDV",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWMrJl6XAAAiv_6.png",
@@ -3726,7 +3711,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "32368769",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/776365601707139072\/cwGdD0u-_normal.jpg",
       "id" : 32368769,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 676420820667916288,
@@ -4505,16 +4490,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "675787719671435264",
   "geo" : { },
   "id_str" : "675788271667036160",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 I've done a handful of Aviation museums in the states already too ;D",
   "id" : 675788271667036160,
-  "in_reply_to_status_id" : 675787719671435264,
   "created_at" : "2015-12-12 21:24:14 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4532,16 +4512,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "675787719671435264",
   "geo" : { },
   "id_str" : "675788197331382272",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 I've no real problem with going to SFO or LAX. I know people there :P. Like I say, depends what you're wanting to do...",
   "id" : 675788197331382272,
-  "in_reply_to_status_id" : 675787719671435264,
   "created_at" : "2015-12-12 21:23:56 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4559,16 +4534,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "675786509241466880",
   "geo" : { },
   "id_str" : "675787611814907905",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 I've been to Cali at least 10 times it would seem.... Mostly San Francisco or Los Angeles in Cali though",
   "id" : 675787611814907905,
-  "in_reply_to_status_id" : 675786509241466880,
   "created_at" : "2015-12-12 21:21:36 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4586,16 +4556,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "675785313554403328",
   "geo" : { },
   "id_str" : "675785853554290688",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 Unfortunately, I'm somewhat allergic to Florida now... California is pretty good year round. What are you wanting to do there?;)",
   "id" : 675785853554290688,
-  "in_reply_to_status_id" : 675785313554403328,
   "created_at" : "2015-12-12 21:14:37 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4613,16 +4578,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "675784420423503873",
   "geo" : { },
   "id_str" : "675785045853020160",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 Nice by what definition? :D Warm? Nice people?",
   "id" : 675785045853020160,
-  "in_reply_to_status_id" : 675784420423503873,
   "created_at" : "2015-12-12 21:11:25 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4640,16 +4600,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "675783242193219585",
   "geo" : { },
   "id_str" : "675784219843514369",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 How many locations do BA fly to in the USA? ;) Quick glance suggests 26 :P. Can't be codeshare, or BA numbered flights on others",
   "id" : 675784219843514369,
-  "in_reply_to_status_id" : 675783242193219585,
   "created_at" : "2015-12-12 21:08:08 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4667,16 +4622,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "675780926518001664",
   "geo" : { },
   "id_str" : "675783056620433408",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 Other Australian destinations show \"can only be used for flights operated by British Airway\"",
   "id" : 675783056620433408,
-  "in_reply_to_status_id" : 675780926518001664,
   "created_at" : "2015-12-12 21:03:30 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4694,16 +4644,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "675780926518001664",
   "geo" : { },
   "id_str" : "675783033337864192",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 Doesn't look to be any availability to Sydney in January at all...",
   "id" : 675783033337864192,
-  "in_reply_to_status_id" : 675780926518001664,
   "created_at" : "2015-12-12 21:03:25 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4721,16 +4666,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "675774293918248961",
   "geo" : { },
   "id_str" : "675780705079721987",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 And how serious are you being? :P",
   "id" : 675780705079721987,
-  "in_reply_to_status_id" : 675774293918248961,
   "created_at" : "2015-12-12 20:54:10 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4770,16 +4710,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "675640943740100608",
   "geo" : { },
   "id_str" : "675654248785444864",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 I found some for sub a euro back in September... And sub \u00A30.70 in Gibraltar too ;)",
   "id" : 675654248785444864,
-  "in_reply_to_status_id" : 675640943740100608,
   "created_at" : "2015-12-12 12:31:40 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4826,7 +4761,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -5113,16 +5048,11 @@ Grailbird.data.tweets_2015_12 =
       "display_url" : "brusselsairlines.com\/com\/contact-us\u2026"
     } ]
   },
-  "in_reply_to_status_id_str" : "674879536950059009",
   "geo" : { },
   "id_str" : "674880188740710400",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 @FlyingBrussels https:\/\/t.co\/ouUQSEqHBT or wait till checkin, presumably",
   "id" : 674880188740710400,
-  "in_reply_to_status_id" : 674879536950059009,
   "created_at" : "2015-12-10 09:15:50 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5137,7 +5067,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/674751237296922625\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/674751237296922625\/photo\/1",
       "indices" : [ 33, 56 ],
       "url" : "https:\/\/t.co\/0TJCOKTiSn",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CV0yq5BWUAEMMzl.jpg",
@@ -5674,7 +5604,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 196609435
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/672857479676563456\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/672857479676563456\/photo\/1",
       "indices" : [ 106, 129 ],
       "url" : "https:\/\/t.co\/L8PfkMokhJ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVZ4T7PWUAA8EU8.jpg",
@@ -5743,7 +5673,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 196609435
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/672856814334160896\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/672856814334160896\/photo\/1",
       "indices" : [ 112, 135 ],
       "url" : "https:\/\/t.co\/o1xSuhWMSh",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVZ3tGUWsAAFll-.jpg",
@@ -6041,7 +5971,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 25266175
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/672727759551135744\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/672727759551135744\/photo\/1",
       "indices" : [ 83, 106 ],
       "url" : "https:\/\/t.co\/PuHP7Zu0XA",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVYCQI6XIAAw5Tj.jpg",
@@ -6071,7 +6001,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/PuHP7Zu0XA"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/672727759551135744\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/672727759551135744\/photo\/1",
       "indices" : [ 83, 106 ],
       "url" : "https:\/\/t.co\/PuHP7Zu0XA",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVYCSgIWwAAthuV.jpg",
@@ -6101,7 +6031,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/PuHP7Zu0XA"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/672727759551135744\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/672727759551135744\/photo\/1",
       "indices" : [ 83, 106 ],
       "url" : "https:\/\/t.co\/PuHP7Zu0XA",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVYCVJsWIAAI7Qm.jpg",
@@ -6153,7 +6083,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/672726336956420096\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/672726336956420096\/photo\/1",
       "indices" : [ 38, 61 ],
       "url" : "https:\/\/t.co\/OzhQz7t6AM",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVYA7m8W4AAc5Zu.jpg",
@@ -6183,7 +6113,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/OzhQz7t6AM"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/672726336956420096\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/672726336956420096\/photo\/1",
       "indices" : [ 38, 61 ],
       "url" : "https:\/\/t.co\/OzhQz7t6AM",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVYA96tWIAATQXk.jpg",
@@ -6213,7 +6143,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/OzhQz7t6AM"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/672726336956420096\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/672726336956420096\/photo\/1",
       "indices" : [ 38, 61 ],
       "url" : "https:\/\/t.co\/OzhQz7t6AM",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVYBAeVXAAARMUb.jpg",
@@ -6243,7 +6173,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/OzhQz7t6AM"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/672726336956420096\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/672726336956420096\/photo\/1",
       "indices" : [ 38, 61 ],
       "url" : "https:\/\/t.co\/OzhQz7t6AM",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVYBCXYXAAA6QKd.jpg",

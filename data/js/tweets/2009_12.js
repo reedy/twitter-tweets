@@ -1496,7 +1496,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pirate Party",
+      "name" : "Pirate Party UK",
       "screen_name" : "PiratePartyUK",
       "indices" : [ 3, 17 ],
       "id_str" : "38447898",
@@ -1529,11 +1529,11 @@ Grailbird.data.tweets_2009_12 =
     "id" : 6872410036,
     "created_at" : "2009-12-20 21:59:25 +0000",
     "user" : {
-      "name" : "Pirate Party",
+      "name" : "Pirate Party UK",
       "screen_name" : "PiratePartyUK",
       "protected" : false,
       "id_str" : "38447898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469108187950354432\/NAm6R7iv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796182602784866307\/IPb4qrvo_normal.jpg",
       "id" : 38447898,
       "verified" : true
     }

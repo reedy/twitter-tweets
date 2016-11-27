@@ -19,7 +19,7 @@ Grailbird.data.tweets_2013_02 =
   "text" : "@CorsairMemory Why do your store shipping costs seem to be random numbers? Now $21.99 item, $10.99 del. Last of same $39.99 item, $5.87 del",
   "id" : 307225618804772865,
   "created_at" : "2013-02-28 20:27:50 +0000",
-  "in_reply_to_screen_name" : "Corsair",
+  "in_reply_to_screen_name" : "CORSAIR",
   "in_reply_to_user_id_str" : "26599573",
   "user" : {
     "name" : "Sam Reed",
@@ -617,13 +617,13 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 38, 60 ],
       "url" : "http:\/\/t.co\/CnGFDFCzdY",
-      "expanded_url" : "http:\/\/t.co\/CnGFDFCzdY",
-      "display_url" : "t.co\/CnGFDFCzdY"
+      "expanded_url" : "http:\/\/www.gnut.co.uk",
+      "display_url" : "gnut.co.uk"
     }, {
       "indices" : [ 75, 97 ],
       "url" : "http:\/\/t.co\/2W9oBogicp",
-      "expanded_url" : "http:\/\/t.co\/2W9oBogicp",
-      "display_url" : "t.co\/2W9oBogicp"
+      "expanded_url" : "http:\/\/kck.st\/14NK7zd",
+      "display_url" : "kck.st\/14NK7zd"
     } ]
   },
   "geo" : { },
@@ -1277,8 +1277,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 13, 34 ],
       "url" : "https:\/\/t.co\/d73mudOD",
-      "expanded_url" : "https:\/\/t.co\/d73mudOD",
-      "display_url" : "t.co\/d73mudOD"
+      "expanded_url" : "https:\/\/www.rackspace.co.uk\/email-apps\/email-hosting\/microsoft-exchange\/",
+      "display_url" : "rackspace.co.uk\/email-apps\/ema\u2026"
     } ]
   },
   "geo" : { },
@@ -1302,7 +1302,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1365,8 +1365,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 36, 56 ],
       "url" : "http:\/\/t.co\/Yj11ell8",
-      "expanded_url" : "http:\/\/t.co\/Yj11ell8",
-      "display_url" : "t.co\/Yj11ell8"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -1541,8 +1541,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 0, 20 ],
       "url" : "http:\/\/t.co\/pJEDOE57",
-      "expanded_url" : "http:\/\/t.co\/pJEDOE57",
-      "display_url" : "t.co\/pJEDOE57"
+      "expanded_url" : "http:\/\/bit.ly\/XSLU0R",
+      "display_url" : "bit.ly\/XSLU0R"
     } ]
   },
   "geo" : { },
@@ -1618,8 +1618,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 58, 78 ],
       "url" : "http:\/\/t.co\/zWCaSEpK",
-      "expanded_url" : "http:\/\/t.co\/zWCaSEpK",
-      "display_url" : "t.co\/zWCaSEpK"
+      "expanded_url" : "http:\/\/ur1.ca\/csz23",
+      "display_url" : "ur1.ca\/csz23"
     } ]
   },
   "geo" : { },
@@ -1634,8 +1634,8 @@ Grailbird.data.tweets_2013_02 =
       "urls" : [ {
         "indices" : [ 44, 64 ],
         "url" : "http:\/\/t.co\/zWCaSEpK",
-        "expanded_url" : "http:\/\/t.co\/zWCaSEpK",
-        "display_url" : "t.co\/zWCaSEpK"
+        "expanded_url" : "http:\/\/ur1.ca\/csz23",
+        "display_url" : "ur1.ca\/csz23"
       } ]
     },
     "geo" : { },
@@ -1844,8 +1844,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 86, 106 ],
       "url" : "http:\/\/t.co\/S4Z24ym8",
-      "expanded_url" : "http:\/\/t.co\/S4Z24ym8",
-      "display_url" : "t.co\/S4Z24ym8"
+      "expanded_url" : "http:\/\/bit.ly\/11Cv2BK",
+      "display_url" : "bit.ly\/11Cv2BK"
     } ]
   },
   "geo" : { },
@@ -1932,7 +1932,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913385794928643\/P_CichEc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796768714896986112\/1AeHyrgP_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -2194,7 +2194,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "freenode staff",
+      "name" : "freenode",
       "screen_name" : "freenodestaff",
       "indices" : [ 7, 21 ],
       "id_str" : "17022154",
@@ -2222,11 +2222,11 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jQuery",
+      "name" : "jquery",
       "screen_name" : "jquery",
       "indices" : [ 0, 7 ],
-      "id_str" : "14538601",
-      "id" : 14538601
+      "id_str" : "787925705988403200",
+      "id" : 787925705988403200
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2238,7 +2238,7 @@ Grailbird.data.tweets_2013_02 =
   "text" : "@jquery Your \"QUICK ACCESS\" link is still pointing at 1.9.0...",
   "id" : 299710714543755265,
   "created_at" : "2013-02-08 02:46:17 +0000",
-  "in_reply_to_screen_name" : "jquery",
+  "in_reply_to_screen_name" : "the_jsf",
   "in_reply_to_user_id_str" : "14538601",
   "user" : {
     "name" : "Sam Reed",
@@ -2694,8 +2694,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 13, 33 ],
       "url" : "http:\/\/t.co\/CqGI3rGm",
-      "expanded_url" : "http:\/\/t.co\/CqGI3rGm",
-      "display_url" : "t.co\/CqGI3rGm"
+      "expanded_url" : "http:\/\/bit.ly\/12ow6rX",
+      "display_url" : "bit.ly\/12ow6rX"
     } ]
   },
   "geo" : { },
@@ -2721,8 +2721,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 82, 102 ],
       "url" : "http:\/\/t.co\/Y4bxTDE7",
-      "expanded_url" : "http:\/\/t.co\/Y4bxTDE7",
-      "display_url" : "t.co\/Y4bxTDE7"
+      "expanded_url" : "http:\/\/bit.ly\/XSQ8TK",
+      "display_url" : "bit.ly\/XSQ8TK"
     } ]
   },
   "geo" : { },
@@ -2862,8 +2862,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 119, 139 ],
       "url" : "http:\/\/t.co\/4ALAubjX",
-      "expanded_url" : "http:\/\/t.co\/4ALAubjX",
-      "display_url" : "t.co\/4ALAubjX"
+      "expanded_url" : "http:\/\/bit.ly\/openpostcode",
+      "display_url" : "bit.ly\/openpostcode"
     } ]
   },
   "geo" : { },
@@ -3219,8 +3219,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 33, 53 ],
       "url" : "http:\/\/t.co\/Awr1YtJw",
-      "expanded_url" : "http:\/\/t.co\/Awr1YtJw",
-      "display_url" : "t.co\/Awr1YtJw"
+      "expanded_url" : "http:\/\/www.bbc.co.uk\/news\/health-21277450",
+      "display_url" : "bbc.co.uk\/news\/health-21\u2026"
     } ]
   },
   "geo" : { },
@@ -3366,8 +3366,8 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 12, 32 ],
       "url" : "http:\/\/t.co\/wzXvj2mI",
-      "expanded_url" : "http:\/\/t.co\/wzXvj2mI",
-      "display_url" : "t.co\/wzXvj2mI"
+      "expanded_url" : "http:\/\/bit.ly\/W46JGx",
+      "display_url" : "bit.ly\/W46JGx"
     } ]
   },
   "in_reply_to_status_id_str" : "297148787774861312",

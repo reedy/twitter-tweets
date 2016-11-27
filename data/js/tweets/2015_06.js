@@ -195,7 +195,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -267,7 +267,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -312,7 +312,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -357,7 +357,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -402,7 +402,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -447,7 +447,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -492,7 +492,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -537,7 +537,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -588,7 +588,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "2701557462",
       "id" : 2701557462
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 23, 34 ],
       "id_str" : "116534927",
@@ -639,7 +639,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "2701557462",
       "id" : 2701557462
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 23, 34 ],
       "id_str" : "116534927",
@@ -690,7 +690,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "2701557462",
       "id" : 2701557462
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 23, 34 ],
       "id_str" : "116534927",
@@ -741,7 +741,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "2701557462",
       "id" : 2701557462
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 23, 34 ],
       "id_str" : "116534927",
@@ -786,7 +786,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -858,7 +858,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -891,7 +891,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -930,7 +930,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -1002,7 +1002,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -1047,7 +1047,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 24, 35 ],
       "id_str" : "116534927",
@@ -1117,7 +1117,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "875762660",
       "id" : 875762660
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 10, 21 ],
       "id_str" : "116534927",
@@ -2967,11 +2967,11 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jon Stirling",
-      "screen_name" : "phoenix_rises",
+      "name" : "Tonia Peters",
+      "screen_name" : "Phoenix_Rises",
       "indices" : [ 0, 14 ],
-      "id_str" : "1860461",
-      "id" : 1860461
+      "id_str" : "785499942139854848",
+      "id" : 785499942139854848
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2985,7 +2985,7 @@ Grailbird.data.tweets_2015_06 =
   "id" : 608684467117367296,
   "in_reply_to_status_id" : 608683824692781058,
   "created_at" : "2015-06-10 17:17:40 +0000",
-  "in_reply_to_screen_name" : "phoenix_rises",
+  "in_reply_to_screen_name" : "jonnixs",
   "in_reply_to_user_id_str" : "1860461",
   "user" : {
     "name" : "Sam Reed",
@@ -3000,11 +3000,11 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jon Stirling",
-      "screen_name" : "phoenix_rises",
+      "name" : "Tonia Peters",
+      "screen_name" : "Phoenix_Rises",
       "indices" : [ 0, 14 ],
-      "id_str" : "1860461",
-      "id" : 1860461
+      "id_str" : "785499942139854848",
+      "id" : 785499942139854848
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3018,7 +3018,7 @@ Grailbird.data.tweets_2015_06 =
   "id" : 608682555060068352,
   "in_reply_to_status_id" : 608681764312215552,
   "created_at" : "2015-06-10 17:10:04 +0000",
-  "in_reply_to_screen_name" : "phoenix_rises",
+  "in_reply_to_screen_name" : "jonnixs",
   "in_reply_to_user_id_str" : "1860461",
   "user" : {
     "name" : "Sam Reed",
@@ -3238,7 +3238,7 @@ Grailbird.data.tweets_2015_06 =
       "id" : 30261067
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/CNET\/status\/608052437203746817\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/CNET\/status\/608052437203746817\/photo\/1",
       "indices" : [ 81, 103 ],
       "url" : "http:\/\/t.co\/sXdTfvt95r",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CHA8eDYW8AAnuA7.jpg",
@@ -3284,7 +3284,7 @@ Grailbird.data.tweets_2015_06 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/CNET\/status\/608052437203746817\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/CNET\/status\/608052437203746817\/photo\/1",
         "indices" : [ 71, 93 ],
         "url" : "http:\/\/t.co\/sXdTfvt95r",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CHA8eDYW8AAnuA7.jpg",
@@ -3332,7 +3332,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913385794928643\/P_CichEc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796768714896986112\/1AeHyrgP_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -4066,7 +4066,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2131arran",
+      "name" : "\u2131arramoose",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -4155,7 +4155,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",

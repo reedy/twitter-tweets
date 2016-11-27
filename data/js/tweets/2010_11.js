@@ -2582,7 +2582,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Orta Therox",
+      "name" : "\uD83D\uDC8Drta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -4598,8 +4598,8 @@ Grailbird.data.tweets_2010_11 =
     "urls" : [ {
       "indices" : [ 76, 95 ],
       "url" : "http:\/\/t.co\/XB13jUn",
-      "expanded_url" : "http:\/\/t.co\/XB13jUn",
-      "display_url" : "t.co\/XB13jUn"
+      "expanded_url" : "http:\/\/www.racetoinfinity.bt.com",
+      "display_url" : "racetoinfinity.bt.com"
     } ]
   },
   "geo" : { },

@@ -620,11 +620,11 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jon Stirling",
-      "screen_name" : "phoenix_rises",
+      "name" : "Tonia Peters",
+      "screen_name" : "Phoenix_Rises",
       "indices" : [ 0, 14 ],
-      "id_str" : "1860461",
-      "id" : 1860461
+      "id_str" : "785499942139854848",
+      "id" : 785499942139854848
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -638,7 +638,7 @@ Grailbird.data.tweets_2011_12 =
   "id" : 151452781859979267,
   "in_reply_to_status_id" : 151452618529587201,
   "created_at" : "2011-12-27 00:02:11 +0000",
-  "in_reply_to_screen_name" : "phoenix_rises",
+  "in_reply_to_screen_name" : "jonnixs",
   "in_reply_to_user_id_str" : "1860461",
   "user" : {
     "name" : "Sam Reed",
@@ -802,8 +802,8 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ {
       "indices" : [ 36, 56 ],
       "url" : "http:\/\/t.co\/wqJrqkvQ",
-      "expanded_url" : "http:\/\/t.co\/wqJrqkvQ",
-      "display_url" : "t.co\/wqJrqkvQ"
+      "expanded_url" : "http:\/\/www.bbc.co.uk\/news\/technology-16316439",
+      "display_url" : "bbc.co.uk\/news\/technolog\u2026"
     } ]
   },
   "geo" : { },
@@ -1361,8 +1361,8 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ {
       "indices" : [ 78, 98 ],
       "url" : "http:\/\/t.co\/yIKOgS8Z",
-      "expanded_url" : "http:\/\/t.co\/yIKOgS8Z",
-      "display_url" : "t.co\/yIKOgS8Z"
+      "expanded_url" : "http:\/\/bit.ly\/suaNFY",
+      "display_url" : "bit.ly\/suaNFY"
     } ]
   },
   "in_reply_to_status_id_str" : "149950562807451649",
@@ -1446,7 +1446,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1537,7 +1537,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1570,7 +1570,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1658,7 +1658,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1691,7 +1691,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1724,7 +1724,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1815,7 +1815,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2796,7 +2796,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2829,7 +2829,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2862,7 +2862,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3016,7 +3016,7 @@ Grailbird.data.tweets_2011_12 =
       "id" : 19903171
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GeneticGenesis\/status\/146544342918627328\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GeneticGenesis\/status\/146544342918627328\/photo\/1",
       "indices" : [ 75, 95 ],
       "url" : "http:\/\/t.co\/qutszq9V",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AgihTa_CAAATUs_.png",
@@ -3063,7 +3063,7 @@ Grailbird.data.tweets_2011_12 =
         "id" : 19903171
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/GeneticGenesis\/status\/146544342918627328\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/GeneticGenesis\/status\/146544342918627328\/photo\/1",
         "indices" : [ 55, 75 ],
         "url" : "http:\/\/t.co\/qutszq9V",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/AgihTa_CAAATUs_.png",
@@ -3165,8 +3165,8 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ {
       "indices" : [ 17, 37 ],
       "url" : "http:\/\/t.co\/7oQ5VTWY",
-      "expanded_url" : "http:\/\/t.co\/7oQ5VTWY",
-      "display_url" : "t.co\/7oQ5VTWY"
+      "expanded_url" : "http:\/\/dell.to\/v2sr51",
+      "display_url" : "dell.to\/v2sr51"
     } ]
   },
   "in_reply_to_status_id_str" : "146551645772324864",
@@ -4218,8 +4218,8 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ {
       "indices" : [ 116, 136 ],
       "url" : "http:\/\/t.co\/VtsXuCSf",
-      "expanded_url" : "http:\/\/t.co\/VtsXuCSf",
-      "display_url" : "t.co\/VtsXuCSf"
+      "expanded_url" : "http:\/\/bit.ly\/t4FB7C",
+      "display_url" : "bit.ly\/t4FB7C"
     } ]
   },
   "geo" : { },
@@ -4584,8 +4584,8 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ {
       "indices" : [ 35, 55 ],
       "url" : "http:\/\/t.co\/gyh7YX73",
-      "expanded_url" : "http:\/\/t.co\/gyh7YX73",
-      "display_url" : "t.co\/gyh7YX73"
+      "expanded_url" : "http:\/\/bit.ly\/s4ueCv",
+      "display_url" : "bit.ly\/s4ueCv"
     } ]
   },
   "in_reply_to_status_id_str" : "144936152066048001",
@@ -5072,8 +5072,8 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ {
       "indices" : [ 33, 53 ],
       "url" : "http:\/\/t.co\/qJl4xGPH",
-      "expanded_url" : "http:\/\/t.co\/qJl4xGPH",
-      "display_url" : "t.co\/qJl4xGPH"
+      "expanded_url" : "http:\/\/bit.ly\/vrGcFZ",
+      "display_url" : "bit.ly\/vrGcFZ"
     } ]
   },
   "geo" : { },
@@ -5287,7 +5287,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -5572,8 +5572,8 @@ Grailbird.data.tweets_2011_12 =
     "urls" : [ {
       "indices" : [ 94, 114 ],
       "url" : "http:\/\/t.co\/Yj15LVui",
-      "expanded_url" : "http:\/\/t.co\/Yj15LVui",
-      "display_url" : "t.co\/Yj15LVui"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },

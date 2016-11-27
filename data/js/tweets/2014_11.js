@@ -228,7 +228,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -292,7 +292,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -443,7 +443,7 @@ Grailbird.data.tweets_2014_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Android\/status\/532623587874963456\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Android\/status\/532623587874963456\/photo\/1",
         "indices" : [ 107, 129 ],
         "url" : "http:\/\/t.co\/XVFX2tEbHv",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B2RCVLxIYAARGAg.jpg",
@@ -519,7 +519,7 @@ Grailbird.data.tweets_2014_11 =
       "id" : 15560223
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/techradar\/status\/532572636459851776\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/techradar\/status\/532572636459851776\/photo\/1",
       "indices" : [ 107, 129 ],
       "url" : "http:\/\/t.co\/9vmkHyPmLW",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B2QT_Y0IEAAXbBg.jpg",
@@ -565,7 +565,7 @@ Grailbird.data.tweets_2014_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/techradar\/status\/532572636459851776\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/techradar\/status\/532572636459851776\/photo\/1",
         "indices" : [ 92, 114 ],
         "url" : "http:\/\/t.co\/9vmkHyPmLW",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B2QT_Y0IEAAXbBg.jpg",
@@ -974,7 +974,7 @@ Grailbird.data.tweets_2014_11 =
       "id" : 95438524
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/AndroidAuth\/status\/532418030719209473\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/AndroidAuth\/status\/532418030719209473\/photo\/1",
       "indices" : [ 113, 135 ],
       "url" : "http:\/\/t.co\/aOmFAw4Mka",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B2OHYLbIQAAd0nN.jpg",
@@ -1020,7 +1020,7 @@ Grailbird.data.tweets_2014_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/AndroidAuth\/status\/532418030719209473\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/AndroidAuth\/status\/532418030719209473\/photo\/1",
         "indices" : [ 96, 118 ],
         "url" : "http:\/\/t.co\/aOmFAw4Mka",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B2OHYLbIQAAd0nN.jpg",
@@ -1220,7 +1220,7 @@ Grailbird.data.tweets_2014_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/cineworld\/status\/532178498878595072\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/cineworld\/status\/532178498878595072\/photo\/1",
         "indices" : [ 113, 135 ],
         "url" : "http:\/\/t.co\/QbR2l8qoet",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B2KQMuVCEAADzkc.jpg",
@@ -1375,7 +1375,7 @@ Grailbird.data.tweets_2014_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/soylent\/status\/531862846137565184\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/soylent\/status\/531862846137565184\/photo\/1",
         "indices" : [ 109, 131 ],
         "url" : "http:\/\/t.co\/o6o25IenwH",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B2GOcJcCIAAF1zs.jpg",
@@ -1425,7 +1425,7 @@ Grailbird.data.tweets_2014_11 =
       "id_str" : "1355246442",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593129549233139712\/RVpxOhPr_normal.png",
       "id" : 1355246442,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 531898671097708545,
@@ -1472,7 +1472,7 @@ Grailbird.data.tweets_2014_11 =
       "id" : 18332190
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/531592778082684928\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/531592778082684928\/photo\/1",
       "indices" : [ 117, 139 ],
       "url" : "http:\/\/t.co\/Nx9hFnOXd5",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B2CY0C2IQAEdj9H.jpg",
@@ -1612,7 +1612,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tindie Maker Market",
+      "name" : "Tindie",
       "screen_name" : "tindie",
       "indices" : [ 0, 7 ],
       "id_str" : "712685130",
@@ -1932,7 +1932,7 @@ Grailbird.data.tweets_2014_11 =
       "id" : 134196350
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/flightradar24\/status\/530737218835738624\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/flightradar24\/status\/530737218835738624\/photo\/1",
       "indices" : [ 84, 106 ],
       "url" : "http:\/\/t.co\/OcsPm7xFY9",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B12Or2QCYAAdFaR.png",
@@ -1978,7 +1978,7 @@ Grailbird.data.tweets_2014_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/flightradar24\/status\/530737218835738624\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/flightradar24\/status\/530737218835738624\/photo\/1",
         "indices" : [ 65, 87 ],
         "url" : "http:\/\/t.co\/OcsPm7xFY9",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B12Or2QCYAAdFaR.png",
@@ -2112,9 +2112,9 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "joseph_grima",
       "protected" : false,
       "id_str" : "150225993",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/741312100799221760\/4ayZCRLy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793920690609070080\/iuWK6_Ax_normal.jpg",
       "id" : 150225993,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 530563760713637888,
@@ -3047,7 +3047,7 @@ Grailbird.data.tweets_2014_11 =
       "id" : 95438524
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/AndroidAuth\/status\/529406304306348032\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/AndroidAuth\/status\/529406304306348032\/photo\/1",
       "indices" : [ 102, 124 ],
       "url" : "http:\/\/t.co\/PxTQDRhK51",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B1jUOosIEAA3_PJ.jpg",
@@ -3093,7 +3093,7 @@ Grailbird.data.tweets_2014_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/AndroidAuth\/status\/529406304306348032\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/AndroidAuth\/status\/529406304306348032\/photo\/1",
         "indices" : [ 85, 107 ],
         "url" : "http:\/\/t.co\/PxTQDRhK51",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B1jUOosIEAA3_PJ.jpg",
@@ -3330,7 +3330,7 @@ Grailbird.data.tweets_2014_11 =
         "id" : 302666251
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/RSComponents\/status\/529305318178959361\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/RSComponents\/status\/529305318178959361\/photo\/1",
         "indices" : [ 110, 132 ],
         "url" : "http:\/\/t.co\/4VLhsLoWae",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B1h4YdAIEAAjXBd.png",
@@ -3738,7 +3738,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Orta Therox",
+      "name" : "\uD83D\uDC8Drta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",

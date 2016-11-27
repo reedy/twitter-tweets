@@ -644,8 +644,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 102, 121 ],
       "url" : "http:\/\/t.co\/M4vd9VU",
-      "expanded_url" : "http:\/\/t.co\/M4vd9VU",
-      "display_url" : "t.co\/M4vd9VU"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -1014,8 +1014,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 73, 92 ],
       "url" : "http:\/\/t.co\/Wv3SKNd",
-      "expanded_url" : "http:\/\/t.co\/Wv3SKNd",
-      "display_url" : "t.co\/Wv3SKNd"
+      "expanded_url" : "http:\/\/www.0800buster.co.uk\/",
+      "display_url" : "0800buster.co.uk"
     } ]
   },
   "geo" : { },
@@ -1333,8 +1333,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 6, 25 ],
       "url" : "http:\/\/t.co\/oydnbj3",
-      "expanded_url" : "http:\/\/t.co\/oydnbj3",
-      "display_url" : "t.co\/oydnbj3"
+      "expanded_url" : "http:\/\/bit.ly\/o1ZG9B",
+      "display_url" : "bit.ly\/o1ZG9B"
     } ]
   },
   "in_reply_to_status_id_str" : "106697252759797760",
@@ -1404,8 +1404,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 11, 30 ],
       "url" : "http:\/\/t.co\/sXfarf2",
-      "expanded_url" : "http:\/\/t.co\/sXfarf2",
-      "display_url" : "t.co\/sXfarf2"
+      "expanded_url" : "http:\/\/youtu.be\/d1wuijgeaaY",
+      "display_url" : "youtu.be\/d1wuijgeaaY"
     } ]
   },
   "in_reply_to_status_id_str" : "106684894830280704",
@@ -1753,8 +1753,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 0, 19 ],
       "url" : "http:\/\/t.co\/skf8x3Z",
-      "expanded_url" : "http:\/\/t.co\/skf8x3Z",
-      "display_url" : "t.co\/skf8x3Z"
+      "expanded_url" : "http:\/\/synapse-phones.com\/",
+      "display_url" : "synapse-phones.com"
     } ]
   },
   "geo" : { },
@@ -1847,8 +1847,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 118, 137 ],
       "url" : "http:\/\/t.co\/2ogPXWr",
-      "expanded_url" : "http:\/\/t.co\/2ogPXWr",
-      "display_url" : "t.co\/2ogPXWr"
+      "expanded_url" : "http:\/\/bit.ly\/rfvG4D",
+      "display_url" : "bit.ly\/rfvG4D"
     } ]
   },
   "in_reply_to_status_id_str" : "106022000950132736",
@@ -1885,8 +1885,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 101, 120 ],
       "url" : "http:\/\/t.co\/2ogPXWr",
-      "expanded_url" : "http:\/\/t.co\/2ogPXWr",
-      "display_url" : "t.co\/2ogPXWr"
+      "expanded_url" : "http:\/\/bit.ly\/rfvG4D",
+      "display_url" : "bit.ly\/rfvG4D"
     } ]
   },
   "in_reply_to_status_id_str" : "106017286896369664",
@@ -2039,8 +2039,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 108, 127 ],
       "url" : "http:\/\/t.co\/5hP0V5J",
-      "expanded_url" : "http:\/\/t.co\/5hP0V5J",
-      "display_url" : "t.co\/5hP0V5J"
+      "expanded_url" : "http:\/\/bit.ly\/nL2avp",
+      "display_url" : "bit.ly\/nL2avp"
     } ]
   },
   "in_reply_to_status_id_str" : "105956100679012353",
@@ -2544,8 +2544,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 0, 19 ],
       "url" : "http:\/\/t.co\/p55Lfks",
-      "expanded_url" : "http:\/\/t.co\/p55Lfks",
-      "display_url" : "t.co\/p55Lfks"
+      "expanded_url" : "http:\/\/www.comet.co.uk\/",
+      "display_url" : "comet.co.uk"
     } ]
   },
   "geo" : { },
@@ -2775,8 +2775,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 80, 99 ],
       "url" : "http:\/\/t.co\/TaaWqLd",
-      "expanded_url" : "http:\/\/t.co\/TaaWqLd",
-      "display_url" : "t.co\/TaaWqLd"
+      "expanded_url" : "http:\/\/amzn.to\/okP7t4",
+      "display_url" : "amzn.to\/okP7t4"
     } ]
   },
   "in_reply_to_status_id_str" : "105686632346300416",
@@ -2810,8 +2810,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 30, 49 ],
       "url" : "http:\/\/t.co\/W79FBkx",
-      "expanded_url" : "http:\/\/t.co\/W79FBkx",
-      "display_url" : "t.co\/W79FBkx"
+      "expanded_url" : "http:\/\/www.isreedyintheuk.com\/",
+      "display_url" : "isreedyintheuk.com"
     } ]
   },
   "geo" : { },
@@ -3133,7 +3133,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "d0od",
       "protected" : false,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775097872140341248\/9rkGWKP__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798186174842077184\/MtSl_zJR_normal.jpg",
       "id" : 14822382,
       "verified" : false
     }
@@ -3461,8 +3461,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 47, 66 ],
       "url" : "http:\/\/t.co\/Dmw4jHd",
-      "expanded_url" : "http:\/\/t.co\/Dmw4jHd",
-      "display_url" : "t.co\/Dmw4jHd"
+      "expanded_url" : "http:\/\/bit.ly\/p1pj6u",
+      "display_url" : "bit.ly\/p1pj6u"
     } ]
   },
   "geo" : { },
@@ -3533,8 +3533,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 85, 104 ],
       "url" : "http:\/\/t.co\/s1b6IQ7",
-      "expanded_url" : "http:\/\/t.co\/s1b6IQ7",
-      "display_url" : "t.co\/s1b6IQ7"
+      "expanded_url" : "http:\/\/lifehac.kr\/niNGGu",
+      "display_url" : "lifehac.kr\/niNGGu"
     } ]
   },
   "geo" : { },
@@ -4002,8 +4002,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 75, 94 ],
       "url" : "http:\/\/t.co\/NIMdEtQ",
-      "expanded_url" : "http:\/\/t.co\/NIMdEtQ",
-      "display_url" : "t.co\/NIMdEtQ"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -4276,8 +4276,8 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ {
       "indices" : [ 22, 41 ],
       "url" : "http:\/\/t.co\/ApId5lf",
-      "expanded_url" : "http:\/\/t.co\/ApId5lf",
-      "display_url" : "t.co\/ApId5lf"
+      "expanded_url" : "http:\/\/bit.ly\/oEYdKY",
+      "display_url" : "bit.ly\/oEYdKY"
     } ]
   },
   "in_reply_to_status_id_str" : "102700287873134592",
@@ -5674,7 +5674,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "d0od",
       "protected" : false,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775097872140341248\/9rkGWKP__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798186174842077184\/MtSl_zJR_normal.jpg",
       "id" : 14822382,
       "verified" : false
     }

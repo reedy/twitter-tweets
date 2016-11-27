@@ -562,8 +562,8 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Corsair",
-      "screen_name" : "Corsair",
+      "name" : "CORSAIR",
+      "screen_name" : "CORSAIR",
       "indices" : [ 0, 8 ],
       "id_str" : "26599573",
       "id" : 26599573
@@ -580,7 +580,7 @@ Grailbird.data.tweets_2016_08 =
   "id" : 763469733337395200,
   "in_reply_to_status_id" : 763469222986919936,
   "created_at" : "2016-08-10 20:19:03 +0000",
-  "in_reply_to_screen_name" : "Corsair",
+  "in_reply_to_screen_name" : "CORSAIR",
   "in_reply_to_user_id_str" : "26599573",
   "user" : {
     "name" : "Sam Reed",

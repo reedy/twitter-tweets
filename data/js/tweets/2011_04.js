@@ -2580,7 +2580,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "USC_ICT",
       "protected" : false,
       "id_str" : "106507533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2224575058\/uscict_square_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/781628243132633088\/rRUypK4a_normal.jpg",
       "id" : 106507533,
       "verified" : false
     }

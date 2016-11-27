@@ -67,7 +67,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "winjer",
       "protected" : false,
       "id_str" : "957411",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700626043996995584\/AxJI0Tb4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796363909372448768\/EUUKjyVE_normal.jpg",
       "id" : 957411,
       "verified" : false
     }
@@ -145,7 +145,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Orta Therox",
+      "name" : "\uD83D\uDC8Drta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -404,7 +404,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pirate Party",
+      "name" : "Pirate Party UK",
       "screen_name" : "PiratePartyUK",
       "indices" : [ 24, 38 ],
       "id_str" : "38447898",
@@ -600,7 +600,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pirate Party",
+      "name" : "Pirate Party UK",
       "screen_name" : "PiratePartyUK",
       "indices" : [ 3, 17 ],
       "id_str" : "38447898",
@@ -627,11 +627,11 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9534527767,
     "created_at" : "2010-02-23 17:24:41 +0000",
     "user" : {
-      "name" : "Pirate Party",
+      "name" : "Pirate Party UK",
       "screen_name" : "PiratePartyUK",
       "protected" : false,
       "id_str" : "38447898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469108187950354432\/NAm6R7iv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796182602784866307\/IPb4qrvo_normal.jpg",
       "id" : 38447898,
       "verified" : true
     }
@@ -1173,7 +1173,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Orta Therox",
+      "name" : "\uD83D\uDC8Drta Therox",
       "screen_name" : "orta",
       "indices" : [ 3, 8 ],
       "id_str" : "2569881",
@@ -1224,7 +1224,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9327933130,
     "created_at" : "2010-02-19 09:36:22 +0000",
     "user" : {
-      "name" : "Orta Therox",
+      "name" : "\uD83D\uDC8Drta Therox",
       "screen_name" : "orta",
       "protected" : false,
       "id_str" : "2569881",

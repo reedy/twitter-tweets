@@ -653,7 +653,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weebl",
+      "name" : "Weeeeeeeeeebl",
       "screen_name" : "TheWeebl",
       "indices" : [ 0, 9 ],
       "id_str" : "122040755",
@@ -1212,8 +1212,8 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ {
       "indices" : [ 113, 132 ],
       "url" : "http:\/\/t.co\/lZchsNC",
-      "expanded_url" : "http:\/\/t.co\/lZchsNC",
-      "display_url" : "t.co\/lZchsNC"
+      "expanded_url" : "http:\/\/goo.gl\/ine8D",
+      "display_url" : "goo.gl\/ine8D"
     } ]
   },
   "geo" : { },
@@ -1679,11 +1679,11 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jon Stirling",
-      "screen_name" : "phoenix_rises",
+      "name" : "Tonia Peters",
+      "screen_name" : "Phoenix_Rises",
       "indices" : [ 0, 14 ],
-      "id_str" : "1860461",
-      "id" : 1860461
+      "id_str" : "785499942139854848",
+      "id" : 785499942139854848
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1697,7 +1697,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 83169695141867521,
   "in_reply_to_status_id" : 83154153391669248,
   "created_at" : "2011-06-21 13:49:35 +0000",
-  "in_reply_to_screen_name" : "phoenix_rises",
+  "in_reply_to_screen_name" : "jonnixs",
   "in_reply_to_user_id_str" : "1860461",
   "user" : {
     "name" : "Sam Reed",
@@ -3384,8 +3384,8 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ {
       "indices" : [ 43, 62 ],
       "url" : "http:\/\/t.co\/LeolpdP",
-      "expanded_url" : "http:\/\/t.co\/LeolpdP",
-      "display_url" : "t.co\/LeolpdP"
+      "expanded_url" : "http:\/\/quid.co\/vceuW",
+      "display_url" : "quid.co\/vceuW"
     } ]
   },
   "geo" : { },
@@ -3715,8 +3715,8 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ {
       "indices" : [ 113, 132 ],
       "url" : "http:\/\/t.co\/lZchsNC",
-      "expanded_url" : "http:\/\/t.co\/lZchsNC",
-      "display_url" : "t.co\/lZchsNC"
+      "expanded_url" : "http:\/\/goo.gl\/ine8D",
+      "display_url" : "goo.gl\/ine8D"
     } ]
   },
   "geo" : { },
@@ -8119,7 +8119,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "d0od",
       "protected" : false,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775097872140341248\/9rkGWKP__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798186174842077184\/MtSl_zJR_normal.jpg",
       "id" : 14822382,
       "verified" : false
     }

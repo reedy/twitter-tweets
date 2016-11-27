@@ -36,8 +36,8 @@ Grailbird.data.tweets_2011_10 =
     "urls" : [ {
       "indices" : [ 6, 26 ],
       "url" : "http:\/\/t.co\/MOasf5C0",
-      "expanded_url" : "http:\/\/t.co\/MOasf5C0",
-      "display_url" : "t.co\/MOasf5C0"
+      "expanded_url" : "http:\/\/yfrog.com\/h7jzojtj",
+      "display_url" : "yfrog.com\/h7jzojtj"
     } ]
   },
   "geo" : { },
@@ -72,8 +72,8 @@ Grailbird.data.tweets_2011_10 =
     "urls" : [ {
       "indices" : [ 6, 26 ],
       "url" : "http:\/\/t.co\/ER5TNo9u",
-      "expanded_url" : "http:\/\/t.co\/ER5TNo9u",
-      "display_url" : "t.co\/ER5TNo9u"
+      "expanded_url" : "http:\/\/officialpowermorphicon.com\/",
+      "display_url" : "officialpowermorphicon.com"
     } ]
   },
   "geo" : { },
@@ -201,8 +201,8 @@ Grailbird.data.tweets_2011_10 =
     "urls" : [ {
       "indices" : [ 52, 72 ],
       "url" : "http:\/\/t.co\/TrKlndOD",
-      "expanded_url" : "http:\/\/t.co\/TrKlndOD",
-      "display_url" : "t.co\/TrKlndOD"
+      "expanded_url" : "http:\/\/amzn.to\/sfRfap",
+      "display_url" : "amzn.to\/sfRfap"
     } ]
   },
   "geo" : { },
@@ -877,7 +877,7 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "28668315",
       "id" : 28668315
     }, {
-      "name" : "SonicWALL and IAM",
+      "name" : "SonicWall",
       "screen_name" : "SonicWALL",
       "indices" : [ 64, 74 ],
       "id_str" : "18147893",
@@ -949,7 +949,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -982,7 +982,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2566,8 +2566,8 @@ Grailbird.data.tweets_2011_10 =
     "urls" : [ {
       "indices" : [ 24, 44 ],
       "url" : "http:\/\/t.co\/UBPBaFda",
-      "expanded_url" : "http:\/\/t.co\/UBPBaFda",
-      "display_url" : "t.co\/UBPBaFda"
+      "expanded_url" : "http:\/\/www.speedtest.net\/result\/1542643426.png",
+      "display_url" : "speedtest.net\/result\/1542643\u2026"
     } ]
   },
   "geo" : { },
@@ -2819,8 +2819,8 @@ Grailbird.data.tweets_2011_10 =
     "urls" : [ {
       "indices" : [ 75, 95 ],
       "url" : "http:\/\/t.co\/Yj15LVui",
-      "expanded_url" : "http:\/\/t.co\/Yj15LVui",
-      "display_url" : "t.co\/Yj15LVui"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -3478,8 +3478,8 @@ Grailbird.data.tweets_2011_10 =
     "urls" : [ {
       "indices" : [ 25, 45 ],
       "url" : "http:\/\/t.co\/fL2oKJ1R",
-      "expanded_url" : "http:\/\/t.co\/fL2oKJ1R",
-      "display_url" : "t.co\/fL2oKJ1R"
+      "expanded_url" : "http:\/\/www.kickstarter.com\/projects\/dphiffer\/offline-wikipedia-iphone-app?ref=category",
+      "display_url" : "kickstarter.com\/projects\/dphif\u2026"
     } ]
   },
   "geo" : { },
@@ -3677,8 +3677,8 @@ Grailbird.data.tweets_2011_10 =
     "urls" : [ {
       "indices" : [ 109, 129 ],
       "url" : "http:\/\/t.co\/Yj15LVui",
-      "expanded_url" : "http:\/\/t.co\/Yj15LVui",
-      "display_url" : "t.co\/Yj15LVui"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -4132,8 +4132,8 @@ Grailbird.data.tweets_2011_10 =
     "urls" : [ {
       "indices" : [ 15, 35 ],
       "url" : "http:\/\/t.co\/t7FcchNF",
-      "expanded_url" : "http:\/\/t.co\/t7FcchNF",
-      "display_url" : "t.co\/t7FcchNF"
+      "expanded_url" : "http:\/\/isreedyintheuk.com\/",
+      "display_url" : "isreedyintheuk.com"
     } ]
   },
   "geo" : { },
@@ -4665,8 +4665,8 @@ Grailbird.data.tweets_2011_10 =
     "urls" : [ {
       "indices" : [ 14, 34 ],
       "url" : "http:\/\/t.co\/pIhlIOVB",
-      "expanded_url" : "http:\/\/t.co\/pIhlIOVB",
-      "display_url" : "t.co\/pIhlIOVB"
+      "expanded_url" : "http:\/\/www.thinkwithportals.com\/music.php",
+      "display_url" : "thinkwithportals.com\/music.php"
     } ]
   },
   "geo" : { },
@@ -4822,8 +4822,8 @@ Grailbird.data.tweets_2011_10 =
     "urls" : [ {
       "indices" : [ 24, 44 ],
       "url" : "http:\/\/t.co\/cHYAzort",
-      "expanded_url" : "http:\/\/t.co\/cHYAzort",
-      "display_url" : "t.co\/cHYAzort"
+      "expanded_url" : "http:\/\/toolserver.org\/~reedy\/15TBDisks.JPG",
+      "display_url" : "toolserver.org\/~reedy\/15TBDis\u2026"
     } ]
   },
   "geo" : { },
@@ -5978,7 +5978,13 @@ Grailbird.data.tweets_2011_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jack",
+      "screen_name" : "Jackbakerrr",
+      "indices" : [ 0, 12 ],
+      "id_str" : "792484064049688576",
+      "id" : 792484064049688576
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6005,7 +6011,13 @@ Grailbird.data.tweets_2011_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jack",
+      "screen_name" : "Jackbakerrr",
+      "indices" : [ 0, 12 ],
+      "id_str" : "792484064049688576",
+      "id" : 792484064049688576
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "lolol",
@@ -6035,7 +6047,13 @@ Grailbird.data.tweets_2011_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jack",
+      "screen_name" : "Jackbakerrr",
+      "indices" : [ 0, 12 ],
+      "id_str" : "792484064049688576",
+      "id" : 792484064049688576
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

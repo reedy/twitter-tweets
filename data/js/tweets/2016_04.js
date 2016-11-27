@@ -3,7 +3,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -36,7 +36,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -300,7 +300,7 @@ Grailbird.data.tweets_2016_04 =
       "id" : 21086622
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/725778570669346816\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/725778570669346816\/photo\/1",
       "indices" : [ 45, 68 ],
       "url" : "https:\/\/t.co\/yydpqIlORw",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/ChJ7w0mWYAEge7M.jpg",
@@ -330,7 +330,7 @@ Grailbird.data.tweets_2016_04 =
       } ],
       "display_url" : "pic.twitter.com\/yydpqIlORw"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/725778570669346816\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/725778570669346816\/photo\/1",
       "indices" : [ 45, 68 ],
       "url" : "https:\/\/t.co\/yydpqIlORw",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/ChJ7w3nWUAAb34v.jpg",
@@ -459,7 +459,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "61352707",
       "id" : 61352707
     }, {
-      "name" : "telecommunist",
+      "name" : "cyberplumber",
       "screen_name" : "bigfack",
       "indices" : [ 20, 28 ],
       "id_str" : "1277435053",
@@ -496,7 +496,7 @@ Grailbird.data.tweets_2016_04 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "telecommunist",
+        "name" : "cyberplumber",
         "screen_name" : "bigfack",
         "indices" : [ 1, 9 ],
         "id_str" : "1277435053",
@@ -628,7 +628,7 @@ Grailbird.data.tweets_2016_04 =
       "id" : 457033547
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/725408307888951296\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/725408307888951296\/photo\/1",
       "indices" : [ 105, 128 ],
       "url" : "https:\/\/t.co\/LeCkutezuU",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/ChErAuIXEAEE-Cu.jpg",
@@ -1787,13 +1787,13 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JAFF",
-      "screen_name" : "Jafftag",
+      "name" : "SKANKYFRANKIE",
+      "screen_name" : "JAFFTAG",
       "indices" : [ 0, 8 ],
       "id_str" : "18614262",
       "id" : 18614262
     }, {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 22, 33 ],
       "id_str" : "116534927",
@@ -1811,7 +1811,7 @@ Grailbird.data.tweets_2016_04 =
   "id" : 722211226210721793,
   "in_reply_to_status_id" : 722210584570261505,
   "created_at" : "2016-04-18 23:52:29 +0000",
-  "in_reply_to_screen_name" : "Jafftag",
+  "in_reply_to_screen_name" : "JAFFTAG",
   "in_reply_to_user_id_str" : "18614262",
   "user" : {
     "name" : "Sam Reed",
@@ -2554,7 +2554,7 @@ Grailbird.data.tweets_2016_04 =
       "id" : 196609435
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/721425753393520640\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/721425753393520640\/photo\/1",
       "indices" : [ 34, 57 ],
       "url" : "https:\/\/t.co\/zGZAWZzKwz",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CgME5heW4Akobma.jpg",
@@ -3060,7 +3060,7 @@ Grailbird.data.tweets_2016_04 =
       "id" : 196609435
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/720546388136837121\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/720546388136837121\/photo\/1",
       "indices" : [ 23, 46 ],
       "url" : "https:\/\/t.co\/OFbjCKNGIk",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Cf_lHnEW8AEvvlu.jpg",
@@ -3730,7 +3730,7 @@ Grailbird.data.tweets_2016_04 =
       "id" : 271986064
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/719570400892624897\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/719570400892624897\/photo\/1",
       "indices" : [ 38, 61 ],
       "url" : "https:\/\/t.co\/2fMSY2kvvi",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CfxtdvOWIAAQ8Mk.jpg",
@@ -3793,7 +3793,7 @@ Grailbird.data.tweets_2016_04 =
       "id" : 271986064
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/719569908934303745\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/719569908934303745\/photo\/1",
       "indices" : [ 66, 89 ],
       "url" : "https:\/\/t.co\/U1Yt5P68FW",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CfxtBAjWQAESePp.jpg",
@@ -4003,7 +4003,7 @@ Grailbird.data.tweets_2016_04 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/718568771519176704\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/718568771519176704\/photo\/1",
       "indices" : [ 45, 68 ],
       "url" : "https:\/\/t.co\/9FkVGFkupv",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CfjefOlWEAAduqc.jpg",
@@ -4076,7 +4076,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Massongill",
+      "name" : "j\uD83E\uDD83\uD83E\uDD83zt1n",
       "screen_name" : "j00zt1n",
       "indices" : [ 3, 11 ],
       "id_str" : "643163",
@@ -4163,7 +4163,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 718542884836929536,
     "created_at" : "2016-04-08 20:55:48 +0000",
     "user" : {
-      "name" : "Justin Massongill",
+      "name" : "j\uD83E\uDD83\uD83E\uDD83zt1n",
       "screen_name" : "j00zt1n",
       "protected" : false,
       "id_str" : "643163",
@@ -4280,8 +4280,8 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JAFF",
-      "screen_name" : "Jafftag",
+      "name" : "SKANKYFRANKIE",
+      "screen_name" : "JAFFTAG",
       "indices" : [ 0, 8 ],
       "id_str" : "18614262",
       "id" : 18614262
@@ -4298,7 +4298,7 @@ Grailbird.data.tweets_2016_04 =
   "id" : 718547103539195911,
   "in_reply_to_status_id" : 718546301672157184,
   "created_at" : "2016-04-08 21:12:34 +0000",
-  "in_reply_to_screen_name" : "Jafftag",
+  "in_reply_to_screen_name" : "JAFFTAG",
   "in_reply_to_user_id_str" : "18614262",
   "user" : {
     "name" : "Sam Reed",
@@ -4313,8 +4313,8 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JAFF",
-      "screen_name" : "Jafftag",
+      "name" : "SKANKYFRANKIE",
+      "screen_name" : "JAFFTAG",
       "indices" : [ 0, 8 ],
       "id_str" : "18614262",
       "id" : 18614262
@@ -4329,7 +4329,7 @@ Grailbird.data.tweets_2016_04 =
   "text" : "@Jafftag Why you no reply? :(",
   "id" : 718545942526443522,
   "created_at" : "2016-04-08 21:07:57 +0000",
-  "in_reply_to_screen_name" : "Jafftag",
+  "in_reply_to_screen_name" : "JAFFTAG",
   "in_reply_to_user_id_str" : "18614262",
   "user" : {
     "name" : "Sam Reed",
@@ -4351,7 +4351,7 @@ Grailbird.data.tweets_2016_04 =
       "id" : 15560223
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/techradar\/status\/718544418165362688\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/techradar\/status\/718544418165362688\/photo\/1",
       "indices" : [ 90, 113 ],
       "url" : "https:\/\/t.co\/2mGhIgUfHz",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CfjIV0kXIAAQE2L.jpg",
@@ -4397,7 +4397,7 @@ Grailbird.data.tweets_2016_04 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/techradar\/status\/718544418165362688\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/techradar\/status\/718544418165362688\/photo\/1",
         "indices" : [ 75, 98 ],
         "url" : "https:\/\/t.co\/2mGhIgUfHz",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CfjIV0kXIAAQE2L.jpg",
@@ -4526,7 +4526,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -5215,7 +5215,7 @@ Grailbird.data.tweets_2016_04 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/717658390172983296\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/717658390172983296\/photo\/1",
       "indices" : [ 81, 104 ],
       "url" : "https:\/\/t.co\/skLYKiTAts",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CfWigEJWEAEvPJI.jpg",
@@ -5289,7 +5289,7 @@ Grailbird.data.tweets_2016_04 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/717376505358237698\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/717376505358237698\/photo\/1",
       "indices" : [ 114, 137 ],
       "url" : "https:\/\/t.co\/eHCscI5iKq",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CfSiIUHWwAA5QCO.jpg",
@@ -5875,16 +5875,11 @@ Grailbird.data.tweets_2016_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "715805110081875969",
   "geo" : { },
   "id_str" : "715805439196311552",
-  "in_reply_to_user_id" : 1974862314,
   "text" : "@JamesTLS90 Why would the Chinese really buy it? They're making their own shit steel they can't get rid of as it is",
   "id" : 715805439196311552,
-  "in_reply_to_status_id" : 715805110081875969,
   "created_at" : "2016-04-01 07:38:10 +0000",
-  "in_reply_to_screen_name" : "JamesMCR90",
-  "in_reply_to_user_id_str" : "1974862314",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

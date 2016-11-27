@@ -1957,7 +1957,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "Acronis",
       "protected" : false,
       "id_str" : "17838200",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767772342474928129\/PeJ9lVmT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784455300103475200\/eTOjJf7I_normal.jpg",
       "id" : 17838200,
       "verified" : false
     }

@@ -486,7 +486,7 @@ Grailbird.data.tweets_2015_01 =
       "id" : 18332190
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/556376267071975425\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/556376267071975425\/photo\/1",
       "indices" : [ 44, 66 ],
       "url" : "http:\/\/t.co\/gZwknbsI91",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B7ilQ8gIAAETLDu.jpg",
@@ -944,7 +944,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 3, 14 ],
       "id_str" : "116534927",
@@ -974,7 +974,7 @@ Grailbird.data.tweets_2015_01 =
         "id" : 103065157
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Toadsanime\/status\/554957997190176769\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Toadsanime\/status\/554957997190176769\/photo\/1",
         "indices" : [ 116, 138 ],
         "url" : "http:\/\/t.co\/lFBEEdytHR",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B7ObT7PCAAAUMxV.jpg",
@@ -1013,11 +1013,11 @@ Grailbird.data.tweets_2015_01 =
     "id" : 554957997190176769,
     "created_at" : "2015-01-13 11:07:51 +0000",
     "user" : {
-      "name" : "Ryan Brown @EGX",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "protected" : false,
       "id_str" : "116534927",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/764481824030687233\/n7OtV9g9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790182787680722945\/nZxzYIvs_normal.jpg",
       "id" : 116534927,
       "verified" : true
     }
@@ -1915,7 +1915,7 @@ Grailbird.data.tweets_2015_01 =
       "id" : 2803191
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/lenovo\/status\/551939394903736320\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/lenovo\/status\/551939394903736320\/photo\/1",
       "indices" : [ 118, 140 ],
       "url" : "http:\/\/t.co\/KvJWqGcAHL",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B6jh9I-IYAAMG1e.jpg",
@@ -1973,7 +1973,7 @@ Grailbird.data.tweets_2015_01 =
         "id" : 2803191
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/lenovo\/status\/551939394903736320\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/lenovo\/status\/551939394903736320\/photo\/1",
         "indices" : [ 106, 128 ],
         "url" : "http:\/\/t.co\/KvJWqGcAHL",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B6jh9I-IYAAMG1e.jpg",

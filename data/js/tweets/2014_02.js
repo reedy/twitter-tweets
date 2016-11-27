@@ -44,7 +44,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913385794928643\/P_CichEc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796768714896986112\/1AeHyrgP_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -93,7 +93,7 @@ Grailbird.data.tweets_2014_02 =
       "id" : 20662765
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Ebuyer\/status\/439495191138160641\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Ebuyer\/status\/439495191138160641\/photo\/1",
       "indices" : [ 118, 140 ],
       "url" : "http:\/\/t.co\/gvWrbDBBXO",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BhlmjDKIUAA3LfM.png",
@@ -139,7 +139,7 @@ Grailbird.data.tweets_2014_02 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Ebuyer\/status\/439495191138160641\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Ebuyer\/status\/439495191138160641\/photo\/1",
         "indices" : [ 106, 128 ],
         "url" : "http:\/\/t.co\/gvWrbDBBXO",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BhlmjDKIUAA3LfM.png",
@@ -1168,7 +1168,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tindie Maker Market",
+      "name" : "Tindie",
       "screen_name" : "tindie",
       "indices" : [ 0, 7 ],
       "id_str" : "712685130",
@@ -1201,7 +1201,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1246,14 +1246,14 @@ Grailbird.data.tweets_2014_02 =
       "id_str" : "77492485",
       "id" : 77492485
     }, {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 12, 27 ],
       "id_str" : "28117032",
       "id" : 28117032
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/438015076713644032\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/438015076713644032\/photo\/1",
       "indices" : [ 66, 88 ],
       "url" : "http:\/\/t.co\/PLv4ry96KE",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BhQkZDYIMAAm1iN.jpg",
@@ -5779,7 +5779,7 @@ Grailbird.data.tweets_2014_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/429726959849832448\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/429726959849832448\/photo\/1",
       "indices" : [ 24, 46 ],
       "url" : "http:\/\/t.co\/UrFomcMATr",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BfayZJ4CcAElu3E.jpg",

@@ -3,7 +3,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -305,7 +305,13 @@ Grailbird.data.tweets_2012_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 0, 7 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1290,7 +1296,7 @@ Grailbird.data.tweets_2012_04 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/190896599164125184\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/190896599164125184\/photo\/1",
       "indices" : [ 77, 97 ],
       "url" : "http:\/\/t.co\/RIGYflK6",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AqYzcg6CAAAbH_M.jpg",
@@ -1746,7 +1752,13 @@ Grailbird.data.tweets_2012_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 0, 7 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1858,8 +1870,8 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ {
       "indices" : [ 93, 113 ],
       "url" : "http:\/\/t.co\/Yj15LVui",
-      "expanded_url" : "http:\/\/t.co\/Yj15LVui",
-      "display_url" : "t.co\/Yj15LVui"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -1939,8 +1951,8 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ {
       "indices" : [ 65, 85 ],
       "url" : "http:\/\/t.co\/oqRUd0r0",
-      "expanded_url" : "http:\/\/t.co\/oqRUd0r0",
-      "display_url" : "t.co\/oqRUd0r0"
+      "expanded_url" : "http:\/\/bit.ly\/stopthesnooping",
+      "display_url" : "bit.ly\/stopthesnooping"
     } ]
   },
   "geo" : { },

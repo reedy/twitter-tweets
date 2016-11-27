@@ -531,7 +531,7 @@ Grailbird.data.tweets_2014_01 =
   "id" : 426411458121838592,
   "in_reply_to_status_id" : 426411329469952000,
   "created_at" : "2014-01-23 17:49:48 +0000",
-  "in_reply_to_screen_name" : "Corsair",
+  "in_reply_to_screen_name" : "CORSAIR",
   "in_reply_to_user_id_str" : "26599573",
   "user" : {
     "name" : "Sam Reed",
@@ -890,7 +890,7 @@ Grailbird.data.tweets_2014_01 =
       "id" : 2653460185
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/425254618118250496\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/425254618118250496\/photo\/1",
       "indices" : [ 57, 79 ],
       "url" : "http:\/\/t.co\/sHm7ABvw5f",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BebO0m1IEAA2A2K.jpg",
@@ -1201,7 +1201,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "53076344",
       "id" : 53076344
     }, {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 14, 29 ],
       "id_str" : "28117032",
@@ -1241,7 +1241,7 @@ Grailbird.data.tweets_2014_01 =
       "id" : 209004862
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/AmazonUK\/status\/424488893795151872\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/AmazonUK\/status\/424488893795151872\/photo\/1",
       "indices" : [ 87, 109 ],
       "url" : "http:\/\/t.co\/XKztp1Anuq",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BeM3UiMCUAAaAX1.jpg",
@@ -1293,7 +1293,7 @@ Grailbird.data.tweets_2014_01 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/AmazonUK\/status\/424488893795151872\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/AmazonUK\/status\/424488893795151872\/photo\/1",
         "indices" : [ 73, 95 ],
         "url" : "http:\/\/t.co\/XKztp1Anuq",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BeM3UiMCUAAaAX1.jpg",
@@ -2770,7 +2770,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "161939679",
       "id" : 161939679
     }, {
-      "name" : "SonicWALL and IAM",
+      "name" : "SonicWall",
       "screen_name" : "SonicWALL",
       "indices" : [ 26, 36 ],
       "id_str" : "18147893",
@@ -4323,7 +4323,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 117, 132 ],
       "id_str" : "28117032",
@@ -4482,7 +4482,7 @@ Grailbird.data.tweets_2014_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/420886529436045312\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/420886529436045312\/photo\/1",
       "indices" : [ 45, 67 ],
       "url" : "http:\/\/t.co\/tt7Sg8ieBk",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BddKEYfIYAALymC.jpg",
@@ -4534,7 +4534,7 @@ Grailbird.data.tweets_2014_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/420885911422107649\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/420885911422107649\/photo\/1",
       "indices" : [ 21, 43 ],
       "url" : "http:\/\/t.co\/HXx3Mm2RFX",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BddJgaKIMAAetgE.jpg",
@@ -5235,7 +5235,13 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 0, 7 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5819,7 +5825,7 @@ Grailbird.data.tweets_2014_01 =
       "id" : 2361478832
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/SurgeonSim2013\/status\/419175513354027008\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/SurgeonSim2013\/status\/419175513354027008\/photo\/1",
       "indices" : [ 35, 57 ],
       "url" : "http:\/\/t.co\/E1ve93sTSC",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BdE16I9CcAA74qY.png",
@@ -5860,7 +5866,7 @@ Grailbird.data.tweets_2014_01 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/SurgeonSim2013\/status\/419175513354027008\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/SurgeonSim2013\/status\/419175513354027008\/photo\/1",
         "indices" : [ 15, 37 ],
         "url" : "http:\/\/t.co\/E1ve93sTSC",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BdE16I9CcAA74qY.png",

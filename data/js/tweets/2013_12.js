@@ -3348,7 +3348,7 @@ Grailbird.data.tweets_2013_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/414182660303355904\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/414182660303355904\/photo\/1",
       "indices" : [ 38, 60 ],
       "url" : "http:\/\/t.co\/jTPmuLRbia",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bb9471pCMAATzQC.jpg",
@@ -3485,7 +3485,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -5534,7 +5534,7 @@ Grailbird.data.tweets_2013_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/410885189540532225\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/410885189540532225\/photo\/1",
       "indices" : [ 20, 42 ],
       "url" : "http:\/\/t.co\/A8yeq9rHYv",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BbPB5xpIYAAEUb-.jpg",
@@ -5818,7 +5818,7 @@ Grailbird.data.tweets_2013_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/CorsairMemory\/status\/410145603197214720\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/CorsairMemory\/status\/410145603197214720\/photo\/1",
         "indices" : [ 102, 124 ],
         "url" : "http:\/\/t.co\/qV6kmQRRE6",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BbEhQMlCIAAgeMz.jpg",
@@ -5870,13 +5870,13 @@ Grailbird.data.tweets_2013_12 =
     "id" : 410145603197214720,
     "created_at" : "2013-12-09 20:35:06 +0000",
     "user" : {
-      "name" : "Corsair",
-      "screen_name" : "Corsair",
+      "name" : "CORSAIR",
+      "screen_name" : "CORSAIR",
       "protected" : false,
       "id_str" : "26599573",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666310677607219200\/ADFH2SJI_normal.jpg",
       "id" : 26599573,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 410145758919553024,
@@ -7133,8 +7133,8 @@ Grailbird.data.tweets_2013_12 =
     "urls" : [ {
       "indices" : [ 109, 131 ],
       "url" : "http:\/\/t.co\/osiGgCy2fz",
-      "expanded_url" : "http:\/\/t.co\/osiGgCy2fz",
-      "display_url" : "t.co\/osiGgCy2fz"
+      "expanded_url" : "http:\/\/www.bbc.co.uk\/news\/science-environment-25232387",
+      "display_url" : "bbc.co.uk\/news\/science-e\u2026"
     } ]
   },
   "geo" : { },
@@ -7239,8 +7239,8 @@ Grailbird.data.tweets_2013_12 =
     "urls" : [ {
       "indices" : [ 77, 99 ],
       "url" : "http:\/\/t.co\/ErBysDgETQ",
-      "expanded_url" : "http:\/\/t.co\/ErBysDgETQ",
-      "display_url" : "t.co\/ErBysDgETQ"
+      "expanded_url" : "http:\/\/gu.com\/p\/3yxjc",
+      "display_url" : "gu.com\/p\/3yxjc"
     } ]
   },
   "geo" : { },
@@ -7363,8 +7363,8 @@ Grailbird.data.tweets_2013_12 =
     "urls" : [ {
       "indices" : [ 43, 65 ],
       "url" : "http:\/\/t.co\/2zSONQ9F7A",
-      "expanded_url" : "http:\/\/t.co\/2zSONQ9F7A",
-      "display_url" : "t.co\/2zSONQ9F7A"
+      "expanded_url" : "http:\/\/bit.ly\/IMv3Le",
+      "display_url" : "bit.ly\/IMv3Le"
     } ]
   },
   "geo" : { },
@@ -7606,8 +7606,8 @@ Grailbird.data.tweets_2013_12 =
     "urls" : [ {
       "indices" : [ 36, 58 ],
       "url" : "http:\/\/t.co\/QEKDacKzh1",
-      "expanded_url" : "http:\/\/t.co\/QEKDacKzh1",
-      "display_url" : "t.co\/QEKDacKzh1"
+      "expanded_url" : "http:\/\/www.bbc.co.uk\/news\/uk-politics-25225532",
+      "display_url" : "bbc.co.uk\/news\/uk-politi\u2026"
     } ]
   },
   "geo" : { },
@@ -7931,8 +7931,8 @@ Grailbird.data.tweets_2013_12 =
     "urls" : [ {
       "indices" : [ 109, 131 ],
       "url" : "http:\/\/t.co\/m0RqdkGHs7",
-      "expanded_url" : "http:\/\/t.co\/m0RqdkGHs7",
-      "display_url" : "t.co\/m0RqdkGHs7"
+      "expanded_url" : "http:\/\/www.serversplus.com\/product.asp?s=SVHEW-N54L3YRWTY",
+      "display_url" : "serversplus.com\/product.asp?s=\u2026"
     } ]
   },
   "geo" : { },
@@ -7953,7 +7953,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Jenkins",
+      "name" : "Alola form Chris",
       "screen_name" : "chrsphr",
       "indices" : [ 0, 8 ],
       "id_str" : "7790832",

@@ -80,7 +80,7 @@ Grailbird.data.tweets_2014_05 =
       "id_str" : "32825692",
       "id" : 32825692
     }, {
-      "name" : "Pirate Party",
+      "name" : "Pirate Party UK",
       "screen_name" : "PiratePartyUK",
       "indices" : [ 15, 29 ],
       "id_str" : "38447898",
@@ -783,7 +783,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weebl",
+      "name" : "Weeeeeeeeeebl",
       "screen_name" : "TheWeebl",
       "indices" : [ 0, 9 ],
       "id_str" : "122040755",
@@ -1843,7 +1843,7 @@ Grailbird.data.tweets_2014_05 =
         "id" : 24679473
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/legotale\/status\/465239109037199360\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/legotale\/status\/465239109037199360\/photo\/1",
         "indices" : [ 111, 133 ],
         "url" : "http:\/\/t.co\/ghXqfZOiAr",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BnTcgQNIQAAiJIb.jpg",

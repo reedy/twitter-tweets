@@ -15,7 +15,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "13332772",
       "id" : 13332772
     }, {
-      "name" : "Casey West @ London",
+      "name" : "Casey West",
       "screen_name" : "caseywest",
       "indices" : [ 111, 121 ],
       "id_str" : "13640312",
@@ -44,7 +44,7 @@ Grailbird.data.tweets_2010_07 =
         "id_str" : "13332772",
         "id" : 13332772
       }, {
-        "name" : "Casey West @ London",
+        "name" : "Casey West",
         "screen_name" : "caseywest",
         "indices" : [ 98, 108 ],
         "id_str" : "13640312",
@@ -1889,7 +1889,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "opendns",
       "protected" : false,
       "id_str" : "689273",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636886051819130880\/g8rA_v-s_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798044932296478721\/OOS4lpLf_normal.jpg",
       "id" : 689273,
       "verified" : true
     }

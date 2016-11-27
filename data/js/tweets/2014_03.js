@@ -3,7 +3,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MariaDB",
+      "name" : "MariaDB Corporation",
       "screen_name" : "mariadb",
       "indices" : [ 0, 8 ],
       "id_str" : "403871494",
@@ -2079,13 +2079,7 @@ Grailbird.data.tweets_2014_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "TalkTalk",
-      "screen_name" : "TalkTalkCare",
-      "indices" : [ 0, 13 ],
-      "id_str" : "258719649",
-      "id" : 258719649
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2096,7 +2090,7 @@ Grailbird.data.tweets_2014_03 =
   "text" : "@TalkTalkCare Why do you advertise in Hull? No one there (bar visitors from outside Hull\/KCOM area) can get your services.. :\/",
   "id" : 448490777371746305,
   "created_at" : "2014-03-25 16:05:08 +0000",
-  "in_reply_to_screen_name" : "TalkTalkCare",
+  "in_reply_to_screen_name" : "TalkTalk",
   "in_reply_to_user_id_str" : "258719649",
   "user" : {
     "name" : "Sam Reed",
@@ -2650,7 +2644,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3776,7 +3770,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913385794928643\/P_CichEc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796768714896986112\/1AeHyrgP_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -3826,7 +3820,7 @@ Grailbird.data.tweets_2014_03 =
         "id" : 177525599
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/simonbutcher\/status\/446259244644319232\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/simonbutcher\/status\/446259244644319232\/photo\/1",
         "indices" : [ 109, 131 ],
         "url" : "http:\/\/t.co\/eFA3k4S1IB",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BjFuaytCQAEcXuU.jpg",
@@ -5942,7 +5936,7 @@ Grailbird.data.tweets_2014_03 =
       "id" : 87428004
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/DabsDotCom\/status\/444462207225438209\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/DabsDotCom\/status\/444462207225438209\/photo\/1",
       "indices" : [ 87, 109 ],
       "url" : "http:\/\/t.co\/cCCKOfz1M4",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BisMBcoCIAAOG0Y.jpg",
@@ -5992,7 +5986,7 @@ Grailbird.data.tweets_2014_03 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/DabsDotCom\/status\/444462207225438209\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/DabsDotCom\/status\/444462207225438209\/photo\/1",
         "indices" : [ 71, 93 ],
         "url" : "http:\/\/t.co\/cCCKOfz1M4",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BisMBcoCIAAOG0Y.jpg",
@@ -6843,7 +6837,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913385794928643\/P_CichEc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796768714896986112\/1AeHyrgP_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -7036,7 +7030,7 @@ Grailbird.data.tweets_2014_03 =
       "id" : 15648399
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/BitTorrent\/status\/441727419926331393\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/BitTorrent\/status\/441727419926331393\/photo\/1",
       "indices" : [ 107, 129 ],
       "url" : "http:\/\/t.co\/RQ506ybRRr",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BiFUv3kCAAAECC9.png",
@@ -7088,7 +7082,7 @@ Grailbird.data.tweets_2014_03 =
         "id" : 15648399
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/BitTorrent\/status\/441727419926331393\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/BitTorrent\/status\/441727419926331393\/photo\/1",
         "indices" : [ 91, 113 ],
         "url" : "http:\/\/t.co\/RQ506ybRRr",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BiFUv3kCAAAECC9.png",
@@ -7718,7 +7712,7 @@ Grailbird.data.tweets_2014_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/441213613093978112\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/441213613093978112\/photo\/1",
       "indices" : [ 16, 38 ],
       "url" : "http:\/\/t.co\/tRQkg9Arx0",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bh-BcW0IgAAQx7K.jpg",
@@ -7770,7 +7764,7 @@ Grailbird.data.tweets_2014_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/441210799529680896\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/441210799529680896\/photo\/1",
       "indices" : [ 16, 38 ],
       "url" : "http:\/\/t.co\/TJEyCKaB5Z",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bh9-4moIQAAJj-B.jpg",
@@ -9388,7 +9382,13 @@ Grailbird.data.tweets_2014_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 0, 7 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -9445,7 +9445,7 @@ Grailbird.data.tweets_2014_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/439910197218508800\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/439910197218508800\/photo\/1",
       "indices" : [ 57, 79 ],
       "url" : "http:\/\/t.co\/3VksOFhc99",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bhrf_k-IQAAeUHy.jpg",

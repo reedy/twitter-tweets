@@ -2614,7 +2614,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pirate Party",
+      "name" : "Pirate Party UK",
       "screen_name" : "PiratePartyUK",
       "indices" : [ 3, 17 ],
       "id_str" : "38447898",
@@ -2650,11 +2650,11 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12041149970,
     "created_at" : "2010-04-12 11:27:25 +0000",
     "user" : {
-      "name" : "Pirate Party",
+      "name" : "Pirate Party UK",
       "screen_name" : "PiratePartyUK",
       "protected" : false,
       "id_str" : "38447898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469108187950354432\/NAm6R7iv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796182602784866307\/IPb4qrvo_normal.jpg",
       "id" : 38447898,
       "verified" : true
     }
@@ -3170,7 +3170,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684679573846519808\/9xKypl5l_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/799540775897993220\/hMcW_I5b_normal.jpg",
       "id" : 16170178,
       "verified" : false
     }
@@ -3196,7 +3196,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "15028398",
       "id" : 15028398
     }, {
-      "name" : "Tom Watson \uD83C\uDDEC\uD83C\uDDE7",
+      "name" : "Tom Watson",
       "screen_name" : "tom_watson",
       "indices" : [ 31, 42 ],
       "id_str" : "14190551",
@@ -3213,7 +3213,7 @@ Grailbird.data.tweets_2010_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Tom Watson \uD83C\uDDEC\uD83C\uDDE7",
+        "name" : "Tom Watson",
         "screen_name" : "tom_watson",
         "indices" : [ 10, 21 ],
         "id_str" : "14190551",
@@ -3287,7 +3287,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pirate Party",
+      "name" : "Pirate Party UK",
       "screen_name" : "PiratePartyUK",
       "indices" : [ 3, 17 ],
       "id_str" : "38447898",
@@ -3320,11 +3320,11 @@ Grailbird.data.tweets_2010_04 =
     "id" : 11789831492,
     "created_at" : "2010-04-07 22:23:52 +0000",
     "user" : {
-      "name" : "Pirate Party",
+      "name" : "Pirate Party UK",
       "screen_name" : "PiratePartyUK",
       "protected" : false,
       "id_str" : "38447898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469108187950354432\/NAm6R7iv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796182602784866307\/IPb4qrvo_normal.jpg",
       "id" : 38447898,
       "verified" : true
     }

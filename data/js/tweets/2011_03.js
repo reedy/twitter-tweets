@@ -298,7 +298,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684679573846519808\/9xKypl5l_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/799540775897993220\/hMcW_I5b_normal.jpg",
       "id" : 16170178,
       "verified" : false
     }
@@ -641,7 +641,7 @@ Grailbird.data.tweets_2011_03 =
     "id" : 50904999437410304,
     "created_at" : "2011-03-24 13:01:12 +0000",
     "user" : {
-      "name" : "Tom Goulden",
+      "name" : "Tom",
       "screen_name" : "boomerangmouth",
       "protected" : false,
       "id_str" : "28117032",
@@ -762,7 +762,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684679573846519808\/9xKypl5l_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/799540775897993220\/hMcW_I5b_normal.jpg",
       "id" : 16170178,
       "verified" : false
     }
@@ -1292,7 +1292,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wikimedia Tech Staff",
+      "name" : "Wikimedia Tech SAL",
       "screen_name" : "wikimediatech",
       "indices" : [ 3, 17 ],
       "id_str" : "21156165",
@@ -1319,7 +1319,7 @@ Grailbird.data.tweets_2011_03 =
     "id" : 49954835235221504,
     "created_at" : "2011-03-21 22:05:35 +0000",
     "user" : {
-      "name" : "Wikimedia Tech Staff",
+      "name" : "Wikimedia Tech SAL",
       "screen_name" : "wikimediatech",
       "protected" : false,
       "id_str" : "21156165",

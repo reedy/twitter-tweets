@@ -81,7 +81,7 @@ Grailbird.data.tweets_2015_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/569960890231099392\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/569960890231099392\/photo\/1",
       "indices" : [ 96, 118 ],
       "url" : "http:\/\/t.co\/dr1T79Iv3I",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B-joaK_IMAAdgPj.jpg",

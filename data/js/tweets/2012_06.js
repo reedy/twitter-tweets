@@ -8,8 +8,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 91, 111 ],
       "url" : "http:\/\/t.co\/vOBnPZIy",
-      "expanded_url" : "http:\/\/t.co\/vOBnPZIy",
-      "display_url" : "t.co\/vOBnPZIy"
+      "expanded_url" : "http:\/\/bit.ly\/LMOpjX",
+      "display_url" : "bit.ly\/LMOpjX"
     } ]
   },
   "geo" : { },
@@ -63,8 +63,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 67, 87 ],
       "url" : "http:\/\/t.co\/hLg3wj7p",
-      "expanded_url" : "http:\/\/t.co\/hLg3wj7p",
-      "display_url" : "t.co\/hLg3wj7p"
+      "expanded_url" : "http:\/\/bit.ly\/O3761o",
+      "display_url" : "bit.ly\/O3761o"
     } ]
   },
   "in_reply_to_status_id_str" : "219118029236207618",
@@ -233,8 +233,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 12, 32 ],
       "url" : "http:\/\/t.co\/W2OkHAch",
-      "expanded_url" : "http:\/\/t.co\/W2OkHAch",
-      "display_url" : "t.co\/W2OkHAch"
+      "expanded_url" : "http:\/\/www.samknows.com\/broadband\/exchange\/MYBUB",
+      "display_url" : "samknows.com\/broadband\/exch\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "219113704300625920",
@@ -348,7 +348,13 @@ Grailbird.data.tweets_2012_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 0, 7 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -440,8 +446,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 113, 133 ],
       "url" : "http:\/\/t.co\/UVzCobkr",
-      "expanded_url" : "http:\/\/t.co\/UVzCobkr",
-      "display_url" : "t.co\/UVzCobkr"
+      "expanded_url" : "http:\/\/bit.ly\/LWlN3W",
+      "display_url" : "bit.ly\/LWlN3W"
     } ]
   },
   "geo" : { },
@@ -816,8 +822,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 35, 55 ],
       "url" : "http:\/\/t.co\/ztPgZRLE",
-      "expanded_url" : "http:\/\/t.co\/ztPgZRLE",
-      "display_url" : "t.co\/ztPgZRLE"
+      "expanded_url" : "http:\/\/bbc.in\/Qr97Eb",
+      "display_url" : "bbc.in\/Qr97Eb"
     } ]
   },
   "geo" : { },
@@ -1227,8 +1233,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 34, 54 ],
       "url" : "http:\/\/t.co\/N2cjT8pL",
-      "expanded_url" : "http:\/\/t.co\/N2cjT8pL",
-      "display_url" : "t.co\/N2cjT8pL"
+      "expanded_url" : "http:\/\/bit.ly\/LN9CES",
+      "display_url" : "bit.ly\/LN9CES"
     } ]
   },
   "geo" : { },
@@ -1574,8 +1580,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 29, 49 ],
       "url" : "http:\/\/t.co\/UnPEZpwj",
-      "expanded_url" : "http:\/\/t.co\/UnPEZpwj",
-      "display_url" : "t.co\/UnPEZpwj"
+      "expanded_url" : "http:\/\/bit.ly\/NI4BBw",
+      "display_url" : "bit.ly\/NI4BBw"
     } ]
   },
   "in_reply_to_status_id_str" : "217619427913502721",
@@ -1837,8 +1843,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 79, 99 ],
       "url" : "http:\/\/t.co\/BlqzEJPU",
-      "expanded_url" : "http:\/\/t.co\/BlqzEJPU",
-      "display_url" : "t.co\/BlqzEJPU"
+      "expanded_url" : "http:\/\/bit.ly\/MLOekE",
+      "display_url" : "bit.ly\/MLOekE"
     } ]
   },
   "in_reply_to_status_id_str" : "217268772589932544",
@@ -1919,8 +1925,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 49, 69 ],
       "url" : "http:\/\/t.co\/Yj11ell8",
-      "expanded_url" : "http:\/\/t.co\/Yj11ell8",
-      "display_url" : "t.co\/Yj11ell8"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -2692,8 +2698,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 80, 100 ],
       "url" : "http:\/\/t.co\/cfytzOZT",
-      "expanded_url" : "http:\/\/t.co\/cfytzOZT",
-      "display_url" : "t.co\/cfytzOZT"
+      "expanded_url" : "http:\/\/bit.ly\/Kzgv0n",
+      "display_url" : "bit.ly\/Kzgv0n"
     } ]
   },
   "in_reply_to_status_id_str" : "215488630129573888",
@@ -2758,8 +2764,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 49, 69 ],
       "url" : "http:\/\/t.co\/2L68DNYw",
-      "expanded_url" : "http:\/\/t.co\/2L68DNYw",
-      "display_url" : "t.co\/2L68DNYw"
+      "expanded_url" : "http:\/\/bit.ly\/KzgauI",
+      "display_url" : "bit.ly\/KzgauI"
     } ]
   },
   "in_reply_to_status_id_str" : "215483016942850049",
@@ -3019,8 +3025,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 78, 98 ],
       "url" : "http:\/\/t.co\/15zu6KbF",
-      "expanded_url" : "http:\/\/t.co\/15zu6KbF",
-      "display_url" : "t.co\/15zu6KbF"
+      "expanded_url" : "http:\/\/bit.ly\/L4E10k",
+      "display_url" : "bit.ly\/L4E10k"
     } ]
   },
   "in_reply_to_status_id_str" : "215477896817557505",
@@ -3331,7 +3337,13 @@ Grailbird.data.tweets_2012_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Johnnie Hull",
+      "screen_name" : "HullGamer",
+      "indices" : [ 0, 10 ],
+      "id_str" : "782961206550208513",
+      "id" : 782961206550208513
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3367,8 +3379,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 69, 89 ],
       "url" : "http:\/\/t.co\/Yj11ell8",
-      "expanded_url" : "http:\/\/t.co\/Yj11ell8",
-      "display_url" : "t.co\/Yj11ell8"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -3645,6 +3657,12 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 0, 10 ],
       "id_str" : "824065",
       "id" : 824065
+    }, {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 11, 18 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3672,7 +3690,13 @@ Grailbird.data.tweets_2012_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 0, 7 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4118,8 +4142,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 109, 129 ],
       "url" : "http:\/\/t.co\/Yj11ell8",
-      "expanded_url" : "http:\/\/t.co\/Yj11ell8",
-      "display_url" : "t.co\/Yj11ell8"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
@@ -4173,8 +4197,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 51, 71 ],
       "url" : "http:\/\/t.co\/uAuSJQKQ",
-      "expanded_url" : "http:\/\/t.co\/uAuSJQKQ",
-      "display_url" : "t.co\/uAuSJQKQ"
+      "expanded_url" : "http:\/\/bit.ly\/MnBe3f",
+      "display_url" : "bit.ly\/MnBe3f"
     } ]
   },
   "geo" : { },
@@ -4203,8 +4227,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 108, 128 ],
       "url" : "http:\/\/t.co\/44RNZKva",
-      "expanded_url" : "http:\/\/t.co\/44RNZKva",
-      "display_url" : "t.co\/44RNZKva"
+      "expanded_url" : "http:\/\/bit.ly\/LxmJOp",
+      "display_url" : "bit.ly\/LxmJOp"
     } ]
   },
   "geo" : { },
@@ -4249,7 +4273,13 @@ Grailbird.data.tweets_2012_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 10, 17 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5285,7 +5315,13 @@ Grailbird.data.tweets_2012_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lewis Cawte",
+      "screen_name" : "Lcawte",
+      "indices" : [ 0, 7 ],
+      "id_str" : "783377679575879680",
+      "id" : 783377679575879680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5476,8 +5512,8 @@ Grailbird.data.tweets_2012_06 =
     "urls" : [ {
       "indices" : [ 97, 117 ],
       "url" : "http:\/\/t.co\/Yj11ell8",
-      "expanded_url" : "http:\/\/t.co\/Yj11ell8",
-      "display_url" : "t.co\/Yj11ell8"
+      "expanded_url" : "http:\/\/bit.ly\/jPWQAY",
+      "display_url" : "bit.ly\/jPWQAY"
     } ]
   },
   "geo" : { },
