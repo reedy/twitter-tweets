@@ -459,7 +459,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "61352707",
       "id" : 61352707
     }, {
-      "name" : "cyberplumber",
+      "name" : "NOC jock",
       "screen_name" : "bigfack",
       "indices" : [ 20, 28 ],
       "id_str" : "1277435053",
@@ -496,7 +496,7 @@ Grailbird.data.tweets_2016_04 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "cyberplumber",
+        "name" : "NOC jock",
         "screen_name" : "bigfack",
         "indices" : [ 1, 9 ],
         "id_str" : "1277435053",
@@ -857,7 +857,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1787,7 +1787,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SKANKYFRANKIE",
+      "name" : "Jaff\uD83D\uDCAB",
       "screen_name" : "JAFFTAG",
       "indices" : [ 0, 8 ],
       "id_str" : "18614262",
@@ -4076,14 +4076,14 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "j\uD83E\uDD83\uD83E\uDD83zt1n",
+      "name" : "ll\u1D09\u0183uoss\u0250W u\u1D09\u0287sn\u017F",
       "screen_name" : "j00zt1n",
       "indices" : [ 3, 11 ],
       "id_str" : "643163",
       "id" : 643163
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/j00zt1n\/status\/718542884836929536\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/j00zt1n\/status\/718542884836929536\/photo\/1",
       "indices" : [ 25, 48 ],
       "url" : "https:\/\/t.co\/a1ZrWkilRT",
       "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/CfjG8gKUUAQuXpb.jpg",
@@ -4124,7 +4124,7 @@ Grailbird.data.tweets_2016_04 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/j00zt1n\/status\/718542884836929536\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/j00zt1n\/status\/718542884836929536\/photo\/1",
         "indices" : [ 12, 35 ],
         "url" : "https:\/\/t.co\/a1ZrWkilRT",
         "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/CfjG8gKUUAQuXpb.jpg",
@@ -4163,7 +4163,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 718542884836929536,
     "created_at" : "2016-04-08 20:55:48 +0000",
     "user" : {
-      "name" : "j\uD83E\uDD83\uD83E\uDD83zt1n",
+      "name" : "Justin Massongill \uD83E\uDD18",
       "screen_name" : "j00zt1n",
       "protected" : false,
       "id_str" : "643163",
@@ -4217,7 +4217,7 @@ Grailbird.data.tweets_2016_04 =
         "id" : 1451773004
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/SpaceX\/status\/718547446066913280\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/SpaceX\/status\/718547446066913280\/photo\/1",
         "indices" : [ 115, 138 ],
         "url" : "https:\/\/t.co\/Cnnej7zEnt",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CfjLGD1VIAA1a8p.jpg",
@@ -4280,7 +4280,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SKANKYFRANKIE",
+      "name" : "Jaff\uD83D\uDCAB",
       "screen_name" : "JAFFTAG",
       "indices" : [ 0, 8 ],
       "id_str" : "18614262",
@@ -4313,7 +4313,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SKANKYFRANKIE",
+      "name" : "Jaff\uD83D\uDCAB",
       "screen_name" : "JAFFTAG",
       "indices" : [ 0, 8 ],
       "id_str" : "18614262",

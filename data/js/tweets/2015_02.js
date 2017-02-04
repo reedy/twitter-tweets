@@ -669,7 +669,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Maplin Electronics",
+      "name" : "Maplin",
       "screen_name" : "maplintweet",
       "indices" : [ 55, 67 ],
       "id_str" : "43129175",

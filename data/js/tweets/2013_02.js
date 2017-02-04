@@ -509,7 +509,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1057,7 +1057,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1819,7 +1819,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "Raspberry_Pi",
       "protected" : false,
       "id_str" : "302666251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708330651737571329\/xZFDjvIe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/817056871181938688\/bZHaUcRZ_normal.jpg",
       "id" : 302666251,
       "verified" : true
     }
@@ -1932,7 +1932,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796768714896986112\/1AeHyrgP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827544783807619073\/fTd2jG-v_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -2750,7 +2750,7 @@ Grailbird.data.tweets_2013_02 =
       "id" : 15439395
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/stephenfry\/status\/298517218256384000\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/stephenfry\/status\/298517218256384000\/photo\/1",
       "indices" : [ 78, 98 ],
       "url" : "http:\/\/t.co\/EvK9If3v",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BCSL1BICcAAq4nl.jpg",
@@ -2791,7 +2791,7 @@ Grailbird.data.tweets_2013_02 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/stephenfry\/status\/298517218256384000\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/stephenfry\/status\/298517218256384000\/photo\/1",
         "indices" : [ 62, 82 ],
         "url" : "http:\/\/t.co\/EvK9If3v",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BCSL1BICcAAq4nl.jpg",
@@ -2917,7 +2917,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GiveBlood NHS",
+      "name" : "GiveBlood NHS \u2764",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 9, 22 ],
       "id_str" : "304952647",

@@ -317,6 +317,12 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Chadwick",
+      "screen_name" : "wikichad",
+      "indices" : [ 0, 9 ],
+      "id_str" : "807432209829429252",
+      "id" : 807432209829429252
+    }, {
       "name" : "PhpStorm",
       "screen_name" : "phpstorm",
       "indices" : [ 14, 23 ],

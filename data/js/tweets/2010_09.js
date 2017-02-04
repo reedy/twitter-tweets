@@ -235,7 +235,13 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Chadwick",
+      "screen_name" : "wikichad",
+      "indices" : [ 0, 9 ],
+      "id_str" : "807432209829429252",
+      "id" : 807432209829429252
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -880,7 +886,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "Kiwi_Si",
       "protected" : false,
       "id_str" : "779050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684306998872162304\/57lkLrAb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819127200230371328\/VLc-_EDg_normal.jpg",
       "id" : 779050,
       "verified" : false
     }

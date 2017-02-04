@@ -246,7 +246,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GiveBlood NHS",
+      "name" : "GiveBlood NHS \u2764",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 36, 49 ],
       "id_str" : "304952647",
@@ -932,7 +932,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2810,7 +2810,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "mariadb",
       "protected" : false,
       "id_str" : "403871494",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796249200690270208\/OAFye7pT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807348839015292929\/1RAH-03n_normal.jpg",
       "id" : 403871494,
       "verified" : true
     }
@@ -3830,7 +3830,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "Airbus",
       "protected" : false,
       "id_str" : "15425377",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592602401137422336\/qB5FudgU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820893018026872832\/q2NDdAqW_normal.jpg",
       "id" : 15425377,
       "verified" : true
     }
@@ -4479,7 +4479,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5798,8 +5798,8 @@ Grailbird.data.tweets_2013_06 =
       "name" : "The White House",
       "screen_name" : "WhiteHouse",
       "indices" : [ 3, 14 ],
-      "id_str" : "30313925",
-      "id" : 30313925
+      "id_str" : "822215673812119553",
+      "id" : 822215673812119553
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5832,8 +5832,8 @@ Grailbird.data.tweets_2013_06 =
     "id" : 342053068566827008,
     "created_at" : "2013-06-04 22:59:41 +0000",
     "user" : {
-      "name" : "The White House",
-      "screen_name" : "WhiteHouse",
+      "name" : "White House Archived",
+      "screen_name" : "ObamaWhiteHouse",
       "protected" : false,
       "id_str" : "30313925",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747463206759698432\/c8cVVWhj_normal.jpg",

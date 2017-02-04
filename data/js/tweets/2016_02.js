@@ -502,7 +502,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "AirlineFlyer",
       "protected" : false,
       "id_str" : "58913244",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/622781284549423104\/cZPicUx8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823351416769093632\/QPqPeT7C_normal.jpg",
       "id" : 58913244,
       "verified" : true
     }
@@ -555,7 +555,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sandra",
+      "name" : "S",
       "screen_name" : "pinkcalculator",
       "indices" : [ 0, 15 ],
       "id_str" : "122748008",
@@ -594,7 +594,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sandra",
+      "name" : "S",
       "screen_name" : "pinkcalculator",
       "indices" : [ 0, 15 ],
       "id_str" : "122748008",
@@ -2489,7 +2489,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2641,7 +2641,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Morris",
+      "name" : "Tom Morris  \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "tommorris",
       "indices" : [ 0, 10 ],
       "id_str" : "25583",

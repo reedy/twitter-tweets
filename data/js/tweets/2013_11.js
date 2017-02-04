@@ -276,7 +276,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 32, 37 ],
       "id_str" : "14822382",
@@ -2636,7 +2636,7 @@ Grailbird.data.tweets_2013_11 =
   "id_str" : "403637281875316736",
   "text" : "RT @AndroidPolice: The Nexus 4 Finally Gets 4.4 - Here's How You Can Flash The KitKat KRT16S OTA Manually [Root Or Unlock Not Required) htt\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2678,7 +2678,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 4, 9 ],
       "id_str" : "14822382",
@@ -3501,7 +3501,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "22054297",
       "id" : 22054297
     }, {
-      "name" : "Rachel Evans",
+      "name" : "Rachel Evans \uD83C\uDDEA\uD83C\uDDFA \u270A",
       "screen_name" : "rvedotrc",
       "indices" : [ 16, 25 ],
       "id_str" : "409506562",
@@ -3570,7 +3570,7 @@ Grailbird.data.tweets_2013_11 =
   "id_str" : "403314239286153216",
   "text" : "RT @AndroidPolice: Google Engineer Dan Morrill Sheds Some Light On The Nexus OTA Process, Urges You To Never Clear Google Service... http:\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3612,7 +3612,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rachel Evans",
+      "name" : "Rachel Evans \uD83C\uDDEA\uD83C\uDDFA \u270A",
       "screen_name" : "rvedotrc",
       "indices" : [ 0, 9 ],
       "id_str" : "409506562",
@@ -3651,7 +3651,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rachel Evans",
+      "name" : "Rachel Evans \uD83C\uDDEA\uD83C\uDDFA \u270A",
       "screen_name" : "rvedotrc",
       "indices" : [ 0, 9 ],
       "id_str" : "409506562",

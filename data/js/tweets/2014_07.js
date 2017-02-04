@@ -135,7 +135,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796768714896986112\/1AeHyrgP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827544783807619073\/fTd2jG-v_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -702,7 +702,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1123,7 +1123,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Morris",
+      "name" : "Tom Morris  \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "tommorris",
       "indices" : [ 4, 14 ],
       "id_str" : "25583",
@@ -2010,7 +2010,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "boomerangmouth",
       "protected" : false,
       "id_str" : "28117032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860216962\/-71xbOST_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823857783032475648\/63AA72gQ_normal.jpg",
       "id" : 28117032,
       "verified" : false
     }
@@ -2728,7 +2728,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3508,7 +3508,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "Airbus",
       "protected" : false,
       "id_str" : "15425377",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592602401137422336\/qB5FudgU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820893018026872832\/q2NDdAqW_normal.jpg",
       "id" : 15425377,
       "verified" : true
     }
@@ -3745,7 +3745,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4029,7 +4029,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "18496297",
       "id" : 18496297
     }, {
-      "name" : "Firefox",
+      "name" : "Firefox \uD83E\uDD8A\uD83C\uDF0D",
       "screen_name" : "firefox",
       "indices" : [ 47, 55 ],
       "id_str" : "2142731",
@@ -4254,7 +4254,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Firefox",
+      "name" : "Firefox \uD83E\uDD8A\uD83C\uDF0D",
       "screen_name" : "firefox",
       "indices" : [ 16, 24 ],
       "id_str" : "2142731",
@@ -4501,7 +4501,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Firefox",
+      "name" : "Firefox \uD83E\uDD8A\uD83C\uDF0D",
       "screen_name" : "firefox",
       "indices" : [ 26, 34 ],
       "id_str" : "2142731",
@@ -4953,7 +4953,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "551426814",
       "id" : 551426814
     }, {
-      "name" : "GiveBlood NHS",
+      "name" : "GiveBlood NHS \u2764",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 28, 41 ],
       "id_str" : "304952647",
@@ -5445,7 +5445,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

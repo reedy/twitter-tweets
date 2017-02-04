@@ -123,7 +123,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -162,7 +162,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -206,7 +206,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -239,7 +239,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1100,7 +1100,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "GooglePlay",
       "protected" : false,
       "id_str" : "243381107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717080514931376129\/hfhzm06Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808350098178670592\/bYyZI8Bp_normal.jpg",
       "id" : 243381107,
       "verified" : true
     }
@@ -2905,7 +2905,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796768714896986112\/1AeHyrgP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827544783807619073\/fTd2jG-v_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -4341,7 +4341,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/799540775897993220\/hMcW_I5b_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818151393848655873\/dGvYFRNZ_normal.jpg",
       "id" : 16170178,
       "verified" : false
     }
@@ -6006,7 +6006,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796768714896986112\/1AeHyrgP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827544783807619073\/fTd2jG-v_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }

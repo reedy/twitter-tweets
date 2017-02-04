@@ -36,7 +36,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug Winter",
+      "name" : "Doug",
       "screen_name" : "winjer",
       "indices" : [ 3, 10 ],
       "id_str" : "957411",
@@ -63,7 +63,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9771011599,
     "created_at" : "2010-02-28 09:43:30 +0000",
     "user" : {
-      "name" : "Doug Winter",
+      "name" : "Doug",
       "screen_name" : "winjer",
       "protected" : false,
       "id_str" : "957411",
@@ -233,7 +233,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raymond Mcfee",
+      "name" : "Raymond Mcfee MAPM",
       "screen_name" : "Raymond_Mcfee",
       "indices" : [ 50, 64 ],
       "id_str" : "20227728",
@@ -250,7 +250,7 @@ Grailbird.data.tweets_2010_02 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Raymond Mcfee",
+        "name" : "Raymond Mcfee MAPM",
         "screen_name" : "Raymond_Mcfee",
         "indices" : [ 30, 44 ],
         "id_str" : "20227728",
@@ -1179,7 +1179,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "2569881",
       "id" : 2569881
     }, {
-      "name" : "Doug Winter",
+      "name" : "Doug",
       "screen_name" : "winjer",
       "indices" : [ 13, 20 ],
       "id_str" : "957411",
@@ -1202,7 +1202,7 @@ Grailbird.data.tweets_2010_02 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Doug Winter",
+        "name" : "Doug",
         "screen_name" : "winjer",
         "indices" : [ 3, 10 ],
         "id_str" : "957411",
@@ -1824,7 +1824,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "Kiwi_Si",
       "protected" : false,
       "id_str" : "779050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684306998872162304\/57lkLrAb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819127200230371328\/VLc-_EDg_normal.jpg",
       "id" : 779050,
       "verified" : false
     }

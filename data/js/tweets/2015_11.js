@@ -1395,7 +1395,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "chillstep junkie",
+      "name" : "dj lethal",
       "screen_name" : "kier_abshy",
       "indices" : [ 12, 23 ],
       "id_str" : "414743251",
@@ -1428,7 +1428,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chillstep junkie",
+      "name" : "dj lethal",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1473,7 +1473,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "chillstep junkie",
+      "name" : "dj lethal",
       "screen_name" : "kier_abshy",
       "indices" : [ 12, 23 ],
       "id_str" : "414743251",
@@ -1506,7 +1506,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chillstep junkie",
+      "name" : "dj lethal",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1545,7 +1545,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chillstep junkie",
+      "name" : "dj lethal",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1623,7 +1623,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chillstep junkie",
+      "name" : "dj lethal",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1668,7 +1668,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "chillstep junkie",
+      "name" : "dj lethal",
       "screen_name" : "kier_abshy",
       "indices" : [ 12, 23 ],
       "id_str" : "414743251",
@@ -3015,7 +3015,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3439,7 +3439,7 @@ Grailbird.data.tweets_2015_11 =
   "id_str" : "664426568014524416",
   "text" : "RT @guardiantech: Broadband bills will have to increase to pay for snooper's charter, MPs are warned https:\/\/t.co\/JVZuUW3WmK",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4202,7 +4202,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

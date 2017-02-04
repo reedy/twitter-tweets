@@ -2147,7 +2147,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "95023423",
       "id" : 95023423
     }, {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 11, 16 ],
       "id_str" : "14822382",
@@ -2939,7 +2939,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Maplin Electronics",
+      "name" : "Maplin",
       "screen_name" : "maplintweet",
       "indices" : [ 7, 19 ],
       "id_str" : "43129175",
@@ -3689,7 +3689,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "22131500",
       "id" : 22131500
     }, {
-      "name" : "Maplin Electronics",
+      "name" : "Maplin",
       "screen_name" : "maplintweet",
       "indices" : [ 16, 28 ],
       "id_str" : "43129175",
@@ -3722,7 +3722,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Maplin Electronics",
+      "name" : "Maplin",
       "screen_name" : "maplintweet",
       "indices" : [ 0, 12 ],
       "id_str" : "43129175",
@@ -3755,7 +3755,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Maplin Electronics",
+      "name" : "Maplin",
       "screen_name" : "maplintweet",
       "indices" : [ 0, 12 ],
       "id_str" : "43129175",
@@ -3788,7 +3788,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Maplin Electronics",
+      "name" : "Maplin",
       "screen_name" : "maplintweet",
       "indices" : [ 0, 12 ],
       "id_str" : "43129175",
@@ -3879,7 +3879,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Maplin Electronics",
+      "name" : "Maplin",
       "screen_name" : "maplintweet",
       "indices" : [ 25, 37 ],
       "id_str" : "43129175",

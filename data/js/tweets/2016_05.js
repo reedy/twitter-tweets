@@ -846,7 +846,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GiveBlood NHS",
+      "name" : "GiveBlood NHS \u2764",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 0, 13 ],
       "id_str" : "304952647",
@@ -879,7 +879,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GiveBlood NHS",
+      "name" : "GiveBlood NHS \u2764",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 0, 13 ],
       "id_str" : "304952647",

@@ -1363,7 +1363,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "94178695",
       "id" : 94178695
     }, {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 13, 18 ],
       "id_str" : "14822382",

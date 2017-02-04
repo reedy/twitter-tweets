@@ -227,7 +227,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796768714896986112\/1AeHyrgP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827544783807619073\/fTd2jG-v_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -1292,7 +1292,7 @@ Grailbird.data.tweets_2012_10 =
       "id" : 2592986522
     }, {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 34, 42 ],
       "id_str" : "783214",
       "id" : 783214
@@ -1732,7 +1732,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "AngryBirds",
       "protected" : false,
       "id_str" : "17337554",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757732013667299329\/NlxcSq1-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826219343604101123\/eUf4Ydgf_normal.jpg",
       "id" : 17337554,
       "verified" : true
     }
@@ -1865,7 +1865,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "258739325448118274",
   "text" : "RT @AndroidPolice: Play Store Wish lists Are Rolling Out Right Now! http:\/\/t.co\/dr6RLRZ0",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3325,7 +3325,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/799540775897993220\/hMcW_I5b_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818151393848655873\/dGvYFRNZ_normal.jpg",
       "id" : 16170178,
       "verified" : false
     }

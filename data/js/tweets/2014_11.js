@@ -344,7 +344,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "532941263558172672",
   "text" : "RT @AndroidPolice: [Update: Nexus 5] [Flash All The Things] Lollipop Nexus OTA ZIP File Roundup http:\/\/t.co\/x4GqiWimoU",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1286,7 +1286,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1319,7 +1319,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2278,7 +2278,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "530300005132038144",
   "text" : "RT @AndroidPolice: [Update: Fixed] The Android 5.0 Nexus Rollout Might Be On Hold Because Of A Serious WiFi Battery Drain Bug http:\/\/t.co\/c\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2930,7 +2930,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "529714411758690304",
   "text" : "RT @AndroidPolice: Developer Changelog Posted For Android KitKat To Lollipop 5.0.0 r2 (LRX21M) http:\/\/t.co\/uohAvbC3xk",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3718,7 +3718,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "JamesLiamCook",
       "protected" : false,
       "id_str" : "207420832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/771682824638300160\/qG5LxPwq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814875836323139584\/Q6uhjQBf_normal.jpg",
       "id" : 207420832,
       "verified" : true
     }

@@ -2176,7 +2176,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Firefox",
+      "name" : "Firefox \uD83E\uDD8A\uD83C\uDF0D",
       "screen_name" : "firefox",
       "indices" : [ 3, 11 ],
       "id_str" : "2142731",
@@ -2203,7 +2203,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26685434479,
     "created_at" : "2010-10-07 21:11:47 +0000",
     "user" : {
-      "name" : "Firefox",
+      "name" : "Firefox \uD83E\uDD8A\uD83C\uDF0D",
       "screen_name" : "firefox",
       "protected" : false,
       "id_str" : "2142731",
@@ -2453,7 +2453,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632872868913745920\/JZKDOYQm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814208733077270528\/2Occ_1Xl_normal.jpg",
       "id" : 19058966,
       "verified" : false
     }
@@ -2504,7 +2504,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632872868913745920\/JZKDOYQm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814208733077270528\/2Occ_1Xl_normal.jpg",
       "id" : 19058966,
       "verified" : false
     }

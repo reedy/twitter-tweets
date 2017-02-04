@@ -77,7 +77,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "We are star-stuff",
+      "name" : "WeAreStarstuff",
       "screen_name" : "RDGluck",
       "indices" : [ 3, 11 ],
       "id_str" : "62607006",
@@ -164,11 +164,11 @@ Grailbird.data.tweets_2014_08 =
     "id" : 505716816384385024,
     "created_at" : "2014-08-30 14:00:59 +0000",
     "user" : {
-      "name" : "We are star-stuff",
+      "name" : "WeAreStarstuff",
       "screen_name" : "RDGluck",
       "protected" : false,
       "id_str" : "62607006",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726589856491687936\/iGbHRm22_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822770414275403776\/wnt6HdB6_normal.jpg",
       "id" : 62607006,
       "verified" : false
     }
@@ -608,7 +608,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1433,7 +1433,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 53, 58 ],
       "id_str" : "14822382",
@@ -1560,7 +1560,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Woboq Quassel IRC",
+      "name" : "iQuassel by Woboq",
       "screen_name" : "woboquassel",
       "indices" : [ 16, 28 ],
       "id_str" : "380321809",

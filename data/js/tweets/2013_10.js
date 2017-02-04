@@ -2267,7 +2267,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "kickstarter",
       "protected" : false,
       "id_str" : "16186995",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796383165019459584\/Y3V1zs5C_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816336543585603597\/ULlslSuI_normal.jpg",
       "id" : 16186995,
       "verified" : true
     }
@@ -2840,7 +2840,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "Wikipedia",
       "protected" : false,
       "id_str" : "86390214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/688385114129043456\/nZXfdUQq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816709637105807360\/eQvQdGin_normal.jpg",
       "id" : 86390214,
       "verified" : true
     }
@@ -3337,7 +3337,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796768714896986112\/1AeHyrgP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827544783807619073\/fTd2jG-v_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -3787,7 +3787,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "willtudor1",
       "protected" : false,
       "id_str" : "216641289",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779356838382960640\/PFLFukYF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/802948230845710336\/YAncR_Z6_normal.jpg",
       "id" : 216641289,
       "verified" : true
     }
@@ -4333,7 +4333,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5733,27 +5733,16 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Openreach",
-      "screen_name" : "Openreach_news",
-      "indices" : [ 0, 15 ],
-      "id_str" : "325516298",
-      "id" : 325516298
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "387878146805997568",
   "geo" : { },
   "id_str" : "387878216406667264",
-  "in_reply_to_user_id" : 325516298,
   "text" : "@Openreach_news Stop taunting me!",
   "id" : 387878216406667264,
-  "in_reply_to_status_id" : 387878146805997568,
   "created_at" : "2013-10-09 09:52:27 +0000",
-  "in_reply_to_screen_name" : "Openreach_news",
-  "in_reply_to_user_id_str" : "325516298",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -7044,7 +7033,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 28, 33 ],
       "id_str" : "14822382",

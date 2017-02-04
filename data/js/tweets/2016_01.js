@@ -106,7 +106,7 @@ Grailbird.data.tweets_2016_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tehreedy\/status\/693367966625370112\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/693367966625370112\/photo\/1",
       "indices" : [ 43, 66 ],
       "url" : "https:\/\/t.co\/ftnnVhRvyO",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CZ9WfPMVIAASJkv.jpg",
@@ -1698,7 +1698,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Morris",
+      "name" : "Tom Morris  \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "tommorris",
       "indices" : [ 0, 10 ],
       "id_str" : "25583",
@@ -1963,7 +1963,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 9, 14 ],
       "id_str" : "14822382",
@@ -2201,7 +2201,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "AmazonUK",
       "protected" : false,
       "id_str" : "209004862",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458871594727665664\/ODd0sGDV_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806220210239926272\/1YQ70tXT_normal.jpg",
       "id" : 209004862,
       "verified" : true
     }
@@ -4342,7 +4342,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "56505125",
       "id" : 56505125
     }, {
-      "name" : "Firefox",
+      "name" : "Firefox \uD83E\uDD8A\uD83C\uDF0D",
       "screen_name" : "firefox",
       "indices" : [ 80, 88 ],
       "id_str" : "2142731",

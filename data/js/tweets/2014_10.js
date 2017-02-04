@@ -857,7 +857,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3203,7 +3203,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "JamesLiamCook",
       "protected" : false,
       "id_str" : "207420832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/771682824638300160\/qG5LxPwq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814875836323139584\/Q6uhjQBf_normal.jpg",
       "id" : 207420832,
       "verified" : true
     }
@@ -3549,7 +3549,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "JamesLiamCook",
       "protected" : false,
       "id_str" : "207420832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/771682824638300160\/qG5LxPwq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814875836323139584\/Q6uhjQBf_normal.jpg",
       "id" : 207420832,
       "verified" : true
     }
@@ -4104,7 +4104,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "KCOMheybusiness",
       "protected" : false,
       "id_str" : "89161337",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716715925819490304\/g6UqaeYK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804339816083165185\/Eov7D0nk_normal.jpg",
       "id" : 89161337,
       "verified" : false
     }

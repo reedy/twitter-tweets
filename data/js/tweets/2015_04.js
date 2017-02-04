@@ -700,7 +700,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -852,7 +852,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1959,12 +1959,6 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "D.L.S.C",
-      "screen_name" : "__J_R",
-      "indices" : [ 0, 6 ],
-      "id_str" : "178966618",
-      "id" : 178966618
-    }, {
       "name" : "Gogo",
       "screen_name" : "Gogo",
       "indices" : [ 7, 12 ],
@@ -1983,7 +1977,7 @@ Grailbird.data.tweets_2015_04 =
   "id" : 589060044639047680,
   "in_reply_to_status_id" : 589055855863169024,
   "created_at" : "2015-04-17 13:37:13 +0000",
-  "in_reply_to_screen_name" : "__J_R",
+  "in_reply_to_screen_name" : "JRonMelrose",
   "in_reply_to_user_id_str" : "178966618",
   "user" : {
     "name" : "Sam Reed",
@@ -2157,7 +2151,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2236,7 +2230,7 @@ Grailbird.data.tweets_2015_04 =
       "id" : 44196397
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/elonmusk\/status\/588082574183903232\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/elonmusk\/status\/588082574183903232\/photo\/1",
       "indices" : [ 108, 130 ],
       "url" : "http:\/\/t.co\/eJWzN6KSJa",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CClJ-UsW0AEpNnd.jpg",
@@ -2266,7 +2260,7 @@ Grailbird.data.tweets_2015_04 =
       } ],
       "display_url" : "pic.twitter.com\/eJWzN6KSJa"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/elonmusk\/status\/588082574183903232\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/elonmusk\/status\/588082574183903232\/photo\/1",
       "indices" : [ 108, 130 ],
       "url" : "http:\/\/t.co\/eJWzN6KSJa",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CClJ-UuW4AAKOog.jpg",
@@ -2307,7 +2301,7 @@ Grailbird.data.tweets_2015_04 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/elonmusk\/status\/588082574183903232\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/elonmusk\/status\/588082574183903232\/photo\/1",
         "indices" : [ 94, 116 ],
         "url" : "http:\/\/t.co\/eJWzN6KSJa",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CClJ-UsW0AEpNnd.jpg",
@@ -2337,7 +2331,7 @@ Grailbird.data.tweets_2015_04 =
         } ],
         "display_url" : "pic.twitter.com\/eJWzN6KSJa"
       }, {
-        "expanded_url" : "http:\/\/twitter.com\/elonmusk\/status\/588082574183903232\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/elonmusk\/status\/588082574183903232\/photo\/1",
         "indices" : [ 94, 116 ],
         "url" : "http:\/\/t.co\/eJWzN6KSJa",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CClJ-UuW4AAKOog.jpg",
@@ -2542,7 +2536,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

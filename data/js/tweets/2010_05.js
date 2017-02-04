@@ -1959,7 +1959,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "17838200",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784455300103475200\/eTOjJf7I_normal.jpg",
       "id" : 17838200,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 14626383103,
@@ -2094,7 +2094,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "LogitechUK",
       "protected" : false,
       "id_str" : "68731296",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/770906260103426048\/NwU2-j1S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826743908797411328\/GUSik3Y-_normal.jpg",
       "id" : 68731296,
       "verified" : false
     }
@@ -4907,7 +4907,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632872868913745920\/JZKDOYQm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814208733077270528\/2Occ_1Xl_normal.jpg",
       "id" : 19058966,
       "verified" : false
     }

@@ -1388,7 +1388,7 @@ Grailbird.data.tweets_2016_06 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/FT\/status\/746275255354818561\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/FT\/status\/746275255354818561\/photo\/1",
         "indices" : [ 116, 139 ],
         "url" : "https:\/\/t.co\/gUjDX64OY3",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CltNYyKWAAANWMj.jpg",
@@ -1746,7 +1746,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2777,7 +2777,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GiveBlood NHS",
+      "name" : "GiveBlood NHS \u2764",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 0, 13 ],
       "id_str" : "304952647",
@@ -2810,7 +2810,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GiveBlood NHS",
+      "name" : "GiveBlood NHS \u2764",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 0, 13 ],
       "id_str" : "304952647",
@@ -2964,7 +2964,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GiveBlood NHS",
+      "name" : "GiveBlood NHS \u2764",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 0, 13 ],
       "id_str" : "304952647",

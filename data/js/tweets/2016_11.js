@@ -1,5 +1,1066 @@
 Grailbird.data.tweets_2016_11 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 78, 101 ],
+      "url" : "https:\/\/t.co\/cmCAW1zDqw",
+      "expanded_url" : "https:\/\/www.theguardian.com\/info\/developer-blog\/2016\/nov\/29\/the-guardian-has-moved-to-https",
+      "display_url" : "theguardian.com\/info\/developer\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "803903651861397504",
+  "text" : "The Guardian has moved to HTTPS\uD83D\uDD12-- kinda cool that they've blogged about it!\n\nhttps:\/\/t.co\/cmCAW1zDqw",
+  "id" : 803903651861397504,
+  "created_at" : "2016-11-30 10:09:01 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 54, 77 ],
+      "url" : "https:\/\/t.co\/HfcuQ5dRYB",
+      "expanded_url" : "http:\/\/www.bbc.co.uk\/news\/business-38141510",
+      "display_url" : "bbc.co.uk\/news\/business-\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "803582695280353280",
+  "text" : "BT ordered to legally split from Openreach by Ofcom - https:\/\/t.co\/HfcuQ5dRYB",
+  "id" : 803582695280353280,
+  "created_at" : "2016-11-29 12:53:39 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Brown",
+      "screen_name" : "Toadsanime",
+      "indices" : [ 0, 11 ],
+      "id_str" : "116534927",
+      "id" : 116534927
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "803383855696793600",
+  "geo" : { },
+  "id_str" : "803384076254277636",
+  "in_reply_to_user_id" : 116534927,
+  "text" : "@Toadsanime You've managed to not have a full screen donation message before today?",
+  "id" : 803384076254277636,
+  "in_reply_to_status_id" : 803383855696793600,
+  "created_at" : "2016-11-28 23:44:24 +0000",
+  "in_reply_to_screen_name" : "Toadsanime",
+  "in_reply_to_user_id_str" : "116534927",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Synology UK & Nordic",
+      "screen_name" : "SynologyUK",
+      "indices" : [ 3, 14 ],
+      "id_str" : "104116831",
+      "id" : 104116831
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Competition",
+      "indices" : [ 41, 53 ]
+    }, {
+      "text" : "win",
+      "indices" : [ 81, 85 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "803241778589614080",
+  "text" : "RT @SynologyUK: Synology Advent Calendar #Competition. To be in with a chance to #win one, simply RT this post. Closes Tue 29th Dec (UK, Ir\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/SynologyUK\/status\/803241557625368576\/photo\/1",
+        "indices" : [ 143, 166 ],
+        "url" : "https:\/\/t.co\/hN0KjHZxg6",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CyWup9pW8AEdbWT.jpg",
+        "id_str" : "803240144501403649",
+        "id" : 803240144501403649,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CyWup9pW8AEdbWT.jpg",
+        "sizes" : [ {
+          "h" : 510,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1512,
+          "resize" : "fit",
+          "w" : 2016
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 900,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1512,
+          "resize" : "fit",
+          "w" : 2016
+        } ],
+        "display_url" : "pic.twitter.com\/hN0KjHZxg6"
+      } ],
+      "hashtags" : [ {
+        "text" : "Competition",
+        "indices" : [ 25, 37 ]
+      }, {
+        "text" : "win",
+        "indices" : [ 65, 69 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "803241557625368576",
+    "text" : "Synology Advent Calendar #Competition. To be in with a chance to #win one, simply RT this post. Closes Tue 29th Dec (UK, Ireland &amp; Nordic) https:\/\/t.co\/hN0KjHZxg6",
+    "id" : 803241557625368576,
+    "created_at" : "2016-11-28 14:18:05 +0000",
+    "user" : {
+      "name" : "Synology UK & Nordic",
+      "screen_name" : "SynologyUK",
+      "protected" : false,
+      "id_str" : "104116831",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816228762064973825\/2lkk_SfM_normal.jpg",
+      "id" : 104116831,
+      "verified" : false
+    }
+  },
+  "id" : 803241778589614080,
+  "created_at" : "2016-11-28 14:18:58 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Quickline",
+      "screen_name" : "QuicklineUK",
+      "indices" : [ 0, 12 ],
+      "id_str" : "186134628",
+      "id" : 186134628
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "803209418074714112",
+  "geo" : { },
+  "id_str" : "803224572707250176",
+  "in_reply_to_user_id" : 186134628,
+  "text" : "@QuicklineUK Would that work for people on the eastern side of Spaldington?",
+  "id" : 803224572707250176,
+  "in_reply_to_status_id" : 803209418074714112,
+  "created_at" : "2016-11-28 13:10:35 +0000",
+  "in_reply_to_screen_name" : "QuicklineUK",
+  "in_reply_to_user_id_str" : "186134628",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "The Pi Hut",
+      "screen_name" : "ThePiHut",
+      "indices" : [ 1, 10 ],
+      "id_str" : "761589870",
+      "id" : 761589870
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 11, 34 ],
+      "url" : "https:\/\/t.co\/STnSxVKl4t",
+      "expanded_url" : "https:\/\/support.zen.co.uk\/kb\/knowledgebase\/broadband-understanding-rein-and-shine",
+      "display_url" : "support.zen.co.uk\/kb\/knowledgeba\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "802977442470236160",
+  "geo" : { },
+  "id_str" : "802986888328052741",
+  "in_reply_to_user_id" : 761589870,
+  "text" : ".@ThePiHut https:\/\/t.co\/STnSxVKl4t effectively",
+  "id" : 802986888328052741,
+  "in_reply_to_status_id" : 802977442470236160,
+  "created_at" : "2016-11-27 21:26:07 +0000",
+  "in_reply_to_screen_name" : "ThePiHut",
+  "in_reply_to_user_id_str" : "761589870",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andrews & Arnold Ltd",
+      "screen_name" : "aaisp",
+      "indices" : [ 0, 6 ],
+      "id_str" : "21086622",
+      "id" : 21086622
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 10, 33 ],
+      "url" : "https:\/\/t.co\/mDZCQ6agQL",
+      "expanded_url" : "http:\/\/aa.net.uk\/telecoms-equipment.html",
+      "display_url" : "aa.net.uk\/telecoms-equip\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "802324105210970112",
+  "in_reply_to_user_id" : 21086622,
+  "text" : "@aaisp On https:\/\/t.co\/mDZCQ6agQL one image is 404'ing and one is 400'ing",
+  "id" : 802324105210970112,
+  "created_at" : "2016-11-26 01:32:27 +0000",
+  "in_reply_to_screen_name" : "aaisp",
+  "in_reply_to_user_id_str" : "21086622",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Quidco",
+      "screen_name" : "quidco",
+      "indices" : [ 17, 24 ],
+      "id_str" : "20055191",
+      "id" : 20055191
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/802167554273923073\/photo\/1",
+      "indices" : [ 121, 144 ],
+      "url" : "https:\/\/t.co\/mEMNzfzRDG",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CyHfHm9WIAABN5p.jpg",
+      "id_str" : "802167530458587136",
+      "id" : 802167530458587136,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CyHfHm9WIAABN5p.jpg",
+      "sizes" : [ {
+        "h" : 630,
+        "resize" : "fit",
+        "w" : 1196
+      }, {
+        "h" : 630,
+        "resize" : "fit",
+        "w" : 1196
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 630,
+        "resize" : "fit",
+        "w" : 1196
+      }, {
+        "h" : 358,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/mEMNzfzRDG"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "802167554273923073",
+  "text" : "Good to see that @quidco have decided Friday deployments are a good thing, even more so on a busy day like Black Friday. https:\/\/t.co\/mEMNzfzRDG",
+  "id" : 802167554273923073,
+  "created_at" : "2016-11-25 15:10:23 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "RevK",
+      "screen_name" : "TheRealRevK",
+      "indices" : [ 3, 15 ],
+      "id_str" : "227666609",
+      "id" : 227666609
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 87, 110 ],
+      "url" : "https:\/\/t.co\/KoOYtA8WEh",
+      "expanded_url" : "https:\/\/petition.parliament.uk\/petitions\/173199",
+      "display_url" : "petition.parliament.uk\/petitions\/1731\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "802111992748244992",
+  "text" : "RT @TheRealRevK: Petition: Repeal the new Surveillance laws (Investigatory Powers Act) https:\/\/t.co\/KoOYtA8WEh",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 70, 93 ],
+        "url" : "https:\/\/t.co\/KoOYtA8WEh",
+        "expanded_url" : "https:\/\/petition.parliament.uk\/petitions\/173199",
+        "display_url" : "petition.parliament.uk\/petitions\/1731\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "802109595309187072",
+    "text" : "Petition: Repeal the new Surveillance laws (Investigatory Powers Act) https:\/\/t.co\/KoOYtA8WEh",
+    "id" : 802109595309187072,
+    "created_at" : "2016-11-25 11:20:04 +0000",
+    "user" : {
+      "name" : "RevK",
+      "screen_name" : "TheRealRevK",
+      "protected" : false,
+      "id_str" : "227666609",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709389375965106177\/a7rMPrUQ_normal.jpg",
+      "id" : 227666609,
+      "verified" : false
+    }
+  },
+  "id" : 802111992748244992,
+  "created_at" : "2016-11-25 11:29:36 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Quickline",
+      "screen_name" : "QuicklineUK",
+      "indices" : [ 0, 12 ],
+      "id_str" : "186134628",
+      "id" : 186134628
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "802085760556036097",
+  "geo" : { },
+  "id_str" : "802110989974077440",
+  "in_reply_to_user_id" : 186134628,
+  "text" : "@QuicklineUK Wasn't there already a lot of FTTC and FTTP in Holme?",
+  "id" : 802110989974077440,
+  "in_reply_to_status_id" : 802085760556036097,
+  "created_at" : "2016-11-25 11:25:37 +0000",
+  "in_reply_to_screen_name" : "QuicklineUK",
+  "in_reply_to_user_id_str" : "186134628",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Railcam.uk",
+      "screen_name" : "railcamlive",
+      "indices" : [ 0, 12 ],
+      "id_str" : "97446370",
+      "id" : 97446370
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "801869048183197697",
+  "geo" : { },
+  "id_str" : "801886975884218368",
+  "in_reply_to_user_id" : 97446370,
+  "text" : "@railcamlive Somewhere im potentially looking to rent... Will keep you updated if it moves forward....",
+  "id" : 801886975884218368,
+  "in_reply_to_status_id" : 801869048183197697,
+  "created_at" : "2016-11-24 20:35:28 +0000",
+  "in_reply_to_screen_name" : "railcamlive",
+  "in_reply_to_user_id_str" : "97446370",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "B1 Usability Package",
+      "screen_name" : "SAP_B1UP",
+      "indices" : [ 0, 9 ],
+      "id_str" : "56636455",
+      "id" : 56636455
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "801871809163436032",
+  "geo" : { },
+  "id_str" : "801886807017353216",
+  "in_reply_to_user_id" : 56636455,
+  "text" : "@SAP_B1UP Not tried query manager. Will check later on",
+  "id" : 801886807017353216,
+  "in_reply_to_status_id" : 801871809163436032,
+  "created_at" : "2016-11-24 20:34:47 +0000",
+  "in_reply_to_screen_name" : "SAP_B1UP",
+  "in_reply_to_user_id_str" : "56636455",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Boyum IT Solutions",
+      "screen_name" : "BoyumIT",
+      "indices" : [ 0, 8 ],
+      "id_str" : "555885655",
+      "id" : 555885655
+    }, {
+      "name" : "B1 Usability Package",
+      "screen_name" : "SAP_B1UP",
+      "indices" : [ 9, 18 ],
+      "id_str" : "56636455",
+      "id" : 56636455
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "801835091324444672",
+  "in_reply_to_user_id" : 555885655,
+  "text" : "@BoyumIT @SAP_B1UP Any idea about a \"Invalid query tree  [300-33]\"? If I copy it to SQL Server Management Studio and query works fine...",
+  "id" : 801835091324444672,
+  "created_at" : "2016-11-24 17:09:17 +0000",
+  "in_reply_to_screen_name" : "BoyumIT",
+  "in_reply_to_user_id_str" : "555885655",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Railcam.uk",
+      "screen_name" : "railcamlive",
+      "indices" : [ 0, 12 ],
+      "id_str" : "97446370",
+      "id" : 97446370
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "801834113548296192",
+  "in_reply_to_user_id" : 97446370,
+  "text" : "@railcamlive Hypothetical... Interested in a cam (over)looking North to Wakefield Westgate Station, and also toward the south?",
+  "id" : 801834113548296192,
+  "created_at" : "2016-11-24 17:05:24 +0000",
+  "in_reply_to_screen_name" : "railcamlive",
+  "in_reply_to_user_id_str" : "97446370",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "B1 Usability Package",
+      "screen_name" : "SAP_B1UP",
+      "indices" : [ 0, 9 ],
+      "id_str" : "56636455",
+      "id" : 56636455
+    }, {
+      "name" : "Boyum IT Solutions",
+      "screen_name" : "BoyumIT",
+      "indices" : [ 10, 18 ],
+      "id_str" : "555885655",
+      "id" : 555885655
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "801811249210204160",
+  "geo" : { },
+  "id_str" : "801812152835252224",
+  "in_reply_to_user_id" : 56636455,
+  "text" : "@SAP_B1UP @BoyumIT That's the kind of answer I like to hear. Perfect, thankyou! Look forward to it for future :D",
+  "id" : 801812152835252224,
+  "in_reply_to_status_id" : 801811249210204160,
+  "created_at" : "2016-11-24 15:38:08 +0000",
+  "in_reply_to_screen_name" : "SAP_B1UP",
+  "in_reply_to_user_id_str" : "56636455",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Boyum IT Solutions",
+      "screen_name" : "BoyumIT",
+      "indices" : [ 0, 8 ],
+      "id_str" : "555885655",
+      "id" : 555885655
+    }, {
+      "name" : "B1 Usability Package",
+      "screen_name" : "SAP_B1UP",
+      "indices" : [ 9, 18 ],
+      "id_str" : "56636455",
+      "id" : 56636455
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "801805588346929152",
+  "in_reply_to_user_id" : 555885655,
+  "text" : "@BoyumIT @SAP_B1UP Is there a way to find out where a Universal Function is used? Preferably from the Universal Function Config window...",
+  "id" : 801805588346929152,
+  "created_at" : "2016-11-24 15:12:03 +0000",
+  "in_reply_to_screen_name" : "BoyumIT",
+  "in_reply_to_user_id_str" : "555885655",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dan Bishop",
+      "screen_name" : "danbishop88",
+      "indices" : [ 0, 12 ],
+      "id_str" : "19646035",
+      "id" : 19646035
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "801456649659617281",
+  "geo" : { },
+  "id_str" : "801457989655863301",
+  "in_reply_to_user_id" : 19646035,
+  "text" : "@danbishop88 You didn't get a durex one!?",
+  "id" : 801457989655863301,
+  "in_reply_to_status_id" : 801456649659617281,
+  "created_at" : "2016-11-23 16:10:49 +0000",
+  "in_reply_to_screen_name" : "danbishop88",
+  "in_reply_to_user_id_str" : "19646035",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Quidco",
+      "screen_name" : "quidco",
+      "indices" : [ 17, 24 ],
+      "id_str" : "20055191",
+      "id" : 20055191
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "SantaTracker",
+      "indices" : [ 27, 40 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 110, 133 ],
+      "url" : "https:\/\/t.co\/nBxzMfYPSa",
+      "expanded_url" : "http:\/\/www.quidco.com",
+      "display_url" : "quidco.com"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "801245204607102976",
+  "text" : "I've just played @Quidco's #SantaTracker. Play today for your chance to win a share of \u00A325K worth of prizes!\/ https:\/\/t.co\/nBxzMfYPSa",
+  "id" : 801245204607102976,
+  "created_at" : "2016-11-23 02:05:17 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "screen_name" : "jamgregory",
+      "indices" : [ 0, 11 ],
+      "id_str" : "60264283",
+      "id" : 60264283
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "801218421337657345",
+  "geo" : { },
+  "id_str" : "801241565134000128",
+  "in_reply_to_user_id" : 60264283,
+  "text" : "@jamgregory It's hardly an emergency",
+  "id" : 801241565134000128,
+  "in_reply_to_status_id" : 801218421337657345,
+  "created_at" : "2016-11-23 01:50:50 +0000",
+  "in_reply_to_screen_name" : "jamgregory",
+  "in_reply_to_user_id_str" : "60264283",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "My Flights App",
+      "screen_name" : "MyFlightsApp",
+      "indices" : [ 0, 13 ],
+      "id_str" : "77791542",
+      "id" : 77791542
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "801241276880273408",
+  "in_reply_to_user_id" : 77791542,
+  "text" : "@MyFlightsApp How come 3.1.13 is the latest version of the non HD version, and it's 3.1.5 for HD version? Fixes look appropriate for both",
+  "id" : 801241276880273408,
+  "created_at" : "2016-11-23 01:49:41 +0000",
+  "in_reply_to_screen_name" : "MyFlightsApp",
+  "in_reply_to_user_id_str" : "77791542",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "FirstWorldProblems",
+      "indices" : [ 119, 138 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "801193926992465924",
+  "text" : "When you need to log into something that requires 2FA and your phone is dead and you don't a charging cable nearby.... #FirstWorldProblems",
+  "id" : 801193926992465924,
+  "created_at" : "2016-11-22 22:41:32 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "BTCare",
+      "screen_name" : "BTCare",
+      "indices" : [ 0, 7 ],
+      "id_str" : "35737385",
+      "id" : 35737385
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "800338577360035840",
+  "geo" : { },
+  "id_str" : "800340726781313025",
+  "in_reply_to_user_id" : 35737385,
+  "text" : "@BTCare I'm not a BT end user. It's caused by a poor certificate and flagged by newer versions of chrome. Needs to go to your tech people",
+  "id" : 800340726781313025,
+  "in_reply_to_status_id" : 800338577360035840,
+  "created_at" : "2016-11-20 14:11:13 +0000",
+  "in_reply_to_screen_name" : "BTCare",
+  "in_reply_to_user_id_str" : "35737385",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Flybe \u2708",
+      "screen_name" : "flybe",
+      "indices" : [ 0, 6 ],
+      "id_str" : "19436397",
+      "id" : 19436397
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "800331328243675140",
+  "geo" : { },
+  "id_str" : "800337700066852864",
+  "in_reply_to_user_id" : 19436397,
+  "text" : "@flybe Less than a week so far... Will wait around for longer :)",
+  "id" : 800337700066852864,
+  "in_reply_to_status_id" : 800331328243675140,
+  "created_at" : "2016-11-20 13:59:11 +0000",
+  "in_reply_to_screen_name" : "flybe",
+  "in_reply_to_user_id_str" : "19436397",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "BTCare",
+      "screen_name" : "BTCare",
+      "indices" : [ 5, 12 ],
+      "id_str" : "35737385",
+      "id" : 35737385
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/800335644396552193\/photo\/1",
+      "indices" : [ 78, 101 ],
+      "url" : "https:\/\/t.co\/TSNooxeILK",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CxtdAoZXUAEqyYt.jpg",
+      "id_str" : "800335624213581825",
+      "id" : 800335624213581825,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CxtdAoZXUAEqyYt.jpg",
+      "sizes" : [ {
+        "h" : 1442,
+        "resize" : "fit",
+        "w" : 1802
+      }, {
+        "h" : 1442,
+        "resize" : "fit",
+        "w" : 1802
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 960,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 544,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/TSNooxeILK"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 54, 77 ],
+      "url" : "https:\/\/t.co\/uc0XaNtV26",
+      "expanded_url" : "https:\/\/www.dslchecker.bt.com\/pls\/adsl\/adslchecker.welcome",
+      "display_url" : "dslchecker.bt.com\/pls\/adsl\/adslc\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "800335644396552193",
+  "text" : "Dear @BTCare please can you fix the insecure certs on https:\/\/t.co\/uc0XaNtV26 https:\/\/t.co\/TSNooxeILK",
+  "id" : 800335644396552193,
+  "created_at" : "2016-11-20 13:51:01 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Flybe \u2708",
+      "screen_name" : "flybe",
+      "indices" : [ 0, 6 ],
+      "id_str" : "19436397",
+      "id" : 19436397
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "800329776355491841",
+  "in_reply_to_user_id" : 19436397,
+  "text" : "@flybe Hey. How long should it take for avios to post to my Avios account? Thanks!",
+  "id" : 800329776355491841,
+  "created_at" : "2016-11-20 13:27:42 +0000",
+  "in_reply_to_screen_name" : "flybe",
+  "in_reply_to_user_id_str" : "19436397",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zachtronics",
+      "screen_name" : "zachtronics",
+      "indices" : [ 35, 47 ],
+      "id_str" : "195263493",
+      "id" : 195263493
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "800082283499659264",
+  "geo" : { },
+  "id_str" : "800145729566208000",
+  "in_reply_to_user_id" : 19903171,
+  "text" : "Make that 25 games of Solitaire in @zachtronics SHENZHEN I\/O... Achievement for 10, and 25% of the way to achievement for 100...",
+  "id" : 800145729566208000,
+  "in_reply_to_status_id" : 800082283499659264,
+  "created_at" : "2016-11-20 01:16:22 +0000",
+  "in_reply_to_screen_name" : "tehreedy",
+  "in_reply_to_user_id_str" : "19903171",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zachtronics",
+      "screen_name" : "zachtronics",
+      "indices" : [ 42, 54 ],
+      "id_str" : "195263493",
+      "id" : 195263493
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "800082283499659264",
+  "text" : "Woo. Just finished a game of Solitaire in @zachtronics SHENZHEN I\/O!",
+  "id" : 800082283499659264,
+  "created_at" : "2016-11-19 21:04:15 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Upwork Help",
+      "screen_name" : "UpworkHelp",
+      "indices" : [ 0, 11 ],
+      "id_str" : "135988620",
+      "id" : 135988620
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "800050999117258752",
+  "geo" : { },
+  "id_str" : "800051596289835008",
+  "in_reply_to_user_id" : 135988620,
+  "text" : "@UpworkHelp And PayPal charge fees, and then exchange at their own rate too... I don't think they'll let me push USD to my GBP account",
+  "id" : 800051596289835008,
+  "in_reply_to_status_id" : 800050999117258752,
+  "created_at" : "2016-11-19 19:02:19 +0000",
+  "in_reply_to_screen_name" : "UpworkHelp",
+  "in_reply_to_user_id_str" : "135988620",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2352,7 +3413,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

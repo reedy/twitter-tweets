@@ -1310,14 +1310,14 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boodell games.",
+      "name" : "Ministry Of GameDev",
       "screen_name" : "UdellGames",
       "indices" : [ 3, 14 ],
       "id_str" : "1609105514",
       "id" : 1609105514
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/UdellGames\/status\/788690145822306304\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/UdellGames\/status\/788690145822306304\/photo\/1",
       "indices" : [ 112, 135 ],
       "url" : "https:\/\/t.co\/1EYb7BLHkb",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CvH9gfFWcAA2knK.jpg",
@@ -1358,7 +1358,7 @@ Grailbird.data.tweets_2016_10 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/UdellGames\/status\/788690145822306304\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/UdellGames\/status\/788690145822306304\/photo\/1",
         "indices" : [ 96, 119 ],
         "url" : "https:\/\/t.co\/1EYb7BLHkb",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CvH9gfFWcAA2knK.jpg",
@@ -1397,11 +1397,11 @@ Grailbird.data.tweets_2016_10 =
     "id" : 788690145822306304,
     "created_at" : "2016-10-19 10:35:58 +0000",
     "user" : {
-      "name" : "Boodell games.",
+      "name" : "Ministry Of GameDev",
       "screen_name" : "UdellGames",
       "protected" : false,
       "id_str" : "1609105514",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/783982921690513409\/A1L_C6t2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/805766367035224068\/aTsvBC9V_normal.jpg",
       "id" : 1609105514,
       "verified" : false
     }
@@ -1664,7 +1664,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "SynologyUK",
       "protected" : false,
       "id_str" : "104116831",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794128051080728576\/Luca3slA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816228762064973825\/2lkk_SfM_normal.jpg",
       "id" : 104116831,
       "verified" : false
     }
@@ -2996,7 +2996,13 @@ Grailbird.data.tweets_2016_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "James",
+      "screen_name" : "JamesMCR90",
+      "indices" : [ 0, 11 ],
+      "id_str" : "816267069213786112",
+      "id" : 816267069213786112
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3129,7 +3135,7 @@ Grailbird.data.tweets_2016_10 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 35, 40 ],
       "id_str" : "14822382",
@@ -3162,7 +3168,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u02D7\u02CF\u02CBJoey\u02CA\u02CE\u02D7",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
