@@ -70,7 +70,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "catrope",
       "protected" : false,
       "id_str" : "74468143",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1377969255\/800px-Roan_Kattouw_011_-_Berlin_2011_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847663989437808640\/fKmBg_09_normal.jpg",
       "id" : 74468143,
       "verified" : false
     }
@@ -2474,7 +2474,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "Misco_UK",
       "protected" : false,
       "id_str" : "28564572",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459320410593435650\/kLtOFIP__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846663596851519489\/4U1Mu4-m_normal.jpg",
       "id" : 28564572,
       "verified" : false
     }

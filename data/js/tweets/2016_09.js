@@ -30,7 +30,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Haines",
+      "name" : "Ben Haines \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "benjaminhaines",
       "indices" : [ 0, 15 ],
       "id_str" : "25984895",
@@ -600,7 +600,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -923,33 +923,16 @@ Grailbird.data.tweets_2016_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "THE INCENTIVE",
-      "screen_name" : "incentivefilm",
-      "indices" : [ 0, 14 ],
-      "id_str" : "719070882388422657",
-      "id" : 719070882388422657
-    }, {
-      "name" : "Rob Callender",
-      "screen_name" : "RobCallender",
-      "indices" : [ 27, 40 ],
-      "id_str" : "881910649",
-      "id" : 881910649
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "779270962353152000",
   "geo" : { },
   "id_str" : "779271353371389952",
-  "in_reply_to_user_id" : 719070882388422657,
   "text" : "@incentivefilm A date with @RobCallender ? ;)",
   "id" : 779271353371389952,
-  "in_reply_to_status_id" : 779270962353152000,
   "created_at" : "2016-09-23 10:49:03 +0000",
-  "in_reply_to_screen_name" : "incentivefilm",
-  "in_reply_to_user_id_str" : "719070882388422657",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1909,33 +1892,16 @@ Grailbird.data.tweets_2016_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "THE INCENTIVE",
-      "screen_name" : "incentivefilm",
-      "indices" : [ 0, 14 ],
-      "id_str" : "719070882388422657",
-      "id" : 719070882388422657
-    }, {
-      "name" : "Rob Callender",
-      "screen_name" : "RobCallender",
-      "indices" : [ 15, 28 ],
-      "id_str" : "881910649",
-      "id" : 881910649
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "777601340172333057",
   "geo" : { },
   "id_str" : "777605538301476864",
-  "in_reply_to_user_id" : 719070882388422657,
   "text" : "@incentivefilm @robcallender looks really cute on that photo",
   "id" : 777605538301476864,
-  "in_reply_to_status_id" : 777601340172333057,
   "created_at" : "2016-09-18 20:29:42 +0000",
-  "in_reply_to_screen_name" : "incentivefilm",
-  "in_reply_to_user_id_str" : "719070882388422657",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

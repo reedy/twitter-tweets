@@ -117,11 +117,11 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NVIDIA UK",
+      "name" : "NVIDIA_UK",
       "screen_name" : "NVIDIA_UK",
       "indices" : [ 0, 10 ],
-      "id_str" : "87652326",
-      "id" : 87652326
+      "id_str" : "839762033650384896",
+      "id" : 839762033650384896
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -135,7 +135,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11254359963,
   "in_reply_to_status_id" : 11253243973,
   "created_at" : "2010-03-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "NVIDIA_UK",
+  "in_reply_to_screen_name" : "NVIDIAGeForceUK",
   "in_reply_to_user_id_str" : "87652326",
   "user" : {
     "name" : "Sam Reed",
@@ -150,11 +150,11 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NVIDIA UK",
+      "name" : "NVIDIA_UK",
       "screen_name" : "NVIDIA_UK",
       "indices" : [ 0, 10 ],
-      "id_str" : "87652326",
-      "id" : 87652326
+      "id_str" : "839762033650384896",
+      "id" : 839762033650384896
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11255997897,
   "in_reply_to_status_id" : 11255003632,
   "created_at" : "2010-03-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "NVIDIA_UK",
+  "in_reply_to_screen_name" : "NVIDIAGeForceUK",
   "in_reply_to_user_id_str" : "87652326",
   "user" : {
     "name" : "Sam Reed",

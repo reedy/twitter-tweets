@@ -548,25 +548,16 @@ Grailbird.data.tweets_2016_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Rob Callender",
-      "screen_name" : "RobCallender",
-      "indices" : [ 0, 13 ],
-      "id_str" : "881910649",
-      "id" : 881910649
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "736315118049452033",
-  "in_reply_to_user_id" : 881910649,
   "text" : "@RobCallender Nice scene in GoT :)",
   "id" : 736315118049452033,
   "created_at" : "2016-05-27 21:56:18 +0000",
-  "in_reply_to_screen_name" : "RobCallender",
-  "in_reply_to_user_id_str" : "881910649",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

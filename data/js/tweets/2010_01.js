@@ -796,7 +796,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "LeonardChallis",
       "protected" : false,
       "id_str" : "2991771",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816017290227576832\/MThRaj62_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829033054387712006\/od2bVxyt_normal.jpg",
       "id" : 2991771,
       "verified" : false
     }

@@ -4031,7 +4031,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "stephenfry",
       "protected" : false,
       "id_str" : "15439395",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504060630450438144\/3tEN_Y7C_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842053173757984768\/ZYLuzKYt_normal.jpg",
       "id" : 15439395,
       "verified" : true
     }

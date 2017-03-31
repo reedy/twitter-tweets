@@ -524,7 +524,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Haines",
+      "name" : "Ben Haines \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "benjaminhaines",
       "indices" : [ 0, 15 ],
       "id_str" : "25984895",
@@ -566,7 +566,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Haines",
+      "name" : "Ben Haines \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "benjaminhaines",
       "indices" : [ 0, 15 ],
       "id_str" : "25984895",
@@ -599,7 +599,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Haines",
+      "name" : "Ben Haines \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "benjaminhaines",
       "indices" : [ 0, 15 ],
       "id_str" : "25984895",
@@ -1515,7 +1515,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ask PayPal",
+      "name" : "PayPal Support",
       "screen_name" : "AskPayPal",
       "indices" : [ 0, 10 ],
       "id_str" : "63247343",
@@ -1554,7 +1554,7 @@ Grailbird.data.tweets_2016_12 =
       "id_str" : "256493047",
       "id" : 256493047
     }, {
-      "name" : "Ben Haines",
+      "name" : "Ben Haines \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "benjaminhaines",
       "indices" : [ 11, 26 ],
       "id_str" : "25984895",
@@ -1655,7 +1655,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Haines",
+      "name" : "Ben Haines \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "benjaminhaines",
       "indices" : [ 0, 15 ],
       "id_str" : "25984895",
@@ -2772,7 +2772,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ask PayPal",
+      "name" : "PayPal Support",
       "screen_name" : "AskPayPal",
       "indices" : [ 0, 10 ],
       "id_str" : "63247343",
@@ -2926,7 +2926,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Haines",
+      "name" : "Ben Haines \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "benjaminhaines",
       "indices" : [ 0, 15 ],
       "id_str" : "25984895",
@@ -3040,7 +3040,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Haines",
+      "name" : "Ben Haines \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "benjaminhaines",
       "indices" : [ 0, 15 ],
       "id_str" : "25984895",
@@ -3073,7 +3073,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Haines",
+      "name" : "Ben Haines \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "benjaminhaines",
       "indices" : [ 0, 15 ],
       "id_str" : "25984895",
@@ -4440,7 +4440,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5063,7 +5063,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Streamer House @PAX",
+      "name" : "StreamerHouse",
       "screen_name" : "Streamer_House",
       "indices" : [ 0, 15 ],
       "id_str" : "1891625112",

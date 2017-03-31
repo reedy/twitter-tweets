@@ -1128,7 +1128,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Schona Jolly",
+      "name" : "Schona Jolly QC",
       "screen_name" : "WomaninHavana",
       "indices" : [ 3, 17 ],
       "id_str" : "351959386",
@@ -1160,7 +1160,7 @@ Grailbird.data.tweets_2016_06 =
     "id" : 746259153912475649,
     "created_at" : "2016-06-24 08:30:21 +0000",
     "user" : {
-      "name" : "Schona Jolly",
+      "name" : "Schona Jolly QC",
       "screen_name" : "WomaninHavana",
       "protected" : false,
       "id_str" : "351959386",
@@ -1746,7 +1746,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

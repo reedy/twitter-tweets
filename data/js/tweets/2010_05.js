@@ -2946,7 +2946,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "22005301",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716699304015052806\/XEanH2TW_normal.jpg",
       "id" : 22005301,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 14361409575,

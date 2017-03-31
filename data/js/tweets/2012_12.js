@@ -3796,12 +3796,6 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "429121073",
       "id" : 429121073
     }, {
-      "name" : "Michael Foran",
-      "screen_name" : "MichaelF0ran",
-      "indices" : [ 41, 54 ],
-      "id_str" : "403406302",
-      "id" : 403406302
-    }, {
       "name" : "McClairey",
       "screen_name" : "McClairey",
       "indices" : [ 55, 65 ],
@@ -4328,7 +4322,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "catrope",
       "protected" : false,
       "id_str" : "74468143",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1377969255\/800px-Roan_Kattouw_011_-_Berlin_2011_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847663989437808640\/fKmBg_09_normal.jpg",
       "id" : 74468143,
       "verified" : false
     }
@@ -4854,7 +4848,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5823,7 +5817,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sean Lockhart",
+      "name" : "Sean Lockhart\/BC",
       "screen_name" : "SeanPaulLock",
       "indices" : [ 0, 13 ],
       "id_str" : "394207281",
@@ -6102,7 +6096,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

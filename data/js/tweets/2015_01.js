@@ -1017,7 +1017,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "Toadsanime",
       "protected" : false,
       "id_str" : "116534927",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811543392781996032\/CMOHJvGy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837434089993043968\/IEb7b6Kt_normal.jpg",
       "id" : 116534927,
       "verified" : true
     }
@@ -2027,7 +2027,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "lenovo",
       "protected" : false,
       "id_str" : "17307429",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819065699436007424\/jjid5FT5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839658304066490368\/nbt2hoS0_normal.jpg",
       "id" : 17307429,
       "verified" : true
     }

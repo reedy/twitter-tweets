@@ -166,11 +166,11 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Interlink Express",
+      "name" : "StephanieasvArgo",
       "screen_name" : "Interlink_UK",
       "indices" : [ 6, 19 ],
-      "id_str" : "280429876",
-      "id" : 280429876
+      "id_str" : "836678955369295872",
+      "id" : 836678955369295872
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -751,7 +751,7 @@ Grailbird.data.tweets_2017_01 =
       "id_str" : "543141733",
       "id" : 543141733
     }, {
-      "name" : "Airbus",
+      "name" : "Airbus Aircraft",
       "screen_name" : "Airbus",
       "indices" : [ 24, 31 ],
       "id_str" : "15425377",
@@ -808,7 +808,7 @@ Grailbird.data.tweets_2017_01 =
       "id_str" : "543141733",
       "id" : 543141733
     }, {
-      "name" : "Airbus",
+      "name" : "Airbus Aircraft",
       "screen_name" : "Airbus",
       "indices" : [ 38, 45 ],
       "id_str" : "15425377",
@@ -1012,7 +1012,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

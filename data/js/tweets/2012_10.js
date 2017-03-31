@@ -227,7 +227,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827544783807619073\/fTd2jG-v_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843183285031202816\/RX-c7ZSe_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -4144,7 +4144,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "autocar",
       "protected" : false,
       "id_str" : "17537057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420833580856516608\/cbexGIRH_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833707679407276033\/d-6mNiwn_normal.jpg",
       "id" : 17537057,
       "verified" : true
     }

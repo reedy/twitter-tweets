@@ -1963,7 +1963,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 9, 14 ],
       "id_str" : "14822382",
@@ -2926,13 +2926,7 @@ Grailbird.data.tweets_2016_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emma Mckeown",
-      "screen_name" : "Emma_Mckeown",
-      "indices" : [ 0, 13 ],
-      "id_str" : "53076344",
-      "id" : 53076344
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2945,7 +2939,7 @@ Grailbird.data.tweets_2016_01 =
   "id" : 689462888835100673,
   "in_reply_to_status_id" : 688135114191024130,
   "created_at" : "2016-01-19 15:02:16 +0000",
-  "in_reply_to_screen_name" : "Emma_Mckeown",
+  "in_reply_to_screen_name" : "EmmaCottey",
   "in_reply_to_user_id_str" : "53076344",
   "user" : {
     "name" : "Sam Reed",
@@ -3498,13 +3492,7 @@ Grailbird.data.tweets_2016_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emma Mckeown",
-      "screen_name" : "Emma_Mckeown",
-      "indices" : [ 0, 13 ],
-      "id_str" : "53076344",
-      "id" : 53076344
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3517,7 +3505,7 @@ Grailbird.data.tweets_2016_01 =
   "id" : 688132957396074497,
   "in_reply_to_status_id" : 688131871121670144,
   "created_at" : "2016-01-15 22:57:36 +0000",
-  "in_reply_to_screen_name" : "Emma_Mckeown",
+  "in_reply_to_screen_name" : "EmmaCottey",
   "in_reply_to_user_id_str" : "53076344",
   "user" : {
     "name" : "Sam Reed",
@@ -3531,13 +3519,7 @@ Grailbird.data.tweets_2016_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emma Mckeown",
-      "screen_name" : "Emma_Mckeown",
-      "indices" : [ 0, 13 ],
-      "id_str" : "53076344",
-      "id" : 53076344
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3550,7 +3532,7 @@ Grailbird.data.tweets_2016_01 =
   "id" : 688095740695064576,
   "in_reply_to_status_id" : 688077595754258432,
   "created_at" : "2016-01-15 20:29:43 +0000",
-  "in_reply_to_screen_name" : "Emma_Mckeown",
+  "in_reply_to_screen_name" : "EmmaCottey",
   "in_reply_to_user_id_str" : "53076344",
   "user" : {
     "name" : "Sam Reed",

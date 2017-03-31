@@ -195,7 +195,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Misco_UK",
       "protected" : false,
       "id_str" : "28564572",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459320410593435650\/kLtOFIP__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846663596851519489\/4U1Mu4-m_normal.jpg",
       "id" : 28564572,
       "verified" : false
     }
@@ -919,13 +919,7 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "SG Photography",
-      "screen_name" : "ScottishGeek",
-      "indices" : [ 0, 13 ],
-      "id_str" : "1042958665",
-      "id" : 1042958665
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

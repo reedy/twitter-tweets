@@ -2571,11 +2571,11 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NVIDIA UK",
+      "name" : "NVIDIA_UK",
       "screen_name" : "NVIDIA_UK",
       "indices" : [ 3, 13 ],
-      "id_str" : "87652326",
-      "id" : 87652326
+      "id_str" : "839762033650384896",
+      "id" : 839762033650384896
     }, {
       "name" : "EVGA",
       "screen_name" : "TEAMEVGA",
@@ -2672,16 +2672,16 @@ Grailbird.data.tweets_2015_12 =
     "id" : 678584628526059520,
     "in_reply_to_status_id" : 678584431058296832,
     "created_at" : "2015-12-20 14:35:57 +0000",
-    "in_reply_to_screen_name" : "NVIDIA_UK",
+    "in_reply_to_screen_name" : "NVIDIAGeForceUK",
     "in_reply_to_user_id_str" : "87652326",
     "user" : {
-      "name" : "NVIDIA UK",
-      "screen_name" : "NVIDIA_UK",
+      "name" : "NVIDIA GeForce UK",
+      "screen_name" : "NVIDIAGeForceUK",
       "protected" : false,
       "id_str" : "87652326",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000433345448\/7041c0201ffe7af79fb8010bfcf6909b_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839768582162640897\/W8WI5fPX_normal.jpg",
       "id" : 87652326,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 678585219918770176,
@@ -3709,7 +3709,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "railsimulator",
       "protected" : false,
       "id_str" : "32368769",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/776365601707139072\/cwGdD0u-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842420863513329664\/zTaypoL7_normal.jpg",
       "id" : 32368769,
       "verified" : true
     }

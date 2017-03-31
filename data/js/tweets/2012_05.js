@@ -1115,7 +1115,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1342,7 +1342,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "94178695",
       "id" : 94178695
     }, {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 38, 43 ],
       "id_str" : "14822382",
@@ -1375,7 +1375,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1408,7 +1408,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 14, 19 ],
       "id_str" : "14822382",
@@ -3404,7 +3404,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3437,7 +3437,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3720,7 +3720,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3753,11 +3753,11 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WD\u00AE",
-      "screen_name" : "WesternDigital",
+      "name" : "Western Digital",
+      "screen_name" : "westerndigital",
       "indices" : [ 0, 15 ],
-      "id_str" : "17007560",
-      "id" : 17007560
+      "id_str" : "827296225955180544",
+      "id" : 827296225955180544
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3771,7 +3771,7 @@ Grailbird.data.tweets_2012_05 =
   "id" : 197668824986816515,
   "in_reply_to_status_id" : 197556754018603008,
   "created_at" : "2012-05-02 12:48:15 +0000",
-  "in_reply_to_screen_name" : "WesternDigital",
+  "in_reply_to_screen_name" : "WDCreators",
   "in_reply_to_user_id_str" : "17007560",
   "user" : {
     "name" : "Sam Reed",
@@ -3786,11 +3786,11 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WD\u00AE",
-      "screen_name" : "WesternDigital",
+      "name" : "Western Digital",
+      "screen_name" : "westerndigital",
       "indices" : [ 0, 15 ],
-      "id_str" : "17007560",
-      "id" : 17007560
+      "id_str" : "827296225955180544",
+      "id" : 827296225955180544
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3804,7 +3804,7 @@ Grailbird.data.tweets_2012_05 =
   "id" : 197668626331992064,
   "in_reply_to_status_id" : 197556754018603008,
   "created_at" : "2012-05-02 12:47:27 +0000",
-  "in_reply_to_screen_name" : "WesternDigital",
+  "in_reply_to_screen_name" : "WDCreators",
   "in_reply_to_user_id_str" : "17007560",
   "user" : {
     "name" : "Sam Reed",
@@ -3852,11 +3852,11 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WD\u00AE",
-      "screen_name" : "WesternDigital",
+      "name" : "Western Digital",
+      "screen_name" : "westerndigital",
       "indices" : [ 0, 15 ],
-      "id_str" : "17007560",
-      "id" : 17007560
+      "id_str" : "827296225955180544",
+      "id" : 827296225955180544
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3868,7 +3868,7 @@ Grailbird.data.tweets_2012_05 =
   "text" : "@WesternDigital How long does Advance Replacement take to ship out and deliver a hard drive to the UK? Thanks",
   "id" : 197483424825618432,
   "created_at" : "2012-05-02 00:31:32 +0000",
-  "in_reply_to_screen_name" : "WesternDigital",
+  "in_reply_to_screen_name" : "WDCreators",
   "in_reply_to_user_id_str" : "17007560",
   "user" : {
     "name" : "Sam Reed",

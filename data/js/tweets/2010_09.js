@@ -1207,7 +1207,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "wikimediaatwork",
       "protected" : false,
       "id_str" : "180960841",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/511037463049940992\/TZu048B5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842443397700837376\/hXevF9lY_normal.jpg",
       "id" : 180960841,
       "verified" : false
     }
@@ -1356,7 +1356,13 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Phil Cooper",
+      "screen_name" : "philcooper",
+      "indices" : [ 0, 11 ],
+      "id_str" : "374713833",
+      "id" : 374713833
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1616,13 +1622,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "SG Photography",
-      "screen_name" : "ScottishGeek",
-      "indices" : [ 0, 13 ],
-      "id_str" : "1042958665",
-      "id" : 1042958665
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3360,7 +3360,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "wikimediaatwork",
       "protected" : false,
       "id_str" : "180960841",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/511037463049940992\/TZu048B5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842443397700837376\/hXevF9lY_normal.jpg",
       "id" : 180960841,
       "verified" : false
     }

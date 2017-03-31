@@ -459,7 +459,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "61352707",
       "id" : 61352707
     }, {
-      "name" : "NOC jock",
+      "name" : "Ryan Fakename",
       "screen_name" : "bigfack",
       "indices" : [ 20, 28 ],
       "id_str" : "1277435053",
@@ -496,7 +496,7 @@ Grailbird.data.tweets_2016_04 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "NOC jock",
+        "name" : "Ryan Fakename",
         "screen_name" : "bigfack",
         "indices" : [ 1, 9 ],
         "id_str" : "1277435053",
@@ -857,7 +857,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1787,7 +1787,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jaff\uD83D\uDCAB",
+      "name" : "JAFF.",
       "screen_name" : "JAFFTAG",
       "indices" : [ 0, 8 ],
       "id_str" : "18614262",
@@ -4076,7 +4076,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ll\u1D09\u0183uoss\u0250W u\u1D09\u0287sn\u017F",
+      "name" : "Justona 5",
       "screen_name" : "j00zt1n",
       "indices" : [ 3, 11 ],
       "id_str" : "643163",
@@ -4163,11 +4163,11 @@ Grailbird.data.tweets_2016_04 =
     "id" : 718542884836929536,
     "created_at" : "2016-04-08 20:55:48 +0000",
     "user" : {
-      "name" : "Justin Massongill \uD83E\uDD18",
+      "name" : "Justona 5",
       "screen_name" : "j00zt1n",
       "protected" : false,
       "id_str" : "643163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713516955328757762\/RrssAYKL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833172214321016833\/IUeOxU1w_normal.jpg",
       "id" : 643163,
       "verified" : false
     }
@@ -4280,7 +4280,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jaff\uD83D\uDCAB",
+      "name" : "JAFF.",
       "screen_name" : "JAFFTAG",
       "indices" : [ 0, 8 ],
       "id_str" : "18614262",
@@ -4313,7 +4313,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jaff\uD83D\uDCAB",
+      "name" : "JAFF.",
       "screen_name" : "JAFFTAG",
       "indices" : [ 0, 8 ],
       "id_str" : "18614262",
