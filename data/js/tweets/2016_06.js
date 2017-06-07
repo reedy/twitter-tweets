@@ -1345,7 +1345,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "KatalystProds",
       "protected" : false,
       "id_str" : "81134232",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/566222420923531264\/YFLKR5h-_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867352110115041280\/aUURLCqK_normal.jpg",
       "id" : 81134232,
       "verified" : false
     }
@@ -1746,7 +1746,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

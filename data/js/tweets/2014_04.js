@@ -573,7 +573,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -910,7 +910,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2344,7 +2344,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "Miramax",
       "protected" : false,
       "id_str" : "17992258",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649686025288093696\/J_iIWVh8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857306294922784768\/kwt72cK6_normal.jpg",
       "id" : 17992258,
       "verified" : true
     }
@@ -2888,7 +2888,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4408,7 +4408,7 @@ Grailbird.data.tweets_2014_04 =
       "id_str" : "15657543",
       "id" : 15657543
     }, {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 14, 25 ],
       "id_str" : "94178695",

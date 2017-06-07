@@ -417,7 +417,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 1, 6 ],
       "id_str" : "14822382",
@@ -450,7 +450,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -483,7 +483,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -997,13 +997,7 @@ Grailbird.data.tweets_2013_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1016,7 +1010,7 @@ Grailbird.data.tweets_2013_01 =
   "id" : 295617905855442945,
   "in_reply_to_status_id" : 295616201382588416,
   "created_at" : "2013-01-27 19:42:55 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -1164,7 +1158,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -1771,7 +1765,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1837,7 +1831,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1936,7 +1930,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1969,7 +1963,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2002,7 +1996,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2436,7 +2430,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3121,7 +3115,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4632,7 +4626,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4665,7 +4659,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4876,7 +4870,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5678,117 +5672,6 @@ Grailbird.data.tweets_2013_01 =
   "created_at" : "2013-01-07 11:52:24 +0000",
   "in_reply_to_screen_name" : "DrayTekUK",
   "in_reply_to_user_id_str" : "511950919",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lily",
-      "screen_name" : "LilyLivingstone",
-      "indices" : [ 3, 19 ],
-      "id_str" : "328159411",
-      "id" : 328159411
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/sbadsgood\/status\/287718835254067200\/photo\/1",
-      "indices" : [ 92, 112 ],
-      "url" : "http:\/\/t.co\/Cop9kR0l",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/A_4uwZsCAAAcm1m.jpg",
-      "id_str" : "287718835262455808",
-      "id" : 287718835262455808,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A_4uwZsCAAAcm1m.jpg",
-      "sizes" : [ {
-        "h" : 452,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 700,
-        "resize" : "fit",
-        "w" : 527
-      }, {
-        "h" : 700,
-        "resize" : "fit",
-        "w" : 527
-      }, {
-        "h" : 700,
-        "resize" : "fit",
-        "w" : 527
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      } ],
-      "display_url" : "pic.twitter.com\/Cop9kR0l"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "288251630888050688",
-  "text" : "RT @LilyLivingstone: 5 megabyte hard drive from 1956, being loaded via forklift onto plane. http:\/\/t.co\/Cop9kR0l",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/sbadsgood\/status\/287718835254067200\/photo\/1",
-        "indices" : [ 71, 91 ],
-        "url" : "http:\/\/t.co\/Cop9kR0l",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/A_4uwZsCAAAcm1m.jpg",
-        "id_str" : "287718835262455808",
-        "id" : 287718835262455808,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A_4uwZsCAAAcm1m.jpg",
-        "sizes" : [ {
-          "h" : 452,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 700,
-          "resize" : "fit",
-          "w" : 527
-        }, {
-          "h" : 700,
-          "resize" : "fit",
-          "w" : 527
-        }, {
-          "h" : 700,
-          "resize" : "fit",
-          "w" : 527
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        } ],
-        "display_url" : "pic.twitter.com\/Cop9kR0l"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "287822929314594817",
-    "text" : "5 megabyte hard drive from 1956, being loaded via forklift onto plane. http:\/\/t.co\/Cop9kR0l",
-    "id" : 287822929314594817,
-    "created_at" : "2013-01-06 07:28:28 +0000",
-    "user" : {
-      "name" : "Lily",
-      "screen_name" : "LilyLivingstone",
-      "protected" : false,
-      "id_str" : "328159411",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653190507556814849\/1Ct8QyjZ_normal.jpg",
-      "id" : 328159411,
-      "verified" : false
-    }
-  },
-  "id" : 288251630888050688,
-  "created_at" : "2013-01-07 11:51:58 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -6629,7 +6512,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -6662,7 +6545,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

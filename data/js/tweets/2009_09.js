@@ -2,13 +2,7 @@ Grailbird.data.tweets_2009_09 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -21,7 +15,7 @@ Grailbird.data.tweets_2009_09 =
   "id" : 4503446144,
   "in_reply_to_status_id" : 4502953701,
   "created_at" : "2009-09-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -154,6 +148,39 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Miles Sutcliffe",
+      "screen_name" : "MilesTails",
+      "indices" : [ 0, 11 ],
+      "id_str" : "17048726",
+      "id" : 17048726
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "4110126007",
+  "geo" : { },
+  "id_str" : "4111133073",
+  "in_reply_to_user_id" : 17048726,
+  "text" : "@MilesTails . Base, sf, 1.41, af, euro, 1.41, 1.5",
+  "id" : 4111133073,
+  "in_reply_to_status_id" : 4110126007,
+  "created_at" : "2009-09-19 00:00:00 +0000",
+  "in_reply_to_screen_name" : "MilesTails",
+  "in_reply_to_user_id_str" : "17048726",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "carlos contreras",
       "screen_name" : "120789",
       "indices" : [ 3, 10 ],
@@ -271,39 +298,6 @@ Grailbird.data.tweets_2009_09 =
   "created_at" : "2009-09-19 00:00:00 +0000",
   "in_reply_to_screen_name" : "boomerangmouth",
   "in_reply_to_user_id_str" : "28117032",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Miles Sutcliffe",
-      "screen_name" : "MilesTails",
-      "indices" : [ 0, 11 ],
-      "id_str" : "17048726",
-      "id" : 17048726
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "4110126007",
-  "geo" : { },
-  "id_str" : "4111133073",
-  "in_reply_to_user_id" : 17048726,
-  "text" : "@MilesTails . Base, sf, 1.41, af, euro, 1.41, 1.5",
-  "id" : 4111133073,
-  "in_reply_to_status_id" : 4110126007,
-  "created_at" : "2009-09-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "MilesTails",
-  "in_reply_to_user_id_str" : "17048726",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -519,13 +513,7 @@ Grailbird.data.tweets_2009_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -538,7 +526,7 @@ Grailbird.data.tweets_2009_09 =
   "id" : 4039493577,
   "in_reply_to_status_id" : 4034694380,
   "created_at" : "2009-09-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -645,13 +633,7 @@ Grailbird.data.tweets_2009_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -662,7 +644,7 @@ Grailbird.data.tweets_2009_09 =
   "text" : "@shinaku, we need to sort some freeside flyers!!",
   "id" : 3990882345,
   "created_at" : "2009-09-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",

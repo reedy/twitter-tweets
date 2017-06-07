@@ -27,13 +27,7 @@ Grailbird.data.tweets_2009_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 3, 11 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -56,7 +50,7 @@ Grailbird.data.tweets_2009_12 =
     "created_at" : "2009-12-29 21:13:49 +0000",
     "user" : {
       "name" : "shinsters.js",
-      "screen_name" : "shinaku",
+      "screen_name" : "mrshinsters",
       "protected" : true,
       "id_str" : "14355014",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735880408953413632\/Tsx0O8Qw_normal.jpg",
@@ -286,13 +280,7 @@ Grailbird.data.tweets_2009_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -305,7 +293,7 @@ Grailbird.data.tweets_2009_12 =
   "id" : 7095312351,
   "in_reply_to_status_id" : 7095177755,
   "created_at" : "2009-12-27 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -529,6 +517,31 @@ Grailbird.data.tweets_2009_12 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 44, 47 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7012817593",
+  "text" : "Doesn't feel Christmasy at all. Bah humbug. #fb",
+  "id" : 7012817593,
+  "created_at" : "2009-12-24 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
       "text" : "uksnow",
       "indices" : [ 0, 7 ]
     } ],
@@ -700,31 +713,6 @@ Grailbird.data.tweets_2009_12 =
     }
   },
   "id" : 6997703938,
-  "created_at" : "2009-12-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 44, 47 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7012817593",
-  "text" : "Doesn't feel Christmasy at all. Bah humbug. #fb",
-  "id" : 7012817593,
   "created_at" : "2009-12-24 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
@@ -1959,6 +1947,34 @@ Grailbird.data.tweets_2009_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jon Honeyball",
+      "screen_name" : "jonhoneyball",
+      "indices" : [ 3, 16 ],
+      "id_str" : "19598488",
+      "id" : 19598488
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "6794259439",
+  "text" : "RT @jonhoneyball misco are selling apple macbook at 20% off, in case anyone is interested: http:\/\/bit.ly\/8fHbvO",
+  "id" : 6794259439,
+  "created_at" : "2009-12-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1996,34 +2012,6 @@ Grailbird.data.tweets_2009_12 =
   "id_str" : "6810150191",
   "text" : "Chavs fucking about on an icy car park in their cars. Someone crash and make my evening! #fb",
   "id" : 6810150191,
-  "created_at" : "2009-12-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jon Honeyball",
-      "screen_name" : "jonhoneyball",
-      "indices" : [ 3, 16 ],
-      "id_str" : "19598488",
-      "id" : 19598488
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6794259439",
-  "text" : "RT @jonhoneyball misco are selling apple macbook at 20% off, in case anyone is interested: http:\/\/bit.ly\/8fHbvO",
-  "id" : 6794259439,
   "created_at" : "2009-12-18 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
@@ -2118,13 +2106,7 @@ Grailbird.data.tweets_2009_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2137,7 +2119,7 @@ Grailbird.data.tweets_2009_12 =
   "id" : 6759068983,
   "in_reply_to_status_id" : 6759048467,
   "created_at" : "2009-12-17 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -2173,13 +2155,7 @@ Grailbird.data.tweets_2009_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2192,7 +2168,7 @@ Grailbird.data.tweets_2009_12 =
   "id" : 6759113158,
   "in_reply_to_status_id" : 6759085941,
   "created_at" : "2009-12-17 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -3279,6 +3255,39 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Joseph",
+      "screen_name" : "dueledge",
+      "indices" : [ 0, 9 ],
+      "id_str" : "25743312",
+      "id" : 25743312
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "6657883231",
+  "geo" : { },
+  "id_str" : "6658361516",
+  "in_reply_to_user_id" : 25743312,
+  "text" : "@dueledge lul. I could. Though, wouldn't they be liek \"OMG, YOU DID NOT HAS DYSLEXIAS BEFORES??!?!?!?\"",
+  "id" : 6658361516,
+  "in_reply_to_status_id" : 6657883231,
+  "created_at" : "2009-12-14 00:00:00 +0000",
+  "in_reply_to_screen_name" : "dueledge",
+  "in_reply_to_user_id_str" : "25743312",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Jon Moss",
       "screen_name" : "jonmoss",
       "indices" : [ 3, 11 ],
@@ -3401,12 +3410,6 @@ Grailbird.data.tweets_2009_12 =
       "indices" : [ 0, 8 ],
       "id_str" : "1856171",
       "id" : 1856171
-    }, {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 33, 41 ],
-      "id_str" : "14355014",
-      "id" : 14355014
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3440,12 +3443,6 @@ Grailbird.data.tweets_2009_12 =
       "indices" : [ 0, 8 ],
       "id_str" : "1856171",
       "id" : 1856171
-    }, {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 36, 44 ],
-      "id_str" : "14355014",
-      "id" : 14355014
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3692,39 +3689,6 @@ Grailbird.data.tweets_2009_12 =
   },
   "id" : 6658351069,
   "created_at" : "2009-12-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joseph",
-      "screen_name" : "dueledge",
-      "indices" : [ 0, 9 ],
-      "id_str" : "25743312",
-      "id" : 25743312
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "6657883231",
-  "geo" : { },
-  "id_str" : "6658361516",
-  "in_reply_to_user_id" : 25743312,
-  "text" : "@dueledge lul. I could. Though, wouldn't they be liek \"OMG, YOU DID NOT HAS DYSLEXIAS BEFORES??!?!?!?\"",
-  "id" : 6658361516,
-  "in_reply_to_status_id" : 6657883231,
-  "created_at" : "2009-12-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "dueledge",
-  "in_reply_to_user_id_str" : "25743312",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4309,12 +4273,6 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 4, 12 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    }, {
       "name" : "Wesley Mason",
       "screen_name" : "WesleyMason",
       "indices" : [ 14, 26 ],

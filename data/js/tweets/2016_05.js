@@ -795,7 +795,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "SquidDLane",
       "protected" : false,
       "id_str" : "15911738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611423341174370306\/r3pUltM7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871513826859995136\/G0eeLF3d_normal.jpg",
       "id" : 15911738,
       "verified" : false
     }

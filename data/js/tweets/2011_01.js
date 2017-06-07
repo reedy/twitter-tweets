@@ -698,13 +698,7 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -717,7 +711,7 @@ Grailbird.data.tweets_2011_01 =
   "id" : 29517558558232576,
   "in_reply_to_status_id" : 29506667389394944,
   "created_at" : "2011-01-24 12:35:09 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -731,13 +725,7 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 3, 11 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

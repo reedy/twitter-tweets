@@ -600,7 +600,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1761,7 +1761,7 @@ Grailbird.data.tweets_2016_09 =
       "id_str" : "66321941",
       "id" : 66321941
     }, {
-      "name" : "D-Link",
+      "name" : "D-Link USA",
       "screen_name" : "Dlink",
       "indices" : [ 17, 23 ],
       "id_str" : "20099080",

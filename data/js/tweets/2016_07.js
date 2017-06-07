@@ -3,12 +3,6 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
-      "screen_name" : "RachelRayns",
-      "indices" : [ 0, 12 ],
-      "id_str" : "262225484",
-      "id" : 262225484
-    }, {
       "name" : "Ben Nuttall",
       "screen_name" : "ben_nuttall",
       "indices" : [ 13, 25 ],
@@ -19,16 +13,11 @@ Grailbird.data.tweets_2016_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "759742936695377920",
   "geo" : { },
   "id_str" : "759821194442919937",
-  "in_reply_to_user_id" : 262225484,
   "text" : "@RachelRayns @ben_nuttall Sorry, but he can't help. His bank account is empty after a dog having surgery and being put down afterwards :(",
   "id" : 759821194442919937,
-  "in_reply_to_status_id" : 759742936695377920,
   "created_at" : "2016-07-31 18:41:04 +0000",
-  "in_reply_to_screen_name" : "RachelRayns",
-  "in_reply_to_user_id_str" : "262225484",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -134,13 +123,7 @@ Grailbird.data.tweets_2016_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James",
-      "screen_name" : "JamesMCR90",
-      "indices" : [ 0, 11 ],
-      "id_str" : "816267069213786112",
-      "id" : 816267069213786112
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -163,12 +146,6 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
-      "screen_name" : "RachelRayns",
-      "indices" : [ 0, 12 ],
-      "id_str" : "262225484",
-      "id" : 262225484
-    }, {
       "name" : "Ben Nuttall",
       "screen_name" : "ben_nuttall",
       "indices" : [ 13, 25 ],
@@ -179,16 +156,11 @@ Grailbird.data.tweets_2016_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "759716710215593984",
   "geo" : { },
   "id_str" : "759718200191746048",
-  "in_reply_to_user_id" : 262225484,
   "text" : "@RachelRayns @ben_nuttall You do realise it's valid \"Valid Monday - Thursday\", other days have an on the door surcharge etc?",
   "id" : 759718200191746048,
-  "in_reply_to_status_id" : 759716710215593984,
   "created_at" : "2016-07-31 11:51:48 +0000",
-  "in_reply_to_screen_name" : "RachelRayns",
-  "in_reply_to_user_id_str" : "262225484",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -202,12 +174,6 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
-      "screen_name" : "RachelRayns",
-      "indices" : [ 0, 12 ],
-      "id_str" : "262225484",
-      "id" : 262225484
-    }, {
       "name" : "Ben Nuttall",
       "screen_name" : "ben_nuttall",
       "indices" : [ 13, 25 ],
@@ -218,16 +184,11 @@ Grailbird.data.tweets_2016_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "759716710215593984",
   "geo" : { },
   "id_str" : "759717962966298626",
-  "in_reply_to_user_id" : 262225484,
   "text" : "@RachelRayns @ben_nuttall Oh, duh. I notice it's for 2 people",
   "id" : 759717962966298626,
-  "in_reply_to_status_id" : 759716710215593984,
   "created_at" : "2016-07-31 11:50:51 +0000",
-  "in_reply_to_screen_name" : "RachelRayns",
-  "in_reply_to_user_id_str" : "262225484",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -241,12 +202,6 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
-      "screen_name" : "RachelRayns",
-      "indices" : [ 0, 12 ],
-      "id_str" : "262225484",
-      "id" : 262225484
-    }, {
       "name" : "Ben Nuttall",
       "screen_name" : "ben_nuttall",
       "indices" : [ 13, 25 ],
@@ -257,16 +212,11 @@ Grailbird.data.tweets_2016_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "759716710215593984",
   "geo" : { },
   "id_str" : "759717646245826564",
-  "in_reply_to_user_id" : 262225484,
   "text" : "@RachelRayns @ben_nuttall I presume you need 2 deals buying?",
   "id" : 759717646245826564,
-  "in_reply_to_status_id" : 759716710215593984,
   "created_at" : "2016-07-31 11:49:36 +0000",
-  "in_reply_to_screen_name" : "RachelRayns",
-  "in_reply_to_user_id_str" : "262225484",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -280,12 +230,6 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
-      "screen_name" : "RachelRayns",
-      "indices" : [ 0, 12 ],
-      "id_str" : "262225484",
-      "id" : 262225484
-    }, {
       "name" : "Ben Nuttall",
       "screen_name" : "ben_nuttall",
       "indices" : [ 13, 25 ],
@@ -296,16 +240,11 @@ Grailbird.data.tweets_2016_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "759712206321692672",
   "geo" : { },
   "id_str" : "759713827441094656",
-  "in_reply_to_user_id" : 262225484,
   "text" : "@RachelRayns @ben_nuttall My brother is in Sweden (and has a swedish card)... I can ask if you want",
   "id" : 759713827441094656,
-  "in_reply_to_status_id" : 759712206321692672,
   "created_at" : "2016-07-31 11:34:25 +0000",
-  "in_reply_to_screen_name" : "RachelRayns",
-  "in_reply_to_user_id_str" : "262225484",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1464,7 +1403,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "14453232",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/497251061\/tavis_ormandy_normal.jpg",
       "id" : 14453232,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 758242315571957760,
@@ -2741,12 +2680,6 @@ Grailbird.data.tweets_2016_07 =
       "indices" : [ 16, 31 ],
       "id_str" : "20583184",
       "id" : 20583184
-    }, {
-      "name" : "Matt Hancock",
-      "screen_name" : "MattHancockMP",
-      "indices" : [ 32, 46 ],
-      "id_str" : "19825835",
-      "id" : 19825835
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2780,18 +2713,6 @@ Grailbird.data.tweets_2016_07 =
       "indices" : [ 3, 18 ],
       "id_str" : "25984895",
       "id" : 25984895
-    }, {
-      "name" : "Matt Hancock",
-      "screen_name" : "MattHancockMP",
-      "indices" : [ 20, 34 ],
-      "id_str" : "19825835",
-      "id" : 19825835
-    }, {
-      "name" : "William Perrin",
-      "screen_name" : "willperrin",
-      "indices" : [ 35, 46 ],
-      "id_str" : "17945305",
-      "id" : 17945305
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2804,12 +2725,6 @@ Grailbird.data.tweets_2016_07 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Matt Hancock",
-        "screen_name" : "MattHancockMP",
-        "indices" : [ 0, 14 ],
-        "id_str" : "19825835",
-        "id" : 19825835
-      }, {
         "name" : "William Perrin",
         "screen_name" : "willperrin",
         "indices" : [ 15, 26 ],
@@ -2828,7 +2743,7 @@ Grailbird.data.tweets_2016_07 =
     "id" : 756528603232366596,
     "in_reply_to_status_id" : 756523529630322688,
     "created_at" : "2016-07-22 16:37:29 +0000",
-    "in_reply_to_screen_name" : "MattHancockMP",
+    "in_reply_to_screen_name" : "MhancockUK",
     "in_reply_to_user_id_str" : "19825835",
     "user" : {
       "name" : "Ben Haines \uD83C\uDDEA\uD83C\uDDFA",
@@ -3602,12 +3517,6 @@ Grailbird.data.tweets_2016_07 =
         "indices" : [ 113, 122 ],
         "id_str" : "18096679",
         "id" : 18096679
-      }, {
-        "name" : "Matt Hancock",
-        "screen_name" : "MattHancockMP",
-        "indices" : [ 123, 137 ],
-        "id_str" : "19825835",
-        "id" : 19825835
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -3939,13 +3848,7 @@ Grailbird.data.tweets_2016_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James",
-      "screen_name" : "JamesMCR90",
-      "indices" : [ 0, 11 ],
-      "id_str" : "816267069213786112",
-      "id" : 816267069213786112
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4977,12 +4880,6 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    }, {
       "name" : "Veeam\u00AE Software",
       "screen_name" : "veeam",
       "indices" : [ 9, 15 ],
@@ -5006,7 +4903,7 @@ Grailbird.data.tweets_2016_07 =
   "id" : 750403543845244928,
   "in_reply_to_status_id" : 750374401972068352,
   "created_at" : "2016-07-05 18:58:41 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -5987,7 +5884,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -6020,7 +5917,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

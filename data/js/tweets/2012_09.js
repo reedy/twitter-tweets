@@ -123,7 +123,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -162,7 +162,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -206,7 +206,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -239,7 +239,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -723,7 +723,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 12, 23 ],
       "id_str" : "94178695",
@@ -2905,7 +2905,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843183285031202816\/RX-c7ZSe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860526182286073857\/lrIHjNN5_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -6006,7 +6006,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843183285031202816\/RX-c7ZSe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860526182286073857\/lrIHjNN5_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -6451,7 +6451,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeroen De Dauw",
+      "name" : "Such Much Such",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",

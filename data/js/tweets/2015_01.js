@@ -1017,7 +1017,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "Toadsanime",
       "protected" : false,
       "id_str" : "116534927",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837434089993043968\/IEb7b6Kt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870947904072110080\/X5ueRya7_normal.jpg",
       "id" : 116534927,
       "verified" : true
     }

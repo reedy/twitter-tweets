@@ -649,12 +649,6 @@ Grailbird.data.tweets_2010_07 =
       "indices" : [ 15, 22 ],
       "id_str" : "115181416",
       "id" : 115181416
-    }, {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 59, 67 ],
-      "id_str" : "14355014",
-      "id" : 14355014
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2017,7 +2011,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "D-Link",
+      "name" : "D-Link USA",
       "screen_name" : "Dlink",
       "indices" : [ 0, 6 ],
       "id_str" : "20099080",
@@ -2159,7 +2153,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "D-Link",
+      "name" : "D-Link USA",
       "screen_name" : "Dlink",
       "indices" : [ 0, 6 ],
       "id_str" : "20099080",

@@ -59,13 +59,7 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -76,7 +70,7 @@ Grailbird.data.tweets_2010_06 =
   "text" : "@shinaku http:\/\/bit.ly\/dBBaF8 Cheaper than yours :P",
   "id" : 17396595496,
   "created_at" : "2010-06-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -192,7 +186,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 0, 11 ],
       "id_str" : "94178695",
@@ -978,7 +972,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 3, 14 ],
       "id_str" : "94178695",
@@ -1011,11 +1005,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 16851884252,
     "created_at" : "2010-06-23 14:01:37 +0000",
     "user" : {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745004790560620544\/P8PYYMsC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865047614139629568\/Yve1_bF-_normal.jpg",
       "id" : 94178695,
       "verified" : false
     }
@@ -1374,7 +1368,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 0, 11 ],
       "id_str" : "94178695",
@@ -3473,7 +3467,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 0, 11 ],
       "id_str" : "94178695",
@@ -3539,7 +3533,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 0, 11 ],
       "id_str" : "94178695",

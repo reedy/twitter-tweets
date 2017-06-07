@@ -1894,7 +1894,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "helen_hollins",
       "protected" : false,
       "id_str" : "1082287658",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837795664851423232\/ZonkJFB3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/862268136413839364\/ae-orwfB_normal.jpg",
       "id" : 1082287658,
       "verified" : false
     }
@@ -2549,13 +2549,13 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
       "id" : 14822382
     }, {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 6, 17 ],
       "id_str" : "94178695",
@@ -2588,7 +2588,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2621,7 +2621,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

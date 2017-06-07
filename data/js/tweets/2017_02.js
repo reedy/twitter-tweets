@@ -87,7 +87,7 @@ Grailbird.data.tweets_2017_02 =
       "id_str" : "3433183961",
       "id" : 3433183961
     }, {
-      "name" : "My Flights App",
+      "name" : "MyFlights App",
       "screen_name" : "MyFlightsApp",
       "indices" : [ 11, 24 ],
       "id_str" : "77791542",
@@ -264,7 +264,7 @@ Grailbird.data.tweets_2017_02 =
       "id_str" : "18332190",
       "id" : 18332190
     }, {
-      "name" : "My Flights App",
+      "name" : "MyFlights App",
       "screen_name" : "MyFlightsApp",
       "indices" : [ 119, 132 ],
       "id_str" : "77791542",
@@ -1491,7 +1491,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dat Data Project",
+      "name" : "Dat Project",
       "screen_name" : "dat_project",
       "indices" : [ 86, 98 ],
       "id_str" : "2196680173",
@@ -1563,7 +1563,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Twigg",
+      "name" : "Alex",
       "screen_name" : "therealtwiggy_",
       "indices" : [ 0, 15 ],
       "id_str" : "168268671",
@@ -1602,7 +1602,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Twigg",
+      "name" : "Alex",
       "screen_name" : "therealtwiggy_",
       "indices" : [ 0, 15 ],
       "id_str" : "168268671",
@@ -1662,7 +1662,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FedExEurope",
+      "name" : "FedEx Europe",
       "screen_name" : "FedExEurope",
       "indices" : [ 10, 22 ],
       "id_str" : "407598613",

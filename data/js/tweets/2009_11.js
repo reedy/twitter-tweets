@@ -116,13 +116,7 @@ Grailbird.data.tweets_2009_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -133,7 +127,7 @@ Grailbird.data.tweets_2009_11 =
   "text" : "@shinaku :(. Lol",
   "id" : 6171495969,
   "created_at" : "2009-11-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -652,6 +646,39 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Simon Seagrave",
+      "screen_name" : "Kiwi_Si",
+      "indices" : [ 0, 8 ],
+      "id_str" : "779050",
+      "id" : 779050
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "5924116558",
+  "geo" : { },
+  "id_str" : "5926978524",
+  "in_reply_to_user_id" : 779050,
+  "text" : "@Kiwi_Si I shall have to find out if my uni mate whoes on a placement year in the hp storage gets a decent discount ;)",
+  "id" : 5926978524,
+  "in_reply_to_status_id" : 5924116558,
+  "created_at" : "2009-11-21 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Kiwi_Si",
+  "in_reply_to_user_id_str" : "779050",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "\uD83D\uDC8Drta Therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
@@ -789,39 +816,6 @@ Grailbird.data.tweets_2009_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "5924116558",
-  "geo" : { },
-  "id_str" : "5926978524",
-  "in_reply_to_user_id" : 779050,
-  "text" : "@Kiwi_Si I shall have to find out if my uni mate whoes on a placement year in the hp storage gets a decent discount ;)",
-  "id" : 5926978524,
-  "in_reply_to_status_id" : 5924116558,
-  "created_at" : "2009-11-21 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Kiwi_Si",
-  "in_reply_to_user_id_str" : "779050",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Simon Seagrave",
-      "screen_name" : "Kiwi_Si",
-      "indices" : [ 0, 8 ],
-      "id_str" : "779050",
-      "id" : 779050
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
   "geo" : { },
   "id_str" : "5886012159",
   "in_reply_to_user_id" : 779050,
@@ -931,13 +925,7 @@ Grailbird.data.tweets_2009_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -950,7 +938,7 @@ Grailbird.data.tweets_2009_11 =
   "id" : 5708688719,
   "in_reply_to_status_id" : 5708592841,
   "created_at" : "2009-11-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",

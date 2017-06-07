@@ -983,12 +983,6 @@ Grailbird.data.tweets_2010_09 =
       "indices" : [ 0, 11 ],
       "id_str" : "28587521",
       "id" : 28587521
-    }, {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 50, 58 ],
-      "id_str" : "14355014",
-      "id" : 14355014
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1356,13 +1350,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Phil Cooper",
-      "screen_name" : "philcooper",
-      "indices" : [ 0, 11 ],
-      "id_str" : "374713833",
-      "id" : 374713833
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2111,12 +2099,6 @@ Grailbird.data.tweets_2010_09 =
       "indices" : [ 0, 8 ],
       "id_str" : "1856171",
       "id" : 1856171
-    }, {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 9, 17 ],
-      "id_str" : "14355014",
-      "id" : 14355014
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2369,12 +2351,6 @@ Grailbird.data.tweets_2010_09 =
       "indices" : [ 0, 11 ],
       "id_str" : "28587521",
       "id" : 28587521
-    }, {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 12, 20 ],
-      "id_str" : "14355014",
-      "id" : 14355014
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2447,13 +2423,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2466,7 +2436,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 24849654444,
   "in_reply_to_status_id" : 24849153408,
   "created_at" : "2010-09-18 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -3134,12 +3104,6 @@ Grailbird.data.tweets_2010_09 =
       "indices" : [ 0, 12 ],
       "id_str" : "19058966",
       "id" : 19058966
-    }, {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 13, 21 ],
-      "id_str" : "14355014",
-      "id" : 14355014
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3167,13 +3131,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3186,7 +3144,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 23963476752,
   "in_reply_to_status_id" : 23963266805,
   "created_at" : "2010-09-09 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -3233,13 +3191,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3252,7 +3204,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 24037195902,
   "in_reply_to_status_id" : 24036932197,
   "created_at" : "2010-09-09 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",

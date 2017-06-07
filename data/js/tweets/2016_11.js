@@ -754,7 +754,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "My Flights App",
+      "name" : "MyFlights App",
       "screen_name" : "MyFlightsApp",
       "indices" : [ 0, 13 ],
       "id_str" : "77791542",
@@ -3413,7 +3413,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3976,13 +3976,7 @@ Grailbird.data.tweets_2016_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Scan Computers",
-      "screen_name" : "ScanUKOfficial",
-      "indices" : [ 0, 15 ],
-      "id_str" : "51462770",
-      "id" : 51462770
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3995,7 +3989,7 @@ Grailbird.data.tweets_2016_11 =
   "id" : 793815103221207041,
   "in_reply_to_status_id" : 793814678787031041,
   "created_at" : "2016-11-02 14:00:43 +0000",
-  "in_reply_to_screen_name" : "ScanUKOfficial",
+  "in_reply_to_screen_name" : "ScanComputers",
   "in_reply_to_user_id_str" : "51462770",
   "user" : {
     "name" : "Sam Reed",

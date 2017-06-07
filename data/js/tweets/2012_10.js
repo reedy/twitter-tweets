@@ -124,7 +124,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeroen De Dauw",
+      "name" : "Such Much Such",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -227,7 +227,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843183285031202816\/RX-c7ZSe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860526182286073857\/lrIHjNN5_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -1154,13 +1154,7 @@ Grailbird.data.tweets_2012_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1173,7 +1167,7 @@ Grailbird.data.tweets_2012_10 =
   "id" : 260468768914931712,
   "in_reply_to_status_id" : 260468314629865473,
   "created_at" : "2012-10-22 19:52:48 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -2938,8 +2932,8 @@ Grailbird.data.tweets_2012_10 =
       "name" : "Motorola Support",
       "screen_name" : "MotorolaSupport",
       "indices" : [ 0, 16 ],
-      "id_str" : "696172878417543169",
-      "id" : 696172878417543169
+      "id_str" : "3307474546",
+      "id" : 3307474546
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2971,8 +2965,8 @@ Grailbird.data.tweets_2012_10 =
       "name" : "Motorola Support",
       "screen_name" : "MotorolaSupport",
       "indices" : [ 0, 16 ],
-      "id_str" : "696172878417543169",
-      "id" : 696172878417543169
+      "id_str" : "3307474546",
+      "id" : 3307474546
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3071,8 +3065,8 @@ Grailbird.data.tweets_2012_10 =
       "name" : "Motorola Support",
       "screen_name" : "MotorolaSupport",
       "indices" : [ 10, 26 ],
-      "id_str" : "696172878417543169",
-      "id" : 696172878417543169
+      "id_str" : "3307474546",
+      "id" : 3307474546
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3500,7 +3494,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeroen De Dauw",
+      "name" : "Such Much Such",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -4716,7 +4710,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "huffpostqueer",
       "protected" : false,
       "id_str" : "366606110",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614479428668796928\/XaFrYuE1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856706197843566592\/rufwIyDX_normal.jpg",
       "id" : 366606110,
       "verified" : true
     }

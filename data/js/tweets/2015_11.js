@@ -1395,7 +1395,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "KornVape_owner",
+      "name" : "brian emo",
       "screen_name" : "kier_abshy",
       "indices" : [ 12, 23 ],
       "id_str" : "414743251",
@@ -1428,7 +1428,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KornVape_owner",
+      "name" : "brian emo",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1473,7 +1473,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "KornVape_owner",
+      "name" : "brian emo",
       "screen_name" : "kier_abshy",
       "indices" : [ 12, 23 ],
       "id_str" : "414743251",
@@ -1506,7 +1506,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KornVape_owner",
+      "name" : "brian emo",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1545,7 +1545,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KornVape_owner",
+      "name" : "brian emo",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1623,7 +1623,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KornVape_owner",
+      "name" : "brian emo",
       "screen_name" : "kier_abshy",
       "indices" : [ 0, 11 ],
       "id_str" : "414743251",
@@ -1668,7 +1668,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "116534927",
       "id" : 116534927
     }, {
-      "name" : "KornVape_owner",
+      "name" : "brian emo",
       "screen_name" : "kier_abshy",
       "indices" : [ 12, 23 ],
       "id_str" : "414743251",
@@ -3015,7 +3015,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3860,7 +3860,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Davis MP",
+      "name" : "David Davis",
       "screen_name" : "DavidDavisMP",
       "indices" : [ 126, 139 ],
       "id_str" : "2797521996",
@@ -3893,7 +3893,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Davis MP",
+      "name" : "David Davis",
       "screen_name" : "DavidDavisMP",
       "indices" : [ 100, 113 ],
       "id_str" : "2797521996",
@@ -3951,7 +3951,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Davis MP",
+      "name" : "David Davis",
       "screen_name" : "DavidDavisMP",
       "indices" : [ 6, 19 ],
       "id_str" : "2797521996",
@@ -4202,7 +4202,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

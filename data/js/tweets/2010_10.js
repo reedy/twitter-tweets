@@ -1083,25 +1083,16 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Vodafone UK Deals",
-      "screen_name" : "VodafoneUKdeals",
-      "indices" : [ 0, 16 ],
-      "id_str" : "111302473",
-      "id" : 111302473
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "27453499406",
-  "in_reply_to_user_id" : 111302473,
   "text" : "@vodafoneukdeals Is there any chance of being able to buy a NexusOne contract free? Got 1 year left on my current contract :(",
   "id" : 27453499406,
   "created_at" : "2010-10-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "VodafoneUKdeals",
-  "in_reply_to_user_id_str" : "111302473",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1147,27 +1138,16 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Vodafone UK Deals",
-      "screen_name" : "VodafoneUKdeals",
-      "indices" : [ 0, 16 ],
-      "id_str" : "111302473",
-      "id" : 111302473
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "27457241567",
   "geo" : { },
   "id_str" : "27458195684",
-  "in_reply_to_user_id" : 111302473,
   "text" : "@VodafoneUKdeals Emailed. Thanks! :)",
   "id" : 27458195684,
-  "in_reply_to_status_id" : 27457241567,
   "created_at" : "2010-10-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "VodafoneUKdeals",
-  "in_reply_to_user_id_str" : "111302473",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1363,13 +1343,7 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 3, 11 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1392,7 +1366,7 @@ Grailbird.data.tweets_2010_10 =
     "created_at" : "2010-10-11 07:20:31 +0000",
     "user" : {
       "name" : "shinsters.js",
-      "screen_name" : "shinaku",
+      "screen_name" : "mrshinsters",
       "protected" : true,
       "id_str" : "14355014",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735880408953413632\/Tsx0O8Qw_normal.jpg",
@@ -1687,7 +1661,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 3, 14 ],
       "id_str" : "94178695",
@@ -1742,11 +1716,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26925521507,
     "created_at" : "2010-10-10 10:16:57 +0000",
     "user" : {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "protected" : false,
       "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745004790560620544\/P8PYYMsC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865047614139629568\/Yve1_bF-_normal.jpg",
       "id" : 94178695,
       "verified" : false
     }
@@ -2286,13 +2260,7 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2305,7 +2273,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26582975731,
   "in_reply_to_status_id" : 26582952482,
   "created_at" : "2010-10-06 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",

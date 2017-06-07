@@ -883,13 +883,7 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 3, 11 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -912,7 +906,7 @@ Grailbird.data.tweets_2010_01 =
     "created_at" : "2010-01-26 10:36:40 +0000",
     "user" : {
       "name" : "shinsters.js",
-      "screen_name" : "shinaku",
+      "screen_name" : "mrshinsters",
       "protected" : true,
       "id_str" : "14355014",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735880408953413632\/Tsx0O8Qw_normal.jpg",
@@ -1220,12 +1214,6 @@ Grailbird.data.tweets_2010_01 =
       "indices" : [ 0, 12 ],
       "id_str" : "19058966",
       "id" : 19058966
-    }, {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 13, 21 ],
-      "id_str" : "14355014",
-      "id" : 14355014
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1350,13 +1338,7 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1369,7 +1351,7 @@ Grailbird.data.tweets_2010_01 =
   "id" : 8203809462,
   "in_reply_to_status_id" : 8203725024,
   "created_at" : "2010-01-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -1502,6 +1484,57 @@ Grailbird.data.tweets_2010_01 =
   "text" : "In the cinema waiting for #avatar 3D to start!",
   "id" : 8083864230,
   "created_at" : "2010-01-22 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "BBC Technology",
+      "screen_name" : "BBCTech",
+      "indices" : [ 3, 11 ],
+      "id_str" : "621583",
+      "id" : 621583
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8032855966",
+  "text" : "RT @bbctech: The European Union approves Oracle's $7.4bn takeover of fellow US firm group Sun Microsystems. http:\/\/bit.ly\/7Jl2Kg",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "8032477628",
+    "text" : "The European Union approves Oracle's $7.4bn takeover of fellow US firm group Sun Microsystems. http:\/\/bit.ly\/7Jl2Kg",
+    "id" : 8032477628,
+    "created_at" : "2010-01-21 16:20:23 +0000",
+    "user" : {
+      "name" : "BBC Technology",
+      "screen_name" : "BBCTech",
+      "protected" : false,
+      "id_str" : "621583",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
+      "id" : 621583,
+      "verified" : true
+    }
+  },
+  "id" : 8032855966,
+  "created_at" : "2010-01-21 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1670,57 +1703,6 @@ Grailbird.data.tweets_2010_01 =
     }
   },
   "id" : 8028408292,
-  "created_at" : "2010-01-21 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "BBC Technology",
-      "screen_name" : "BBCTech",
-      "indices" : [ 3, 11 ],
-      "id_str" : "621583",
-      "id" : 621583
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8032855966",
-  "text" : "RT @bbctech: The European Union approves Oracle's $7.4bn takeover of fellow US firm group Sun Microsystems. http:\/\/bit.ly\/7Jl2Kg",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "8032477628",
-    "text" : "The European Union approves Oracle's $7.4bn takeover of fellow US firm group Sun Microsystems. http:\/\/bit.ly\/7Jl2Kg",
-    "id" : 8032477628,
-    "created_at" : "2010-01-21 16:20:23 +0000",
-    "user" : {
-      "name" : "BBC Technology",
-      "screen_name" : "BBCTech",
-      "protected" : false,
-      "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
-      "id" : 621583,
-      "verified" : true
-    }
-  },
-  "id" : 8032855966,
   "created_at" : "2010-01-21 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
@@ -2471,13 +2453,7 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 3, 11 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2500,7 +2476,7 @@ Grailbird.data.tweets_2010_01 =
     "created_at" : "2010-01-14 04:44:08 +0000",
     "user" : {
       "name" : "shinsters.js",
-      "screen_name" : "shinaku",
+      "screen_name" : "mrshinsters",
       "protected" : true,
       "id_str" : "14355014",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735880408953413632\/Tsx0O8Qw_normal.jpg",
@@ -2611,12 +2587,6 @@ Grailbird.data.tweets_2010_01 =
       "indices" : [ 0, 11 ],
       "id_str" : "28587521",
       "id" : 28587521
-    }, {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 12, 20 ],
-      "id_str" : "14355014",
-      "id" : 14355014
     }, {
       "name" : "thebigboo",
       "screen_name" : "thebigboo",
@@ -3042,6 +3012,31 @@ Grailbird.data.tweets_2010_01 =
   "created_at" : "2010-01-09 00:00:00 +0000",
   "in_reply_to_screen_name" : "GeneticGenesis",
   "in_reply_to_user_id_str" : "22054297",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 65, 68 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7526095917",
+  "text" : "Currently reading Jeremy Clarksons latest book while not moving. #fb",
+  "id" : 7526095917,
+  "created_at" : "2010-01-08 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3509,31 +3504,6 @@ Grailbird.data.tweets_2010_01 =
   "created_at" : "2010-01-08 00:00:00 +0000",
   "in_reply_to_screen_name" : "jonmoss",
   "in_reply_to_user_id_str" : "13501",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 65, 68 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7526095917",
-  "text" : "Currently reading Jeremy Clarksons latest book while not moving. #fb",
-  "id" : 7526095917,
-  "created_at" : "2010-01-08 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4192,13 +4162,7 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4211,7 +4175,7 @@ Grailbird.data.tweets_2010_01 =
   "id" : 7276570351,
   "in_reply_to_status_id" : 7273933070,
   "created_at" : "2010-01-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",

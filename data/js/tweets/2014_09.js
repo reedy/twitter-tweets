@@ -219,7 +219,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1063,7 +1063,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lost in Verona",
+      "name" : "Spirit of the Night",
       "screen_name" : "chrsphr",
       "indices" : [ 0, 8 ],
       "id_str" : "7790832",
@@ -1186,7 +1186,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeroen De Dauw",
+      "name" : "Such Much Such",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -1887,7 +1887,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeroen De Dauw",
+      "name" : "Such Much Such",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -1951,7 +1951,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R",
+      "name" : "Josh R \uD83D\uDC1D",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2018,7 +2018,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2051,7 +2051,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R",
+      "name" : "Josh R \uD83D\uDC1D",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2458,7 +2458,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R",
+      "name" : "Josh R \uD83D\uDC1D",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2491,7 +2491,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R",
+      "name" : "Josh R \uD83D\uDC1D",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2524,7 +2524,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R",
+      "name" : "Josh R \uD83D\uDC1D",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2563,7 +2563,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "245729302",
       "id" : 245729302
     }, {
-      "name" : "Josh R",
+      "name" : "Josh R \uD83D\uDC1D",
       "screen_name" : "technicalfault",
       "indices" : [ 10, 25 ],
       "id_str" : "17285374",
@@ -2602,7 +2602,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "245729302",
       "id" : 245729302
     }, {
-      "name" : "Josh R",
+      "name" : "Josh R \uD83D\uDC1D",
       "screen_name" : "technicalfault",
       "indices" : [ 10, 25 ],
       "id_str" : "17285374",
@@ -3778,7 +3778,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "SquidDLane",
       "protected" : false,
       "id_str" : "15911738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611423341174370306\/r3pUltM7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871513826859995136\/G0eeLF3d_normal.jpg",
       "id" : 15911738,
       "verified" : false
     }

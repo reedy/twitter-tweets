@@ -77,7 +77,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreStarstuff",
+      "name" : "WeAreStarStuff",
       "screen_name" : "RDGluck",
       "indices" : [ 3, 11 ],
       "id_str" : "62607006",
@@ -164,7 +164,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 505716816384385024,
     "created_at" : "2014-08-30 14:00:59 +0000",
     "user" : {
-      "name" : "WeAreStarstuff",
+      "name" : "WeAreStarStuff",
       "screen_name" : "RDGluck",
       "protected" : false,
       "id_str" : "62607006",
@@ -608,7 +608,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1433,7 +1433,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 53, 58 ],
       "id_str" : "14822382",
@@ -1826,12 +1826,6 @@ Grailbird.data.tweets_2014_08 =
       "indices" : [ 0, 8 ],
       "id_str" : "1856171",
       "id" : 1856171
-    }, {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 9, 17 ],
-      "id_str" : "14355014",
-      "id" : 14355014
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1859,13 +1853,7 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1878,7 +1866,7 @@ Grailbird.data.tweets_2014_08 =
   "id" : 499268383423348736,
   "in_reply_to_status_id" : 499242204549087232,
   "created_at" : "2014-08-12 18:57:13 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -1892,13 +1880,7 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1911,7 +1893,7 @@ Grailbird.data.tweets_2014_08 =
   "id" : 499242394022580225,
   "in_reply_to_status_id" : 499242204549087232,
   "created_at" : "2014-08-12 17:13:56 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -2064,7 +2046,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "OwenJones84",
       "protected" : false,
       "id_str" : "65045121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/681493332678291457\/swHdHJNr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857668417825984513\/09StwuDb_normal.jpg",
       "id" : 65045121,
       "verified" : true
     }

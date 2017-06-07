@@ -857,7 +857,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1385,7 +1385,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 0, 11 ],
       "id_str" : "94178695",
@@ -3602,7 +3602,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2131arramoose",
+      "name" : "\u03A6\u03AC\u03C1\u03B1\u03BD",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -3647,7 +3647,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "21513566",
       "id" : 21513566
     }, {
-      "name" : "\u2131arramoose",
+      "name" : "\u03A6\u03AC\u03C1\u03B1\u03BD",
       "screen_name" : "fazzaan",
       "indices" : [ 9, 17 ],
       "id_str" : "53681528",
@@ -4270,7 +4270,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ON TOUR!",
+      "name" : "Chris Ramsey",
       "screen_name" : "IAmChrisRamsey",
       "indices" : [ 0, 15 ],
       "id_str" : "22260085",
@@ -4415,7 +4415,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flight Sim 2016",
+      "name" : "Flight Sim 2017",
       "screen_name" : "FlightSimShow",
       "indices" : [ 0, 14 ],
       "id_str" : "1547892510",
@@ -4448,7 +4448,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flight Sim 2016",
+      "name" : "Flight Sim 2017",
       "screen_name" : "FlightSimShow",
       "indices" : [ 0, 14 ],
       "id_str" : "1547892510",
@@ -4583,7 +4583,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "20583184",
       "id" : 20583184
     }, {
-      "name" : "Josh R",
+      "name" : "Josh R \uD83D\uDC1D",
       "screen_name" : "technicalfault",
       "indices" : [ 25, 40 ],
       "id_str" : "17285374",

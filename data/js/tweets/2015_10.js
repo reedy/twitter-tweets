@@ -222,7 +222,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "754763748208967680",
       "id" : 754763748208967680
     }, {
-      "name" : "David Davis MP",
+      "name" : "David Davis",
       "screen_name" : "DavidDavisMP",
       "indices" : [ 13, 26 ],
       "id_str" : "2797521996",
@@ -299,7 +299,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Davis MP",
+      "name" : "David Davis",
       "screen_name" : "DavidDavisMP",
       "indices" : [ 3, 16 ],
       "id_str" : "2797521996",
@@ -1036,7 +1036,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "754763748208967680",
       "id" : 754763748208967680
     }, {
-      "name" : "David Davis MP",
+      "name" : "David Davis",
       "screen_name" : "DavidDavisMP",
       "indices" : [ 13, 26 ],
       "id_str" : "2797521996",
@@ -1075,7 +1075,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "754763748208967680",
       "id" : 754763748208967680
     }, {
-      "name" : "David Davis MP",
+      "name" : "David Davis",
       "screen_name" : "DavidDavisMP",
       "indices" : [ 52, 65 ],
       "id_str" : "2797521996",
@@ -1192,7 +1192,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "754763748208967680",
       "id" : 754763748208967680
     }, {
-      "name" : "David Davis MP",
+      "name" : "David Davis",
       "screen_name" : "DavidDavisMP",
       "indices" : [ 34, 47 ],
       "id_str" : "2797521996",
@@ -1248,7 +1248,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1549,7 +1549,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2131arramoose",
+      "name" : "\u03A6\u03AC\u03C1\u03B1\u03BD",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -2589,7 +2589,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

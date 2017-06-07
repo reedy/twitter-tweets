@@ -1277,7 +1277,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2131arramoose",
+      "name" : "\u03A6\u03AC\u03C1\u03B1\u03BD",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -1310,7 +1310,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ministry Of GameDev",
+      "name" : "Ministry Of Dev, PhD",
       "screen_name" : "UdellGames",
       "indices" : [ 3, 14 ],
       "id_str" : "1609105514",
@@ -1397,7 +1397,7 @@ Grailbird.data.tweets_2016_10 =
     "id" : 788690145822306304,
     "created_at" : "2016-10-19 10:35:58 +0000",
     "user" : {
-      "name" : "Ministry Of GameDev",
+      "name" : "Ministry Of Dev, PhD",
       "screen_name" : "UdellGames",
       "protected" : false,
       "id_str" : "1609105514",
@@ -2996,13 +2996,7 @@ Grailbird.data.tweets_2016_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James",
-      "screen_name" : "JamesMCR90",
-      "indices" : [ 0, 11 ],
-      "id_str" : "816267069213786112",
-      "id" : 816267069213786112
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3129,13 +3123,13 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2131arramoose",
+      "name" : "\u03A6\u03AC\u03C1\u03B1\u03BD",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 35, 40 ],
       "id_str" : "14822382",
@@ -3168,7 +3162,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

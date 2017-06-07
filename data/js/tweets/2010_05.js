@@ -307,13 +307,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 3, 11 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -336,7 +330,7 @@ Grailbird.data.tweets_2010_05 =
     "created_at" : "2010-05-30 13:31:24 +0000",
     "user" : {
       "name" : "shinsters.js",
-      "screen_name" : "shinaku",
+      "screen_name" : "mrshinsters",
       "protected" : true,
       "id_str" : "14355014",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735880408953413632\/Tsx0O8Qw_normal.jpg",
@@ -358,13 +352,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -375,7 +363,7 @@ Grailbird.data.tweets_2010_05 =
   "text" : "@shinaku SORT YOUR FUCKING LIFE OUT",
   "id" : 15041384400,
   "created_at" : "2010-05-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -1366,7 +1354,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 0, 11 ],
       "id_str" : "94178695",
@@ -1397,7 +1385,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 0, 11 ],
       "id_str" : "94178695",
@@ -1553,13 +1541,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1572,7 +1554,7 @@ Grailbird.data.tweets_2010_05 =
   "id" : 14766689993,
   "in_reply_to_status_id" : 14766342550,
   "created_at" : "2010-05-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shinaku",
+  "in_reply_to_screen_name" : "mrshinsters",
   "in_reply_to_user_id_str" : "14355014",
   "user" : {
     "name" : "Sam Reed",
@@ -1669,13 +1651,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 5, 13 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "hdqt",
@@ -2901,13 +2877,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 20, 28 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2918,13 +2888,7 @@ Grailbird.data.tweets_2010_05 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "shinsters.js",
-        "screen_name" : "shinaku",
-        "indices" : [ 0, 8 ],
-        "id_str" : "14355014",
-        "id" : 14355014
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
@@ -2937,14 +2901,14 @@ Grailbird.data.tweets_2010_05 =
     "id" : 14360986932,
     "in_reply_to_status_id" : 14360354774,
     "created_at" : "2010-05-20 13:26:51 +0000",
-    "in_reply_to_screen_name" : "shinaku",
+    "in_reply_to_screen_name" : "mrshinsters",
     "in_reply_to_user_id_str" : "14355014",
     "user" : {
       "name" : "KCOM",
       "screen_name" : "KCOMhome",
       "protected" : false,
       "id_str" : "22005301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716699304015052806\/XEanH2TW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856228885947719688\/c2tV3Y-k_normal.jpg",
       "id" : 22005301,
       "verified" : true
     }
@@ -2963,13 +2927,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 3, 11 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2997,7 +2955,7 @@ Grailbird.data.tweets_2010_05 =
     "in_reply_to_user_id_str" : "22005301",
     "user" : {
       "name" : "shinsters.js",
-      "screen_name" : "shinaku",
+      "screen_name" : "mrshinsters",
       "protected" : true,
       "id_str" : "14355014",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735880408953413632\/Tsx0O8Qw_normal.jpg",
@@ -3165,13 +3123,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "shinsters.js",
-      "screen_name" : "shinaku",
-      "indices" : [ 3, 11 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3194,7 +3146,7 @@ Grailbird.data.tweets_2010_05 =
     "created_at" : "2010-05-20 15:59:40 +0000",
     "user" : {
       "name" : "shinsters.js",
-      "screen_name" : "shinaku",
+      "screen_name" : "mrshinsters",
       "protected" : true,
       "id_str" : "14355014",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735880408953413632\/Tsx0O8Qw_normal.jpg",
@@ -4206,7 +4158,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin",
+      "name" : "Benjamin Humphrey",
       "screen_name" : "humphreybc",
       "indices" : [ 0, 11 ],
       "id_str" : "94178695",
