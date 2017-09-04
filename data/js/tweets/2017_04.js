@@ -758,13 +758,7 @@ Grailbird.data.tweets_2017_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Feingeist",
-      "screen_name" : "feingeist_io",
-      "indices" : [ 0, 13 ],
-      "id_str" : "206119761",
-      "id" : 206119761
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -777,7 +771,7 @@ Grailbird.data.tweets_2017_04 =
   "id" : 852095709117521920,
   "in_reply_to_status_id" : 852080905929838592,
   "created_at" : "2017-04-12 09:47:02 +0000",
-  "in_reply_to_screen_name" : "feingeist_io",
+  "in_reply_to_screen_name" : "mailbutler",
   "in_reply_to_user_id_str" : "206119761",
   "user" : {
     "name" : "Sam Reed",
@@ -791,13 +785,7 @@ Grailbird.data.tweets_2017_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Feingeist",
-      "screen_name" : "feingeist_io",
-      "indices" : [ 0, 13 ],
-      "id_str" : "206119761",
-      "id" : 206119761
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -810,7 +798,7 @@ Grailbird.data.tweets_2017_04 =
   "id" : 852095606092902400,
   "in_reply_to_status_id" : 852080905929838592,
   "created_at" : "2017-04-12 09:46:38 +0000",
-  "in_reply_to_screen_name" : "feingeist_io",
+  "in_reply_to_screen_name" : "mailbutler",
   "in_reply_to_user_id_str" : "206119761",
   "user" : {
     "name" : "Sam Reed",
@@ -851,13 +839,7 @@ Grailbird.data.tweets_2017_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Feingeist",
-      "screen_name" : "feingeist_io",
-      "indices" : [ 0, 13 ],
-      "id_str" : "206119761",
-      "id" : 206119761
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -868,7 +850,7 @@ Grailbird.data.tweets_2017_04 =
   "text" : "@feingeist_io Why when I press \"Import VPN Configuration\" does just bleep? What sort of feedback is that? :\/",
   "id" : 851922553149030400,
   "created_at" : "2017-04-11 22:18:59 +0000",
-  "in_reply_to_screen_name" : "feingeist_io",
+  "in_reply_to_screen_name" : "mailbutler",
   "in_reply_to_user_id_str" : "206119761",
   "user" : {
     "name" : "Sam Reed",
@@ -1076,128 +1058,6 @@ Grailbird.data.tweets_2017_04 =
   "created_at" : "2017-04-11 15:55:36 +0000",
   "in_reply_to_screen_name" : "podcat_paradox",
   "in_reply_to_user_id_str" : "2439950851",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Robin Burchell",
-      "screen_name" : "w00teh",
-      "indices" : [ 3, 10 ],
-      "id_str" : "94409323",
-      "id" : 94409323
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/w00teh\/status\/851770763635970048\/photo\/1",
-      "indices" : [ 98, 121 ],
-      "url" : "https:\/\/t.co\/FbzYasIn3l",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/C9IY_R2XcAAVnfn.jpg",
-      "id_str" : "851770754928701440",
-      "id" : 851770754928701440,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C9IY_R2XcAAVnfn.jpg",
-      "sizes" : [ {
-        "h" : 420,
-        "resize" : "fit",
-        "w" : 630
-      }, {
-        "h" : 420,
-        "resize" : "fit",
-        "w" : 630
-      }, {
-        "h" : 420,
-        "resize" : "fit",
-        "w" : 630
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 420,
-        "resize" : "fit",
-        "w" : 630
-      } ],
-      "display_url" : "pic.twitter.com\/FbzYasIn3l"
-    } ],
-    "hashtags" : [ {
-      "text" : "Larry2020",
-      "indices" : [ 87, 97 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "851771172014497792",
-  "text" : "RT @w00teh: Vote for a better United Kingdom. Vote for subsidized catnip for all. Vote #Larry2020 https:\/\/t.co\/FbzYasIn3l",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/w00teh\/status\/851770763635970048\/photo\/1",
-        "indices" : [ 86, 109 ],
-        "url" : "https:\/\/t.co\/FbzYasIn3l",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/C9IY_R2XcAAVnfn.jpg",
-        "id_str" : "851770754928701440",
-        "id" : 851770754928701440,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C9IY_R2XcAAVnfn.jpg",
-        "sizes" : [ {
-          "h" : 420,
-          "resize" : "fit",
-          "w" : 630
-        }, {
-          "h" : 420,
-          "resize" : "fit",
-          "w" : 630
-        }, {
-          "h" : 420,
-          "resize" : "fit",
-          "w" : 630
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 420,
-          "resize" : "fit",
-          "w" : 630
-        } ],
-        "display_url" : "pic.twitter.com\/FbzYasIn3l"
-      } ],
-      "hashtags" : [ {
-        "text" : "Larry2020",
-        "indices" : [ 75, 85 ]
-      } ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "851755257814278144",
-    "geo" : { },
-    "id_str" : "851770763635970048",
-    "in_reply_to_user_id" : 94409323,
-    "text" : "Vote for a better United Kingdom. Vote for subsidized catnip for all. Vote #Larry2020 https:\/\/t.co\/FbzYasIn3l",
-    "id" : 851770763635970048,
-    "in_reply_to_status_id" : 851755257814278144,
-    "created_at" : "2017-04-11 12:15:49 +0000",
-    "in_reply_to_screen_name" : "w00teh",
-    "in_reply_to_user_id_str" : "94409323",
-    "user" : {
-      "name" : "Robin Burchell",
-      "screen_name" : "w00teh",
-      "protected" : false,
-      "id_str" : "94409323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748298795612540932\/1p0TsTdV_normal.jpg",
-      "id" : 94409323,
-      "verified" : false
-    }
-  },
-  "id" : 851771172014497792,
-  "created_at" : "2017-04-11 12:17:27 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2038,7 +1898,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex (Twiggy)",
+      "name" : "Alex",
       "screen_name" : "therealtwiggy_",
       "indices" : [ 0, 15 ],
       "id_str" : "168268671",
@@ -2166,7 +2026,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC8Drta Therox",
+      "name" : "let \u007Borta\u007D = therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -2929,7 +2789,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2968,7 +2828,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

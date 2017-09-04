@@ -227,7 +227,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860526182286073857\/lrIHjNN5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882656026406682624\/WtCirLP7_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -1154,7 +1154,13 @@ Grailbird.data.tweets_2012_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Shinaku GR",
+      "screen_name" : "shinaku",
+      "indices" : [ 0, 8 ],
+      "id_str" : "897478758134886400",
+      "id" : 897478758134886400
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3036,7 +3042,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "johannhari101",
       "protected" : false,
       "id_str" : "78890225",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752037755325128704\/Xxxy8O1g_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/878237267457912833\/EiRraOJD_normal.jpg",
       "id" : 78890225,
       "verified" : true
     }
@@ -3080,7 +3086,7 @@ Grailbird.data.tweets_2012_10 =
   "id" : 256093673526292480,
   "in_reply_to_status_id" : 256086611736014849,
   "created_at" : "2012-10-10 18:07:44 +0000",
-  "in_reply_to_screen_name" : "Moto_USA",
+  "in_reply_to_screen_name" : "MotorolaUS",
   "in_reply_to_user_id_str" : "49753110",
   "user" : {
     "name" : "Sam Reed",
@@ -4710,7 +4716,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "huffpostqueer",
       "protected" : false,
       "id_str" : "366606110",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856706197843566592\/rufwIyDX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875371088892526592\/oqES51Yv_normal.jpg",
       "id" : 366606110,
       "verified" : true
     }

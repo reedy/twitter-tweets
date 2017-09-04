@@ -163,7 +163,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "SynologyUK",
       "protected" : false,
       "id_str" : "104116831",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816228762064973825\/2lkk_SfM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877913768340197390\/sx5A9G1R_normal.jpg",
       "id" : 104116831,
       "verified" : false
     }
@@ -1250,25 +1250,16 @@ Grailbird.data.tweets_2016_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "799278880502595584",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help Hey, do you have a way I can find out what exchange rate I would've got on a specific date if I had USD paid into my GBP acc?",
   "id" : 799278880502595584,
   "created_at" : "2016-11-17 15:51:49 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3413,7 +3404,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

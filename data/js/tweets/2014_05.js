@@ -1124,13 +1124,7 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Twitter Support",
-      "screen_name" : "Support",
-      "indices" : [ 0, 8 ],
-      "id_str" : "17874544",
-      "id" : 17874544
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1143,7 +1137,7 @@ Grailbird.data.tweets_2014_05 =
   "id" : 468503505733685249,
   "in_reply_to_status_id" : 468503362543972352,
   "created_at" : "2014-05-19 21:28:34 +0000",
-  "in_reply_to_screen_name" : "Support",
+  "in_reply_to_screen_name" : "TwitterSupport",
   "in_reply_to_user_id_str" : "17874544",
   "user" : {
     "name" : "Sam Reed",
@@ -2010,27 +2004,16 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "bitbuzz",
-      "screen_name" : "bitbuzz",
-      "indices" : [ 0, 8 ],
-      "id_str" : "16034540",
-      "id" : 16034540
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "464176804241358850",
   "geo" : { },
   "id_str" : "464436557886554113",
-  "in_reply_to_user_id" : 16034540,
   "text" : "@bitbuzz Best Western Dublin Skylon Hotel",
   "id" : 464436557886554113,
-  "in_reply_to_status_id" : 464176804241358850,
   "created_at" : "2014-05-08 16:07:58 +0000",
-  "in_reply_to_screen_name" : "bitbuzz",
-  "in_reply_to_user_id_str" : "16034540",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2549,7 +2532,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2588,7 +2571,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2621,7 +2604,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

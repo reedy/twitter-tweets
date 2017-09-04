@@ -751,7 +751,7 @@ Grailbird.data.tweets_2017_01 =
       "id_str" : "543141733",
       "id" : 543141733
     }, {
-      "name" : "Airbus Aircraft",
+      "name" : "Airbus",
       "screen_name" : "Airbus",
       "indices" : [ 24, 31 ],
       "id_str" : "15425377",
@@ -808,7 +808,7 @@ Grailbird.data.tweets_2017_01 =
       "id_str" : "543141733",
       "id" : 543141733
     }, {
-      "name" : "Airbus Aircraft",
+      "name" : "Airbus",
       "screen_name" : "Airbus",
       "indices" : [ 38, 45 ],
       "id_str" : "15425377",
@@ -1012,7 +1012,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2158,7 +2158,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Prop J Farrers",
+      "name" : "J Farrers",
       "screen_name" : "Jfarrers",
       "indices" : [ 3, 12 ],
       "id_str" : "2361393215",
@@ -2215,7 +2215,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 821841398378938368,
     "created_at" : "2017-01-18 22:07:13 +0000",
     "user" : {
-      "name" : "Prop J Farrers",
+      "name" : "J Farrers",
       "screen_name" : "Jfarrers",
       "protected" : false,
       "id_str" : "2361393215",
@@ -2628,7 +2628,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amazon",
+      "name" : "Amazon.com",
       "screen_name" : "amazon",
       "indices" : [ 11, 18 ],
       "id_str" : "20793816",
@@ -2862,7 +2862,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "TheOnion",
       "protected" : false,
       "id_str" : "14075928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871381414310051840\/ZlzAi3tL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875392068125769732\/yrN-1k0Y_normal.jpg",
       "id" : 14075928,
       "verified" : true
     }

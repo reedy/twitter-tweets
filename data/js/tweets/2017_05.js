@@ -1874,7 +1874,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rob manuel",
+      "name" : "Rob Manuel \uD83D\uDD39",
       "screen_name" : "robmanuel",
       "indices" : [ 3, 13 ],
       "id_str" : "2285051",
@@ -1961,7 +1961,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 868606571340804096,
     "created_at" : "2017-05-27 23:15:19 +0000",
     "user" : {
-      "name" : "rob manuel",
+      "name" : "Rob Manuel \uD83D\uDD39",
       "screen_name" : "robmanuel",
       "protected" : false,
       "id_str" : "2285051",
@@ -2461,7 +2461,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "GiveBloodNHS",
       "protected" : false,
       "id_str" : "304952647",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851311462026928129\/L7Ub-o81_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875732032340598784\/99QQGO_k_normal.jpg",
       "id" : 304952647,
       "verified" : true
     }

@@ -540,7 +540,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC8Drta Therox",
+      "name" : "let \u007Borta\u007D = therox",
       "screen_name" : "orta",
       "indices" : [ 3, 8 ],
       "id_str" : "2569881",
@@ -567,11 +567,11 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21579340961,
     "created_at" : "2010-08-19 13:59:33 +0000",
     "user" : {
-      "name" : "\uD83D\uDC8Drta Therox",
+      "name" : "let \u007Borta\u007D = therox",
       "screen_name" : "orta",
       "protected" : false,
       "id_str" : "2569881",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747890285460369409\/uLM4SUBp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879777800311451648\/5HSjNITG_normal.jpg",
       "id" : 2569881,
       "verified" : false
     }
@@ -2949,11 +2949,11 @@ Grailbird.data.tweets_2010_08 =
     "id" : 20167388703,
     "created_at" : "2010-08-02 21:02:50 +0000",
     "user" : {
-      "name" : "CORSAIR",
+      "name" : "CORSAIR @ PAX West",
       "screen_name" : "CORSAIR",
       "protected" : false,
       "id_str" : "26599573",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666310677607219200\/ADFH2SJI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/884492983835303936\/RoJVg6hX_normal.jpg",
       "id" : 26599573,
       "verified" : true
     }

@@ -932,7 +932,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1485,7 +1485,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875790917554192384\/hJQ1TsVW_normal.jpg",
       "id" : 621583,
       "verified" : true
     }
@@ -2810,7 +2810,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "mariadb",
       "protected" : false,
       "id_str" : "403871494",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/872197171528871936\/0Pj7GSBO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876953323743494144\/Q_pbuiJf_normal.jpg",
       "id" : 403871494,
       "verified" : true
     }
@@ -3727,7 +3727,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Airbus Aircraft",
+      "name" : "Airbus",
       "screen_name" : "Airbus",
       "indices" : [ 3, 10 ],
       "id_str" : "15425377",
@@ -3826,7 +3826,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 345877594664747010,
     "created_at" : "2013-06-15 12:16:59 +0000",
     "user" : {
-      "name" : "Airbus Aircraft",
+      "name" : "Airbus",
       "screen_name" : "Airbus",
       "protected" : false,
       "id_str" : "15425377",
@@ -4479,7 +4479,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

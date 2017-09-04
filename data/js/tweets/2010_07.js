@@ -649,6 +649,12 @@ Grailbird.data.tweets_2010_07 =
       "indices" : [ 15, 22 ],
       "id_str" : "115181416",
       "id" : 115181416
+    }, {
+      "name" : "Shinaku GR",
+      "screen_name" : "shinaku",
+      "indices" : [ 59, 67 ],
+      "id_str" : "897478758134886400",
+      "id" : 897478758134886400
     } ],
     "media" : [ ],
     "hashtags" : [ ],

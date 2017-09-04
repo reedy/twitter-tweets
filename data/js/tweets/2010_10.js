@@ -919,7 +919,13 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Scottish Geek",
+      "screen_name" : "ScottishGeek",
+      "indices" : [ 0, 13 ],
+      "id_str" : "4865550844",
+      "id" : 4865550844
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1343,7 +1349,13 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Shinaku GR",
+      "screen_name" : "shinaku",
+      "indices" : [ 3, 11 ],
+      "id_str" : "897478758134886400",
+      "id" : 897478758134886400
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2260,7 +2272,13 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Shinaku GR",
+      "screen_name" : "shinaku",
+      "indices" : [ 0, 8 ],
+      "id_str" : "897478758134886400",
+      "id" : 897478758134886400
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

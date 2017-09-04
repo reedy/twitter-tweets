@@ -880,7 +880,13 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "rcd",
+      "screen_name" : "rcd1990",
+      "indices" : [ 0, 8 ],
+      "id_str" : "2964217282",
+      "id" : 2964217282
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1383,7 +1389,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875790917554192384\/hJQ1TsVW_normal.jpg",
       "id" : 621583,
       "verified" : true
     }
@@ -2267,7 +2273,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "kickstarter",
       "protected" : false,
       "id_str" : "16186995",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849352837414998018\/kI43QUoj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/892491364482592769\/tatwPk6m_normal.jpg",
       "id" : 16186995,
       "verified" : true
     }
@@ -2748,7 +2754,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Owen Blacker \uD83C\uDDEA\uD83C\uDDFA",
+      "name" : "Owen Blacker\uD83C\uDDEA\uD83C\uDDFA\uD83C\uDF39\uD83C\uDF08",
       "screen_name" : "owenblacker",
       "indices" : [ 0, 12 ],
       "id_str" : "4491811",
@@ -2840,7 +2846,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "Wikipedia",
       "protected" : false,
       "id_str" : "86390214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839213953670492161\/F_dqBqYJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/874733198336380928\/XhA-TwYY_normal.jpg",
       "id" : 86390214,
       "verified" : true
     }
@@ -3337,7 +3343,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860526182286073857\/lrIHjNN5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882656026406682624\/WtCirLP7_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -3451,7 +3457,7 @@ Grailbird.data.tweets_2013_10 =
     "in_reply_to_screen_name" : "jonnixs",
     "in_reply_to_user_id_str" : "1860461",
     "user" : {
-      "name" : "Jon Stirling",
+      "name" : "Jonny Stirling",
       "screen_name" : "jonnixs",
       "protected" : false,
       "id_str" : "1860461",
@@ -4333,7 +4339,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -5615,7 +5621,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UPS UK",
+      "name" : "UPS UK&IE",
       "screen_name" : "UPS_UK",
       "indices" : [ 39, 46 ],
       "id_str" : "412411429",
@@ -5819,13 +5825,7 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 27, 40 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5920,7 +5920,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UPS UK",
+      "name" : "UPS UK&IE",
       "screen_name" : "UPS_UK",
       "indices" : [ 0, 7 ],
       "id_str" : "412411429",
@@ -6115,7 +6115,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UPS UK",
+      "name" : "UPS UK&IE",
       "screen_name" : "UPS_UK",
       "indices" : [ 15, 22 ],
       "id_str" : "412411429",
@@ -6148,7 +6148,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UPS UK",
+      "name" : "UPS UK&IE",
       "screen_name" : "UPS_UK",
       "indices" : [ 36, 43 ],
       "id_str" : "412411429",
@@ -6419,7 +6419,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Airbus Aircraft",
+      "name" : "Airbus",
       "screen_name" : "Airbus",
       "indices" : [ 21, 28 ],
       "id_str" : "15425377",
@@ -6872,7 +6872,13 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Shinaku GR",
+      "screen_name" : "shinaku",
+      "indices" : [ 0, 8 ],
+      "id_str" : "897478758134886400",
+      "id" : 897478758134886400
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6899,7 +6905,13 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Shinaku GR",
+      "screen_name" : "shinaku",
+      "indices" : [ 0, 8 ],
+      "id_str" : "897478758134886400",
+      "id" : 897478758134886400
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6926,7 +6938,13 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Shinaku GR",
+      "screen_name" : "shinaku",
+      "indices" : [ 35, 43 ],
+      "id_str" : "897478758134886400",
+      "id" : 897478758134886400
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7015,7 +7033,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 28, 33 ],
       "id_str" : "14822382",
@@ -7092,13 +7110,7 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7125,25 +7137,16 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "385851146360737794",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help What are the options for me to get a USD account? I get paid in USD, but transfer it via 3rd party. I tried to do a US current",
   "id" : 385851146360737794,
   "created_at" : "2013-10-03 19:37:36 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -7204,7 +7207,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "OpenRightsGroup",
       "protected" : false,
       "id_str" : "15028398",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469813555332513792\/WcIzxgf5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875377504760057856\/1Ot2cAte_normal.jpg",
       "id" : 15028398,
       "verified" : false
     }
@@ -7265,12 +7268,6 @@ Grailbird.data.tweets_2013_10 =
       "indices" : [ 0, 8 ],
       "id_str" : "16019962",
       "id" : 16019962
-    }, {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 9, 22 ],
-      "id_str" : "321471398",
-      "id" : 321471398
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7298,13 +7295,7 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 4, 17 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -8506,7 +8497,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875790917554192384\/hJQ1TsVW_normal.jpg",
       "id" : 621583,
       "verified" : true
     }

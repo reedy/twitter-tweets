@@ -69,13 +69,13 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven Levitt",
+      "name" : "Steven",
       "screen_name" : "fiveub",
       "indices" : [ 0, 7 ],
       "id_str" : "1706468510",
       "id" : 1706468510
     }, {
-      "name" : "Jess \uD83D\uDCF7\uD83C\uDF47",
+      "name" : "Jess \uD83D\uDCF7\uD83D\uDC9C",
       "screen_name" : "Jessius",
       "indices" : [ 8, 16 ],
       "id_str" : "55602307",
@@ -600,7 +600,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",

@@ -83,39 +83,14 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "62607006",
       "id" : 62607006
     } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/JessieJessup\/status\/505463065089830912\/photo\/1",
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
       "indices" : [ 64, 86 ],
       "url" : "http:\/\/t.co\/DjsDjKvVeb",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BwPD-qFCAAAPMIP.jpg",
-      "id_str" : "505463064410324992",
-      "id" : 505463064410324992,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BwPD-qFCAAAPMIP.jpg",
-      "sizes" : [ {
-        "h" : 610,
-        "resize" : "fit",
-        "w" : 516
-      }, {
-        "h" : 610,
-        "resize" : "fit",
-        "w" : 516
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 610,
-        "resize" : "fit",
-        "w" : 516
-      }, {
-        "h" : 402,
-        "resize" : "fit",
-        "w" : 340
-      } ],
+      "expanded_url" : "https:\/\/twitter.com\/JessieJessup\/status\/505463065089830912\/photo\/1",
       "display_url" : "pic.twitter.com\/DjsDjKvVeb"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
+    } ]
   },
   "geo" : { },
   "id_str" : "505851498140803073",
@@ -124,39 +99,14 @@ Grailbird.data.tweets_2014_08 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/JessieJessup\/status\/505463065089830912\/photo\/1",
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
         "indices" : [ 51, 73 ],
         "url" : "http:\/\/t.co\/DjsDjKvVeb",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BwPD-qFCAAAPMIP.jpg",
-        "id_str" : "505463064410324992",
-        "id" : 505463064410324992,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BwPD-qFCAAAPMIP.jpg",
-        "sizes" : [ {
-          "h" : 610,
-          "resize" : "fit",
-          "w" : 516
-        }, {
-          "h" : 610,
-          "resize" : "fit",
-          "w" : 516
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 610,
-          "resize" : "fit",
-          "w" : 516
-        }, {
-          "h" : 402,
-          "resize" : "fit",
-          "w" : 340
-        } ],
+        "expanded_url" : "https:\/\/twitter.com\/JessieJessup\/status\/505463065089830912\/photo\/1",
         "display_url" : "pic.twitter.com\/DjsDjKvVeb"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
+      } ]
     },
     "geo" : { },
     "id_str" : "505716816384385024",
@@ -608,7 +558,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -688,7 +638,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875790917554192384\/hJQ1TsVW_normal.jpg",
       "id" : 621583,
       "verified" : true
     }
@@ -1433,7 +1383,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 53, 58 ],
       "id_str" : "14822382",
@@ -1826,6 +1776,12 @@ Grailbird.data.tweets_2014_08 =
       "indices" : [ 0, 8 ],
       "id_str" : "1856171",
       "id" : 1856171
+    }, {
+      "name" : "Shinaku GR",
+      "screen_name" : "shinaku",
+      "indices" : [ 9, 17 ],
+      "id_str" : "897478758134886400",
+      "id" : 897478758134886400
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1853,7 +1809,13 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Shinaku GR",
+      "screen_name" : "shinaku",
+      "indices" : [ 0, 8 ],
+      "id_str" : "897478758134886400",
+      "id" : 897478758134886400
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1880,7 +1842,13 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Shinaku GR",
+      "screen_name" : "shinaku",
+      "indices" : [ 0, 8 ],
+      "id_str" : "897478758134886400",
+      "id" : 897478758134886400
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2046,7 +2014,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "OwenJones84",
       "protected" : false,
       "id_str" : "65045121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857668417825984513\/09StwuDb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/896591680731844608\/t9AAcB5w_normal.jpg",
       "id" : 65045121,
       "verified" : true
     }
@@ -2681,7 +2649,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875790917554192384\/hJQ1TsVW_normal.jpg",
       "id" : 621583,
       "verified" : true
     }
@@ -3226,7 +3194,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vesna Manojlovic \uD83D\uDC3F\uFE0F",
+      "name" : "\uD83D\uDC3F Vesna Manojlovic",
       "screen_name" : "Ms_Multicolor",
       "indices" : [ 0, 14 ],
       "id_str" : "436610824",

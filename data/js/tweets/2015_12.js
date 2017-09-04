@@ -3308,25 +3308,16 @@ Grailbird.data.tweets_2015_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "676810476551032836",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help I filled out the form for a mobile phone insurance claim last week to Allianz. Not heard anything back from them at all :\/",
   "id" : 676810476551032836,
   "created_at" : "2015-12-15 17:06:06 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

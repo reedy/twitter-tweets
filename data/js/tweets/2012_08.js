@@ -2120,7 +2120,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875790917554192384\/hJQ1TsVW_normal.jpg",
       "id" : 621583,
       "verified" : true
     }
@@ -2146,7 +2146,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "153956717",
       "id" : 153956717
     }, {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 10, 15 ],
       "id_str" : "14822382",
@@ -2179,7 +2179,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -3147,12 +3147,6 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex S.",
-      "screen_name" : "namecheap_alex",
-      "indices" : [ 0, 15 ],
-      "id_str" : "216451477",
-      "id" : 216451477
-    }, {
       "name" : "Namecheap.com",
       "screen_name" : "Namecheap",
       "indices" : [ 16, 26 ],
@@ -3163,16 +3157,11 @@ Grailbird.data.tweets_2012_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "235467523166986242",
   "geo" : { },
   "id_str" : "235467907868524544",
-  "in_reply_to_user_id" : 216451477,
   "text" : "@namecheap_alex @Namecheap dns3 still seems to be unresponsive to the dig requests..",
   "id" : 235467907868524544,
-  "in_reply_to_status_id" : 235467523166986242,
   "created_at" : "2012-08-14 20:08:18 +0000",
-  "in_reply_to_screen_name" : "namecheap_alex",
-  "in_reply_to_user_id_str" : "216451477",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3211,12 +3200,6 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex S.",
-      "screen_name" : "namecheap_alex",
-      "indices" : [ 0, 15 ],
-      "id_str" : "216451477",
-      "id" : 216451477
-    }, {
       "name" : "Namecheap.com",
       "screen_name" : "Namecheap",
       "indices" : [ 16, 26 ],
@@ -3227,16 +3210,11 @@ Grailbird.data.tweets_2012_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "235461258365763584",
   "geo" : { },
   "id_str" : "235461406479228928",
-  "in_reply_to_user_id" : 216451477,
   "text" : "@namecheap_alex @Namecheap Great, thanks. I'm getting shouted at because it's upsetting a bugzilla instance that I'm heavily cc'd on ;) :D",
   "id" : 235461406479228928,
-  "in_reply_to_status_id" : 235461258365763584,
   "created_at" : "2012-08-14 19:42:28 +0000",
-  "in_reply_to_screen_name" : "namecheap_alex",
-  "in_reply_to_user_id_str" : "216451477",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

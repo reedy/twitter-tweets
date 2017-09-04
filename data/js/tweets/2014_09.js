@@ -219,7 +219,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -582,7 +582,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875790917554192384\/hJQ1TsVW_normal.jpg",
       "id" : 621583,
       "verified" : true
     }
@@ -1063,7 +1063,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spirit of the Night",
+      "name" : "www purple",
       "screen_name" : "chrsphr",
       "indices" : [ 0, 8 ],
       "id_str" : "7790832",
@@ -1951,7 +1951,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R \uD83D\uDC1D",
+      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2018,7 +2018,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -2051,7 +2051,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R \uD83D\uDC1D",
+      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2458,7 +2458,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R \uD83D\uDC1D",
+      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2491,7 +2491,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R \uD83D\uDC1D",
+      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2524,7 +2524,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R \uD83D\uDC1D",
+      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2563,7 +2563,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "245729302",
       "id" : 245729302
     }, {
-      "name" : "Josh R \uD83D\uDC1D",
+      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 10, 25 ],
       "id_str" : "17285374",
@@ -2602,7 +2602,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "245729302",
       "id" : 245729302
     }, {
-      "name" : "Josh R \uD83D\uDC1D",
+      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 10, 25 ],
       "id_str" : "17285374",
@@ -2979,7 +2979,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "712685130",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694634209567068160\/R8oCIMeb_normal.png",
       "id" : 712685130,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 509729227563098112,
@@ -3798,7 +3798,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven Levitt",
+      "name" : "Steven",
       "screen_name" : "fiveub",
       "indices" : [ 0, 7 ],
       "id_str" : "1706468510",

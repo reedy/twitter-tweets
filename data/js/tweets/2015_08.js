@@ -116,7 +116,7 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "756145",
       "id" : 756145
     }, {
-      "name" : "\uD83D\uDC8Drta Therox",
+      "name" : "let \u007Borta\u007D = therox",
       "screen_name" : "orta",
       "indices" : [ 69, 74 ],
       "id_str" : "2569881",
@@ -442,7 +442,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "soylent",
       "protected" : false,
       "id_str" : "1355246442",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593129549233139712\/RVpxOhPr_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877987681631961088\/oBH8v6K-_normal.jpg",
       "id" : 1355246442,
       "verified" : true
     }
@@ -1310,7 +1310,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mo",
+      "name" : "Motato",
       "screen_name" : "Embyou",
       "indices" : [ 0, 7 ],
       "id_str" : "3227540022",

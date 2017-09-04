@@ -132,7 +132,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC8Drta Therox",
+      "name" : "let \u007Borta\u007D = therox",
       "screen_name" : "orta",
       "indices" : [ 3, 8 ],
       "id_str" : "2569881",
@@ -159,11 +159,11 @@ Grailbird.data.tweets_2016_10 =
     "id" : 792774579068530688,
     "created_at" : "2016-10-30 17:06:03 +0000",
     "user" : {
-      "name" : "\uD83D\uDC8Drta Therox",
+      "name" : "let \u007Borta\u007D = therox",
       "screen_name" : "orta",
       "protected" : false,
       "id_str" : "2569881",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747890285460369409\/uLM4SUBp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879777800311451648\/5HSjNITG_normal.jpg",
       "id" : 2569881,
       "verified" : false
     }
@@ -1397,7 +1397,7 @@ Grailbird.data.tweets_2016_10 =
     "id" : 788690145822306304,
     "created_at" : "2016-10-19 10:35:58 +0000",
     "user" : {
-      "name" : "Ministry Of Dev, PhD",
+      "name" : "Ministry Of GameDev",
       "screen_name" : "UdellGames",
       "protected" : false,
       "id_str" : "1609105514",
@@ -1664,7 +1664,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "SynologyUK",
       "protected" : false,
       "id_str" : "104116831",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816228762064973825\/2lkk_SfM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877913768340197390\/sx5A9G1R_normal.jpg",
       "id" : 104116831,
       "verified" : false
     }
@@ -1968,27 +1968,16 @@ Grailbird.data.tweets_2016_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "788010951660474368",
   "geo" : { },
   "id_str" : "788012677075460096",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help I believe so. I'm fairly sure it was Goole. Was a while ago. BIC I was given on Secure Message was MIDLGB22, so generic HSBC",
   "id" : 788012677075460096,
-  "in_reply_to_status_id" : 788010951660474368,
   "created_at" : "2016-10-17 13:43:57 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2001,25 +1990,16 @@ Grailbird.data.tweets_2016_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "788009129168211968",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help Having a payment sent from abroad, they want the branch address.. Howden is closed, do I give them Gooles address?",
   "id" : 788009129168211968,
   "created_at" : "2016-10-17 13:29:51 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2904,25 +2884,16 @@ Grailbird.data.tweets_2016_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "785801363104030721",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help \"how was your telephone banking experience?\" email... Um. I haven't rung you in... months?",
   "id" : 785801363104030721,
   "created_at" : "2016-10-11 11:16:59 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3129,7 +3100,7 @@ Grailbird.data.tweets_2016_10 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 35, 40 ],
       "id_str" : "14822382",
@@ -3162,7 +3133,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4282,12 +4253,6 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Six Design & Digital",
-      "screen_name" : "SIXDesigners",
-      "indices" : [ 22, 35 ],
-      "id_str" : "24807612",
-      "id" : 24807612
-    }, {
       "name" : "Fivenines UK",
       "screen_name" : "fiveninesuk",
       "indices" : [ 36, 48 ],

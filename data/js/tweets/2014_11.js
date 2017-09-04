@@ -492,7 +492,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "Android",
       "protected" : false,
       "id_str" : "382267114",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616076655547682816\/6gMRtQyY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875443327835025408\/ZvmtaSXW_normal.jpg",
       "id" : 382267114,
       "verified" : true
     }
@@ -613,7 +613,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "techradar",
       "protected" : false,
       "id_str" : "15560223",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666175375836381184\/TQGOEbNe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875421451653873664\/P21KAcnr_normal.jpg",
       "id" : 15560223,
       "verified" : true
     }
@@ -1286,7 +1286,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1319,7 +1319,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1423,7 +1423,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "soylent",
       "protected" : false,
       "id_str" : "1355246442",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593129549233139712\/RVpxOhPr_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877987681631961088\/oBH8v6K-_normal.jpg",
       "id" : 1355246442,
       "verified" : true
     }
@@ -3222,7 +3222,7 @@ Grailbird.data.tweets_2014_11 =
       "id_str" : "40113236",
       "id" : 40113236
     }, {
-      "name" : "Airbus Aircraft",
+      "name" : "Airbus",
       "screen_name" : "Airbus",
       "indices" : [ 49, 56 ],
       "id_str" : "15425377",
@@ -3244,7 +3244,7 @@ Grailbird.data.tweets_2014_11 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Airbus Aircraft",
+        "name" : "Airbus",
         "screen_name" : "Airbus",
         "indices" : [ 28, 35 ],
         "id_str" : "15425377",
@@ -3738,7 +3738,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC8Drta Therox",
+      "name" : "let \u007Borta\u007D = therox",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",

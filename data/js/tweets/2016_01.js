@@ -1963,7 +1963,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "53681528",
       "id" : 53681528
     }, {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 9, 14 ],
       "id_str" : "14822382",
@@ -2926,7 +2926,13 @@ Grailbird.data.tweets_2016_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Emma mckeown",
+      "screen_name" : "emma_mckeown",
+      "indices" : [ 0, 13 ],
+      "id_str" : "896089230241345538",
+      "id" : 896089230241345538
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3442,7 +3448,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "techradar",
       "protected" : false,
       "id_str" : "15560223",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666175375836381184\/TQGOEbNe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875421451653873664\/P21KAcnr_normal.jpg",
       "id" : 15560223,
       "verified" : true
     }
@@ -3492,7 +3498,13 @@ Grailbird.data.tweets_2016_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Emma mckeown",
+      "screen_name" : "emma_mckeown",
+      "indices" : [ 0, 13 ],
+      "id_str" : "896089230241345538",
+      "id" : 896089230241345538
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3519,7 +3531,13 @@ Grailbird.data.tweets_2016_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Emma mckeown",
+      "screen_name" : "emma_mckeown",
+      "indices" : [ 0, 13 ],
+      "id_str" : "896089230241345538",
+      "id" : 896089230241345538
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4239,7 +4257,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UPS UK",
+      "name" : "UPS UK&IE",
       "screen_name" : "UPS_UK",
       "indices" : [ 1, 8 ],
       "id_str" : "412411429",
@@ -5311,7 +5329,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "techradar",
       "protected" : false,
       "id_str" : "15560223",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666175375836381184\/TQGOEbNe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875421451653873664\/P21KAcnr_normal.jpg",
       "id" : 15560223,
       "verified" : true
     }

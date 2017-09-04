@@ -123,7 +123,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -162,7 +162,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -206,7 +206,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
       "id_str" : "14822382",
@@ -239,7 +239,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -474,7 +474,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "therealautoblog",
       "protected" : false,
       "id_str" : "16665516",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760862635034284032\/uqjkX0qJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/895300692943880194\/GHMTT8P8_normal.jpg",
       "id" : 16665516,
       "verified" : true
     }
@@ -2905,7 +2905,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860526182286073857\/lrIHjNN5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882656026406682624\/WtCirLP7_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -4519,7 +4519,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2694\uFE0F Carlos Montero \u2694\uFE0F",
+      "name" : "Carlos Montero",
       "screen_name" : "cman2k",
       "indices" : [ 3, 10 ],
       "id_str" : "10416942",
@@ -4546,7 +4546,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 245603655640821762,
     "created_at" : "2012-09-11 19:24:09 +0000",
     "user" : {
-      "name" : "\u2694\uFE0F Carlos Montero \u2694\uFE0F",
+      "name" : "Carlos Montero",
       "screen_name" : "cman2k",
       "protected" : false,
       "id_str" : "10416942",
@@ -5622,7 +5622,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630677042523164672\/ymxfPIqh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875790917554192384\/hJQ1TsVW_normal.jpg",
       "id" : 621583,
       "verified" : true
     }
@@ -5861,7 +5861,7 @@ Grailbird.data.tweets_2012_09 =
   "id" : 243406867999649792,
   "in_reply_to_status_id" : 243406123112202240,
   "created_at" : "2012-09-05 17:54:54 +0000",
-  "in_reply_to_screen_name" : "YorkieLincs",
+  "in_reply_to_screen_name" : "HyxLIVE",
   "in_reply_to_user_id_str" : "20406311",
   "user" : {
     "name" : "Sam Reed",
@@ -6006,7 +6006,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860526182286073857\/lrIHjNN5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882656026406682624\/WtCirLP7_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }

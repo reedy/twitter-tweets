@@ -432,7 +432,7 @@ Grailbird.data.tweets_2016_12 =
       "id_str" : "222093692",
       "id" : 222093692
     }, {
-      "name" : "Currys & PC World",
+      "name" : "Currys PC World",
       "screen_name" : "curryspcworld",
       "indices" : [ 15, 29 ],
       "id_str" : "170277278",
@@ -4147,7 +4147,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "OrbitalATK",
       "protected" : false,
       "id_str" : "15662133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/863035000924643328\/j3Ywqeci_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888501293043535872\/eW9_TOXx_normal.jpg",
       "id" : 15662133,
       "verified" : true
     }
@@ -4440,7 +4440,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -4848,7 +4848,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "OrbitalATK",
       "protected" : false,
       "id_str" : "15662133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/863035000924643328\/j3Ywqeci_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888501293043535872\/eW9_TOXx_normal.jpg",
       "id" : 15662133,
       "verified" : true
     }
@@ -5063,7 +5063,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "StreamerHouse",
+      "name" : "StreamerHouse@PAX",
       "screen_name" : "Streamer_House",
       "indices" : [ 0, 15 ],
       "id_str" : "1891625112",

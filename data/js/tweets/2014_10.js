@@ -197,7 +197,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven Levitt",
+      "name" : "Steven",
       "screen_name" : "fiveub",
       "indices" : [ 0, 7 ],
       "id_str" : "1706468510",
@@ -515,27 +515,16 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "526095425003356161",
   "geo" : { },
   "id_str" : "526098219106050048",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help 5 mins on hold for an advance specialist :(. Need to go to branch next week, or ring Monday to speak to some special team",
   "id" : 526098219106050048,
-  "in_reply_to_status_id" : 526095425003356161,
   "created_at" : "2014-10-25 19:49:24 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -581,27 +570,16 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "525967372809945088",
   "geo" : { },
   "id_str" : "525968095220092928",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help \"single paragraph letter, from your bank on their letter headed paper, stating the funds in the account.\" Guess Branch then?",
   "id" : 525968095220092928,
-  "in_reply_to_status_id" : 525967372809945088,
   "created_at" : "2014-10-25 11:12:20 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -614,25 +592,16 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "525966751566405632",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help If I need a letter stating proof of funds in my account, can I get this via tel\/internet banking? Or need to visit branch? Ta",
   "id" : 525966751566405632,
   "created_at" : "2014-10-25 11:07:00 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -857,7 +826,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
+      "name" : "Joe Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1467,27 +1436,16 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "523939181018750976",
   "geo" : { },
   "id_str" : "523940087277813761",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help What could actually be done? Not a big issue. Now and again. It's annoying. Worse for people that consistently have low money",
   "id" : 523940087277813761,
-  "in_reply_to_status_id" : 523939181018750976,
   "created_at" : "2014-10-19 20:53:45 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1500,27 +1458,16 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "523933601428422656",
   "geo" : { },
   "id_str" : "523935953422135296",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help They went to Halifax and walked away with accounts each, joint account and a credit card. I note I've been using you 9 years",
   "id" : 523935953422135296,
-  "in_reply_to_status_id" : 523933601428422656,
   "created_at" : "2014-10-19 20:37:20 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1533,27 +1480,16 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "523933601428422656",
   "geo" : { },
   "id_str" : "523935743576915968",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help Staff telling one thing to my brother and his Swedish gf. Then saying another on subsequent visit. She had account before too",
   "id" : 523935743576915968,
-  "in_reply_to_status_id" : 523933601428422656,
   "created_at" : "2014-10-19 20:36:30 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1566,27 +1502,16 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "523933601428422656",
   "geo" : { },
   "id_str" : "523935387144949760",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help Oh. You were talking about the adverts. Never mind how useless staff were opening new accounts. World's Local Bank?",
   "id" : 523935387144949760,
-  "in_reply_to_status_id" : 523933601428422656,
   "created_at" : "2014-10-19 20:35:05 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1599,27 +1524,16 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "523933601428422656",
   "geo" : { },
   "id_str" : "523934085727928320",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help That's on an \"arranged overdraft\" is whatever you actually call it :)",
   "id" : 523934085727928320,
-  "in_reply_to_status_id" : 523933601428422656,
   "created_at" : "2014-10-19 20:29:54 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1632,27 +1546,16 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 0, 13 ],
-      "id_str" : "321471398",
-      "id" : 321471398
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "523933601428422656",
   "geo" : { },
   "id_str" : "523933972360097793",
-  "in_reply_to_user_id" : 321471398,
   "text" : "@HSBC_UK_Help Not think it's weird? Account nearly always in credit, plus various non small savings. Go slightly under and you charge?",
   "id" : 523933972360097793,
-  "in_reply_to_status_id" : 523933601428422656,
   "created_at" : "2014-10-19 20:29:27 +0000",
-  "in_reply_to_screen_name" : "HSBC_UK_Help",
-  "in_reply_to_user_id_str" : "321471398",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1671,12 +1574,6 @@ Grailbird.data.tweets_2014_10 =
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
       "id" : 116534927
-    }, {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 12, 25 ],
-      "id_str" : "321471398",
-      "id" : 321471398
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1710,12 +1607,6 @@ Grailbird.data.tweets_2014_10 =
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
       "id" : 116534927
-    }, {
-      "name" : "HSBC UK Help",
-      "screen_name" : "HSBC_UK_Help",
-      "indices" : [ 12, 25 ],
-      "id_str" : "321471398",
-      "id" : 321471398
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4583,7 +4474,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "20583184",
       "id" : 20583184
     }, {
-      "name" : "Josh R \uD83D\uDC1D",
+      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 25, 40 ],
       "id_str" : "17285374",
