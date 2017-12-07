@@ -432,7 +432,7 @@ Grailbird.data.tweets_2011_02 =
       "id_str" : "18691870",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877290625594343424\/bGQ5vUqt_normal.jpg",
       "id" : 18691870,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 41273561200988160,
@@ -628,7 +628,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1800,7 +1800,7 @@ Grailbird.data.tweets_2011_02 =
       "id_str" : "115181416",
       "id" : 115181416
     }, {
-      "name" : "Nikolay Matveev",
+      "name" : "Nik Matveev",
       "screen_name" : "nnmatveev",
       "indices" : [ 48, 58 ],
       "id_str" : "99570575",
@@ -2292,7 +2292,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "tweeting_keith",
       "protected" : false,
       "id_str" : "20326811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/868093211121598464\/2tX478UO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937516415766159360\/zOZIsriW_normal.jpg",
       "id" : 20326811,
       "verified" : true
     }

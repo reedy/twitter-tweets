@@ -793,12 +793,6 @@ Grailbird.data.tweets_2010_05 =
       "indices" : [ 0, 11 ],
       "id_str" : "15911738",
       "id" : 15911738
-    }, {
-      "name" : "Simon Butcher",
-      "screen_name" : "SimonButcher",
-      "indices" : [ 12, 25 ],
-      "id_str" : "737197812459409408",
-      "id" : 737197812459409408
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -832,12 +826,6 @@ Grailbird.data.tweets_2010_05 =
       "indices" : [ 0, 11 ],
       "id_str" : "15911738",
       "id" : 15911738
-    }, {
-      "name" : "Simon Butcher",
-      "screen_name" : "SimonButcher",
-      "indices" : [ 12, 25 ],
-      "id_str" : "737197812459409408",
-      "id" : 737197812459409408
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1274,7 +1262,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emma-Ashley Liles",
+      "name" : "Emma-Ashley",
       "screen_name" : "EmmaAshley",
       "indices" : [ 0, 11 ],
       "id_str" : "21001225",
@@ -2094,7 +2082,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "LogitechUK",
       "protected" : false,
       "id_str" : "68731296",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/899924762729869312\/cMImxdlS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937985282569330688\/frbErgCm_normal.jpg",
       "id" : 68731296,
       "verified" : false
     }
@@ -4745,7 +4733,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "cyanogen",
       "protected" : false,
       "id_str" : "8131122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1718210978\/Cyanogen_Wife__1__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931562497039052800\/cJ7n5uKM_normal.jpg",
       "id" : 8131122,
       "verified" : false
     }

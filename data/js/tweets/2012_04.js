@@ -3,7 +3,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom",
+      "name" : "Boomerangmouth",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -536,13 +536,7 @@ Grailbird.data.tweets_2012_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Simon Butcher",
-      "screen_name" : "SimonButcher",
-      "indices" : [ 0, 13 ],
-      "id_str" : "737197812459409408",
-      "id" : 737197812459409408
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -850,7 +844,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Sneddon",
+      "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
@@ -1304,25 +1298,25 @@ Grailbird.data.tweets_2012_04 =
       "id" : 190896599172513792,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AqYzcg6CAAAbH_M.jpg",
       "sizes" : [ {
-        "h" : 1952,
+        "h" : 407,
         "resize" : "fit",
-        "w" : 3264
-      }, {
-        "h" : 612,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 359,
-        "resize" : "fit",
-        "w" : 600
+        "w" : 680
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 203,
+        "h" : 1225,
         "resize" : "fit",
-        "w" : 340
+        "w" : 2048
+      }, {
+        "h" : 718,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1952,
+        "resize" : "fit",
+        "w" : 3264
       } ],
       "display_url" : "pic.twitter.com\/RIGYflK6"
     } ],

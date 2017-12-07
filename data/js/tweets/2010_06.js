@@ -608,7 +608,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emma-Ashley Liles",
+      "name" : "Emma-Ashley",
       "screen_name" : "EmmaAshley",
       "indices" : [ 0, 11 ],
       "id_str" : "21001225",
@@ -2818,7 +2818,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "NixFred",
       "protected" : false,
       "id_str" : "119019349",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/522177701155966977\/NpPROh-d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/910273017535766528\/hVVh0NrJ_normal.jpg",
       "id" : 119019349,
       "verified" : false
     }
@@ -3310,7 +3310,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "16488676",
       "id" : 16488676
     }, {
-      "name" : "#Solidarity101",
+      "name" : "#DefendDACA",
       "screen_name" : "MarkDilley",
       "indices" : [ 15, 26 ],
       "id_str" : "899271",
@@ -3327,7 +3327,7 @@ Grailbird.data.tweets_2010_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "#Solidarity101",
+        "name" : "#DefendDACA",
         "screen_name" : "MarkDilley",
         "indices" : [ 3, 14 ],
         "id_str" : "899271",

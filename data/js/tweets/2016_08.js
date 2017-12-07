@@ -174,10 +174,6 @@ Grailbird.data.tweets_2016_08 =
       "id" : 769803378692071424,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cq7kGCXWIAAegUT.jpg",
       "sizes" : [ {
-        "h" : 2000,
-        "resize" : "fit",
-        "w" : 1496
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -186,13 +182,17 @@ Grailbird.data.tweets_2016_08 =
         "resize" : "fit",
         "w" : 1496
       }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 898
+      }, {
         "h" : 680,
         "resize" : "fit",
         "w" : 509
       }, {
-        "h" : 1200,
+        "h" : 2000,
         "resize" : "fit",
-        "w" : 898
+        "w" : 1496
       } ],
       "display_url" : "pic.twitter.com\/NtO7hOR04N"
     } ],
@@ -276,7 +276,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown",
+      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",

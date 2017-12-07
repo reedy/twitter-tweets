@@ -575,7 +575,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emma-Ashley Liles",
+      "name" : "Emma-Ashley",
       "screen_name" : "EmmaAshley",
       "indices" : [ 0, 11 ],
       "id_str" : "21001225",
@@ -608,7 +608,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emma-Ashley Liles",
+      "name" : "Emma-Ashley",
       "screen_name" : "EmmaAshley",
       "indices" : [ 0, 11 ],
       "id_str" : "21001225",

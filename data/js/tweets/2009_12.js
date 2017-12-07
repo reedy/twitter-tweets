@@ -254,7 +254,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emma-Ashley Liles",
+      "name" : "Emma-Ashley",
       "screen_name" : "EmmaAshley",
       "indices" : [ 0, 11 ],
       "id_str" : "21001225",
@@ -1264,7 +1264,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emma-Ashley Liles",
+      "name" : "Emma-Ashley",
       "screen_name" : "EmmaAshley",
       "indices" : [ 0, 11 ],
       "id_str" : "21001225",
@@ -1711,7 +1711,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emma-Ashley Liles",
+      "name" : "Emma-Ashley",
       "screen_name" : "EmmaAshley",
       "indices" : [ 0, 11 ],
       "id_str" : "21001225",
@@ -2296,13 +2296,7 @@ Grailbird.data.tweets_2009_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Simon Butcher",
-      "screen_name" : "SimonButcher",
-      "indices" : [ 0, 13 ],
-      "id_str" : "737197812459409408",
-      "id" : 737197812459409408
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

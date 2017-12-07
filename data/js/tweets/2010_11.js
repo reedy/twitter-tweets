@@ -222,7 +222,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "WeldPond",
       "protected" : false,
       "id_str" : "14090906",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888957152425017345\/wHN-GT6o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925922537200144385\/JI0xyt3f_normal.jpg",
       "id" : 14090906,
       "verified" : false
     }
@@ -1326,7 +1326,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Rowson",
+      "name" : "Chris R",
       "screen_name" : "leftcase",
       "indices" : [ 3, 12 ],
       "id_str" : "7508362",
@@ -1356,7 +1356,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 5588271740493824,
     "created_at" : "2010-11-19 11:48:42 +0000",
     "user" : {
-      "name" : "Chris Rowson",
+      "name" : "Chris R",
       "screen_name" : "leftcase",
       "protected" : false,
       "id_str" : "7508362",
@@ -2143,13 +2143,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Simon Butcher",
-      "screen_name" : "SimonButcher",
-      "indices" : [ 0, 13 ],
-      "id_str" : "737197812459409408",
-      "id" : 737197812459409408
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2176,13 +2170,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Simon Butcher",
-      "screen_name" : "SimonButcher",
-      "indices" : [ 0, 13 ],
-      "id_str" : "737197812459409408",
-      "id" : 737197812459409408
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3686,7 +3674,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Catlin Party #1",
+      "name" : "The Future Is Weird",
       "screen_name" : "hcatlin",
       "indices" : [ 84, 92 ],
       "id_str" : "12986052",
@@ -5394,7 +5382,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "omgubuntu",
       "protected" : false,
       "id_str" : "72915446",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876489502948196352\/ERcBFfhn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915633023839821824\/4EDQMK4K_normal.jpg",
       "id" : 72915446,
       "verified" : false
     }
@@ -6237,7 +6225,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "MrDaveFoy",
       "protected" : false,
       "id_str" : "761365",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/862769024568098817\/aNP60Eov_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907932365552582656\/kCKC4tQl_normal.jpg",
       "id" : 761365,
       "verified" : false
     }

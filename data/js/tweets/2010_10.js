@@ -919,13 +919,7 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Scottish Geek",
-      "screen_name" : "ScottishGeek",
-      "indices" : [ 0, 13 ],
-      "id_str" : "4865550844",
-      "id" : 4865550844
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1089,16 +1083,25 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Vodafone UK Deals",
+      "screen_name" : "VodafoneUKdeals",
+      "indices" : [ 0, 16 ],
+      "id_str" : "111302473",
+      "id" : 111302473
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "27453499406",
+  "in_reply_to_user_id" : 111302473,
   "text" : "@vodafoneukdeals Is there any chance of being able to buy a NexusOne contract free? Got 1 year left on my current contract :(",
   "id" : 27453499406,
   "created_at" : "2010-10-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "VodafoneUKdeals",
+  "in_reply_to_user_id_str" : "111302473",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1144,16 +1147,27 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Vodafone UK Deals",
+      "screen_name" : "VodafoneUKdeals",
+      "indices" : [ 0, 16 ],
+      "id_str" : "111302473",
+      "id" : 111302473
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "27457241567",
   "geo" : { },
   "id_str" : "27458195684",
+  "in_reply_to_user_id" : 111302473,
   "text" : "@VodafoneUKdeals Emailed. Thanks! :)",
   "id" : 27458195684,
+  "in_reply_to_status_id" : 27457241567,
   "created_at" : "2010-10-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "VodafoneUKdeals",
+  "in_reply_to_user_id_str" : "111302473",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1267,7 +1281,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emma-Ashley Liles",
+      "name" : "Emma-Ashley",
       "screen_name" : "EmmaAshley",
       "indices" : [ 0, 11 ],
       "id_str" : "21001225",
@@ -2156,7 +2170,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Firefox \uD83E\uDD8A\uD83C\uDF0D",
+      "name" : "Firefox \uD83D\uDD25",
       "screen_name" : "firefox",
       "indices" : [ 3, 11 ],
       "id_str" : "2142731",
@@ -2183,11 +2197,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26685434479,
     "created_at" : "2010-10-07 21:11:47 +0000",
     "user" : {
-      "name" : "Firefox \uD83E\uDD8A\uD83C\uDF0D",
+      "name" : "Firefox \uD83D\uDD25",
       "screen_name" : "firefox",
       "protected" : false,
       "id_str" : "2142731",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747872627218350081\/37FasHm-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930427008173080576\/_AgS8Urc_normal.jpg",
       "id" : 2142731,
       "verified" : true
     }

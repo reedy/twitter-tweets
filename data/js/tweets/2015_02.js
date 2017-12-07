@@ -89,25 +89,25 @@ Grailbird.data.tweets_2015_02 =
       "id" : 569960889185742848,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B-joaK_IMAAdgPj.jpg",
       "sizes" : [ {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 612
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 816,
+        "h" : 680,
         "resize" : "fit",
-        "w" : 612
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
+        "w" : 510
       }, {
         "h" : 816,
         "resize" : "fit",
         "w" : 612
       }, {
-        "h" : 453,
+        "h" : 816,
         "resize" : "fit",
-        "w" : 340
+        "w" : 612
       } ],
       "display_url" : "pic.twitter.com\/dr1T79Iv3I"
     } ],
@@ -193,7 +193,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "PrivacyInternational",
+      "name" : "Privacy International",
       "screen_name" : "privacyint",
       "indices" : [ 76, 87 ],
       "id_str" : "20982910",

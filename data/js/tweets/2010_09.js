@@ -1622,13 +1622,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Scottish Geek",
-      "screen_name" : "ScottishGeek",
-      "indices" : [ 0, 13 ],
-      "id_str" : "4865550844",
-      "id" : 4865550844
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2682,7 +2676,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "philfree",
+      "name" : "Philippe Lewicki",
       "screen_name" : "philfree",
       "indices" : [ 0, 9 ],
       "id_str" : "8215152",
