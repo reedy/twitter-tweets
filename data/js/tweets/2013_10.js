@@ -793,7 +793,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Miles Sutcliffe",
+      "name" : "Miles",
       "screen_name" : "MilesTails",
       "indices" : [ 16, 27 ],
       "id_str" : "17048726",
@@ -821,7 +821,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Miles Sutcliffe",
+      "name" : "Miles",
       "screen_name" : "MilesTails",
       "indices" : [ 0, 11 ],
       "id_str" : "17048726",
@@ -2267,7 +2267,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "kickstarter",
       "protected" : false,
       "id_str" : "16186995",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930810738343600128\/SjHF8zs2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/959185907554422786\/jrQUZZYB_normal.jpg",
       "id" : 16186995,
       "verified" : true
     }
@@ -2748,7 +2748,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Owen Blacker\uD83C\uDF39\uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08\uD83C\uDFF4\uDB40\uDC67\uDB40\uDC62\uDB40\uDC77\uDB40\uDC6C\uDB40\uDC73\uDB40\uDC7F",
+      "name" : "Owen Blacker\uD83E\uDD40\uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08\uD83C\uDFF4\uDB40\uDC67\uDB40\uDC62\uDB40\uDC77\uDB40\uDC6C\uDB40\uDC73\uDB40\uDC7F",
       "screen_name" : "owenblacker",
       "indices" : [ 0, 12 ],
       "id_str" : "4491811",
@@ -3337,7 +3337,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925720452047126528\/hdUVPRVM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/963998359001317376\/scuoOV5m_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -3901,7 +3901,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -5229,7 +5229,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -7789,27 +7789,16 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "385222969733029888",
   "geo" : { },
   "id_str" : "385223694181998592",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc I had something similar being 5500 miles from home knowing the post man had put GTA V in my postbox and I couldn't get it :\/",
   "id" : 385223694181998592,
-  "in_reply_to_status_id" : 385222969733029888,
   "created_at" : "2013-10-02 02:04:20 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -7822,27 +7811,16 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "385222965706489857",
   "geo" : { },
   "id_str" : "385223543073804288",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc I went up with a hooker and the gates were actually open, but I couldn't drop her off... Taking 4 people there starts a fight",
   "id" : 385223543073804288,
-  "in_reply_to_status_id" : 385222965706489857,
   "created_at" : "2013-10-02 02:03:44 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -8110,27 +8088,16 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "385188478008320000",
   "geo" : { },
   "id_str" : "385188914254053376",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc And there's apparently quite a bit of money there too..",
   "id" : 385188914254053376,
-  "in_reply_to_status_id" : 385188478008320000,
   "created_at" : "2013-10-01 23:46:08 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -8143,27 +8110,16 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "385188478008320000",
   "geo" : { },
   "id_str" : "385188659710156801",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Apparently on\/after delivering the 4th a big fight breaks out....",
   "id" : 385188659710156801,
-  "in_reply_to_status_id" : 385188478008320000,
   "created_at" : "2013-10-01 23:45:07 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -8356,6 +8312,7 @@ Grailbird.data.tweets_2013_10 =
         "resize" : "fit",
         "w" : 816
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/OJ3cC11EMV"
     } ],
     "hashtags" : [ ],

@@ -1197,6 +1197,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kzlAVYGVXX"
     } ],
     "hashtags" : [ ],
@@ -1252,6 +1253,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/IG28q5mNj5"
     } ],
     "hashtags" : [ ],
@@ -1551,6 +1553,7 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/HMKwkwnVTP"
       } ],
       "hashtags" : [ ],
@@ -1571,7 +1574,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "CNET",
       "protected" : false,
       "id_str" : "30261067",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925720452047126528\/hdUVPRVM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/963998359001317376\/scuoOV5m_normal.jpg",
       "id" : 30261067,
       "verified" : true
     }
@@ -2183,7 +2186,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "17679727",
       "id" : 17679727
     }, {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 11, 26 ],
       "id_str" : "28117032",
@@ -2764,7 +2767,7 @@ Grailbird.data.tweets_2014_06 =
   "id" : 476078301350748161,
   "in_reply_to_status_id" : 476074630617518080,
   "created_at" : "2014-06-09 19:08:06 +0000",
-  "in_reply_to_screen_name" : "SocialMachine33",
+  "in_reply_to_screen_name" : "MachineBlock33",
   "in_reply_to_user_id_str" : "79187514",
   "user" : {
     "name" : "Sam Reed",
@@ -2830,7 +2833,7 @@ Grailbird.data.tweets_2014_06 =
   "id" : 476076717887717376,
   "in_reply_to_status_id" : 476074630617518080,
   "created_at" : "2014-06-09 19:01:49 +0000",
-  "in_reply_to_screen_name" : "SocialMachine33",
+  "in_reply_to_screen_name" : "MachineBlock33",
   "in_reply_to_user_id_str" : "79187514",
   "user" : {
     "name" : "Sam Reed",
@@ -2863,7 +2866,7 @@ Grailbird.data.tweets_2014_06 =
   "id" : 476074302484537344,
   "in_reply_to_status_id" : 476073993485955072,
   "created_at" : "2014-06-09 18:52:13 +0000",
-  "in_reply_to_screen_name" : "SocialMachine33",
+  "in_reply_to_screen_name" : "MachineBlock33",
   "in_reply_to_user_id_str" : "79187514",
   "user" : {
     "name" : "Sam Reed",
@@ -3171,6 +3174,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/aK5CJTNq5W"
     } ],
     "hashtags" : [ {
@@ -3804,6 +3808,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ecWpVocpAu"
     } ],
     "hashtags" : [ ],
@@ -3845,6 +3850,7 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ecWpVocpAu"
       } ],
       "hashtags" : [ ],
@@ -3999,6 +4005,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/WOMx9o3JUP"
     } ],
     "hashtags" : [ ],
@@ -4263,27 +4270,16 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "473430156506198016",
   "geo" : { },
   "id_str" : "473430679313985536",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc It'll be a bigger\/smaller version of something they already sell",
   "id" : 473430679313985536,
-  "in_reply_to_status_id" : 473430156506198016,
   "created_at" : "2014-06-02 11:47:24 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

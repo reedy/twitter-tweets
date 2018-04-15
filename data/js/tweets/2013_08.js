@@ -306,57 +306,6 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "vmworld",
-      "indices" : [ 121, 129 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "372785755372138496",
-  "text" : "RT @vmwareworkspace: In 10 min session EUC5541 starts. Integrating Enterprise Application with SAML to Horizon Workspace #vmworld",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.spredfast.com\" rel=\"nofollow\"\u003ESpredfast\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "vmworld",
-        "indices" : [ 100, 108 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "372785685994147842",
-    "text" : "In 10 min session EUC5541 starts. Integrating Enterprise Application with SAML to Horizon Workspace #vmworld",
-    "id" : 372785685994147842,
-    "created_at" : "2013-08-28 18:20:08 +0000",
-    "user" : {
-      "name" : "VMware Workspace ONE",
-      "screen_name" : "WorkspaceONE",
-      "protected" : false,
-      "id_str" : "194684170",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/874654660614791168\/G-7pSzlR_normal.jpg",
-      "id" : 194684170,
-      "verified" : false
-    }
-  },
-  "id" : 372785755372138496,
-  "created_at" : "2013-08-28 18:20:24 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "British Airways",
       "screen_name" : "British_Airways",
@@ -1221,7 +1170,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weeeeeeeeeebl",
+      "name" : "Weebl The Bee Whisperer",
       "screen_name" : "TheWeebl",
       "indices" : [ 3, 12 ],
       "id_str" : "122040755",
@@ -1258,7 +1207,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 371732089739427840,
     "created_at" : "2013-08-25 20:33:31 +0000",
     "user" : {
-      "name" : "Weeeeeeeeeebl",
+      "name" : "Weebl The Bee Whisperer",
       "screen_name" : "TheWeebl",
       "protected" : false,
       "id_str" : "122040755",
@@ -1312,7 +1261,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF84\uD83C\uDF1FSantas Big Helper\uD83C\uDF1F\uD83C\uDF84",
+      "name" : "Environmentally Epic",
       "screen_name" : "FioxyFluff",
       "indices" : [ 1, 12 ],
       "id_str" : "148493882",
@@ -1992,7 +1941,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2058,7 +2007,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -4022,6 +3971,7 @@ Grailbird.data.tweets_2013_08 =
           "resize" : "fit",
           "w" : 1920
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/HxVF7suKB4"
       } ],
       "hashtags" : [ {
@@ -5983,6 +5933,7 @@ Grailbird.data.tweets_2013_08 =
         "resize" : "fit",
         "w" : 612
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/eXgarG7JWc"
     } ],
     "hashtags" : [ ],
@@ -7063,6 +7014,7 @@ Grailbird.data.tweets_2013_08 =
         "resize" : "fit",
         "w" : 612
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/uTzjaL6TtF"
     } ],
     "hashtags" : [ ],
@@ -7770,6 +7722,7 @@ Grailbird.data.tweets_2013_08 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/al54tT95G2"
     } ],
     "hashtags" : [ ],
@@ -8227,6 +8180,7 @@ Grailbird.data.tweets_2013_08 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/3v7J034CcZ"
     } ],
     "hashtags" : [ {
@@ -8277,6 +8231,7 @@ Grailbird.data.tweets_2013_08 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3v7J034CcZ"
       } ],
       "hashtags" : [ {

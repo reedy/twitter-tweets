@@ -576,6 +576,59 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "FreeSide IRC",
+      "screen_name" : "freeside",
+      "indices" : [ 21, 30 ],
+      "id_str" : "2309461",
+      "id" : 2309461
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "14899047273",
+  "text" : "Think Switchblade in @freeside shall be one of the first to be converted to rackmount. Its PSU is making an awful racket",
+  "id" : 14899047273,
+  "created_at" : "2010-05-28 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "puppet",
+      "indices" : [ 21, 28 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "14909255166",
+  "text" : "Need to learn to use #puppet. Hmmmm",
+  "id" : 14909255166,
+  "created_at" : "2010-05-28 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Novatech",
       "screen_name" : "NovatechLtd",
       "indices" : [ 3, 15 ],
@@ -631,7 +684,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "NovatechLtd",
       "protected" : false,
       "id_str" : "21849534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105600292\/RETAIL_LOGO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/963782497506086912\/Gr71cigi_normal.jpg",
       "id" : 21849534,
       "verified" : false
     }
@@ -679,7 +732,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 3, 13 ],
       "id_str" : "15866848",
@@ -706,7 +759,7 @@ Grailbird.data.tweets_2010_05 =
     "id" : 14931956056,
     "created_at" : "2010-05-28 21:02:27 +0000",
     "user" : {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "protected" : false,
       "id_str" : "15866848",
@@ -1209,59 +1262,6 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FreeSide IRC",
-      "screen_name" : "freeside",
-      "indices" : [ 21, 30 ],
-      "id_str" : "2309461",
-      "id" : 2309461
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "14899047273",
-  "text" : "Think Switchblade in @freeside shall be one of the first to be converted to rackmount. Its PSU is making an awful racket",
-  "id" : 14899047273,
-  "created_at" : "2010-05-28 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "puppet",
-      "indices" : [ 21, 28 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "14909255166",
-  "text" : "Need to learn to use #puppet. Hmmmm",
-  "id" : 14909255166,
-  "created_at" : "2010-05-28 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Emma-Ashley",
       "screen_name" : "EmmaAshley",
       "indices" : [ 0, 11 ],
@@ -1353,25 +1353,16 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "14759119635",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc http:\/\/bit.ly\/by8sqo 1366x768",
   "id" : 14759119635,
   "created_at" : "2010-05-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1384,27 +1375,16 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "14759187820",
   "geo" : { },
   "id_str" : "14759225718",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Np :)",
   "id" : 14759225718,
-  "in_reply_to_status_id" : 14759187820,
   "created_at" : "2010-05-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2082,7 +2062,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "LogitechUK",
       "protected" : false,
       "id_str" : "68731296",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937985282569330688\/frbErgCm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/978213023209975808\/tcBB4I47_normal.jpg",
       "id" : 68731296,
       "verified" : false
     }
@@ -2252,6 +2232,88 @@ Grailbird.data.tweets_2010_05 =
   "created_at" : "2010-05-22 00:00:00 +0000",
   "in_reply_to_screen_name" : "hak5darren",
   "in_reply_to_user_id_str" : "1688461",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Richard Wiseman",
+      "screen_name" : "RichardWiseman",
+      "indices" : [ 3, 18 ],
+      "id_str" : "19512493",
+      "id" : 19512493
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "14422747389",
+  "text" : "RT @RichardWiseman: It's official, homosexual men have larger penises than heterosexual men http:\/\/www.ncbi.nlm.nih.gov\/pubmed\/10410197",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "14418992553",
+    "text" : "It's official, homosexual men have larger penises than heterosexual men http:\/\/www.ncbi.nlm.nih.gov\/pubmed\/10410197",
+    "id" : 14418992553,
+    "created_at" : "2010-05-21 10:13:03 +0000",
+    "user" : {
+      "name" : "Richard Wiseman",
+      "screen_name" : "RichardWiseman",
+      "protected" : false,
+      "id_str" : "19512493",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3225534671\/ef59c3b397d28dacb74034b47d8cd9e2_normal.jpeg",
+      "id" : 19512493,
+      "verified" : true
+    }
+  },
+  "id" : 14422747389,
+  "created_at" : "2010-05-21 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Adam James \u2039:",
+      "screen_name" : "mrwizrd",
+      "indices" : [ 0, 8 ],
+      "id_str" : "16019962",
+      "id" : 16019962
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "14422784326",
+  "in_reply_to_user_id" : 16019962,
+  "text" : "@mrwizrd You do realise you're as early for this exam as you are usually late to lectures?",
+  "id" : 14422784326,
+  "created_at" : "2010-05-21 00:00:00 +0000",
+  "in_reply_to_screen_name" : "mrwizrd",
+  "in_reply_to_user_id_str" : "16019962",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2663,88 +2725,6 @@ Grailbird.data.tweets_2010_05 =
   "text" : "Sonic screwdrivers can't open a deadlock...",
   "id" : 14421260843,
   "created_at" : "2010-05-21 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Richard Wiseman",
-      "screen_name" : "RichardWiseman",
-      "indices" : [ 3, 18 ],
-      "id_str" : "19512493",
-      "id" : 19512493
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "14422747389",
-  "text" : "RT @RichardWiseman: It's official, homosexual men have larger penises than heterosexual men http:\/\/www.ncbi.nlm.nih.gov\/pubmed\/10410197",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "14418992553",
-    "text" : "It's official, homosexual men have larger penises than heterosexual men http:\/\/www.ncbi.nlm.nih.gov\/pubmed\/10410197",
-    "id" : 14418992553,
-    "created_at" : "2010-05-21 10:13:03 +0000",
-    "user" : {
-      "name" : "Richard Wiseman",
-      "screen_name" : "RichardWiseman",
-      "protected" : false,
-      "id_str" : "19512493",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3225534671\/ef59c3b397d28dacb74034b47d8cd9e2_normal.jpeg",
-      "id" : 19512493,
-      "verified" : true
-    }
-  },
-  "id" : 14422747389,
-  "created_at" : "2010-05-21 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Adam James \u2039:",
-      "screen_name" : "mrwizrd",
-      "indices" : [ 0, 8 ],
-      "id_str" : "16019962",
-      "id" : 16019962
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "14422784326",
-  "in_reply_to_user_id" : 16019962,
-  "text" : "@mrwizrd You do realise you're as early for this exam as you are usually late to lectures?",
-  "id" : 14422784326,
-  "created_at" : "2010-05-21 00:00:00 +0000",
-  "in_reply_to_screen_name" : "mrwizrd",
-  "in_reply_to_user_id_str" : "16019962",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3922,6 +3902,64 @@ Grailbird.data.tweets_2010_05 =
     "media" : [ ],
     "hashtags" : [ {
       "text" : "fb",
+      "indices" : [ 124, 127 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "13785660267",
+  "text" : "Anyone know where I can buy compressed air and monitor cleaning stuff in hull without being ripped off? None at tesco\/argos #fb",
+  "id" : 13785660267,
+  "created_at" : "2010-05-11 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ben Woodward",
+      "screen_name" : "Sacro",
+      "indices" : [ 0, 6 ],
+      "id_str" : "14837257",
+      "id" : 14837257
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13787009453",
+  "geo" : { },
+  "id_str" : "13787849260",
+  "in_reply_to_user_id" : 14837257,
+  "text" : "@Sacro maplins are usually expensive.. dunno where nemax are. Hmmmm",
+  "id" : 13787849260,
+  "in_reply_to_status_id" : 13787009453,
+  "created_at" : "2010-05-11 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Sacro",
+  "in_reply_to_user_id_str" : "14837257",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
       "indices" : [ 24, 27 ]
     } ],
     "urls" : [ ]
@@ -4102,64 +4140,6 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 124, 127 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13785660267",
-  "text" : "Anyone know where I can buy compressed air and monitor cleaning stuff in hull without being ripped off? None at tesco\/argos #fb",
-  "id" : 13785660267,
-  "created_at" : "2010-05-11 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ben Woodward",
-      "screen_name" : "Sacro",
-      "indices" : [ 0, 6 ],
-      "id_str" : "14837257",
-      "id" : 14837257
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "13787009453",
-  "geo" : { },
-  "id_str" : "13787849260",
-  "in_reply_to_user_id" : 14837257,
-  "text" : "@Sacro maplins are usually expensive.. dunno where nemax are. Hmmmm",
-  "id" : 13787849260,
-  "in_reply_to_status_id" : 13787009453,
-  "created_at" : "2010-05-11 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Sacro",
-  "in_reply_to_user_id_str" : "14837257",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Phil Cluff",
       "screen_name" : "GeneticGenesis",
@@ -4193,27 +4173,16 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "13580345210",
   "geo" : { },
   "id_str" : "13601862958",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc FYI, ash is causing airspace problems in northern Europe again...",
   "id" : 13601862958,
-  "in_reply_to_status_id" : 13580345210,
   "created_at" : "2010-05-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4895,7 +4864,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814208733077270528\/2Occ_1Xl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943195586005782528\/owiNPZEh_normal.jpg",
       "id" : 19058966,
       "verified" : false
     }

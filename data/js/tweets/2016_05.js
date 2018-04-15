@@ -365,7 +365,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RevK",
+      "name" : "RevK\u00AE",
       "screen_name" : "TheRealRevK",
       "indices" : [ 0, 12 ],
       "id_str" : "227666609",
@@ -526,6 +526,7 @@ Grailbird.data.tweets_2016_05 =
         "resize" : "fit",
         "w" : 428
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/yGpfQYOiyT"
     } ],
     "hashtags" : [ ],
@@ -1190,7 +1191,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1664,7 +1665,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven",
+      "name" : "Steven Levitt",
       "screen_name" : "fiveub",
       "indices" : [ 0, 7 ],
       "id_str" : "1706468510",

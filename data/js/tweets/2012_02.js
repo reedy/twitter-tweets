@@ -606,7 +606,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "16184339",
       "id" : 16184339
     }, {
-      "name" : "Alan Pope \uD83C\uDF7A\uD83D\uDC27\uD83D\uDC31\uD83E\uDD84",
+      "name" : "Alan Pope",
       "screen_name" : "popey",
       "indices" : [ 30, 36 ],
       "id_str" : "12325402",
@@ -646,7 +646,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "16184339",
       "id" : 16184339
     }, {
-      "name" : "Alan Pope \uD83C\uDF7A\uD83D\uDC27\uD83D\uDC31\uD83E\uDD84",
+      "name" : "Alan Pope",
       "screen_name" : "popey",
       "indices" : [ 30, 36 ],
       "id_str" : "12325402",
@@ -686,7 +686,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "16184339",
       "id" : 16184339
     }, {
-      "name" : "Alan Pope \uD83C\uDF7A\uD83D\uDC27\uD83D\uDC31\uD83E\uDD84",
+      "name" : "Alan Pope",
       "screen_name" : "popey",
       "indices" : [ 32, 38 ],
       "id_str" : "12325402",
@@ -913,7 +913,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -1694,7 +1694,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 1, 16 ],
       "id_str" : "28117032",
@@ -1875,7 +1875,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814208733077270528\/2Occ_1Xl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943195586005782528\/owiNPZEh_normal.jpg",
       "id" : 19058966,
       "verified" : false
     }

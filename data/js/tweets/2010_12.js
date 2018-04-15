@@ -1766,7 +1766,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 3, 13 ],
       "id_str" : "15866848",
@@ -1805,7 +1805,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15387339664654336,
     "created_at" : "2010-12-16 12:46:42 +0000",
     "user" : {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "protected" : false,
       "id_str" : "15866848",
@@ -2052,27 +2052,16 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "15000075310727169",
   "geo" : { },
   "id_str" : "15000211025829888",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc use mkpasswd",
   "id" : 15000211025829888,
-  "in_reply_to_status_id" : 15000075310727169,
   "created_at" : "2010-12-15 11:08:23 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4529,7 +4518,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "Kiwi_Si",
       "protected" : false,
       "id_str" : "779050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819127200230371328\/VLc-_EDg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948916296111964160\/i092YaGZ_normal.jpg",
       "id" : 779050,
       "verified" : false
     }

@@ -417,67 +417,6 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 3, 14 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 101, 120 ],
-      "url" : "http:\/\/t.co\/idgtrJd",
-      "expanded_url" : "http:\/\/serverfault.com\/questions\/293217\/our-security-auditor-is-an-idiot-how-do-i-give-him-the-information-he-wants",
-      "display_url" : "serverfault.com\/questions\/2932\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "96553419640274945",
-  "text" : "RT @humphreybc: Lol! \"Our security auditor is an idiot, how do I give him the information he wants?\" http:\/\/t.co\/idgtrJd",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 85, 104 ],
-        "url" : "http:\/\/t.co\/idgtrJd",
-        "expanded_url" : "http:\/\/serverfault.com\/questions\/293217\/our-security-auditor-is-an-idiot-how-do-i-give-him-the-information-he-wants",
-        "display_url" : "serverfault.com\/questions\/2932\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "96552761046466560",
-    "text" : "Lol! \"Our security auditor is an idiot, how do I give him the information he wants?\" http:\/\/t.co\/idgtrJd",
-    "id" : 96552761046466560,
-    "created_at" : "2011-07-28 12:09:06 +0000",
-    "user" : {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "protected" : false,
-      "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865047614139629568\/Yve1_bF-_normal.jpg",
-      "id" : 94178695,
-      "verified" : false
-    }
-  },
-  "id" : 96553419640274945,
-  "created_at" : "2011-07-28 12:11:43 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Such Much Such",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
@@ -1529,27 +1468,16 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "95277546987466752",
   "geo" : { },
   "id_str" : "95280517020262401",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc how do you think us lot up north cope for most of the year!?",
   "id" : 95280517020262401,
-  "in_reply_to_status_id" : 95277546987466752,
   "created_at" : "2011-07-24 23:53:40 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1847,7 +1775,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Revo | Fuzzyness",
+      "name" : "Fuzzyness",
       "screen_name" : "Fuzzyness",
       "indices" : [ 0, 10 ],
       "id_str" : "1513268550",
@@ -1880,7 +1808,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Revo | Fuzzyness",
+      "name" : "Fuzzyness",
       "screen_name" : "Fuzzyness",
       "indices" : [ 0, 10 ],
       "id_str" : "1513268550",
@@ -1912,27 +1840,16 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "94769529162440704",
   "geo" : { },
   "id_str" : "94770926150881280",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Ive got a friend on the iPlayer dev team. He could probably get any of them, might loose his job over it. Asked him for ideas",
   "id" : 94770926150881280,
-  "in_reply_to_status_id" : 94769529162440704,
   "created_at" : "2011-07-23 14:08:44 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2033,27 +1950,16 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "94387418131738624",
   "geo" : { },
   "id_str" : "94388832425873409",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Optimisation on a hunch is never a good idea. I'm presuming the chromebooks browser has the task manager and developer tools?",
   "id" : 94388832425873409,
-  "in_reply_to_status_id" : 94387418131738624,
   "created_at" : "2011-07-22 12:50:25 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3846,7 +3752,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "22090282",
       "id" : 22090282
     }, {
-      "name" : "United",
+      "name" : "United Airlines",
       "screen_name" : "united",
       "indices" : [ 69, 76 ],
       "id_str" : "260907612",
@@ -3863,7 +3769,7 @@ Grailbird.data.tweets_2011_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "United",
+        "name" : "United Airlines",
         "screen_name" : "united",
         "indices" : [ 48, 55 ],
         "id_str" : "260907612",
@@ -4232,7 +4138,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/938369316382216192\/kPRHBRlr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949289244765360130\/Bm5IWoE__normal.jpg",
       "id" : 16170178,
       "verified" : false
     }
@@ -4276,27 +4182,16 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "92733161020198913",
   "geo" : { },
   "id_str" : "92733352532131840",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Hell, using tabs is just a more simplified concept of using multiple browser instances...",
   "id" : 92733352532131840,
-  "in_reply_to_status_id" : 92733161020198913,
   "created_at" : "2011-07-17 23:12:08 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4635,27 +4530,16 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "91829136779259904",
   "geo" : { },
   "id_str" : "91829641521807360",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Got annoyed with my Magic ~9-10 months ago, after a year of it. Bought Desire HD. Then 2.2(?) was released for it. Slow as hell",
   "id" : 91829641521807360,
-  "in_reply_to_status_id" : 91829136779259904,
   "created_at" : "2011-07-15 11:21:07 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4668,27 +4552,16 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "91822616855314432",
   "geo" : { },
   "id_str" : "91828694557007872",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Stop being cheap and just buy a newer phone? :P",
   "id" : 91828694557007872,
-  "in_reply_to_status_id" : 91822616855314432,
   "created_at" : "2011-07-15 11:17:21 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -6352,27 +6225,16 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "88451828479569921",
   "geo" : { },
   "id_str" : "88456597147365376",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc under what sort of usage?",
   "id" : 88456597147365376,
-  "in_reply_to_status_id" : 88451828479569921,
   "created_at" : "2011-07-06 03:57:50 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -6741,25 +6603,16 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "88058345495334912",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Excalibur Publishing publish some awesome games. If you liked Street Cleaning, maybe you should try Destruction Simulator, Eur..",
   "id" : 88058345495334912,
   "created_at" : "2011-07-05 01:35:20 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -6945,7 +6798,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -6978,7 +6831,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",

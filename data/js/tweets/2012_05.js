@@ -1209,6 +1209,7 @@ Grailbird.data.tweets_2012_05 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Ykm4T3px"
     } ],
     "hashtags" : [ {
@@ -1312,12 +1313,6 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 38, 43 ],
@@ -1328,16 +1323,11 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "205227357668245504",
   "geo" : { },
   "id_str" : "205229074396889089",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc It's slightly worrying if @d0od is the best topic of conversation you can come up with...",
   "id" : 205229074396889089,
-  "in_reply_to_status_id" : 205227357668245504,
   "created_at" : "2012-05-23 09:29:58 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1712,14 +1702,14 @@ Grailbird.data.tweets_2012_05 =
     "media" : [ ],
     "hashtags" : [ {
       "text" : "fb",
-      "indices" : [ 137, 140 ]
+      "indices" : [ 114, 117 ]
     } ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "204338399753158656",
-  "text" : "Added hilarity also ensues that I was listening to the soundtrack for the Dictator. Its a shame they didn't know this fact also. Oh well #fb",
-  "id" : 204338399753158656,
+  "id_str" : "204338399807668224",
+  "text" : "On a related note, it seems only SFO domestic terminal security apparently have a problem with these electronics. #fb",
+  "id" : 204338399807668224,
   "created_at" : "2012-05-20 22:30:45 +0000",
   "user" : {
     "name" : "Sam Reed",
@@ -1737,14 +1727,14 @@ Grailbird.data.tweets_2012_05 =
     "media" : [ ],
     "hashtags" : [ {
       "text" : "fb",
-      "indices" : [ 114, 117 ]
+      "indices" : [ 137, 140 ]
     } ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "204338399807668224",
-  "text" : "On a related note, it seems only SFO domestic terminal security apparently have a problem with these electronics. #fb",
-  "id" : 204338399807668224,
+  "id_str" : "204338399753158656",
+  "text" : "Added hilarity also ensues that I was listening to the soundtrack for the Dictator. Its a shame they didn't know this fact also. Oh well #fb",
+  "id" : 204338399753158656,
   "created_at" : "2012-05-20 22:30:45 +0000",
   "user" : {
     "name" : "Sam Reed",
@@ -2616,6 +2606,7 @@ Grailbird.data.tweets_2012_05 =
         "resize" : "fit",
         "w" : 510
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tX6LFhXz"
     } ],
     "hashtags" : [ {
@@ -2858,6 +2849,7 @@ Grailbird.data.tweets_2012_05 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4GJ1JdHq"
     } ],
     "hashtags" : [ {
@@ -3783,7 +3775,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ParcelforceWorldwide",
+      "name" : "Parcelforce Worldwide",
       "screen_name" : "parcelforce",
       "indices" : [ 0, 12 ],
       "id_str" : "96967277",
@@ -3847,7 +3839,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ParcelforceWorldwide",
+      "name" : "Parcelforce Worldwide",
       "screen_name" : "parcelforce",
       "indices" : [ 0, 12 ],
       "id_str" : "96967277",

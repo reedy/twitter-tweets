@@ -477,7 +477,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "3081744100",
       "id" : 3081744100
     }, {
-      "name" : "Richard Kirkham",
+      "name" : "Dr Richard Kirkham voted No! @UM_UCU",
       "screen_name" : "Filey_Forever",
       "indices" : [ 11, 25 ],
       "id_str" : "348965432",
@@ -516,7 +516,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "3081744100",
       "id" : 3081744100
     }, {
-      "name" : "Richard Kirkham",
+      "name" : "Dr Richard Kirkham voted No! @UM_UCU",
       "screen_name" : "Filey_Forever",
       "indices" : [ 11, 25 ],
       "id_str" : "348965432",
@@ -555,7 +555,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "3081744100",
       "id" : 3081744100
     }, {
-      "name" : "Richard Kirkham",
+      "name" : "Dr Richard Kirkham voted No! @UM_UCU",
       "screen_name" : "Filey_Forever",
       "indices" : [ 11, 25 ],
       "id_str" : "348965432",
@@ -594,7 +594,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "3081744100",
       "id" : 3081744100
     }, {
-      "name" : "Richard Kirkham",
+      "name" : "Dr Richard Kirkham voted No! @UM_UCU",
       "screen_name" : "Filey_Forever",
       "indices" : [ 11, 25 ],
       "id_str" : "348965432",
@@ -638,7 +638,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "3081744100",
       "id" : 3081744100
     }, {
-      "name" : "Richard Kirkham",
+      "name" : "Dr Richard Kirkham voted No! @UM_UCU",
       "screen_name" : "Filey_Forever",
       "indices" : [ 11, 25 ],
       "id_str" : "348965432",
@@ -682,7 +682,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "3081744100",
       "id" : 3081744100
     }, {
-      "name" : "Richard Kirkham",
+      "name" : "Dr Richard Kirkham voted No! @UM_UCU",
       "screen_name" : "Filey_Forever",
       "indices" : [ 11, 25 ],
       "id_str" : "348965432",
@@ -715,7 +715,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -754,7 +754,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "143375180",
       "id" : 143375180
     }, {
-      "name" : "Richard Kirkham",
+      "name" : "Dr Richard Kirkham voted No! @UM_UCU",
       "screen_name" : "Filey_Forever",
       "indices" : [ 12, 26 ],
       "id_str" : "348965432",
@@ -793,7 +793,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "143375180",
       "id" : 143375180
     }, {
-      "name" : "Richard Kirkham",
+      "name" : "Dr Richard Kirkham voted No! @UM_UCU",
       "screen_name" : "Filey_Forever",
       "indices" : [ 12, 26 ],
       "id_str" : "348965432",
@@ -832,7 +832,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "143375180",
       "id" : 143375180
     }, {
-      "name" : "Richard Kirkham",
+      "name" : "Dr Richard Kirkham voted No! @UM_UCU",
       "screen_name" : "Filey_Forever",
       "indices" : [ 12, 26 ],
       "id_str" : "348965432",
@@ -865,7 +865,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Richard Kirkham",
+      "name" : "Dr Richard Kirkham voted No! @UM_UCU",
       "screen_name" : "Filey_Forever",
       "indices" : [ 0, 14 ],
       "id_str" : "348965432",

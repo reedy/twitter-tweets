@@ -1403,7 +1403,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "gpaumier",
       "protected" : false,
       "id_str" : "17784479",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/897737897515909120\/OeujLlW6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981712836714835968\/X_rvQ40N_normal.jpg",
       "id" : 17784479,
       "verified" : false
     }
@@ -1931,27 +1931,16 @@ Grailbird.data.tweets_2011_02 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "37670767692873728",
   "geo" : { },
   "id_str" : "37670928204840960",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc http:\/\/bit.ly\/i9zvP0",
   "id" : 37670928204840960,
-  "in_reply_to_status_id" : 37670767692873728,
   "created_at" : "2011-02-16 00:33:43 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1964,27 +1953,16 @@ Grailbird.data.tweets_2011_02 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "37670767692873728",
   "geo" : { },
   "id_str" : "37670811833860096",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Works from Europe",
   "id" : 37670811833860096,
-  "in_reply_to_status_id" : 37670767692873728,
   "created_at" : "2011-02-16 00:33:16 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2292,7 +2270,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "tweeting_keith",
       "protected" : false,
       "id_str" : "20326811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937516415766159360\/zOZIsriW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979365171549401089\/9v7bfSq9_normal.jpg",
       "id" : 20326811,
       "verified" : true
     }
@@ -3101,7 +3079,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "stuarthicks",
       "protected" : false,
       "id_str" : "19058966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814208733077270528\/2Occ_1Xl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943195586005782528\/owiNPZEh_normal.jpg",
       "id" : 19058966,
       "verified" : false
     }

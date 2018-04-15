@@ -182,7 +182,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1039,7 +1039,7 @@ Grailbird.data.tweets_2017_07 =
       "id_str" : "158368965",
       "id" : 158368965
     }, {
-      "name" : "Pizza Hut UK",
+      "name" : "Pizza Hut Restaurants",
       "screen_name" : "pizzahutuk",
       "indices" : [ 9, 20 ],
       "id_str" : "294091844",
@@ -1074,6 +1074,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/dCTlYEI6Gb"
     } ],
     "hashtags" : [ ],
@@ -1137,6 +1138,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/lmsQl5ma9J"
     } ],
     "hashtags" : [ ],
@@ -1231,6 +1233,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ImeEbFJZmG"
     } ],
     "hashtags" : [ ],
@@ -1295,6 +1298,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/us7pK8vWNo"
     } ],
     "hashtags" : [ ],
@@ -1408,6 +1412,7 @@ Grailbird.data.tweets_2017_07 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/NsoJ9h4J7M"
       } ],
       "hashtags" : [ ],
@@ -1540,6 +1545,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1948
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/WA3XIZftdW"
     } ],
     "hashtags" : [ ],
@@ -1883,6 +1889,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ZBUqbQpsI8"
     } ],
     "hashtags" : [ ],
@@ -2055,6 +2062,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/TCLE11QwOg"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/888410912528502784\/photo\/1",
@@ -2085,6 +2093,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/TCLE11QwOg"
     } ],
     "hashtags" : [ ],
@@ -2137,6 +2146,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ARLXqBStXu"
     } ],
     "hashtags" : [ ],
@@ -2199,7 +2209,7 @@ Grailbird.data.tweets_2017_07 =
       "id_str" : "158368965",
       "id" : 158368965
     }, {
-      "name" : "Pizza Hut UK",
+      "name" : "Pizza Hut Restaurants",
       "screen_name" : "pizzahutuk",
       "indices" : [ 9, 20 ],
       "id_str" : "294091844",
@@ -2273,6 +2283,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/KZkuzkKcBo"
     } ],
     "hashtags" : [ ],
@@ -2686,6 +2697,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/JInxa7i4ZP"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/887595078839144450\/photo\/1",
@@ -2716,6 +2728,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/JInxa7i4ZP"
     } ],
     "hashtags" : [ ],
@@ -2845,6 +2858,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/OFnMaoUdU1"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/887484439504322561\/photo\/1",
@@ -2875,6 +2889,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/OFnMaoUdU1"
     } ],
     "hashtags" : [ ],
@@ -3097,7 +3112,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/mariotaku\/twidere\/\" rel=\"nofollow\"\u003ETwidere for Android #7\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Internet of Shiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiit",
+      "name" : "Internet of Shit",
       "screen_name" : "internetofshit",
       "indices" : [ 66, 81 ],
       "id_str" : "3356531254",
@@ -3132,6 +3147,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/lhQoXOGca8"
     } ],
     "hashtags" : [ ],
@@ -3381,6 +3397,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1396
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/UWuT8RJLjS"
     } ],
     "hashtags" : [ ],
@@ -3404,7 +3421,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven",
+      "name" : "Steven Levitt",
       "screen_name" : "fiveub",
       "indices" : [ 0, 7 ],
       "id_str" : "1706468510",
@@ -3437,7 +3454,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven",
+      "name" : "Steven Levitt",
       "screen_name" : "fiveub",
       "indices" : [ 0, 7 ],
       "id_str" : "1706468510",
@@ -3505,6 +3522,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1182
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/jt2op84R8F"
     } ],
     "hashtags" : [ ],
@@ -3757,6 +3775,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1928
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vvHiPlFnTp"
     } ],
     "hashtags" : [ ],
@@ -3970,6 +3989,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1034
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EaR0ioajIV"
     } ],
     "hashtags" : [ ],
@@ -4158,6 +4178,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1304
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Dc4H1FjoxA"
     } ],
     "hashtags" : [ ],
@@ -4660,7 +4681,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -4693,7 +4714,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -4726,7 +4747,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -4794,6 +4815,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 684
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/aa8pBXVEzh"
     } ],
     "hashtags" : [ ],
@@ -4844,7 +4866,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -4877,7 +4899,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -5011,6 +5033,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HxcWHYEA6c"
     } ],
     "hashtags" : [ ],
@@ -5234,6 +5257,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 568
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/eQgo0tWgK5"
     } ],
     "hashtags" : [ ],
@@ -5313,6 +5337,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sEbAkGs1rg"
     } ],
     "hashtags" : [ ],
@@ -5474,6 +5499,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 622
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/DH5CKHvUww"
     } ],
     "hashtags" : [ ],
@@ -5737,6 +5763,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/lsUzO6Ct6o"
     } ],
     "hashtags" : [ ],
@@ -5834,6 +5861,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 900
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/86AwJcUYwh"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/883660350348042242\/photo\/1",
@@ -5864,6 +5892,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1536
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/86AwJcUYwh"
     } ],
     "hashtags" : [ ],
@@ -6024,6 +6053,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/J4VPQLOJwc"
     } ],
     "hashtags" : [ ],
@@ -6093,6 +6123,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BYH64ZTAew"
     } ],
     "hashtags" : [ ],
@@ -6151,6 +6182,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 932
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/PkFFimjuZ9"
     } ],
     "hashtags" : [ ],
@@ -6180,7 +6212,7 @@ Grailbird.data.tweets_2017_07 =
       "id_str" : "171163790",
       "id" : 171163790
     }, {
-      "name" : "Sean La Fata",
+      "name" : "Sean",
       "screen_name" : "lafebra",
       "indices" : [ 20, 28 ],
       "id_str" : "339173562",
@@ -6289,6 +6321,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 652
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/zIqNQLL96J"
     } ],
     "hashtags" : [ ],
@@ -6440,6 +6473,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/jBcBwrMePs"
     } ],
     "hashtags" : [ ],
@@ -7101,6 +7135,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 638
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/1Y0OrF4RRm"
     } ],
     "hashtags" : [ ],
@@ -7195,6 +7230,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/U91Vs8p4iJ"
     } ],
     "hashtags" : [ ],
@@ -7280,6 +7316,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1902
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vwGqHFFtRG"
     } ],
     "hashtags" : [ ],
@@ -7471,6 +7508,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 980
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/jtWD3AP8X0"
     } ],
     "hashtags" : [ ],
@@ -7746,6 +7784,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/NkdM1EbrDO"
     } ],
     "hashtags" : [ ],
@@ -7831,6 +7870,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/glHwGU5f71"
     } ],
     "hashtags" : [ ],
@@ -8237,6 +8277,7 @@ Grailbird.data.tweets_2017_07 =
         "resize" : "fit",
         "w" : 606
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kCuGazpi5k"
     } ],
     "hashtags" : [ ],

@@ -38,6 +38,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 526
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8UzdWrlA29"
     } ],
     "hashtags" : [ ],
@@ -96,6 +97,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rAjPItUduK"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/847878905243590658\/photo\/1",
@@ -126,6 +128,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rAjPItUduK"
     } ],
     "hashtags" : [ ],
@@ -255,6 +258,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 750
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/VLwhRy6LzF"
     } ],
     "hashtags" : [ ],
@@ -349,6 +353,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/MhDFAhSUXl"
     } ],
     "hashtags" : [ ],
@@ -412,6 +417,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1236
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/VAG3VAynQY"
     } ],
     "hashtags" : [ ],
@@ -470,6 +476,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nIX2eGKYsW"
     } ],
     "hashtags" : [ ],
@@ -572,6 +579,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 448
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/6SiKnjv6H0"
     } ],
     "hashtags" : [ ],
@@ -827,6 +835,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kjFollRK0I"
     } ],
     "hashtags" : [ ],
@@ -1009,6 +1018,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rVbcnyvRzt"
     } ],
     "hashtags" : [ ],
@@ -1094,6 +1104,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 962
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ZzO7cpo57l"
     } ],
     "hashtags" : [ ],
@@ -1152,6 +1163,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1278
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/eZ8dxmgxeU"
     } ],
     "hashtags" : [ ],
@@ -1379,6 +1391,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1844
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pS7zUPaLJR"
     } ],
     "hashtags" : [ ],
@@ -1539,6 +1552,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1658
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/p1uhFnnc19"
     } ],
     "hashtags" : [ ],
@@ -1661,6 +1675,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/cRNaRG4WdG"
     } ],
     "hashtags" : [ ],
@@ -2388,6 +2403,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1926
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/3zAiMAzNgU"
     } ],
     "hashtags" : [ ],
@@ -2447,7 +2463,7 @@ Grailbird.data.tweets_2017_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven",
+      "name" : "Steven Levitt",
       "screen_name" : "fiveub",
       "indices" : [ 0, 7 ],
       "id_str" : "1706468510",
@@ -2546,6 +2562,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 2048
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/AiZDsZy0MA"
     } ],
     "hashtags" : [ ],
@@ -2779,6 +2796,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/KnYZMbsksO"
     } ],
     "hashtags" : [ ],
@@ -2802,7 +2820,7 @@ Grailbird.data.tweets_2017_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Internet of Shiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiit",
+      "name" : "Internet of Shit",
       "screen_name" : "internetofshit",
       "indices" : [ 86, 101 ],
       "id_str" : "3356531254",
@@ -2868,13 +2886,7 @@ Grailbird.data.tweets_2017_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amazon Video UK",
-      "screen_name" : "AmazonVideoUK",
-      "indices" : [ 34, 48 ],
-      "id_str" : "19338359",
-      "id" : 19338359
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2998,6 +3010,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 2172
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kC3rhG3eEf"
     } ],
     "hashtags" : [ ],
@@ -3396,6 +3409,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ppIlH6Gd5z"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/841472139471552518\/photo\/1",
@@ -3426,6 +3440,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "crop",
         "w" : 76
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ppIlH6Gd5z"
     } ],
     "hashtags" : [ ],
@@ -3495,6 +3510,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 472
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pkTpNNeH7O"
     } ],
     "hashtags" : [ ],
@@ -3676,6 +3692,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 476
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/J9H8Tfj8mT"
     } ],
     "hashtags" : [ ],
@@ -3733,7 +3750,7 @@ Grailbird.data.tweets_2017_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3851,6 +3868,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 752
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/xX7raVWUhD"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/840183596765855744\/photo\/1",
@@ -3881,6 +3899,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 490
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/xX7raVWUhD"
     } ],
     "hashtags" : [ ],
@@ -3913,7 +3932,7 @@ Grailbird.data.tweets_2017_03 =
       "id_str" : "20123366",
       "id" : 20123366
     }, {
-      "name" : "Aldi Stores UK \uD83E\uDD55",
+      "name" : "Aldi Stores UK",
       "screen_name" : "AldiUK",
       "indices" : [ 10, 17 ],
       "id_str" : "28596803",
@@ -4009,6 +4028,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ce9ZjkeVzR"
     } ],
     "hashtags" : [ ],
@@ -4230,6 +4250,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tEMYrkAIzR"
     } ],
     "hashtags" : [ ],
@@ -4373,6 +4394,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 900
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/jjT545ldbt"
     } ],
     "hashtags" : [ ],

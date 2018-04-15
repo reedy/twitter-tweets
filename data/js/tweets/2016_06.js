@@ -38,6 +38,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ceov0U00ET"
     } ],
     "hashtags" : [ ],
@@ -368,6 +369,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 1454
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EgMIshgbzH"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/748089070547533824\/photo\/1",
@@ -398,6 +400,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 794
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EgMIshgbzH"
     } ],
     "hashtags" : [ ],
@@ -757,62 +760,6 @@ Grailbird.data.tweets_2016_06 =
   "text" : "20 working days and the CAA still haven't even taken my money for a licence issue....",
   "id" : 747829861956354048,
   "created_at" : "2016-06-28 16:31:47 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "David Mytton",
-      "screen_name" : "davidmytton",
-      "indices" : [ 3, 15 ],
-      "id_str" : "18075516",
-      "id" : 18075516
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "747822109376774144",
-  "text" : "RT @davidmytton: Because most of the engineers building systems for big corporates don't have a clue what they're doing https:\/\/t.co\/wFstYN\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 103, 126 ],
-        "url" : "https:\/\/t.co\/wFstYNd60E",
-        "expanded_url" : "http:\/\/bit.ly\/1WSzgRI",
-        "display_url" : "bit.ly\/1WSzgRI"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "747821406214303744",
-    "text" : "Because most of the engineers building systems for big corporates don't have a clue what they're doing https:\/\/t.co\/wFstYNd60E",
-    "id" : 747821406214303744,
-    "created_at" : "2016-06-28 15:58:11 +0000",
-    "user" : {
-      "name" : "David Mytton",
-      "screen_name" : "davidmytton",
-      "protected" : false,
-      "id_str" : "18075516",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/783338884285472768\/zFjgjSPD_normal.jpg",
-      "id" : 18075516,
-      "verified" : false
-    }
-  },
-  "id" : 747822109376774144,
-  "created_at" : "2016-06-28 16:00:59 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1219,6 +1166,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 2016
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/VdEEXoutNF"
     } ],
     "hashtags" : [ ],
@@ -1277,6 +1225,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 394
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/apwtchpMy9"
     } ],
     "hashtags" : [ {
@@ -1324,6 +1273,7 @@ Grailbird.data.tweets_2016_06 =
           "resize" : "fit",
           "w" : 394
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/apwtchpMy9"
       } ],
       "hashtags" : [ {
@@ -1345,7 +1295,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "KatalystProds",
       "protected" : false,
       "id_str" : "81134232",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/936685376776925184\/NEI0Qvur_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973615612353306625\/JGJLKL5T_normal.jpg",
       "id" : 81134232,
       "verified" : false
     }
@@ -1416,6 +1366,7 @@ Grailbird.data.tweets_2016_06 =
           "resize" : "fit",
           "w" : 1220
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/gUjDX64OY3"
       } ],
       "hashtags" : [ ],
@@ -1524,6 +1475,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/GOhprKWLw2"
     } ],
     "hashtags" : [ ],
@@ -1680,7 +1632,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RevK",
+      "name" : "RevK\u00AE",
       "screen_name" : "TheRealRevK",
       "indices" : [ 0, 12 ],
       "id_str" : "227666609",
@@ -1713,7 +1665,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RevK",
+      "name" : "RevK\u00AE",
       "screen_name" : "TheRealRevK",
       "indices" : [ 0, 12 ],
       "id_str" : "227666609",
@@ -1752,7 +1704,7 @@ Grailbird.data.tweets_2016_06 =
       "id_str" : "14822382",
       "id" : 14822382
     }, {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 6, 17 ],
       "id_str" : "116534927",
@@ -1785,7 +1737,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1818,7 +1770,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1886,6 +1838,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 1600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/9ogoPbFRHF"
     } ],
     "hashtags" : [ ],
@@ -1949,6 +1902,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/jtycrq5I49"
     } ],
     "hashtags" : [ ],
@@ -2005,12 +1959,6 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hotels.com Europe",
-      "screen_name" : "HotelsdotcomEU",
-      "indices" : [ 0, 15 ],
-      "id_str" : "199217050",
-      "id" : 199217050
-    }, {
       "name" : "Hotels.com",
       "screen_name" : "hotelsdotcom",
       "indices" : [ 16, 29 ],
@@ -2023,12 +1971,9 @@ Grailbird.data.tweets_2016_06 =
   },
   "geo" : { },
   "id_str" : "745201757165346816",
-  "in_reply_to_user_id" : 199217050,
   "text" : "@HotelsdotcomEU @hotelsdotcom Out of interest, is it possible to change a booking from pay at hotel, to pay \"now\"?",
   "id" : 745201757165346816,
   "created_at" : "2016-06-21 10:28:38 +0000",
-  "in_reply_to_screen_name" : "HotelsdotcomEU",
-  "in_reply_to_user_id_str" : "199217050",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2227,6 +2172,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/o5cFBODxYg"
     } ],
     "hashtags" : [ ],
@@ -2356,6 +2302,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tTSMM5KhNn"
     } ],
     "hashtags" : [ {
@@ -2408,6 +2355,7 @@ Grailbird.data.tweets_2016_06 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/tTSMM5KhNn"
       } ],
       "hashtags" : [ {
@@ -2995,7 +2943,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3538,6 +3486,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qE761idPhc"
     } ],
     "hashtags" : [ ],

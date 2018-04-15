@@ -60,6 +60,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/e1IHxComCZ"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/936270987435397124\/photo\/1",
@@ -90,6 +91,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 675
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/e1IHxComCZ"
     } ],
     "hashtags" : [ ],
@@ -248,6 +250,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 574
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sqNs3Sme6b"
     } ],
     "hashtags" : [ ],
@@ -303,6 +306,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 718
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5XEuD9xlk6"
     } ],
     "hashtags" : [ ],
@@ -851,6 +855,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 1504
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/46y3clwD4g"
     } ],
     "hashtags" : [ ],
@@ -912,6 +917,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/9bKAyKi7W4"
     } ],
     "hashtags" : [ ],
@@ -935,7 +941,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -968,7 +974,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1057,7 +1063,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aldi Stores UK \uD83E\uDD55",
+      "name" : "Aldi Stores UK",
       "screen_name" : "AldiUK",
       "indices" : [ 0, 7 ],
       "id_str" : "28596803",
@@ -1148,7 +1154,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Corsair Support",
+      "name" : "CORSAIR Support",
       "screen_name" : "CorsairSupport",
       "indices" : [ 0, 15 ],
       "id_str" : "2209555597",
@@ -1354,6 +1360,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 4608
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/llHIcyNilj"
     } ],
     "hashtags" : [ ],
@@ -1639,6 +1646,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 2764
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/z8ZacvUW4Z"
     } ],
     "hashtags" : [ ],
@@ -1888,7 +1896,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Corsair Support",
+      "name" : "CORSAIR Support",
       "screen_name" : "CorsairSupport",
       "indices" : [ 0, 15 ],
       "id_str" : "2209555597",
@@ -2237,6 +2245,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 90
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/KFvHvRftIS"
     } ],
     "hashtags" : [ ],
@@ -2541,7 +2550,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "26599573",
       "id" : 26599573
     }, {
-      "name" : "Corsair Support",
+      "name" : "CORSAIR Support",
       "screen_name" : "CorsairSupport",
       "indices" : [ 22, 37 ],
       "id_str" : "2209555597",
@@ -2908,7 +2917,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "26599573",
       "id" : 26599573
     }, {
-      "name" : "Corsair Support",
+      "name" : "CORSAIR Support",
       "screen_name" : "CorsairSupport",
       "indices" : [ 18, 33 ],
       "id_str" : "2209555597",
@@ -2953,7 +2962,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "26599573",
       "id" : 26599573
     }, {
-      "name" : "Corsair Support",
+      "name" : "CORSAIR Support",
       "screen_name" : "CorsairSupport",
       "indices" : [ 18, 33 ],
       "id_str" : "2209555597",
@@ -2992,7 +3001,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "26599573",
       "id" : 26599573
     }, {
-      "name" : "Corsair Support",
+      "name" : "CORSAIR Support",
       "screen_name" : "CorsairSupport",
       "indices" : [ 13, 28 ],
       "id_str" : "2209555597",
@@ -3027,6 +3036,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 538
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/cNPWbwkgCn"
     } ],
     "hashtags" : [ ],
@@ -3056,7 +3066,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "26599573",
       "id" : 26599573
     }, {
-      "name" : "Corsair Support",
+      "name" : "CORSAIR Support",
       "screen_name" : "CorsairSupport",
       "indices" : [ 9, 24 ],
       "id_str" : "2209555597",
@@ -3095,7 +3105,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "26599573",
       "id" : 26599573
     }, {
-      "name" : "Corsair Support",
+      "name" : "CORSAIR Support",
       "screen_name" : "CorsairSupport",
       "indices" : [ 13, 28 ],
       "id_str" : "2209555597",
@@ -3130,6 +3140,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 1536
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ZcFLMQaOQw"
     } ],
     "hashtags" : [ ],
@@ -3443,6 +3454,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 1622
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/TgsgcYtfTm"
     } ],
     "hashtags" : [ ],

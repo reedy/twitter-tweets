@@ -972,7 +972,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1005,7 +1005,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1038,7 +1038,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 3, 13 ],
       "id_str" : "15866848",
@@ -1093,7 +1093,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 603994524877201408,
     "created_at" : "2015-05-28 18:41:31 +0000",
     "user" : {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "protected" : false,
       "id_str" : "15866848",
@@ -1652,7 +1652,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chayification",
+      "name" : "Lord Admiral Captain Chay",
       "screen_name" : "Chayification",
       "indices" : [ 0, 14 ],
       "id_str" : "285557121",
@@ -1797,7 +1797,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Parker Higgins, 1337 |-|",
+      "name" : "Parker Higgins",
       "screen_name" : "xor",
       "indices" : [ 0, 4 ],
       "id_str" : "24500377",
@@ -1830,7 +1830,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Parker Higgins, 1337 |-|",
+      "name" : "Parker Higgins",
       "screen_name" : "xor",
       "indices" : [ 0, 4 ],
       "id_str" : "24500377",
@@ -1868,7 +1868,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Parker Higgins, 1337 |-|",
+      "name" : "Parker Higgins",
       "screen_name" : "xor",
       "indices" : [ 0, 4 ],
       "id_str" : "24500377",
@@ -1906,7 +1906,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Parker Higgins, 1337 |-|",
+      "name" : "Parker Higgins",
       "screen_name" : "xor",
       "indices" : [ 0, 4 ],
       "id_str" : "24500377",
@@ -1939,7 +1939,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Parker Higgins, 1337 |-|",
+      "name" : "Parker Higgins",
       "screen_name" : "xor",
       "indices" : [ 0, 4 ],
       "id_str" : "24500377",
@@ -1972,7 +1972,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Parker Higgins, 1337 |-|",
+      "name" : "Parker Higgins",
       "screen_name" : "xor",
       "indices" : [ 0, 4 ],
       "id_str" : "24500377",
@@ -2005,7 +2005,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Parker Higgins, 1337 |-|",
+      "name" : "Parker Higgins",
       "screen_name" : "xor",
       "indices" : [ 0, 4 ],
       "id_str" : "24500377",
@@ -2038,7 +2038,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Parker Higgins, 1337 |-|",
+      "name" : "Parker Higgins",
       "screen_name" : "xor",
       "indices" : [ 0, 4 ],
       "id_str" : "24500377",
@@ -2071,7 +2071,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Parker Higgins, 1337 |-|",
+      "name" : "Parker Higgins",
       "screen_name" : "xor",
       "indices" : [ 0, 4 ],
       "id_str" : "24500377",
@@ -2606,7 +2606,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RevK",
+      "name" : "RevK\u00AE",
       "screen_name" : "TheRealRevK",
       "indices" : [ 3, 15 ],
       "id_str" : "227666609",
@@ -2641,6 +2641,7 @@ Grailbird.data.tweets_2015_05 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/wS9TOaDP8v"
     } ],
     "hashtags" : [ ],
@@ -2682,6 +2683,7 @@ Grailbird.data.tweets_2015_05 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/wS9TOaDP8v"
       } ],
       "hashtags" : [ ],
@@ -2693,11 +2695,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 598927100444332033,
     "created_at" : "2015-05-14 19:05:22 +0000",
     "user" : {
-      "name" : "RevK",
+      "name" : "RevK\u00AE",
       "screen_name" : "TheRealRevK",
       "protected" : false,
       "id_str" : "227666609",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709389375965106177\/a7rMPrUQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980113696654491653\/1brSP4Vj_normal.jpg",
       "id" : 227666609,
       "verified" : false
     }
@@ -2943,6 +2945,7 @@ Grailbird.data.tweets_2015_05 =
         "resize" : "fit",
         "w" : 520
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/cHu1h1r6Q4"
     } ],
     "hashtags" : [ ],

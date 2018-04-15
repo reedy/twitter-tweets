@@ -777,7 +777,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weeeeeeeeeebl",
+      "name" : "Weebl The Bee Whisperer",
       "screen_name" : "TheWeebl",
       "indices" : [ 0, 9 ],
       "id_str" : "122040755",
@@ -1859,6 +1859,7 @@ Grailbird.data.tweets_2014_05 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ghXqfZOiAr"
       } ],
       "hashtags" : [ {
@@ -1882,7 +1883,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "helen_hollins",
       "protected" : false,
       "id_str" : "1082287658",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913669793944821760\/qGwKHwPf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/959566531481944064\/twseEaw4_normal.jpg",
       "id" : 1082287658,
       "verified" : false
     }
@@ -1998,7 +1999,13 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Bitbuzz",
+      "screen_name" : "bitbuzz",
+      "indices" : [ 0, 8 ],
+      "id_str" : "944824070452813824",
+      "id" : 944824070452813824
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2531,12 +2538,6 @@ Grailbird.data.tweets_2014_05 =
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
       "id" : 14822382
-    }, {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 6, 17 ],
-      "id_str" : "94178695",
-      "id" : 94178695
     } ],
     "media" : [ ],
     "hashtags" : [ ],

@@ -651,6 +651,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fF3Fm5KEg5"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/922873008452259840\/photo\/1",
@@ -681,6 +682,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fF3Fm5KEg5"
     } ],
     "hashtags" : [ ],
@@ -745,6 +747,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/u8jLlSKWJO"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/922872459979870210\/photo\/1",
@@ -775,6 +778,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/u8jLlSKWJO"
     } ],
     "hashtags" : [ ],
@@ -838,7 +842,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven",
+      "name" : "Steven Levitt",
       "screen_name" : "fiveub",
       "indices" : [ 0, 7 ],
       "id_str" : "1706468510",
@@ -871,7 +875,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven",
+      "name" : "Steven Levitt",
       "screen_name" : "fiveub",
       "indices" : [ 0, 7 ],
       "id_str" : "1706468510",
@@ -904,7 +908,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven",
+      "name" : "Steven Levitt",
       "screen_name" : "fiveub",
       "indices" : [ 0, 7 ],
       "id_str" : "1706468510",
@@ -1234,6 +1238,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8iKixEWEev"
     } ],
     "hashtags" : [ ],
@@ -1460,6 +1465,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 2048
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/6wj333X1EK"
     } ],
     "hashtags" : [ ],
@@ -1740,6 +1746,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/7zYZAtv0q9"
     } ],
     "hashtags" : [ ],
@@ -2067,6 +2074,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 318
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/9bMHKBR4QD"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/tommorris\/status\/919956678967259136\/photo\/1",
@@ -2097,6 +2105,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 477
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/9bMHKBR4QD"
       } ],
       "hashtags" : [ ],
@@ -2297,6 +2306,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 586
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BkFWVECzOp"
     } ],
     "hashtags" : [ ],
@@ -2539,6 +2549,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/NS13WRAAZ3"
     } ],
     "hashtags" : [ ],
@@ -2668,6 +2679,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 568
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/WAoKcN5Q5z"
     } ],
     "hashtags" : [ ],
@@ -2979,6 +2991,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vaDyyTLzsz"
     } ],
     "hashtags" : [ ],
@@ -3064,6 +3077,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 522
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/DCxvfCVr35"
     } ],
     "hashtags" : [ ],
@@ -3121,6 +3135,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1504
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vjQnzX5E5g"
     } ],
     "hashtags" : [ ],
@@ -3511,6 +3526,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 864
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FrfonjI4Uq"
     } ],
     "hashtags" : [ ],
@@ -3586,6 +3602,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 543
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CiyAr5g5Xe"
     } ],
     "hashtags" : [ ],
@@ -4192,6 +4209,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "crop",
         "w" : 136
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/JZRZbphRRB"
     } ],
     "hashtags" : [ ],
@@ -4286,6 +4304,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 606
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/USOFqKNzey"
     } ],
     "hashtags" : [ ],
@@ -4486,6 +4505,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 830
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/C4KQZwWMqy"
     } ],
     "hashtags" : [ ],
@@ -4544,6 +4564,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pPxwIBQy3s"
     } ],
     "hashtags" : [ ],

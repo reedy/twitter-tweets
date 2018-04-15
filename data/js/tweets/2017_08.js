@@ -330,6 +330,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/LJs4eoKSxP"
     } ],
     "hashtags" : [ ],
@@ -656,6 +657,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 2020
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/egGf888TLZ"
     } ],
     "hashtags" : [ ],
@@ -1301,6 +1303,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1182
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/V9SVGTDC4C"
     } ],
     "hashtags" : [ ],
@@ -1630,6 +1633,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 570
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/dG1QezFdal"
     } ],
     "hashtags" : [ ],
@@ -1686,7 +1690,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weeeeeeeeeebl",
+      "name" : "Weebl The Bee Whisperer",
       "screen_name" : "TheWeebl",
       "indices" : [ 0, 9 ],
       "id_str" : "122040755",
@@ -1760,6 +1764,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1536
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ifr0BKdb8n"
     } ],
     "hashtags" : [ ],
@@ -1903,6 +1908,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 872
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qCVaBw12cT"
     } ],
     "hashtags" : [ ],
@@ -2078,6 +2084,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/cs8axhvI7a"
     } ],
     "hashtags" : [ ],
@@ -2214,6 +2221,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1236
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/o3OrKREKr9"
     } ],
     "hashtags" : [ ],
@@ -2627,6 +2635,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/SM34hPiXLi"
     } ],
     "hashtags" : [ ],
@@ -3137,6 +3146,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1073
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EurCoDNITu"
     } ],
     "hashtags" : [ ],
@@ -3387,6 +3397,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1536
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gYSxC6Gm5g"
     } ],
     "hashtags" : [ ],
@@ -3478,6 +3489,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 2048
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/QEgf9VkAfg"
     } ],
     "hashtags" : [ ],
@@ -3655,6 +3667,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1536
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/smsJSrPjUb"
     } ],
     "hashtags" : [ ],
@@ -3718,6 +3731,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 2048
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Nnl6L7sldY"
     } ],
     "hashtags" : [ ],
@@ -3776,6 +3790,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 2048
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/MFdxhc0LRZ"
     } ],
     "hashtags" : [ ],
@@ -3834,6 +3849,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1858
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/bxEjxI8JPh"
     } ],
     "hashtags" : [ ],
@@ -3928,6 +3944,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HLFuyhBCSu"
     } ],
     "hashtags" : [ ],
@@ -4046,6 +4063,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/asAhEwfwDW"
     } ],
     "hashtags" : [ ],
@@ -4098,6 +4116,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/2xiaSopaj9"
     } ],
     "hashtags" : [ {
@@ -4340,6 +4359,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "crop",
         "w" : 96
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4T1EIHuX0C"
     } ],
     "hashtags" : [ ],
@@ -4477,6 +4497,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Xcg41RYRFI"
     } ],
     "hashtags" : [ ],
@@ -4535,6 +4556,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 675
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/o3i24RWLhI"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/895287496967426048\/photo\/1",
@@ -4565,6 +4587,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/o3i24RWLhI"
     } ],
     "hashtags" : [ ],
@@ -4661,6 +4684,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/z9d8es07qt"
     } ],
     "hashtags" : [ ],
@@ -4730,6 +4754,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 675
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/6HWiwUylXK"
     } ],
     "hashtags" : [ ],
@@ -4876,6 +4901,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/arfsduP1N4"
     } ],
     "hashtags" : [ ],
@@ -5116,6 +5142,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/hm4eRUlnYe"
     } ],
     "hashtags" : [ ],
@@ -5177,6 +5204,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/UqN9vDz7kX"
     } ],
     "hashtags" : [ ],
@@ -5453,6 +5481,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 4032
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BrM3dcKIFR"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/893504755909185537\/photo\/1",
@@ -5483,6 +5512,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1536
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BrM3dcKIFR"
     } ],
     "hashtags" : [ ],
@@ -5512,7 +5542,7 @@ Grailbird.data.tweets_2017_08 =
       "id_str" : "96965958",
       "id" : 96965958
     }, {
-      "name" : "ParcelforceWorldwide",
+      "name" : "Parcelforce Worldwide",
       "screen_name" : "parcelforce",
       "indices" : [ 11, 23 ],
       "id_str" : "96967277",
@@ -5741,6 +5771,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/9Uln9o5UE7"
     } ],
     "hashtags" : [ ],
@@ -5848,6 +5879,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/SdVtIHJqfT"
     } ],
     "hashtags" : [ ],
@@ -5937,6 +5969,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1120
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/XupltCu13G"
     } ],
     "hashtags" : [ ],
@@ -6033,6 +6066,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/LzNKOk3XJu"
     } ],
     "hashtags" : [ ],
@@ -6061,6 +6095,12 @@ Grailbird.data.tweets_2017_08 =
       "indices" : [ 0, 14 ],
       "id_str" : "856164314541150208",
       "id" : 856164314541150208
+    }, {
+      "name" : "Alesson Nascimento",
+      "screen_name" : "Alesson_Serafim",
+      "indices" : [ 15, 31 ],
+      "id_str" : "903682818894594051",
+      "id" : 903682818894594051
     }, {
       "name" : "American Airlines",
       "screen_name" : "AmericanAir",
@@ -6185,6 +6225,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HfmoxVgz6U"
     } ],
     "hashtags" : [ ],
@@ -6249,6 +6290,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 672
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/RuHAeS5bum"
     } ],
     "hashtags" : [ ],
@@ -6373,6 +6415,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/7rzjGZSprb"
     } ],
     "hashtags" : [ ],

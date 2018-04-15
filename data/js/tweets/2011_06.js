@@ -141,27 +141,16 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "86245641856094208",
   "geo" : { },
   "id_str" : "86245871104176128",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Does that mean rather than Google getting your information from Facebook, you just hand it straight to them? ;-P",
   "id" : 86245871104176128,
-  "in_reply_to_status_id" : 86245641856094208,
   "created_at" : "2011-06-30 01:33:12 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -653,7 +642,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weeeeeeeeeebl",
+      "name" : "Weebl The Bee Whisperer",
       "screen_name" : "TheWeebl",
       "indices" : [ 0, 9 ],
       "id_str" : "122040755",
@@ -1819,7 +1808,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "newscientist",
       "protected" : false,
       "id_str" : "19658826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843789564074496001\/m34mTHmg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/960860144329469953\/Tc-GOIGJ_normal.jpg",
       "id" : 19658826,
       "verified" : true
     }
@@ -2692,27 +2681,16 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "82451601314430976",
   "geo" : { },
   "id_str" : "82455386841546752",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc A whole one a week? My my, you are generous...",
   "id" : 82455386841546752,
-  "in_reply_to_status_id" : 82451601314430976,
   "created_at" : "2011-06-19 14:31:10 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2725,27 +2703,16 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "82082561244934144",
   "geo" : { },
   "id_str" : "82090950117163008",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc I know a performance\/db engineer at Facebook. He's not likely to be too helpful though...",
   "id" : 82090950117163008,
-  "in_reply_to_status_id" : 82082561244934144,
   "created_at" : "2011-06-18 14:23:02 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3075,27 +3042,16 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "81655475061522432",
   "geo" : { },
   "id_str" : "81655635556581376",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc You can make XP bootable USB sticks, in much the same way you can create ubutnu ones etc",
   "id" : 81655635556581376,
-  "in_reply_to_status_id" : 81655475061522432,
   "created_at" : "2011-06-17 09:33:15 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3742,12 +3698,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
       "id" : 14822382
-    }, {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 6, 17 ],
-      "id_str" : "94178695",
-      "id" : 94178695
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3776,12 +3726,6 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
@@ -3792,16 +3736,11 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "81304105770946560",
   "geo" : { },
   "id_str" : "81304715647909888",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc @d0od has been spending monies....",
   "id" : 81304715647909888,
-  "in_reply_to_status_id" : 81304105770946560,
   "created_at" : "2011-06-16 10:18:49 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3815,12 +3754,6 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
@@ -3831,16 +3764,11 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "81304105770946560",
   "geo" : { },
   "id_str" : "81304383429677056",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc @d0od Don't be daft. Wordpress code isn't that pretty",
   "id" : 81304383429677056,
-  "in_reply_to_status_id" : 81304105770946560,
   "created_at" : "2011-06-16 10:17:30 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5071,7 +4999,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Revo | Fuzzyness",
+      "name" : "Fuzzyness",
       "screen_name" : "Fuzzyness",
       "indices" : [ 0, 10 ],
       "id_str" : "1513268550",
@@ -5175,12 +5103,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 0, 11 ],
       "id_str" : "17854916",
       "id" : 17854916
-    }, {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 12, 23 ],
-      "id_str" : "94178695",
-      "id" : 94178695
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5248,12 +5170,6 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Sam Reed",
       "screen_name" : "tehreedy",
       "indices" : [ 12, 21 ],
@@ -6371,12 +6287,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 22, 27 ],
       "id_str" : "14822382",
       "id" : 14822382
-    }, {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 28, 39 ],
-      "id_str" : "94178695",
-      "id" : 94178695
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6773,12 +6683,6 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
@@ -6789,16 +6693,11 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "77705832367800320",
   "geo" : { },
   "id_str" : "77706118205419520",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc @d0od Viva la Francais? http:\/\/bit.ly\/imerH2!",
   "id" : 77706118205419520,
-  "in_reply_to_status_id" : 77705832367800320,
   "created_at" : "2011-06-06 11:59:16 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -7229,12 +7128,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 0, 11 ],
       "id_str" : "28587521",
       "id" : 28587521
-    }, {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 12, 23 ],
-      "id_str" : "94178695",
-      "id" : 94178695
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7263,12 +7156,6 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Tom Lawrence",
       "screen_name" : "tjlawrence",
       "indices" : [ 33, 44 ],
@@ -7279,16 +7166,11 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "77373860546224128",
   "geo" : { },
   "id_str" : "77374511464464384",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc One of my uni mates, @tjlawrence http:\/\/bit.ly\/lPdDyO since 2003, 300 games at $4244.01 USD :D",
   "id" : 77374511464464384,
-  "in_reply_to_status_id" : 77373860546224128,
   "created_at" : "2011-06-05 14:01:35 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -7301,27 +7183,16 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "77373599459184640",
   "geo" : { },
   "id_str" : "77373747719454720",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc http:\/\/bit.ly\/l0a6CR  Steam member since: 2004-12-27 Found 172 Games with a value of $2676.79 USD",
   "id" : 77373747719454720,
-  "in_reply_to_status_id" : 77373599459184640,
   "created_at" : "2011-06-05 13:58:33 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -7334,27 +7205,16 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "77373027846856704",
   "geo" : { },
   "id_str" : "77373196986355712",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc http:\/\/bit.ly\/jWcGWZ Found 32 Games with a value of $297.69 USD. Lool",
   "id" : 77373196986355712,
-  "in_reply_to_status_id" : 77373027846856704,
   "created_at" : "2011-06-05 13:56:22 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -7368,92 +7228,6 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 3, 14 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
-      "name" : "Sam Reed",
-      "screen_name" : "tehreedy",
-      "indices" : [ 16, 25 ],
-      "id_str" : "19903171",
-      "id" : 19903171
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 26, 31 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "77319337354067969",
-  "text" : "RT @humphreybc: @tehreedy @d0od GET A ROOM",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Sam Reed",
-        "screen_name" : "tehreedy",
-        "indices" : [ 0, 9 ],
-        "id_str" : "19903171",
-        "id" : 19903171
-      }, {
-        "name" : "Joey Sneddon",
-        "screen_name" : "d0od",
-        "indices" : [ 10, 15 ],
-        "id_str" : "14822382",
-        "id" : 14822382
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "77317451725017088",
-    "geo" : { },
-    "id_str" : "77317655018733568",
-    "in_reply_to_user_id" : 19903171,
-    "text" : "@tehreedy @d0od GET A ROOM",
-    "id" : 77317655018733568,
-    "in_reply_to_status_id" : 77317451725017088,
-    "created_at" : "2011-06-05 10:15:40 +0000",
-    "in_reply_to_screen_name" : "tehreedy",
-    "in_reply_to_user_id_str" : "19903171",
-    "user" : {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "protected" : false,
-      "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865047614139629568\/Yve1_bF-_normal.jpg",
-      "id" : 94178695,
-      "verified" : false
-    }
-  },
-  "id" : 77319337354067969,
-  "created_at" : "2011-06-05 10:22:21 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 13, 18 ],
@@ -7464,16 +7238,11 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "77317655018733568",
   "geo" : { },
   "id_str" : "77318701392723968",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc  @d0od  what's that supposed to mean? ;-0",
   "id" : 77318701392723968,
-  "in_reply_to_status_id" : 77317655018733568,
   "created_at" : "2011-06-05 10:19:49 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -7731,27 +7500,16 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "77027394468327424",
   "geo" : { },
   "id_str" : "77029326008221696",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc if you've got peoples mobile numbers in your contact list, it will tell you who has it",
   "id" : 77029326008221696,
-  "in_reply_to_status_id" : 77027394468327424,
   "created_at" : "2011-06-04 15:09:57 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -8107,7 +7865,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "d0od",
       "protected" : false,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/938838918081974272\/5QFhHk1z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979079978838122497\/zwMYJkCN_normal.jpg",
       "id" : 14822382,
       "verified" : false
     }

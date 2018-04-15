@@ -99,6 +99,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/13ezSkReGf"
     } ],
     "hashtags" : [ ],
@@ -302,6 +303,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 734
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vEsbxrnU6G"
     } ],
     "hashtags" : [ ],
@@ -354,6 +356,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1512
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oVVID26Zza"
     } ],
     "hashtags" : [ ],
@@ -426,12 +429,6 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KNOWHOW support",
-      "screen_name" : "knowhowtohelp",
-      "indices" : [ 0, 14 ],
-      "id_str" : "222093692",
-      "id" : 222093692
-    }, {
       "name" : "Currys PC World",
       "screen_name" : "curryspcworld",
       "indices" : [ 15, 29 ],
@@ -448,7 +445,7 @@ Grailbird.data.tweets_2016_12 =
   "text" : "@knowhowtohelp @curryspcworld I bought a vacuum cleaner from you on the 23rd... Price has dropped \u00A320 on your own site. Can I get a refund?",
   "id" : 813325693530570752,
   "created_at" : "2016-12-26 10:08:50 +0000",
-  "in_reply_to_screen_name" : "knowhowtohelp",
+  "in_reply_to_screen_name" : "ABarrysson",
   "in_reply_to_user_id_str" : "222093692",
   "user" : {
     "name" : "Sam Reed",
@@ -498,6 +495,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 436
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/QUUoe7X38C"
     } ],
     "hashtags" : [ ],
@@ -632,7 +630,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "AzzyChillmas \uD83C\uDF85\uD83C\uDF84\uD83C\uDF81",
+      "name" : "Azzy",
       "screen_name" : "AzzyChill",
       "indices" : [ 0, 10 ],
       "id_str" : "22279048",
@@ -665,7 +663,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "AzzyChillmas \uD83C\uDF85\uD83C\uDF84\uD83C\uDF81",
+      "name" : "Azzy",
       "screen_name" : "AzzyChill",
       "indices" : [ 0, 10 ],
       "id_str" : "22279048",
@@ -757,6 +755,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/mgE1aR1NwW"
     } ],
     "hashtags" : [ {
@@ -894,6 +893,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1366
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/QgJg69HnVi"
     } ],
     "hashtags" : [ ],
@@ -1277,6 +1277,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/UGC6myyDqz"
     } ],
     "hashtags" : [ ],
@@ -1340,6 +1341,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1138
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Od1Xz31irK"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/811896637694115840\/photo\/1",
@@ -1370,6 +1372,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 928
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Od1Xz31irK"
     } ],
     "hashtags" : [ ],
@@ -1773,6 +1776,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1512
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/obfRCKhvkc"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/811586498713763841\/photo\/1",
@@ -1803,6 +1807,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/obfRCKhvkc"
     } ],
     "hashtags" : [ ],
@@ -1873,6 +1878,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/61Cqy4A7se"
     } ],
     "hashtags" : [ ],
@@ -2493,6 +2499,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1594
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/631xwNhH3Y"
     } ],
     "hashtags" : [ ],
@@ -3846,6 +3853,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 580
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/0B8PLEyNKa"
     } ],
     "hashtags" : [ ],
@@ -3937,6 +3945,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 644
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Lqclia7o22"
     } ],
     "hashtags" : [ ],
@@ -4121,6 +4130,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 1000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/sKnFtsRpCd"
       } ],
       "hashtags" : [ {
@@ -4290,6 +4300,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 556
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/v0brQcsav7"
     } ],
     "hashtags" : [ ],
@@ -4348,6 +4359,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 898
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ii3QpWBYh2"
     } ],
     "hashtags" : [ ],
@@ -4536,6 +4548,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 2530
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/YKz8F0xxSw"
     } ],
     "hashtags" : [ ],
@@ -4824,6 +4837,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/NX50Z8qWtb"
       } ],
       "hashtags" : [ {
@@ -5847,6 +5861,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1512
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/dM8UDgoOVb"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/806647265704218624\/photo\/1",
@@ -5877,6 +5892,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1512
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/dM8UDgoOVb"
     } ],
     "hashtags" : [ ],
@@ -6282,6 +6298,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FjsL8zEpDp"
     } ],
     "hashtags" : [ ],
@@ -6582,6 +6599,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fG7xSv0PTm"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/806036069623984128\/photo\/1",
@@ -6612,6 +6630,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fG7xSv0PTm"
     } ],
     "hashtags" : [ ],
@@ -6843,6 +6862,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gR9hIEHeds"
     } ],
     "hashtags" : [ ],

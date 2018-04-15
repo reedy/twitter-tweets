@@ -36,11 +36,11 @@ Grailbird.data.tweets_2016_09 =
       "id_str" : "25984895",
       "id" : 25984895
     }, {
-      "name" : "Community Fibre",
+      "name" : "Openreach",
       "screen_name" : "fibrecommunity",
       "indices" : [ 16, 31 ],
-      "id_str" : "14079974",
-      "id" : 14079974
+      "id_str" : "762975739604037632",
+      "id" : 762975739604037632
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -69,13 +69,13 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven",
+      "name" : "Steven Levitt",
       "screen_name" : "fiveub",
       "indices" : [ 0, 7 ],
       "id_str" : "1706468510",
       "id" : 1706468510
     }, {
-      "name" : "Jess \uD83D\uDCF7\uD83D\uDC9C",
+      "name" : "Jess \uD83D\uDC9C",
       "screen_name" : "Jessius",
       "indices" : [ 8, 16 ],
       "id_str" : "55602307",
@@ -141,11 +141,11 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Community Fibre",
+      "name" : "Openreach",
       "screen_name" : "fibrecommunity",
       "indices" : [ 9, 24 ],
-      "id_str" : "14079974",
-      "id" : 14079974
+      "id_str" : "762975739604037632",
+      "id" : 762975739604037632
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -396,13 +396,13 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stuart Henderson",
+      "name" : "sthen",
       "screen_name" : "sthen_",
       "indices" : [ 0, 7 ],
       "id_str" : "198680411",
       "id" : 198680411
     }, {
-      "name" : "RevK",
+      "name" : "RevK\u00AE",
       "screen_name" : "TheRealRevK",
       "indices" : [ 8, 20 ],
       "id_str" : "227666609",
@@ -435,13 +435,13 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stuart Henderson",
+      "name" : "sthen",
       "screen_name" : "sthen_",
       "indices" : [ 0, 7 ],
       "id_str" : "198680411",
       "id" : 198680411
     }, {
-      "name" : "RevK",
+      "name" : "RevK\u00AE",
       "screen_name" : "TheRealRevK",
       "indices" : [ 8, 20 ],
       "id_str" : "227666609",
@@ -534,7 +534,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RevK",
+      "name" : "RevK\u00AE",
       "screen_name" : "TheRealRevK",
       "indices" : [ 0, 12 ],
       "id_str" : "227666609",
@@ -567,7 +567,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RevK",
+      "name" : "RevK\u00AE",
       "screen_name" : "TheRealRevK",
       "indices" : [ 0, 12 ],
       "id_str" : "227666609",
@@ -901,6 +901,7 @@ Grailbird.data.tweets_2016_09 =
         "resize" : "fit",
         "w" : 1174
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/z3K0ATMMaY"
     } ],
     "hashtags" : [ ],
@@ -1045,6 +1046,7 @@ Grailbird.data.tweets_2016_09 =
         "resize" : "fit",
         "w" : 650
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/wtptbnxVAI"
     } ],
     "hashtags" : [ ],
@@ -1603,6 +1605,7 @@ Grailbird.data.tweets_2016_09 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/1E7JtE0KJw"
     } ],
     "hashtags" : [ ],
@@ -1667,6 +1670,7 @@ Grailbird.data.tweets_2016_09 =
         "resize" : "fit",
         "w" : 1536
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pJAXXbbDWd"
     } ],
     "hashtags" : [ {
@@ -1717,6 +1721,7 @@ Grailbird.data.tweets_2016_09 =
           "resize" : "fit",
           "w" : 1536
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/pJAXXbbDWd"
       } ],
       "hashtags" : [ {
@@ -2136,6 +2141,7 @@ Grailbird.data.tweets_2016_09 =
         "resize" : "fit",
         "w" : 1864
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/G5geaedvEm"
     } ],
     "hashtags" : [ ],
@@ -2199,6 +2205,7 @@ Grailbird.data.tweets_2016_09 =
         "resize" : "fit",
         "w" : 2048
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/iicYt77UG2"
     } ],
     "hashtags" : [ ],
@@ -2328,7 +2335,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2396,6 +2403,7 @@ Grailbird.data.tweets_2016_09 =
         "resize" : "fit",
         "w" : 1512
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/WZPiFhyvLi"
     } ],
     "hashtags" : [ ],
@@ -2419,7 +2427,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2485,6 +2493,7 @@ Grailbird.data.tweets_2016_09 =
         "resize" : "fit",
         "w" : 1512
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/SU0aMhD9co"
     } ],
     "hashtags" : [ ],
@@ -2673,6 +2682,7 @@ Grailbird.data.tweets_2016_09 =
         "resize" : "fit",
         "w" : 858
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Rgikwwqq3G"
     } ],
     "hashtags" : [ ],
@@ -2875,6 +2885,7 @@ Grailbird.data.tweets_2016_09 =
         "resize" : "fit",
         "w" : 509
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/WfKVRT3zMg"
     } ],
     "hashtags" : [ ],
@@ -2920,12 +2931,6 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hotels.com Europe",
-      "screen_name" : "HotelsdotcomEU",
-      "indices" : [ 0, 15 ],
-      "id_str" : "199217050",
-      "id" : 199217050
-    }, {
       "name" : "Hotels.com",
       "screen_name" : "hotelsdotcom",
       "indices" : [ 16, 29 ],
@@ -2959,12 +2964,6 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hotels.com Europe",
-      "screen_name" : "HotelsdotcomEU",
-      "indices" : [ 0, 15 ],
-      "id_str" : "199217050",
-      "id" : 199217050
-    }, {
       "name" : "Hotels.com",
       "screen_name" : "hotelsdotcom",
       "indices" : [ 16, 29 ],
@@ -2977,12 +2976,9 @@ Grailbird.data.tweets_2016_09 =
   },
   "geo" : { },
   "id_str" : "774374833631133696",
-  "in_reply_to_user_id" : 199217050,
   "text" : "@HotelsdotcomEU @hotelsdotcom Can someone advise whether booking 131427382814 has breakfast included? Unclear on booking. Hotel seem confuse",
   "id" : 774374833631133696,
   "created_at" : "2016-09-09 22:32:02 +0000",
-  "in_reply_to_screen_name" : "HotelsdotcomEU",
-  "in_reply_to_user_id_str" : "199217050",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3242,6 +3238,7 @@ Grailbird.data.tweets_2016_09 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/hrUR9VFRX8"
     } ],
     "hashtags" : [ ],
@@ -3512,6 +3509,7 @@ Grailbird.data.tweets_2016_09 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8yQpGQShP5"
     } ],
     "hashtags" : [ ],

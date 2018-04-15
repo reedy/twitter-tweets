@@ -446,27 +446,16 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "75530581340995584",
   "geo" : { },
   "id_str" : "75531758086524929",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc know someone with an i7 Sony that gets 3-4. Personally, I prefer having my desktop as the powerhouse. Games are better like that",
   "id" : 75531758086524929,
-  "in_reply_to_status_id" : 75530581340995584,
   "created_at" : "2011-05-31 11:59:09 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -501,27 +490,16 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "75527469737840640",
   "geo" : { },
   "id_str" : "75529346906984449",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc what's the battery like? With an i7, I guess not brilliant...",
   "id" : 75529346906984449,
-  "in_reply_to_status_id" : 75527469737840640,
   "created_at" : "2011-05-31 11:49:34 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -761,12 +739,6 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 60, 65 ],
       "id_str" : "14822382",
       "id" : 14822382
-    }, {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 66, 77 ],
-      "id_str" : "94178695",
-      "id" : 94178695
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -823,12 +795,6 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
@@ -839,16 +805,11 @@ Grailbird.data.tweets_2011_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "74820714816995328",
   "geo" : { },
   "id_str" : "74821171111133184",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc @d0od Hmm. I've heard that to have many definitions before now. Though, googling it now doesn't seem to give one of those.",
   "id" : 74821171111133184,
-  "in_reply_to_status_id" : 74820714816995328,
   "created_at" : "2011-05-29 12:55:31 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -862,12 +823,6 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 5, 16 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 27, 32 ],
@@ -996,12 +951,6 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 12, 23 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 34, 39 ],
@@ -1057,13 +1006,7 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 1, 12 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1131,7 +1074,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u212D\u0251\u2148\u1D64\u02E2",
+      "name" : "Edge Case \u212D\u0251\u2148\u1D64\u02E2",
       "screen_name" : "Caius",
       "indices" : [ 3, 9 ],
       "id_str" : "5857812",
@@ -1178,7 +1121,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 74200911211270144,
     "created_at" : "2011-05-27 19:50:50 +0000",
     "user" : {
-      "name" : "\u212D\u0251\u2148\u1D64\u02E2",
+      "name" : "Edge Case \u212D\u0251\u2148\u1D64\u02E2",
       "screen_name" : "Caius",
       "protected" : false,
       "id_str" : "5857812",
@@ -1325,27 +1268,16 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "74082092207710208",
   "geo" : { },
   "id_str" : "74083478454538240",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Usually that's ok.. If you want to make any claims, needs to be verifiable using a 3rd party source. Not sure on the best advice",
   "id" : 74083478454538240,
-  "in_reply_to_status_id" : 74082092207710208,
   "created_at" : "2011-05-27 12:04:12 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1358,27 +1290,16 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "74081161944637440",
   "geo" : { },
   "id_str" : "74081675050618881",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc So, anyone directly related (with you guys being the owners), it's a big no no. Encouraging your readers to edit though... ;D",
   "id" : 74081675050618881,
-  "in_reply_to_status_id" : 74081161944637440,
   "created_at" : "2011-05-27 11:57:02 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1391,27 +1312,16 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "74080884860530688",
   "geo" : { },
   "id_str" : "74081459358543872",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc I'm not paid to write ;). Yes, there is the http:\/\/bit.ly\/kRpY12 Conflict of Interest guidelines. So you really shouldn't..",
   "id" : 74081459358543872,
-  "in_reply_to_status_id" : 74080884860530688,
   "created_at" : "2011-05-27 11:56:10 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1425,12 +1335,6 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 45, 50 ],
@@ -1441,16 +1345,11 @@ Grailbird.data.tweets_2011_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "74079304224481280",
   "geo" : { },
   "id_str" : "74080043306983424",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Don't know if you saw me telling @d0od, http:\/\/bit.ly\/juN5Qg You've currently got 78 outgoing links from the english wikipedia!!",
   "id" : 74080043306983424,
-  "in_reply_to_status_id" : 74079304224481280,
   "created_at" : "2011-05-27 11:50:33 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1463,27 +1362,16 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "74079304224481280",
   "geo" : { },
   "id_str" : "74079849622413312",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Finally? ;) Someone created you one back in April 2010, I just restored it, and tidied it up a bit ;D",
   "id" : 74079849622413312,
-  "in_reply_to_status_id" : 74079304224481280,
   "created_at" : "2011-05-27 11:49:47 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2351,7 +2239,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564801097869426693\/4SqRzoTD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952822354807312384\/LymP40q-_normal.jpg",
       "id" : 7905122,
       "verified" : true
     }
@@ -2530,27 +2418,16 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "73385266169126913",
   "geo" : { },
   "id_str" : "73390586190761984",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc What're you wanting to know about your followers then? ;P",
   "id" : 73390586190761984,
-  "in_reply_to_status_id" : 73385266169126913,
   "created_at" : "2011-05-25 14:10:53 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2575,12 +2452,6 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 8, 15 ],
       "id_str" : "94409323",
       "id" : 94409323
-    }, {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 19, 30 ],
-      "id_str" : "94178695",
-      "id" : 94178695
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2606,27 +2477,16 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "73383489684254720",
   "geo" : { },
   "id_str" : "73383772954951681",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc I know 2 people who are there, want me to get them to tweet you about it when they're awake? ;P",
   "id" : 73383772954951681,
-  "in_reply_to_status_id" : 73383489684254720,
   "created_at" : "2011-05-25 13:43:49 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2639,25 +2499,16 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "73383654931435521",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc QT and other stuff. There's a lot of people there, and they get free hardware. I can see some reason to be there ;)",
   "id" : 73383654931435521,
   "created_at" : "2011-05-25 13:43:21 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2670,78 +2521,16 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 3, 14 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : { },
-  "id_str" : "73383597515603969",
-  "text" : "RT @humphreybc: Google opening seawater-cooled data center, finally glad it applied for that Wave trademark (video) http:\/\/engt.co\/jwyZ1v",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.engadget.com\" rel=\"nofollow\"\u003EEngadget for iPad\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "73383489684254720",
-    "text" : "Google opening seawater-cooled data center, finally glad it applied for that Wave trademark (video) http:\/\/engt.co\/jwyZ1v",
-    "id" : 73383489684254720,
-    "created_at" : "2011-05-25 13:42:41 +0000",
-    "user" : {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "protected" : false,
-      "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865047614139629568\/Yve1_bF-_normal.jpg",
-      "id" : 94178695,
-      "verified" : false
-    }
-  },
-  "id" : 73383597515603969,
-  "created_at" : "2011-05-25 13:43:07 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "73379802383523840",
   "geo" : { },
   "id_str" : "73380541726064640",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc foreach ( followers as user ) \u007B  echo user-&gt;about(); \u007D",
   "id" : 73380541726064640,
-  "in_reply_to_status_id" : 73379802383523840,
   "created_at" : "2011-05-25 13:30:59 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2805,13 +2594,7 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 34, 45 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3856,57 +3639,6 @@ Grailbird.data.tweets_2011_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 3, 14 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "70265959780327424",
-  "text" : "RT @humphreybc: Woah, Lenovo Thinkpad X1 looks awesome! Thin, tough, fast, light, beautiful. http:\/\/bit.ly\/mQJ72K",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "70263995118002176",
-    "text" : "Woah, Lenovo Thinkpad X1 looks awesome! Thin, tough, fast, light, beautiful. http:\/\/bit.ly\/mQJ72K",
-    "id" : 70263995118002176,
-    "created_at" : "2011-05-16 23:06:56 +0000",
-    "user" : {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "protected" : false,
-      "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865047614139629568\/Yve1_bF-_normal.jpg",
-      "id" : 94178695,
-      "verified" : false
-    }
-  },
-  "id" : 70265959780327424,
-  "created_at" : "2011-05-16 23:14:44 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4777,7 +4509,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "newscientist",
       "protected" : false,
       "id_str" : "19658826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843789564074496001\/m34mTHmg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/960860144329469953\/Tc-GOIGJ_normal.jpg",
       "id" : 19658826,
       "verified" : true
     }
@@ -4796,27 +4528,16 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "64852577044533249",
   "geo" : { },
   "id_str" : "64853540778164224",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc dev kit can do it without being rooted in debug mode ;). But yeah, stock OS really should be able to..",
   "id" : 64853540778164224,
-  "in_reply_to_status_id" : 64852577044533249,
   "created_at" : "2011-05-02 00:47:43 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

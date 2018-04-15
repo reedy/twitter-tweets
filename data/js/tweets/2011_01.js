@@ -1683,7 +1683,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "firebox",
       "protected" : false,
       "id_str" : "15083005",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/900744018086285312\/zRb69cmq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980711480856338433\/ZmhfV8V2_normal.jpg",
       "id" : 15083005,
       "verified" : true
     }

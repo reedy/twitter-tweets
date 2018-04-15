@@ -71,6 +71,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 2004
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/eWYEFo9rcS"
     } ],
     "hashtags" : [ ],
@@ -287,6 +288,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1512
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Qjq6CivDfM"
     } ],
     "hashtags" : [ ],
@@ -500,6 +502,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/64qzwRgLCE"
     } ],
     "hashtags" : [ ],
@@ -716,6 +719,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1036
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pdLAn11s34"
     } ],
     "hashtags" : [ ],
@@ -905,6 +909,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 2150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/yNkFqQXD2P"
     } ],
     "hashtags" : [ ],
@@ -1209,6 +1214,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Nn0oRqngH7"
     } ],
     "hashtags" : [ ],
@@ -1598,7 +1604,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1697,6 +1703,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 350
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qxNb0cwLHt"
     } ],
     "hashtags" : [ ],
@@ -1793,6 +1800,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/PWZ0cdp2cb"
     } ],
     "hashtags" : [ ],
@@ -1918,6 +1926,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Mqsksjw1jj"
     } ],
     "hashtags" : [ {
@@ -1979,6 +1988,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Peljb5lBG1"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/822876669748776962\/photo\/1",
@@ -2009,6 +2019,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 2016
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Peljb5lBG1"
     } ],
     "hashtags" : [ ],
@@ -2204,6 +2215,7 @@ Grailbird.data.tweets_2017_01 =
           "resize" : "fit",
           "w" : 615
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/DdaxlbiOj1"
       } ],
       "hashtags" : [ ],
@@ -2602,6 +2614,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/aEqaRkqQvE"
     } ],
     "hashtags" : [ ],
@@ -2663,6 +2676,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 468
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kBowFZeioX"
     } ],
     "hashtags" : [ ],
@@ -2796,6 +2810,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vfdmi7D8MJ"
     } ],
     "hashtags" : [ ],
@@ -2842,6 +2857,7 @@ Grailbird.data.tweets_2017_01 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/vfdmi7D8MJ"
       } ],
       "hashtags" : [ ],
@@ -2987,6 +3003,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1316
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/7KFGL9dQ7H"
     } ],
     "hashtags" : [ ],
@@ -3065,7 +3082,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wil 'Kick the Nazis off the tweeters' Wheaton",
+      "name" : "Wil 'Ban the Nazis' Wheaton",
       "screen_name" : "wilw",
       "indices" : [ 0, 5 ],
       "id_str" : "1183041",
@@ -3098,7 +3115,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 106, 117 ],
       "id_str" : "116534927",
@@ -3166,6 +3183,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1402
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/dIn1ryirVJ"
     } ],
     "hashtags" : [ ],
@@ -3280,6 +3298,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1572
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/1vUKNxV7Z4"
     } ],
     "hashtags" : [ ],
@@ -3802,6 +3821,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/OS3EizYhO3"
     } ],
     "hashtags" : [ ],
@@ -3893,6 +3913,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 942
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/aFBc9gK8kp"
     } ],
     "hashtags" : [ ],
@@ -3916,7 +3937,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3984,6 +4005,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/NTVLsWbK0f"
     } ],
     "hashtags" : [ ],
@@ -4146,6 +4168,7 @@ Grailbird.data.tweets_2017_01 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HH2Mw1Fy8u"
     } ],
     "hashtags" : [ ],

@@ -228,7 +228,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -292,7 +292,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83D\uDD79\uFE0F\uD83C\uDF84\uD83C\uDF85",
+      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -471,6 +471,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/XVFX2tEbHv"
       } ],
       "hashtags" : [ {
@@ -547,6 +548,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/9vmkHyPmLW"
     } ],
     "hashtags" : [ ],
@@ -593,6 +595,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/9vmkHyPmLW"
       } ],
       "hashtags" : [ ],
@@ -1002,6 +1005,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/aOmFAw4Mka"
     } ],
     "hashtags" : [ ],
@@ -1048,6 +1052,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/aOmFAw4Mka"
       } ],
       "hashtags" : [ ],
@@ -1248,6 +1253,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 480
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/QbR2l8qoet"
       } ],
       "hashtags" : [ {
@@ -1403,6 +1409,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/o6o25IenwH"
       } ],
       "hashtags" : [ ],
@@ -1500,6 +1507,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Nx9hFnOXd5"
     } ],
     "hashtags" : [ ],
@@ -1960,6 +1968,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1765
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/OcsPm7xFY9"
     } ],
     "hashtags" : [ ],
@@ -2006,6 +2015,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1765
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/OcsPm7xFY9"
       } ],
       "hashtags" : [ ],
@@ -2131,27 +2141,16 @@ Grailbird.data.tweets_2014_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "530464621166350337",
   "geo" : { },
   "id_str" : "530468224471953409",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Or they make people have enough free space (de ja vu apple?) to rearrange partitions and alike. Could be interesting at least",
   "id" : 530468224471953409,
-  "in_reply_to_status_id" : 530464621166350337,
   "created_at" : "2014-11-06 21:14:14 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2164,27 +2163,16 @@ Grailbird.data.tweets_2014_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "530464621166350337",
   "geo" : { },
   "id_str" : "530467897727270913",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc IIRC its for the security\/encryption changes. So I guess they either don't update it, and then people don't get the features",
   "id" : 530467897727270913,
-  "in_reply_to_status_id" : 530464621166350337,
   "created_at" : "2014-11-06 21:12:57 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2197,27 +2185,16 @@ Grailbird.data.tweets_2014_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "530464621166350337",
   "geo" : { },
   "id_str" : "530467659226578945",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Honestly not sure. Don't think they've had to do it before, new for L. They certainly can't just wipe it for everyone. Unhappy!",
   "id" : 530467659226578945,
-  "in_reply_to_status_id" : 530464621166350337,
   "created_at" : "2014-11-06 21:12:00 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2230,27 +2207,16 @@ Grailbird.data.tweets_2014_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "530314256747479041",
   "geo" : { },
   "id_str" : "530361453812146176",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc There were rumours you could if you modified the script that does it. Partition changes from 4 made it a no. From a 5 preview...",
   "id" : 530361453812146176,
-  "in_reply_to_status_id" : 530314256747479041,
   "created_at" : "2014-11-06 14:09:58 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3075,6 +3041,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 710
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/PxTQDRhK51"
     } ],
     "hashtags" : [ ],
@@ -3121,6 +3088,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 710
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/PxTQDRhK51"
       } ],
       "hashtags" : [ ],
@@ -3358,6 +3326,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/4VLhsLoWae"
       } ],
       "hashtags" : [ {
@@ -3384,7 +3353,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "RSComponents",
       "protected" : false,
       "id_str" : "44614050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613075018533044224\/sQSOw2oQ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951081251624177664\/SdSGgQZX_normal.jpg",
       "id" : 44614050,
       "verified" : true
     }

@@ -593,6 +593,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 816
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/g9EaCnUx0S"
     } ],
     "hashtags" : [ ],
@@ -848,6 +849,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 612
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Cyz4T27HlV"
     } ],
     "hashtags" : [ ],
@@ -991,7 +993,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "896089230241345538",
       "id" : 896089230241345538
     }, {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 14, 29 ],
       "id_str" : "28117032",
@@ -1102,7 +1104,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "209004862",
       "id" : 209004862
     }, {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 83, 98 ],
       "id_str" : "28117032",
@@ -1316,6 +1318,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gZ5NL6NZzf"
     } ],
     "hashtags" : [ {
@@ -1363,6 +1366,7 @@ Grailbird.data.tweets_2013_09 =
           "resize" : "fit",
           "w" : 600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/gZ5NL6NZzf"
       } ],
       "hashtags" : [ {
@@ -1384,7 +1388,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "AngryBirds",
       "protected" : false,
       "id_str" : "17337554",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927521433965785089\/0nO-z1D4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983355108191764480\/alyWX1Cj_normal.jpg",
       "id" : 17337554,
       "verified" : true
     }
@@ -1516,6 +1520,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 612
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/akMhUJISQ3"
     } ],
     "hashtags" : [ ],
@@ -2836,7 +2841,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564801097869426693\/4SqRzoTD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952822354807312384\/LymP40q-_normal.jpg",
       "id" : 7905122,
       "verified" : true
     }
@@ -2897,7 +2902,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564801097869426693\/4SqRzoTD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952822354807312384\/LymP40q-_normal.jpg",
       "id" : 7905122,
       "verified" : true
     }
@@ -4182,7 +4187,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "14421746",
       "id" : 14421746
     }, {
-      "name" : "Sugar Icebox Plum Fairy",
+      "name" : "Another Angry Woman",
       "screen_name" : "stavvers",
       "indices" : [ 18, 27 ],
       "id_str" : "67319718",
@@ -4204,7 +4209,7 @@ Grailbird.data.tweets_2013_09 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Sugar Icebox Plum Fairy",
+        "name" : "Another Angry Woman",
         "screen_name" : "stavvers",
         "indices" : [ 3, 12 ],
         "id_str" : "67319718",
@@ -4229,7 +4234,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "rikkiends",
       "protected" : false,
       "id_str" : "14421746",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/887460500929470464\/4L1w3_ID_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947908882545946624\/9tH_9GMY_normal.jpg",
       "id" : 14421746,
       "verified" : false
     }
@@ -4333,6 +4338,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 1224
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/u0y5TTnKwh"
     } ],
     "hashtags" : [ {
@@ -5516,6 +5522,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 768
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/u4rwvYLHmF"
     } ],
     "hashtags" : [ ],
@@ -6204,12 +6211,6 @@ Grailbird.data.tweets_2013_09 =
       "indices" : [ 0, 7 ],
       "id_str" : "30003712",
       "id" : 30003712
-    }, {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 8, 19 ],
-      "id_str" : "94178695",
-      "id" : 94178695
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6237,27 +6238,16 @@ Grailbird.data.tweets_2013_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "375782113082998784",
   "geo" : { },
   "id_str" : "375782382122450945",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc A Nexus 4 bumper is a worthwhile investment!",
   "id" : 375782382122450945,
-  "in_reply_to_status_id" : 375782113082998784,
   "created_at" : "2013-09-06 00:47:56 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

@@ -609,67 +609,6 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 3, 14 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 61, 81 ],
-      "url" : "http:\/\/t.co\/224fFMOV",
-      "expanded_url" : "http:\/\/gu.com\/p\/323gz",
-      "display_url" : "gu.com\/p\/323gz"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "119385831331987456",
-  "text" : "RT @humphreybc: Crikey. This is a simply amazing photograph. http:\/\/t.co\/224fFMOV",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 45, 65 ],
-        "url" : "http:\/\/t.co\/224fFMOV",
-        "expanded_url" : "http:\/\/gu.com\/p\/323gz",
-        "display_url" : "gu.com\/p\/323gz"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "119384994706767872",
-    "text" : "Crikey. This is a simply amazing photograph. http:\/\/t.co\/224fFMOV",
-    "id" : 119384994706767872,
-    "created_at" : "2011-09-29 12:16:15 +0000",
-    "user" : {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "protected" : false,
-      "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865047614139629568\/Yve1_bF-_normal.jpg",
-      "id" : 94178695,
-      "verified" : false
-    }
-  },
-  "id" : 119385831331987456,
-  "created_at" : "2011-09-29 12:19:34 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1261,27 +1200,16 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "118500357180628992",
   "geo" : { },
   "id_str" : "118503551617081344",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Don't think its firmed up yet. Seems to be listed as \"October\/November\" on most sites based on a September keynote",
   "id" : 118503551617081344,
-  "in_reply_to_status_id" : 118500357180628992,
   "created_at" : "2011-09-27 01:53:43 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1487,27 +1415,16 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/ubersocial.com\" rel=\"nofollow\"\u003EUberSocial for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "118492680706736128",
   "geo" : { },
   "id_str" : "118492831412260864",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc via a different protocol?",
   "id" : 118492831412260864,
-  "in_reply_to_status_id" : 118492680706736128,
   "created_at" : "2011-09-27 01:11:07 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1770,7 +1687,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/938369316382216192\/kPRHBRlr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949289244765360130\/Bm5IWoE__normal.jpg",
       "id" : 16170178,
       "verified" : false
     }
@@ -2857,7 +2774,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/ubersocial.com\" rel=\"nofollow\"\u003EUberSocial for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -2890,7 +2807,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/ubersocial.com\" rel=\"nofollow\"\u003EUberSocial for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -3843,7 +3760,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "22090282",
       "id" : 22090282
     }, {
-      "name" : "snarchasm",
+      "name" : "Post Alone",
       "screen_name" : "djromes",
       "indices" : [ 90, 98 ],
       "id_str" : "18334046",
@@ -3860,7 +3777,7 @@ Grailbird.data.tweets_2011_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "snarchasm",
+        "name" : "Post Alone",
         "screen_name" : "djromes",
         "indices" : [ 69, 77 ],
         "id_str" : "18334046",
@@ -3936,13 +3853,13 @@ Grailbird.data.tweets_2011_09 =
     "id" : 116268348941152257,
     "created_at" : "2011-09-20 21:51:49 +0000",
     "user" : {
-      "name" : "(\u256F\u00B0\u25A1\u00B0\uFF09\u256F\uFE35\u253B\u2501\u253B u\u028E\u0279 )",
-      "screen_name" : "beerops",
+      "name" : "Ryn Daniels",
+      "screen_name" : "rynchantress",
       "protected" : false,
       "id_str" : "260044118",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/878961697943322624\/AKNRpxf8_normal.jpg",
       "id" : 260044118,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 116275707625218048,
@@ -6776,12 +6693,6 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "14822382",
       "id" : 14822382
     }, {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 6, 17 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Nappa",
       "screen_name" : "DBZNappa",
       "indices" : [ 21, 30 ],
@@ -6824,12 +6735,6 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 0, 5 ],
       "id_str" : "14822382",
       "id" : 14822382
-    }, {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 6, 17 ],
-      "id_str" : "94178695",
-      "id" : 94178695
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7395,7 +7300,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -7428,7 +7333,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -7461,7 +7366,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -7499,7 +7404,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -7779,27 +7684,16 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "109618273942908928",
   "geo" : { },
   "id_str" : "109618383372304384",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc That's would be a decent name for a LTS ;)",
   "id" : 109618383372304384,
-  "in_reply_to_status_id" : 109618273942908928,
   "created_at" : "2011-09-02 13:27:13 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

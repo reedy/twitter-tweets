@@ -3,6 +3,43 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Strongspace",
+      "screen_name" : "Strongspace",
+      "indices" : [ 0, 12 ],
+      "id_str" : "21824952",
+      "id" : 21824952
+    }, {
+      "name" : "ExpanDrive",
+      "screen_name" : "expandrive",
+      "indices" : [ 13, 24 ],
+      "id_str" : "14117492",
+      "id" : 14117492
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17424629744",
+  "in_reply_to_user_id" : 21824952,
+  "text" : "@strongspace @expandrive When can new users sign up? :P",
+  "id" : 17424629744,
+  "created_at" : "2010-06-30 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Strongspace",
+  "in_reply_to_user_id_str" : "21824952",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Siebrand Mazeland",
       "screen_name" : "translatewiki",
       "indices" : [ 3, 17 ],
@@ -172,7 +209,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "NovatechLtd",
       "protected" : false,
       "id_str" : "21849534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105600292\/RETAIL_LOGO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/963782497506086912\/Gr71cigi_normal.jpg",
       "id" : 21849534,
       "verified" : false
     }
@@ -191,27 +228,16 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "17402571314",
   "geo" : { },
   "id_str" : "17403081154",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc My steam folder alone is over 200GB...",
   "id" : 17403081154,
-  "in_reply_to_status_id" : 17402571314,
   "created_at" : "2010-06-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -267,43 +293,6 @@ Grailbird.data.tweets_2010_06 =
   "text" : "Why does my work email always give \"Service Temporarily Unavailable\" on VMWares site? But my personal email account is fine? :\/",
   "id" : 17424508464,
   "created_at" : "2010-06-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Strongspace",
-      "screen_name" : "Strongspace",
-      "indices" : [ 0, 12 ],
-      "id_str" : "21824952",
-      "id" : 21824952
-    }, {
-      "name" : "ExpanDrive",
-      "screen_name" : "expandrive",
-      "indices" : [ 13, 24 ],
-      "id_str" : "14117492",
-      "id" : 14117492
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17424629744",
-  "in_reply_to_user_id" : 21824952,
-  "text" : "@strongspace @expandrive When can new users sign up? :P",
-  "id" : 17424629744,
-  "created_at" : "2010-06-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Strongspace",
-  "in_reply_to_user_id_str" : "21824952",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -641,7 +630,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Revo | Fuzzyness",
+      "name" : "Fuzzyness",
       "screen_name" : "Fuzzyness",
       "indices" : [ 0, 10 ],
       "id_str" : "1513268550",
@@ -730,7 +719,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Revo | Fuzzyness",
+      "name" : "Fuzzyness",
       "screen_name" : "Fuzzyness",
       "indices" : [ 0, 10 ],
       "id_str" : "1513268550",
@@ -978,63 +967,6 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 3, 14 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ENG",
-      "indices" : [ 22, 26 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16852641091",
-  "text" : "RT @humphreybc: hopes #ENG lose.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "ENG",
-        "indices" : [ 6, 10 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "16851884252",
-    "text" : "hopes #ENG lose.",
-    "id" : 16851884252,
-    "created_at" : "2010-06-23 14:01:37 +0000",
-    "user" : {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "protected" : false,
-      "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865047614139629568\/Yve1_bF-_normal.jpg",
-      "id" : 94178695,
-      "verified" : false
-    }
-  },
-  "id" : 16852641091,
-  "created_at" : "2010-06-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Phil Cluff",
       "screen_name" : "GeneticGenesis",
       "indices" : [ 0, 15 ],
@@ -1171,7 +1103,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "hhariri",
       "protected" : false,
       "id_str" : "15797140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731390445838839809\/0zvrOZE0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983417164131635200\/6ToRcNzM_normal.jpg",
       "id" : 15797140,
       "verified" : false
     }
@@ -1373,27 +1305,16 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "16678795107",
   "geo" : { },
   "id_str" : "16679132696",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc CLI ftw ;) dpkg -l",
   "id" : 16679132696,
-  "in_reply_to_status_id" : 16678795107,
   "created_at" : "2010-06-21 00:00:00 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1427,6 +1348,56 @@ Grailbird.data.tweets_2010_06 =
   "created_at" : "2010-06-21 00:00:00 +0000",
   "in_reply_to_screen_name" : "mickster04",
   "in_reply_to_user_id_str" : "20236006",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 19, 22 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "16530205665",
+  "text" : "Yay. No spec cams. #fb",
+  "id" : 16530205665,
+  "created_at" : "2010-06-19 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 33, 36 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "16531937873",
+  "text" : "Watford gap. We're in the south! #fb",
+  "id" : 16531937873,
+  "created_at" : "2010-06-19 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1573,7 +1544,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andy Taylor \uD83C\uDDEC\uD83C\uDDE7",
+      "name" : "Andy Taylor \uD83D\uDD79",
       "screen_name" : "andytuk",
       "indices" : [ 3, 11 ],
       "id_str" : "14919826",
@@ -1618,11 +1589,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 16575310533,
     "created_at" : "2010-06-19 22:37:35 +0000",
     "user" : {
-      "name" : "Andy Taylor \uD83C\uDDEC\uD83C\uDDE7",
+      "name" : "Andy Taylor \uD83D\uDD79",
       "screen_name" : "andytuk",
       "protected" : false,
       "id_str" : "14919826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898608337813725184\/gP1kMLla_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/974398573935841280\/4aq8CR9M_normal.jpg",
       "id" : 14919826,
       "verified" : false
     }
@@ -1683,56 +1654,6 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16525866772",
   "text" : "It's raining, and I have no coat. Ffs",
   "id" : 16525866772,
-  "created_at" : "2010-06-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 19, 22 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16530205665",
-  "text" : "Yay. No spec cams. #fb",
-  "id" : 16530205665,
-  "created_at" : "2010-06-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 33, 36 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16531937873",
-  "text" : "Watford gap. We're in the south! #fb",
-  "id" : 16531937873,
   "created_at" : "2010-06-19 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
@@ -1875,7 +1796,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -1941,7 +1862,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Revo | Fuzzyness",
+      "name" : "Fuzzyness",
       "screen_name" : "Fuzzyness",
       "indices" : [ 0, 10 ],
       "id_str" : "1513268550",
@@ -2011,7 +1932,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "15205083",
       "id" : 15205083
     }, {
-      "name" : "Revo | Fuzzyness",
+      "name" : "Fuzzyness",
       "screen_name" : "Fuzzyness",
       "indices" : [ 10, 20 ],
       "id_str" : "1513268550",
@@ -2108,7 +2029,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -2264,7 +2185,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -2361,7 +2282,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -2394,7 +2315,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thebigboo",
+      "name" : "Jon Baker",
       "screen_name" : "thebigboo",
       "indices" : [ 0, 10 ],
       "id_str" : "15866848",
@@ -3160,6 +3081,97 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brion Vibber",
+      "screen_name" : "brionv",
+      "indices" : [ 3, 10 ],
+      "id_str" : "16488676",
+      "id" : 16488676
+    }, {
+      "name" : "#DefendDACA",
+      "screen_name" : "MarkDilley",
+      "indices" : [ 15, 26 ],
+      "id_str" : "899271",
+      "id" : 899271
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15648952940",
+  "text" : "RT @brionv: RT @markdilley The BP Fail Whale http:\/\/derekmarkham.com\/the-bp-fail-whale",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "#DefendDACA",
+        "screen_name" : "MarkDilley",
+        "indices" : [ 3, 14 ],
+        "id_str" : "899271",
+        "id" : 899271
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "15648876951",
+    "text" : "RT @markdilley The BP Fail Whale http:\/\/derekmarkham.com\/the-bp-fail-whale",
+    "id" : 15648876951,
+    "created_at" : "2010-06-07 18:48:35 +0000",
+    "user" : {
+      "name" : "Brion Vibber",
+      "screen_name" : "brionv",
+      "protected" : false,
+      "id_str" : "16488676",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856367753\/Avatar-120-Brion_normal.jpg",
+      "id" : 16488676,
+      "verified" : false
+    }
+  },
+  "id" : 15648952940,
+  "created_at" : "2010-06-07 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "care",
+      "indices" : [ 44, 49 ]
+    }, {
+      "text" : "fb",
+      "indices" : [ 50, 53 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15651402358",
+  "text" : "OMG OMG OMG OMG THERE IS A NEW IPHONE. And? #care #fb",
+  "id" : 15651402358,
+  "created_at" : "2010-06-07 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
@@ -3301,97 +3313,6 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Brion Vibber",
-      "screen_name" : "brionv",
-      "indices" : [ 3, 10 ],
-      "id_str" : "16488676",
-      "id" : 16488676
-    }, {
-      "name" : "#DefendDACA",
-      "screen_name" : "MarkDilley",
-      "indices" : [ 15, 26 ],
-      "id_str" : "899271",
-      "id" : 899271
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15648952940",
-  "text" : "RT @brionv: RT @markdilley The BP Fail Whale http:\/\/derekmarkham.com\/the-bp-fail-whale",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "#DefendDACA",
-        "screen_name" : "MarkDilley",
-        "indices" : [ 3, 14 ],
-        "id_str" : "899271",
-        "id" : 899271
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15648876951",
-    "text" : "RT @markdilley The BP Fail Whale http:\/\/derekmarkham.com\/the-bp-fail-whale",
-    "id" : 15648876951,
-    "created_at" : "2010-06-07 18:48:35 +0000",
-    "user" : {
-      "name" : "Brion Vibber",
-      "screen_name" : "brionv",
-      "protected" : false,
-      "id_str" : "16488676",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856367753\/Avatar-120-Brion_normal.jpg",
-      "id" : 16488676,
-      "verified" : false
-    }
-  },
-  "id" : 15648952940,
-  "created_at" : "2010-06-07 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "care",
-      "indices" : [ 44, 49 ]
-    }, {
-      "text" : "fb",
-      "indices" : [ 50, 53 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15651402358",
-  "text" : "OMG OMG OMG OMG THERE IS A NEW IPHONE. And? #care #fb",
-  "id" : 15651402358,
-  "created_at" : "2010-06-07 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -3472,27 +3393,16 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "15412834278",
   "geo" : { },
   "id_str" : "15417025720",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc read only no, writable yes, guest ok yes. On security set to share. Why smb for linux? Use sftp?",
   "id" : 15417025720,
-  "in_reply_to_status_id" : 15412834278,
   "created_at" : "2010-06-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3538,25 +3448,16 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "15319094269",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc \"New Mini 9 is so cute\" - How manly of you ;)",
   "id" : 15319094269,
   "created_at" : "2010-06-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3907,7 +3808,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564801097869426693\/4SqRzoTD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952822354807312384\/LymP40q-_normal.jpg",
       "id" : 7905122,
       "verified" : true
     }

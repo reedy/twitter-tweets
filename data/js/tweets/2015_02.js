@@ -109,6 +109,7 @@ Grailbird.data.tweets_2015_02 =
         "resize" : "fit",
         "w" : 612
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/dr1T79Iv3I"
     } ],
     "hashtags" : [ ],

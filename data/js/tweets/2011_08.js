@@ -1499,27 +1499,16 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "106683468485894144",
   "geo" : { },
   "id_str" : "106683708865650688",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc the drop down notification window can be used for most. But yeah, surely home\/back would be needed for full screen apps? :\/",
   "id" : 106683708865650688,
-  "in_reply_to_status_id" : 106683468485894144,
   "created_at" : "2011-08-25 11:05:52 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1565,27 +1554,16 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "106682255031795712",
   "geo" : { },
   "id_str" : "106683190185435136",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Hopefully that'll give more screen space\/smaller phone. Rather than just a black rectangle at one end of the phone...",
   "id" : 106683190185435136,
-  "in_reply_to_status_id" : 106682255031795712,
   "created_at" : "2011-08-25 11:03:49 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1598,27 +1576,16 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "106682255031795712",
   "geo" : { },
   "id_str" : "106683104856514560",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Seems reasonably sensible (for those who don't need a hardware keyboard, might aswell rid some of the buttons.",
   "id" : 106683104856514560,
-  "in_reply_to_status_id" : 106682255031795712,
   "created_at" : "2011-08-25 11:03:28 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1631,27 +1598,16 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "106681814046883840",
   "geo" : { },
   "id_str" : "106682022285672448",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Surely they'd need a power button at least?",
   "id" : 106682022285672448,
-  "in_reply_to_status_id" : 106681814046883840,
   "created_at" : "2011-08-25 10:59:10 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3133,7 +3089,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "d0od",
       "protected" : false,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/938838918081974272\/5QFhHk1z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979079978838122497\/zwMYJkCN_normal.jpg",
       "id" : 14822382,
       "verified" : false
     }
@@ -3770,27 +3726,16 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "103447688334409730",
   "geo" : { },
   "id_str" : "103451998925492224",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Haha. WTF!?",
   "id" : 103451998925492224,
-  "in_reply_to_status_id" : 103447688334409730,
   "created_at" : "2011-08-16 13:04:13 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3803,27 +3748,16 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "103447688334409730",
   "geo" : { },
   "id_str" : "103451805547114497",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Test Drive Unlimited 2 did that to me on steam. Had already downloaded another 12GB+",
   "id" : 103451805547114497,
-  "in_reply_to_status_id" : 103447688334409730,
   "created_at" : "2011-08-16 13:03:27 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3900,27 +3834,16 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "103378965116362752",
   "geo" : { },
   "id_str" : "103379254410100736",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc It's also somewhat amazing that it will run on a mobile device. It looks of similar quality to some of the not so old GTA games",
   "id" : 103379254410100736,
-  "in_reply_to_status_id" : 103378965116362752,
   "created_at" : "2011-08-16 08:15:09 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5335,12 +5258,6 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
@@ -5351,16 +5268,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "100861753784668160",
   "geo" : { },
   "id_str" : "100862524936814592",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc @d0od Exactly, teh awesomes live. I have a friend who uses \"I'm not a racist, BUT...\".  Err, yeah",
   "id" : 100862524936814592,
-  "in_reply_to_status_id" : 100861753784668160,
   "created_at" : "2011-08-09 09:34:34 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5374,12 +5286,6 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
@@ -5390,16 +5296,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "100861753784668160",
   "geo" : { },
   "id_str" : "100862226671468544",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc @d0od http:\/\/bit.ly\/pBrfGR IMMIGRANTS! Anyway. You're all immigrants. Though, not so much the convicts descendants of AUS",
   "id" : 100862226671468544,
-  "in_reply_to_status_id" : 100861753784668160,
   "created_at" : "2011-08-09 09:33:23 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5413,12 +5314,6 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
@@ -5429,16 +5324,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "100860797328171009",
   "geo" : { },
   "id_str" : "100861412708061184",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc @d0od Lots. Without hopefully sounding racist, it's got load of \"Asians\" (most are Indians). And we have loads of east europeans",
   "id" : 100861412708061184,
-  "in_reply_to_status_id" : 100860797328171009,
   "created_at" : "2011-08-09 09:30:09 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5452,12 +5342,6 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
@@ -5468,16 +5352,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "100860242530811906",
   "geo" : { },
   "id_str" : "100860565265719296",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc @d0od We've got tonnes of immigrants. Sheesh!",
   "id" : 100860565265719296,
-  "in_reply_to_status_id" : 100860242530811906,
   "created_at" : "2011-08-09 09:26:47 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5491,12 +5370,6 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "Joey Sneddon",
       "screen_name" : "d0od",
       "indices" : [ 12, 17 ],
@@ -5507,16 +5380,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "100859726027440128",
   "geo" : { },
   "id_str" : "100859964490399744",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc @d0od Selective breeding would do a better job. If IQ &lt; somelowvalue LOLNOUCANNOTHASCHILDREN",
   "id" : 100859964490399744,
-  "in_reply_to_status_id" : 100859726027440128,
   "created_at" : "2011-08-09 09:24:24 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5554,27 +5422,16 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "100707050593591296",
   "geo" : { },
   "id_str" : "100708332007981056",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc Well, there's the obvious answer....",
   "id" : 100708332007981056,
-  "in_reply_to_status_id" : 100707050593591296,
   "created_at" : "2011-08-08 23:21:52 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5674,7 +5531,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "d0od",
       "protected" : false,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/938838918081974272\/5QFhHk1z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979079978838122497\/zwMYJkCN_normal.jpg",
       "id" : 14822382,
       "verified" : false
     }
@@ -6406,7 +6263,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564801097869426693\/4SqRzoTD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952822354807312384\/LymP40q-_normal.jpg",
       "id" : 7905122,
       "verified" : true
     }

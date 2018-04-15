@@ -1446,7 +1446,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1537,7 +1537,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1570,7 +1570,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1658,7 +1658,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1691,7 +1691,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1724,7 +1724,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -1815,7 +1815,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2796,7 +2796,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2829,7 +2829,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -2862,7 +2862,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
@@ -3044,6 +3044,7 @@ Grailbird.data.tweets_2011_12 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qutszq9V"
     } ],
     "hashtags" : [ ],
@@ -3091,6 +3092,7 @@ Grailbird.data.tweets_2011_12 =
           "resize" : "fit",
           "w" : 1920
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/qutszq9V"
       } ],
       "hashtags" : [ ],
@@ -4567,12 +4569,6 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 12, 23 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "OMG! UBUNTU!",
       "screen_name" : "omgubuntu",
       "indices" : [ 24, 34 ],
@@ -4642,12 +4638,6 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 12, 23 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "OMG! UBUNTU!",
       "screen_name" : "omgubuntu",
       "indices" : [ 24, 34 ],
@@ -4687,12 +4677,6 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "60264283",
       "id" : 60264283
     }, {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 12, 23 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "OMG! UBUNTU!",
       "screen_name" : "omgubuntu",
       "indices" : [ 24, 34 ],
@@ -4726,12 +4710,6 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
       "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
       "screen_name" : "jamgregory",
       "indices" : [ 12, 23 ],
@@ -4748,16 +4726,11 @@ Grailbird.data.tweets_2011_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "144932789731598338",
   "geo" : { },
   "id_str" : "144932871285645312",
-  "in_reply_to_user_id" : 94178695,
   "text" : "@humphreybc @jamgregory @omgubuntu Minced?",
   "id" : 144932871285645312,
-  "in_reply_to_status_id" : 144932789731598338,
   "created_at" : "2011-12-09 00:14:23 +0000",
-  "in_reply_to_screen_name" : "humphreybc",
-  "in_reply_to_user_id_str" : "94178695",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5181,79 +5154,6 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "indices" : [ 3, 14 ],
-      "id_str" : "94178695",
-      "id" : 94178695
-    }, {
-      "name" : "The Verge",
-      "screen_name" : "verge",
-      "indices" : [ 120, 126 ],
-      "id_str" : "275686563",
-      "id" : 275686563
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 95, 115 ],
-      "url" : "http:\/\/t.co\/UmS7GftQ",
-      "expanded_url" : "http:\/\/www.theverge.com\/2011\/12\/6\/2615529\/good-deal-ten-android-apps-10-cents-each",
-      "display_url" : "theverge.com\/2011\/12\/6\/2615\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "144167658185699328",
-  "text" : "RT @humphreybc: Good Deal: Minecraft and nine other Android apps for 10 cents each | The Verge http:\/\/t.co\/UmS7GftQ via @verge",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "The Verge",
-        "screen_name" : "verge",
-        "indices" : [ 104, 110 ],
-        "id_str" : "275686563",
-        "id" : 275686563
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 79, 99 ],
-        "url" : "http:\/\/t.co\/UmS7GftQ",
-        "expanded_url" : "http:\/\/www.theverge.com\/2011\/12\/6\/2615529\/good-deal-ten-android-apps-10-cents-each",
-        "display_url" : "theverge.com\/2011\/12\/6\/2615\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "144166819698196480",
-    "text" : "Good Deal: Minecraft and nine other Android apps for 10 cents each | The Verge http:\/\/t.co\/UmS7GftQ via @verge",
-    "id" : 144166819698196480,
-    "created_at" : "2011-12-06 21:30:22 +0000",
-    "user" : {
-      "name" : "Benjamin Humphrey",
-      "screen_name" : "humphreybc",
-      "protected" : false,
-      "id_str" : "94178695",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865047614139629568\/Yve1_bF-_normal.jpg",
-      "id" : 94178695,
-      "verified" : false
-    }
-  },
-  "id" : 144167658185699328,
-  "created_at" : "2011-12-06 21:33:42 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Robin Burchell",
       "screen_name" : "w00teh",
       "indices" : [ 0, 7 ],
@@ -5287,7 +5187,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boomerangmouth",
+      "name" : "Tom Goulden",
       "screen_name" : "boomerangmouth",
       "indices" : [ 0, 15 ],
       "id_str" : "28117032",
