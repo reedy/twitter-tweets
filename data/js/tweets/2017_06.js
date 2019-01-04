@@ -958,7 +958,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/mariotaku\/twidere\/\" rel=\"nofollow\"\u003ETwidere for Android #7\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Edward Tj Gerety III",
+      "name" : "Edward 'Tj' Gerety III",
       "screen_name" : "EdwardGeretyIII",
       "indices" : [ 0, 16 ],
       "id_str" : "465854208",
@@ -1972,12 +1972,6 @@ Grailbird.data.tweets_2017_06 =
       "indices" : [ 0, 16 ],
       "id_str" : "35458032",
       "id" : 35458032
-    }, {
-      "name" : "WHG Customer Care",
-      "screen_name" : "WHGSupport",
-      "indices" : [ 17, 28 ],
-      "id_str" : "3248377945",
-      "id" : 3248377945
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2011,12 +2005,6 @@ Grailbird.data.tweets_2017_06 =
       "indices" : [ 0, 16 ],
       "id_str" : "35458032",
       "id" : 35458032
-    }, {
-      "name" : "WHG Customer Care",
-      "screen_name" : "WHGSupport",
-      "indices" : [ 17, 28 ],
-      "id_str" : "3248377945",
-      "id" : 3248377945
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2050,12 +2038,6 @@ Grailbird.data.tweets_2017_06 =
       "indices" : [ 0, 16 ],
       "id_str" : "35458032",
       "id" : 35458032
-    }, {
-      "name" : "WHG Customer Care",
-      "screen_name" : "WHGSupport",
-      "indices" : [ 17, 28 ],
-      "id_str" : "3248377945",
-      "id" : 3248377945
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2089,12 +2071,6 @@ Grailbird.data.tweets_2017_06 =
       "indices" : [ 24, 40 ],
       "id_str" : "35458032",
       "id" : 35458032
-    }, {
-      "name" : "WHG Customer Care",
-      "screen_name" : "WHGSupport",
-      "indices" : [ 41, 52 ],
-      "id_str" : "3248377945",
-      "id" : 3248377945
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2714,7 +2690,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",

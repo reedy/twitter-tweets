@@ -3804,7 +3804,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tesco Mobile Care",
+      "name" : "*ACCOUNT CLOSED* Tesco Mobile Care",
       "screen_name" : "tescomobilecare",
       "indices" : [ 0, 16 ],
       "id_str" : "312702673",
@@ -3843,7 +3843,7 @@ Grailbird.data.tweets_2017_10 =
       "id_str" : "35767597",
       "id" : 35767597
     }, {
-      "name" : "Tesco Mobile Care",
+      "name" : "*ACCOUNT CLOSED* Tesco Mobile Care",
       "screen_name" : "tescomobilecare",
       "indices" : [ 13, 29 ],
       "id_str" : "312702673",

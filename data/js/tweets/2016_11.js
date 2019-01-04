@@ -57,7 +57,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -391,7 +391,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "TheRealRevK",
       "protected" : false,
       "id_str" : "227666609",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980113696654491653\/1brSP4Vj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005433381109354496\/dzSAAWff_normal.jpg",
       "id" : 227666609,
       "verified" : false
     }
@@ -723,7 +723,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -1143,7 +1143,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wil 'Ban the Nazis' Wheaton",
+      "name" : "Wil 'this account mocks fascists' Wheaton",
       "screen_name" : "wilw",
       "indices" : [ 3, 8 ],
       "id_str" : "1183041",
@@ -1232,7 +1232,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 799765750336471040,
     "created_at" : "2016-11-19 00:06:28 +0000",
     "user" : {
-      "name" : "Wil 'Ban the Nazis' Wheaton",
+      "name" : "Wil 'this account mocks fascists' Wheaton",
       "screen_name" : "wilw",
       "protected" : false,
       "id_str" : "1183041",
@@ -1406,7 +1406,7 @@ Grailbird.data.tweets_2016_11 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -1421,7 +1421,7 @@ Grailbird.data.tweets_2016_11 =
   "text" : "@veeam Have you guys got a guide on best way to upgrade from SQL 2008 to SQL 2012 to go with 9.5? Thanks!",
   "id" : 798942781980999681,
   "created_at" : "2016-11-16 17:36:17 +0000",
-  "in_reply_to_screen_name" : "veeam",
+  "in_reply_to_screen_name" : "Veeam",
   "in_reply_to_user_id_str" : "14908404",
   "user" : {
     "name" : "Sam Reed",
@@ -1633,7 +1633,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1666,7 +1666,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1699,7 +1699,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2893,7 +2893,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2926,7 +2926,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2981,7 +2981,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3137,7 +3137,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3331,7 +3331,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3416,13 +3416,7 @@ Grailbird.data.tweets_2016_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3435,7 +3429,7 @@ Grailbird.data.tweets_2016_11 =
   "id" : 795366818735161349,
   "in_reply_to_status_id" : 795366354715086850,
   "created_at" : "2016-11-06 20:46:41 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3765,7 +3759,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3880,7 +3874,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Quickline",
+      "name" : "QuicklineTTV",
       "screen_name" : "Quickline",
       "indices" : [ 1, 11 ],
       "id_str" : "810461718488854528",
@@ -3913,7 +3907,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Quickline",
+      "name" : "QuicklineTTV",
       "screen_name" : "Quickline",
       "indices" : [ 21, 31 ],
       "id_str" : "810461718488854528",

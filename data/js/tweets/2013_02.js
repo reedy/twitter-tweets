@@ -103,7 +103,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "306488084764176384",
   "text" : "RT @serverdensity: Stack Exchange\u2019s Colocation Move: 8 Lessons Learned - http:\/\/t.co\/5mvboaOCjF #sysadmin",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -128,7 +128,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "serverdensity",
       "protected" : false,
       "id_str" : "23840756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/909668281161830400\/v__fC49Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047501116399915008\/wKzxCFLv_normal.jpg",
       "id" : 23840756,
       "verified" : true
     }
@@ -514,13 +514,7 @@ Grailbird.data.tweets_2013_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -533,7 +527,7 @@ Grailbird.data.tweets_2013_02 =
   "id" : 305638035142361088,
   "in_reply_to_status_id" : 305632796465041409,
   "created_at" : "2013-02-24 11:19:20 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1062,13 +1056,7 @@ Grailbird.data.tweets_2013_02 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1081,7 +1069,7 @@ Grailbird.data.tweets_2013_02 =
   "id" : 304012988187287553,
   "in_reply_to_status_id" : 304012857127866368,
   "created_at" : "2013-02-19 23:41:59 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1459,7 +1447,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Such Much Such",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -1825,7 +1813,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "Raspberry_Pi",
       "protected" : false,
       "id_str" : "302666251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948144512341245952\/5pw6pkFu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059394175597248513\/MxhM2gTQ_normal.jpg",
       "id" : 302666251,
       "verified" : true
     }
@@ -2505,7 +2493,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 23, 32 ],
       "id_str" : "29484376",
@@ -2892,7 +2880,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -2925,7 +2913,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GiveBlood NHS  \uD83D\uDC89",
+      "name" : "GiveBlood NHS \uD83C\uDF89\uD83E\uDDE8",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 9, 22 ],
       "id_str" : "304952647",

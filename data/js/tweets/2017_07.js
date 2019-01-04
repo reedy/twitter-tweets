@@ -182,7 +182,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1257,7 +1257,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/mariotaku\/twidere\/\" rel=\"nofollow\"\u003ETwidere for Android #7\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -1327,7 +1327,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/mariotaku\/twidere\/\" rel=\"nofollow\"\u003ETwidere for Android #7\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -1380,7 +1380,7 @@ Grailbird.data.tweets_2017_07 =
   "id_str" : "888948909376241664",
   "text" : "RT @FreedomToDonate: WE DID IT. Today, our campaign welcomes a world-leading blood donation policy for the UK. Find out how in this video\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1569,7 +1569,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/mariotaku\/twidere\/\" rel=\"nofollow\"\u003ETwidere for Android #7\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Niharika Kohli",
+      "name" : "Niharika \u2615\uFE0F",
       "screen_name" : "niharikakohli29",
       "indices" : [ 0, 16 ],
       "id_str" : "2588726972",
@@ -4372,11 +4372,11 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CSS-Tricks",
+      "name" : "Chris Coyier",
       "screen_name" : "Real_CSS_Tricks",
       "indices" : [ 3, 19 ],
-      "id_str" : "285019665",
-      "id" : 285019665
+      "id_str" : "1033184462119399426",
+      "id" : 1033184462119399426
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4410,10 +4410,10 @@ Grailbird.data.tweets_2017_07 =
     "created_at" : "2017-07-12 16:51:47 +0000",
     "user" : {
       "name" : "CSS-Tricks",
-      "screen_name" : "Real_CSS_Tricks",
+      "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -4681,7 +4681,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -4714,7 +4714,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -4747,7 +4747,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -4866,7 +4866,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -4899,7 +4899,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -6255,13 +6255,7 @@ Grailbird.data.tweets_2017_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "B\uD83D\uDC38\uD83D\uDC38k of Mormon",
-      "screen_name" : "bookofmormonldn",
-      "indices" : [ 0, 16 ],
-      "id_str" : "600915529",
-      "id" : 600915529
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "turnitoff",
@@ -6277,7 +6271,7 @@ Grailbird.data.tweets_2017_07 =
   "id" : 883378027626995712,
   "in_reply_to_status_id" : 883377604429885440,
   "created_at" : "2017-07-07 17:31:48 +0000",
-  "in_reply_to_screen_name" : "bookofmormonldn",
+  "in_reply_to_screen_name" : "bookofmormonuk",
   "in_reply_to_user_id_str" : "600915529",
   "user" : {
     "name" : "Sam Reed",

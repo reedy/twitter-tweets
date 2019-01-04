@@ -218,13 +218,7 @@ Grailbird.data.tweets_2014_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -237,7 +231,7 @@ Grailbird.data.tweets_2014_09 =
   "id" : 516017594168782850,
   "in_reply_to_status_id" : 516013751854977024,
   "created_at" : "2014-09-28 00:12:36 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -541,7 +535,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "indices" : [ 3, 11 ],
       "id_str" : "621583",
@@ -578,7 +572,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 515471630873931776,
     "created_at" : "2014-09-26 12:03:08 +0000",
     "user" : {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
@@ -1064,7 +1058,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kind regards, Chris",
+      "name" : "Chris \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "chrsphr",
       "indices" : [ 0, 8 ],
       "id_str" : "7790832",
@@ -1159,7 +1153,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 58, 67 ],
       "id_str" : "29484376",
@@ -1187,7 +1181,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Such Much Such",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -1536,7 +1530,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1575,7 +1569,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1889,7 +1883,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Such Much Such",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -1953,7 +1947,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "Josh R \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2019,13 +2013,7 @@ Grailbird.data.tweets_2014_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2038,7 +2026,7 @@ Grailbird.data.tweets_2014_09 =
   "id" : 511831264476008448,
   "in_reply_to_status_id" : 511831218544197633,
   "created_at" : "2014-09-16 10:57:37 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2053,7 +2041,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "Josh R \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2460,7 +2448,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "Josh R \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2493,7 +2481,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "Josh R \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2526,7 +2514,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "Josh R \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 0, 15 ],
       "id_str" : "17285374",
@@ -2565,7 +2553,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "245729302",
       "id" : 245729302
     }, {
-      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "Josh R \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 10, 25 ],
       "id_str" : "17285374",
@@ -2604,7 +2592,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "245729302",
       "id" : 245729302
     }, {
-      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "Josh R \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 10, 25 ],
       "id_str" : "17285374",
@@ -2939,7 +2927,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tindie",
+      "name" : "Tindie Maker Marketplace",
       "screen_name" : "tindie",
       "indices" : [ 3, 10 ],
       "id_str" : "712685130",
@@ -2976,7 +2964,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 509714701832318977,
     "created_at" : "2014-09-10 14:47:09 +0000",
     "user" : {
-      "name" : "Tindie",
+      "name" : "Tindie Maker Marketplace",
       "screen_name" : "tindie",
       "protected" : false,
       "id_str" : "712685130",
@@ -3033,7 +3021,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3066,7 +3054,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3476,7 +3464,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3537,7 +3525,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3784,7 +3772,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "SquidDLane",
       "protected" : false,
       "id_str" : "15911738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871513826859995136\/G0eeLF3d_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002725267293462528\/y5fvM3GG_normal.jpg",
       "id" : 15911738,
       "verified" : false
     }
@@ -3895,7 +3883,7 @@ Grailbird.data.tweets_2014_09 =
   "id_str" : "507189331476627456",
   "text" : "RT @serverdensity: 71 TiB DIY NAS based on ZFS on Linux - http:\/\/t.co\/41BHqFNVfx",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3917,7 +3905,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "serverdensity",
       "protected" : false,
       "id_str" : "23840756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/909668281161830400\/v__fC49Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047501116399915008\/wKzxCFLv_normal.jpg",
       "id" : 23840756,
       "verified" : true
     }

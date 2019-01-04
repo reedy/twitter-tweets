@@ -89,7 +89,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -1130,12 +1130,6 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 41, 48 ],
       "id_str" : "17307429",
       "id" : 17307429
-    }, {
-      "name" : "Lenovo Forums",
-      "screen_name" : "lenovoforums",
-      "indices" : [ 98, 111 ],
-      "id_str" : "107116995",
-      "id" : 107116995
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1859,12 +1853,6 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo Forums",
-      "screen_name" : "lenovoforums",
-      "indices" : [ 0, 13 ],
-      "id_str" : "107116995",
-      "id" : 107116995
-    }, {
       "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 14, 21 ],
@@ -1875,16 +1863,11 @@ Grailbird.data.tweets_2012_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "237991536208531457",
   "geo" : { },
   "id_str" : "238294274893037568",
-  "in_reply_to_user_id" : 107116995,
   "text" : "@lenovoforums @lenovo Looks like my X220 is getting a new screen on Friday!",
   "id" : 238294274893037568,
-  "in_reply_to_status_id" : 237991536208531457,
   "created_at" : "2012-08-22 15:19:17 +0000",
-  "in_reply_to_screen_name" : "lenovoforums",
-  "in_reply_to_user_id_str" : "107116995",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1951,12 +1934,6 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lenovo Forums",
-      "screen_name" : "lenovoforums",
-      "indices" : [ 0, 13 ],
-      "id_str" : "107116995",
-      "id" : 107116995
-    }, {
       "name" : "Lenovo",
       "screen_name" : "lenovo",
       "indices" : [ 14, 21 ],
@@ -1967,16 +1944,11 @@ Grailbird.data.tweets_2012_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "237991536208531457",
   "geo" : { },
   "id_str" : "237992144713945089",
-  "in_reply_to_user_id" : 107116995,
   "text" : "@lenovoforums @lenovo Let's hope we can it get resolved before I go away for work in 2.5 weeks!",
   "id" : 237992144713945089,
-  "in_reply_to_status_id" : 237991536208531457,
   "created_at" : "2012-08-21 19:18:43 +0000",
-  "in_reply_to_screen_name" : "lenovoforums",
-  "in_reply_to_user_id_str" : "107116995",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2080,7 +2052,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "indices" : [ 3, 11 ],
       "id_str" : "621583",
@@ -2117,7 +2089,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 237589807050657792,
     "created_at" : "2012-08-20 16:39:58 +0000",
     "user" : {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
@@ -2146,12 +2118,6 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 0, 9 ],
       "id_str" : "153956717",
       "id" : 153956717
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 10, 15 ],
-      "id_str" : "14822382",
-      "id" : 14822382
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2180,12 +2146,6 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
       "name" : "JAM",
       "screen_name" : "JAMXCORE",
       "indices" : [ 6, 15 ],
@@ -2204,7 +2164,7 @@ Grailbird.data.tweets_2012_08 =
   "id" : 237524425820483584,
   "in_reply_to_status_id" : 237472621531394049,
   "created_at" : "2012-08-20 12:20:10 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2750,7 +2710,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Such Much Such",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -2968,7 +2928,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Such Much Such",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
@@ -3750,7 +3710,13 @@ Grailbird.data.tweets_2012_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4134,7 +4100,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "232491811988447233",
   "text" : "RT @thetechreport: Valve files hint at Source 2 engine, Episode 3 http:\/\/t.co\/zhRm5ye7",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4355,7 +4321,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -4421,7 +4387,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",

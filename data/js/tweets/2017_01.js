@@ -1016,13 +1016,7 @@ Grailbird.data.tweets_2017_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1035,7 +1029,7 @@ Grailbird.data.tweets_2017_01 =
   "id" : 823981880093605890,
   "in_reply_to_status_id" : 823981228667924485,
   "created_at" : "2017-01-24 19:52:43 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1418,7 +1412,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "FiloSottile",
       "protected" : false,
       "id_str" : "51049452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796495993487302656\/K6rX3ZSn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028703543174225920\/3cm3bMWC_normal.jpg",
       "id" : 51049452,
       "verified" : true
     }
@@ -1604,7 +1598,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2132,7 +2126,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cory Doctorow",
+      "name" : "son of an asylum seeker, father of an immigrant",
       "screen_name" : "doctorow",
       "indices" : [ 0, 9 ],
       "id_str" : "2729061",
@@ -2231,7 +2225,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "Jfarrers",
       "protected" : false,
       "id_str" : "2361393215",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633748317768290304\/jMt4dNx2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1018602540571746304\/SByGb10f_normal.jpg",
       "id" : 2361393215,
       "verified" : false
     }
@@ -2579,11 +2573,11 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "1&1 Hosting Support",
+      "name" : "IONOS_help_UK",
       "screen_name" : "1and1help_uk",
       "indices" : [ 0, 13 ],
-      "id_str" : "2548008798",
-      "id" : 2548008798
+      "id_str" : "1034714678260367361",
+      "id" : 1034714678260367361
     } ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/820928648181972992\/photo\/1",
@@ -2626,7 +2620,7 @@ Grailbird.data.tweets_2017_01 =
   "text" : "@1and1help_uk Why don't I seem to have an option to email you? https:\/\/t.co\/aEqaRkqQvE",
   "id" : 820928648181972992,
   "created_at" : "2017-01-16 09:40:16 +0000",
-  "in_reply_to_screen_name" : "1and1help_uk",
+  "in_reply_to_screen_name" : "ionos_help_uk",
   "in_reply_to_user_id_str" : "2548008798",
   "user" : {
     "name" : "Sam Reed",
@@ -3082,7 +3076,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wil 'Ban the Nazis' Wheaton",
+      "name" : "Wil 'this account mocks fascists' Wheaton",
       "screen_name" : "wilw",
       "indices" : [ 0, 5 ],
       "id_str" : "1183041",
@@ -3115,7 +3109,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 106, 117 ],
       "id_str" : "116534927",

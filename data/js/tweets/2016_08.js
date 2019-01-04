@@ -132,7 +132,7 @@ Grailbird.data.tweets_2016_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "TUMI",
-      "screen_name" : "Tumitravel",
+      "screen_name" : "tumitravel",
       "indices" : [ 4, 15 ],
       "id_str" : "24757830",
       "id" : 24757830
@@ -277,7 +277,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -530,7 +530,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "indices" : [ 80, 88 ],
       "id_str" : "621583",
@@ -690,7 +690,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flubit",
+      "name" : "Flubit.com",
       "screen_name" : "flubitweet",
       "indices" : [ 0, 11 ],
       "id_str" : "298973853",
@@ -735,7 +735,7 @@ Grailbird.data.tweets_2016_08 =
       "id_str" : "69060049",
       "id" : 69060049
     }, {
-      "name" : "Flubit",
+      "name" : "Flubit.com",
       "screen_name" : "flubitweet",
       "indices" : [ 31, 42 ],
       "id_str" : "298973853",
@@ -768,7 +768,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flubit",
+      "name" : "Flubit.com",
       "screen_name" : "flubitweet",
       "indices" : [ 12, 23 ],
       "id_str" : "298973853",
@@ -845,7 +845,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flubit",
+      "name" : "Flubit.com",
       "screen_name" : "flubitweet",
       "indices" : [ 0, 11 ],
       "id_str" : "298973853",
@@ -898,7 +898,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flubit",
+      "name" : "Flubit.com",
       "screen_name" : "flubitweet",
       "indices" : [ 0, 11 ],
       "id_str" : "298973853",
@@ -941,7 +941,7 @@ Grailbird.data.tweets_2016_08 =
       "id_str" : "69060049",
       "id" : 69060049
     }, {
-      "name" : "Flubit",
+      "name" : "Flubit.com",
       "screen_name" : "flubitweet",
       "indices" : [ 43, 54 ],
       "id_str" : "298973853",

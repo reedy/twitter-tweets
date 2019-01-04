@@ -1640,7 +1640,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "INACTION IS A WEAPON OF MASS DESTRUCTION",
+      "name" : "Sindarina Stormcrow",
       "screen_name" : "sindarina",
       "indices" : [ 3, 13 ],
       "id_str" : "48347681",
@@ -1677,7 +1677,7 @@ Grailbird.data.tweets_2017_09 =
     "id" : 912699932754219009,
     "created_at" : "2017-09-26 15:26:35 +0000",
     "user" : {
-      "name" : "INACTION IS A WEAPON OF MASS DESTRUCTION",
+      "name" : "Sindarina Stormcrow",
       "screen_name" : "sindarina",
       "protected" : false,
       "id_str" : "48347681",

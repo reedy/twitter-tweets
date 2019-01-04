@@ -222,7 +222,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "WeldPond",
       "protected" : false,
       "id_str" : "14090906",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925922537200144385\/JI0xyt3f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1054789382555627520\/ySsTromu_normal.jpg",
       "id" : 14090906,
       "verified" : false
     }
@@ -273,7 +273,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952822354807312384\/LymP40q-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061930092207792129\/BUNaTT42_normal.jpg",
       "id" : 7905122,
       "verified" : true
     }
@@ -520,7 +520,7 @@ Grailbird.data.tweets_2010_11 =
     "user" : {
       "name" : "Stuart Hicks",
       "screen_name" : "stuarthicks",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "19058966",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943195586005782528\/owiNPZEh_normal.jpg",
       "id" : 19058966,
@@ -1666,7 +1666,7 @@ Grailbird.data.tweets_2010_11 =
     "user" : {
       "name" : "Stuart Hicks",
       "screen_name" : "stuarthicks",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "19058966",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943195586005782528\/owiNPZEh_normal.jpg",
       "id" : 19058966,
@@ -2036,7 +2036,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "SquidDLane",
       "protected" : false,
       "id_str" : "15911738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871513826859995136\/G0eeLF3d_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002725267293462528\/y5fvM3GG_normal.jpg",
       "id" : 15911738,
       "verified" : false
     }
@@ -2080,7 +2080,13 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2107,7 +2113,13 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2507,7 +2519,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "let \u007Borta\u007D = therox",
+      "name" : ".\/orta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -2805,7 +2817,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "alanrenouf",
       "protected" : false,
       "id_str" : "15936036",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768846351123619840\/UzvUta1p_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065114696406028289\/XWuy4ddr_normal.jpg",
       "id" : 15936036,
       "verified" : false
     }
@@ -3611,7 +3623,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Future Is Weird",
+      "name" : "\u201CHampton\u201D",
       "screen_name" : "hcatlin",
       "indices" : [ 84, 92 ],
       "id_str" : "12986052",
@@ -5262,7 +5274,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952822354807312384\/LymP40q-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061930092207792129\/BUNaTT42_normal.jpg",
       "id" : 7905122,
       "verified" : true
     }
@@ -5299,7 +5311,7 @@ Grailbird.data.tweets_2010_11 =
   "id_str" : "2352369597681665",
   "text" : "RT @omgubuntu: Ubuntu 11.04 Natty Narwhal Daily Build\u2019s available http:\/\/goo.gl\/fb\/0Rif4 #ubuntu",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5319,7 +5331,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "omgubuntu",
       "protected" : false,
       "id_str" : "72915446",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981270387232268288\/TgvH6xcA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993612596036153349\/sUJAfSJo_normal.jpg",
       "id" : 72915446,
       "verified" : false
     }
@@ -5837,7 +5849,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Maish Saidel-Keesing",
+      "name" : "Maish Saidel-Keesing (\u2601\uFE0F\uD83D\uDE80\u2601\uFE0F)",
       "screen_name" : "maishsk",
       "indices" : [ 0, 8 ],
       "id_str" : "15928885",
@@ -5870,7 +5882,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Maish Saidel-Keesing",
+      "name" : "Maish Saidel-Keesing (\u2601\uFE0F\uD83D\uDE80\u2601\uFE0F)",
       "screen_name" : "maishsk",
       "indices" : [ 0, 8 ],
       "id_str" : "15928885",
@@ -6031,7 +6043,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Moka Pantages",
+      "name" : "Moka",
       "screen_name" : "Moka",
       "indices" : [ 4, 9 ],
       "id_str" : "754980",
@@ -6162,7 +6174,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "MrDaveFoy",
       "protected" : false,
       "id_str" : "761365",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907932365552582656\/kCKC4tQl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011645723841056768\/hMvWUbTo_normal.jpg",
       "id" : 761365,
       "verified" : false
     }

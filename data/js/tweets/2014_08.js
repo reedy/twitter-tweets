@@ -77,46 +77,20 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreStarStuff",
+      "name" : "\uD835\uDD4E\uD835\uDD56\uD835\uDD38\uD835\uDD63\uD835\uDD56\uD835\uDD4A\uD835\uDD65\uD835\uDD52\uD835\uDD63\uD835\uDD4A\uD835\uDD65\uD835\uDD66\uD835\uDD57\uD835\uDD57... (\uD835\uDE56\uD835\uDE63\uD835\uDE59 \uD835\uDE6C\uD835\uDE5A #\uD835\uDE67\uD835\uDE5A\uD835\uDE68\uD835\uDE5E\uD835\uDE68\uD835\uDE69)",
       "screen_name" : "RDGluck",
       "indices" : [ 3, 11 ],
       "id_str" : "62607006",
       "id" : 62607006
     } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/JessieJessup\/status\/505463065089830912\/photo\/1",
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
       "indices" : [ 64, 86 ],
       "url" : "http:\/\/t.co\/DjsDjKvVeb",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BwPD-qFCAAAPMIP.jpg",
-      "id_str" : "505463064410324992",
-      "id" : 505463064410324992,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BwPD-qFCAAAPMIP.jpg",
-      "sizes" : [ {
-        "h" : 610,
-        "resize" : "fit",
-        "w" : 516
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 610,
-        "resize" : "fit",
-        "w" : 516
-      }, {
-        "h" : 610,
-        "resize" : "fit",
-        "w" : 516
-      }, {
-        "h" : 610,
-        "resize" : "fit",
-        "w" : 516
-      } ],
-      "media_alt" : "",
+      "expanded_url" : "https:\/\/twitter.com\/JessieJessup\/status\/505463065089830912\/photo\/1",
       "display_url" : "pic.twitter.com\/DjsDjKvVeb"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
+    } ]
   },
   "geo" : { },
   "id_str" : "505851498140803073",
@@ -125,40 +99,14 @@ Grailbird.data.tweets_2014_08 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/JessieJessup\/status\/505463065089830912\/photo\/1",
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
         "indices" : [ 51, 73 ],
         "url" : "http:\/\/t.co\/DjsDjKvVeb",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BwPD-qFCAAAPMIP.jpg",
-        "id_str" : "505463064410324992",
-        "id" : 505463064410324992,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BwPD-qFCAAAPMIP.jpg",
-        "sizes" : [ {
-          "h" : 610,
-          "resize" : "fit",
-          "w" : 516
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 610,
-          "resize" : "fit",
-          "w" : 516
-        }, {
-          "h" : 610,
-          "resize" : "fit",
-          "w" : 516
-        }, {
-          "h" : 610,
-          "resize" : "fit",
-          "w" : 516
-        } ],
-        "media_alt" : "",
+        "expanded_url" : "https:\/\/twitter.com\/JessieJessup\/status\/505463065089830912\/photo\/1",
         "display_url" : "pic.twitter.com\/DjsDjKvVeb"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
+      } ]
     },
     "geo" : { },
     "id_str" : "505716816384385024",
@@ -166,11 +114,11 @@ Grailbird.data.tweets_2014_08 =
     "id" : 505716816384385024,
     "created_at" : "2014-08-30 14:00:59 +0000",
     "user" : {
-      "name" : "WeAreStarStuff",
+      "name" : "\uD835\uDD4E\uD835\uDD56\uD835\uDD38\uD835\uDD63\uD835\uDD56\uD835\uDD4A\uD835\uDD65\uD835\uDD52\uD835\uDD63\uD835\uDD4A\uD835\uDD65\uD835\uDD66\uD835\uDD57\uD835\uDD57... (\uD835\uDE56\uD835\uDE63\uD835\uDE59 \uD835\uDE6C\uD835\uDE5A #\uD835\uDE67\uD835\uDE5A\uD835\uDE68\uD835\uDE5E\uD835\uDE68\uD835\uDE69)",
       "screen_name" : "RDGluck",
       "protected" : false,
       "id_str" : "62607006",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948982306529796096\/fNhM1fbI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023508193497047040\/-0Rd58vf_normal.jpg",
       "id" : 62607006,
       "verified" : false
     }
@@ -468,7 +416,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -507,7 +455,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -611,12 +559,6 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
       "name" : "Blogo",
       "screen_name" : "getblogo",
       "indices" : [ 6, 15 ],
@@ -635,7 +577,7 @@ Grailbird.data.tweets_2014_08 =
   "id" : 502615308906283008,
   "in_reply_to_status_id" : 502614048379531264,
   "created_at" : "2014-08-22 00:36:42 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -650,7 +592,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "indices" : [ 3, 11 ],
       "id_str" : "621583",
@@ -687,7 +629,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 502592644246413312,
     "created_at" : "2014-08-21 23:06:38 +0000",
     "user" : {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
@@ -953,7 +895,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -992,7 +934,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1031,7 +973,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1248,7 +1190,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1435,13 +1377,7 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 53, 58 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1695,7 +1631,7 @@ Grailbird.data.tweets_2014_08 =
   "id_str" : "499872708973592576",
   "text" : "RT @samknows: UK: BT Openreach Pilot Faster and Cheaper UK FTTC #Broadband Activations - ISPreview UK http:\/\/t.co\/NDi6QoMdJb",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2023,57 +1959,6 @@ Grailbird.data.tweets_2014_08 =
   "text" : "More database size\u00A0stuff http:\/\/t.co\/Zttghe88xm",
   "id" : 499203208045027330,
   "created_at" : "2014-08-12 14:38:14 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Owen Jones\uD83C\uDF39",
-      "screen_name" : "OwenJones84",
-      "indices" : [ 3, 15 ],
-      "id_str" : "65045121",
-      "id" : 65045121
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "499135939961421824",
-  "text" : "RT @OwenJones84: If any good comes from Robin Williams' horrible death, I hope it's to encourage us all to take on stigma of men talking ab\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "499134637604868097",
-    "text" : "If any good comes from Robin Williams' horrible death, I hope it's to encourage us all to take on stigma of men talking about mental health",
-    "id" : 499134637604868097,
-    "created_at" : "2014-08-12 10:05:45 +0000",
-    "user" : {
-      "name" : "Owen Jones\uD83C\uDF39",
-      "screen_name" : "OwenJones84",
-      "protected" : false,
-      "id_str" : "65045121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/970330678691758081\/uI5lk1TA_normal.jpg",
-      "id" : 65045121,
-      "verified" : true
-    }
-  },
-  "id" : 499135939961421824,
-  "created_at" : "2014-08-12 10:10:56 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2467,7 +2352,7 @@ Grailbird.data.tweets_2014_08 =
   "id_str" : "497827671502770177",
   "text" : "RT @serverdensity: How to Use Your Cat to Hack Your Neighbor\u2019s Wi-Fi  http:\/\/t.co\/wuIaOLGuVb",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2489,7 +2374,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "serverdensity",
       "protected" : false,
       "id_str" : "23840756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/909668281161830400\/v__fC49Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047501116399915008\/wKzxCFLv_normal.jpg",
       "id" : 23840756,
       "verified" : true
     }
@@ -2662,7 +2547,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "indices" : [ 3, 11 ],
       "id_str" : "621583",
@@ -2699,7 +2584,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 496806285455929344,
     "created_at" : "2014-08-05 23:53:43 +0000",
     "user" : {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
@@ -3093,7 +2978,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "2542128180",
       "id" : 2542128180
     }, {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 13, 22 ],
       "id_str" : "29484376",
@@ -3126,7 +3011,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 4, 13 ],
       "id_str" : "29484376",
@@ -3228,7 +3113,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952822354807312384\/LymP40q-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061930092207792129\/BUNaTT42_normal.jpg",
       "id" : 7905122,
       "verified" : true
     }

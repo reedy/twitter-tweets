@@ -441,12 +441,9 @@ Grailbird.data.tweets_2016_12 =
   },
   "geo" : { },
   "id_str" : "813325693530570752",
-  "in_reply_to_user_id" : 222093692,
   "text" : "@knowhowtohelp @curryspcworld I bought a vacuum cleaner from you on the 23rd... Price has dropped \u00A320 on your own site. Can I get a refund?",
   "id" : 813325693530570752,
   "created_at" : "2016-12-26 10:08:50 +0000",
-  "in_reply_to_screen_name" : "ABarrysson",
-  "in_reply_to_user_id_str" : "222093692",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -528,7 +525,7 @@ Grailbird.data.tweets_2016_12 =
       "id_str" : "25984895",
       "id" : 25984895
     }, {
-      "name" : "Gigaclear plc",
+      "name" : "Gigaclear",
       "screen_name" : "gigaclear",
       "indices" : [ 16, 26 ],
       "id_str" : "156555282",
@@ -630,7 +627,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Azzy",
+      "name" : "\uD83C\uDF87\uD83E\uDD42 Auld Azz Syne \uD83E\uDD42\uD83C\uDF87",
       "screen_name" : "AzzyChill",
       "indices" : [ 0, 10 ],
       "id_str" : "22279048",
@@ -663,7 +660,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Azzy",
+      "name" : "\uD83C\uDF87\uD83E\uDD42 Auld Azz Syne \uD83E\uDD42\uD83C\uDF87",
       "screen_name" : "AzzyChill",
       "indices" : [ 0, 10 ],
       "id_str" : "22279048",
@@ -852,7 +849,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FireBrick Ltd",
+      "name" : "FireBrick",
       "screen_name" : "firebrickltd",
       "indices" : [ 20, 33 ],
       "id_str" : "243601494",
@@ -2810,7 +2807,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonas Huckestein",
+      "name" : "Jonas Templestein",
       "screen_name" : "jonas",
       "indices" : [ 0, 6 ],
       "id_str" : "80029778",
@@ -2855,7 +2852,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonas Huckestein",
+      "name" : "Jonas Templestein",
       "screen_name" : "jonas",
       "indices" : [ 0, 6 ],
       "id_str" : "80029778",
@@ -2894,7 +2891,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonas Huckestein",
+      "name" : "Jonas Templestein",
       "screen_name" : "jonas",
       "indices" : [ 0, 6 ],
       "id_str" : "80029778",
@@ -4451,13 +4448,7 @@ Grailbird.data.tweets_2016_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4470,7 +4461,7 @@ Grailbird.data.tweets_2016_12 =
   "id" : 808849496406978560,
   "in_reply_to_status_id" : 808849067468095488,
   "created_at" : "2016-12-14 01:42:02 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5077,7 +5068,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "StreamerHouse",
+      "name" : "Streamer House",
       "screen_name" : "Streamer_House",
       "indices" : [ 0, 15 ],
       "id_str" : "1891625112",
@@ -5269,7 +5260,7 @@ Grailbird.data.tweets_2016_12 =
       "id_str" : "21086622",
       "id" : 21086622
     }, {
-      "name" : "FireBrick Ltd",
+      "name" : "FireBrick",
       "screen_name" : "firebrickltd",
       "indices" : [ 15, 28 ],
       "id_str" : "243601494",

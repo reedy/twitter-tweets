@@ -114,7 +114,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "indices" : [ 3, 11 ],
       "id_str" : "621583",
@@ -151,7 +151,7 @@ Grailbird.data.tweets_2012_07 =
     "id" : 230320541544890368,
     "created_at" : "2012-07-31 15:14:30 +0000",
     "user" : {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
@@ -267,7 +267,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952822354807312384\/LymP40q-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061930092207792129\/BUNaTT42_normal.jpg",
       "id" : 7905122,
       "verified" : true
     }
@@ -439,7 +439,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "indices" : [ 0, 8 ],
       "id_str" : "621583",
@@ -625,7 +625,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 1, 13 ],
       "id_str" : "27855118",
@@ -653,7 +653,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 0, 12 ],
       "id_str" : "27855118",
@@ -686,7 +686,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 0, 12 ],
       "id_str" : "27855118",
@@ -719,7 +719,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 61, 73 ],
       "id_str" : "27855118",
@@ -1124,13 +1124,7 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1143,7 +1137,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 228187778817613826,
   "in_reply_to_status_id" : 228187286855106560,
   "created_at" : "2012-07-25 17:59:40 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1334,7 +1328,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 0, 12 ],
       "id_str" : "27855118",
@@ -1367,7 +1361,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 0, 12 ],
       "id_str" : "27855118",
@@ -1400,7 +1394,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 4, 16 ],
       "id_str" : "27855118",
@@ -1655,7 +1649,13 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1682,7 +1682,13 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2354,7 +2360,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -2409,7 +2415,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -2442,7 +2448,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -2474,13 +2480,7 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2493,7 +2493,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 224139054755745792,
   "in_reply_to_status_id" : 224136365070233600,
   "created_at" : "2012-07-14 13:51:29 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2605,7 +2605,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 0, 12 ],
       "id_str" : "27855118",
@@ -2701,7 +2701,13 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2728,7 +2734,13 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3441,7 +3453,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952822354807312384\/LymP40q-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061930092207792129\/BUNaTT42_normal.jpg",
       "id" : 7905122,
       "verified" : true
     }
@@ -3700,7 +3712,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 0, 12 ],
       "id_str" : "27855118",
@@ -4205,7 +4217,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "221354022366494721",
   "text" : "RT @AMDOpteron: Is your data center ready for the coming zombie apocalypse? Here are 10 Steps to Prepare Your Data Center: http:\/\/t.co\/f ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4227,7 +4239,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "AMDServer",
       "protected" : false,
       "id_str" : "8879152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864578107151269888\/OT0X-AAR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/992488129079619584\/MeKJoX90_normal.jpg",
       "id" : 8879152,
       "verified" : false
     }
@@ -4274,13 +4286,7 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4293,7 +4299,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 221253571876896768,
   "in_reply_to_status_id" : 221249596645588994,
   "created_at" : "2012-07-06 14:45:36 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4340,25 +4346,16 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Cleverboxes",
-      "screen_name" : "cleverboxes",
-      "indices" : [ 0, 12 ],
-      "id_str" : "117373883",
-      "id" : 117373883
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "221232074969989120",
-  "in_reply_to_user_id" : 117373883,
   "text" : "@cleverboxes You might want to inform your tech team\/webmaster that visiting your website without the www doesn't load (not redirected?)",
   "id" : 221232074969989120,
   "created_at" : "2012-07-06 13:20:11 +0000",
-  "in_reply_to_screen_name" : "cleverboxes",
-  "in_reply_to_user_id_str" : "117373883",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4642,13 +4639,7 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4661,7 +4652,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 220616710200360961,
   "in_reply_to_status_id" : 220614955588796417,
   "created_at" : "2012-07-04 20:34:57 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4864,7 +4855,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "219960285618896896",
   "text" : "RT @AMDOpteron: This Data Center made out of Legos is pretty cool! http:\/\/t.co\/u1zR3DmV via @bobmcmillan via @WiredEnterprise",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Robert McMillan",
@@ -4898,7 +4889,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "AMDServer",
       "protected" : false,
       "id_str" : "8879152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864578107151269888\/OT0X-AAR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/992488129079619584\/MeKJoX90_normal.jpg",
       "id" : 8879152,
       "verified" : false
     }
@@ -5228,13 +5219,7 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5247,7 +5232,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 219421873145004032,
   "in_reply_to_status_id" : 219419404847431680,
   "created_at" : "2012-07-01 13:27:05 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5261,13 +5246,7 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5280,7 +5259,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 219419268578684929,
   "in_reply_to_status_id" : 219417659379433472,
   "created_at" : "2012-07-01 13:16:44 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5294,13 +5273,7 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5313,7 +5286,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 219381245258371072,
   "in_reply_to_status_id" : 219369280465158144,
   "created_at" : "2012-07-01 10:45:39 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",

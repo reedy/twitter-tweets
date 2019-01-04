@@ -599,13 +599,7 @@ Grailbird.data.tweets_2016_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -618,7 +612,7 @@ Grailbird.data.tweets_2016_09 =
   "id" : 780035383920910336,
   "in_reply_to_status_id" : 780034299663884288,
   "created_at" : "2016-09-25 13:25:02 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -791,7 +785,7 @@ Grailbird.data.tweets_2016_09 =
   "id_str" : "779372149521977345",
   "text" : "RT @serverdensity: Microservices \u2013 Please, don\u2019t https:\/\/t.co\/0KwffkEcwD",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -813,7 +807,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "serverdensity",
       "protected" : false,
       "id_str" : "23840756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/909668281161830400\/v__fC49Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047501116399915008\/wKzxCFLv_normal.jpg",
       "id" : 23840756,
       "verified" : true
     }
@@ -1835,8 +1829,8 @@ Grailbird.data.tweets_2016_09 =
       "name" : "tanner",
       "screen_name" : "tannerfilip",
       "indices" : [ 0, 12 ],
-      "id_str" : "18496297",
-      "id" : 18496297
+      "id_str" : "1072700041985486848",
+      "id" : 1072700041985486848
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1850,7 +1844,7 @@ Grailbird.data.tweets_2016_09 =
   "id" : 777660471197523968,
   "in_reply_to_status_id" : 777660251050872833,
   "created_at" : "2016-09-19 00:07:59 +0000",
-  "in_reply_to_screen_name" : "tannerfilip",
+  "in_reply_to_screen_name" : "tanner4a46",
   "in_reply_to_user_id_str" : "18496297",
   "user" : {
     "name" : "Sam Reed",
@@ -1979,7 +1973,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RadarBox24",
+      "name" : "RadarBox",
       "screen_name" : "RadarBox24",
       "indices" : [ 0, 11 ],
       "id_str" : "372486798",
@@ -2072,27 +2066,16 @@ Grailbird.data.tweets_2016_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kickstarter Support",
-      "screen_name" : "KSRhelp",
-      "indices" : [ 0, 8 ],
-      "id_str" : "738125465404231680",
-      "id" : 738125465404231680
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "776078475245527040",
   "geo" : { },
   "id_str" : "776384888350117888",
-  "in_reply_to_user_id" : 738125465404231680,
   "text" : "@KSRhelp It seems, it's only broken on macOS 10.12 on Chrome Version 55.0.2859.0 dev (64-bit). FF 49.0 is ok...",
   "id" : 776384888350117888,
-  "in_reply_to_status_id" : 776078475245527040,
   "created_at" : "2016-09-15 11:39:16 +0000",
-  "in_reply_to_screen_name" : "KSRhelp",
-  "in_reply_to_user_id_str" : "738125465404231680",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2105,13 +2088,7 @@ Grailbird.data.tweets_2016_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kickstarter Support",
-      "screen_name" : "KSRhelp",
-      "indices" : [ 0, 8 ],
-      "id_str" : "738125465404231680",
-      "id" : 738125465404231680
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/776353014496002048\/photo\/1",
       "indices" : [ 71, 94 ],
@@ -2147,16 +2124,11 @@ Grailbird.data.tweets_2016_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "776078475245527040",
   "geo" : { },
   "id_str" : "776353014496002048",
-  "in_reply_to_user_id" : 738125465404231680,
   "text" : "@KSRhelp Still seems to be broken on other pages, in different ways... https:\/\/t.co\/G5geaedvEm",
   "id" : 776353014496002048,
-  "in_reply_to_status_id" : 776078475245527040,
   "created_at" : "2016-09-15 09:32:37 +0000",
-  "in_reply_to_screen_name" : "KSRhelp",
-  "in_reply_to_user_id_str" : "738125465404231680",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -2335,7 +2307,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2427,7 +2399,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3365,13 +3337,7 @@ Grailbird.data.tweets_2016_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "GlocalMe",
-      "screen_name" : "GlocalMeOnline",
-      "indices" : [ 0, 15 ],
-      "id_str" : "1533194275",
-      "id" : 1533194275
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3382,7 +3348,7 @@ Grailbird.data.tweets_2016_09 =
   "text" : "@GlocalMeOnline Any idea why my G2 is now giving an error code 12 when trying to login? First noticed today. Was working earlier this week",
   "id" : 773986267059122176,
   "created_at" : "2016-09-08 20:48:00 +0000",
-  "in_reply_to_screen_name" : "GlocalMeOnline",
+  "in_reply_to_screen_name" : "GlocalMeMoments",
   "in_reply_to_user_id_str" : "1533194275",
   "user" : {
     "name" : "Sam Reed",

@@ -920,7 +920,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The ScottishGeek",
+      "name" : "Zylo The Hedgefox",
       "screen_name" : "scottishgeek",
       "indices" : [ 0, 13 ],
       "id_str" : "959234577653948416",
@@ -2403,7 +2403,7 @@ Grailbird.data.tweets_2010_10 =
     "user" : {
       "name" : "Stuart Hicks",
       "screen_name" : "stuarthicks",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "19058966",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943195586005782528\/owiNPZEh_normal.jpg",
       "id" : 19058966,
@@ -2454,7 +2454,7 @@ Grailbird.data.tweets_2010_10 =
     "user" : {
       "name" : "Stuart Hicks",
       "screen_name" : "stuarthicks",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "19058966",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943195586005782528\/owiNPZEh_normal.jpg",
       "id" : 19058966,

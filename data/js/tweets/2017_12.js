@@ -1138,7 +1138,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amir \u26F0\uFE0F\uD83D\uDC05 Aharoni",
+      "name" : "Amir \uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC66. Aharoni",
       "screen_name" : "aharoni",
       "indices" : [ 0, 8 ],
       "id_str" : "14172581",
@@ -1320,7 +1320,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amir \u26F0\uFE0F\uD83D\uDC05 Aharoni",
+      "name" : "Amir \u2615. Aharoni",
       "screen_name" : "aharoni",
       "indices" : [ 0, 8 ],
       "id_str" : "14172581",
@@ -1359,7 +1359,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amir \u26F0\uFE0F\uD83D\uDC05 Aharoni",
+      "name" : "Amir \uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC66. Aharoni",
       "screen_name" : "aharoni",
       "indices" : [ 0, 8 ],
       "id_str" : "14172581",
@@ -3010,7 +3010,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -3067,7 +3067,7 @@ Grailbird.data.tweets_2017_12 =
       "id_str" : "165423363",
       "id" : 165423363
     }, {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 12, 23 ],
       "id_str" : "60264283",
@@ -3112,7 +3112,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 4, 15 ],
       "id_str" : "60264283",
@@ -3745,11 +3745,11 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "maxwell ogden",
+      "name" : "renamed",
       "screen_name" : "denormalize",
       "indices" : [ 0, 12 ],
-      "id_str" : "12241752",
-      "id" : 12241752
+      "id_str" : "3529967232",
+      "id" : 3529967232
     }, {
       "name" : "Dat Project",
       "screen_name" : "dat_project",
@@ -3769,7 +3769,7 @@ Grailbird.data.tweets_2017_12 =
   "id" : 939941061232922624,
   "in_reply_to_status_id" : 939938128617398272,
   "created_at" : "2017-12-10 19:33:06 +0000",
-  "in_reply_to_screen_name" : "denormalize",
+  "in_reply_to_screen_name" : "maxogden",
   "in_reply_to_user_id_str" : "12241752",
   "user" : {
     "name" : "Sam Reed",
@@ -4618,7 +4618,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SAS",
+      "name" : "SAS - Scandinavian Airlines",
       "screen_name" : "SAS",
       "indices" : [ 0, 4 ],
       "id_str" : "1379801",
@@ -4651,7 +4651,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SAS",
+      "name" : "SAS - Scandinavian Airlines",
       "screen_name" : "SAS",
       "indices" : [ 0, 4 ],
       "id_str" : "1379801",
@@ -5105,7 +5105,7 @@ Grailbird.data.tweets_2017_12 =
       "id_str" : "21086622",
       "id" : 21086622
     }, {
-      "name" : "FireBrick Ltd",
+      "name" : "FireBrick",
       "screen_name" : "firebrickltd",
       "indices" : [ 51, 64 ],
       "id_str" : "243601494",

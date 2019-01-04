@@ -275,13 +275,7 @@ Grailbird.data.tweets_2013_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 32, 37 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -676,7 +670,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 23, 35 ],
       "id_str" : "27855118",
@@ -803,7 +797,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 71, 83 ],
       "id_str" : "27855118",
@@ -1252,7 +1246,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rcd",
+      "name" : "sapat\u00EAnis inofensivo",
       "screen_name" : "rcd1990",
       "indices" : [ 0, 8 ],
       "id_str" : "2964217282",
@@ -1357,7 +1351,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rcd",
+      "name" : "sapat\u00EAnis inofensivo",
       "screen_name" : "rcd1990",
       "indices" : [ 0, 8 ],
       "id_str" : "2964217282",
@@ -2538,7 +2532,7 @@ Grailbird.data.tweets_2013_11 =
   "id_str" : "403792835310526464",
   "text" : "RT @EPinUK_Stats: Which #EU countries have the cheapest internet? Different rates of fixed broadband access across Europe http:\/\/t.co\/r9CER\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/cxsocial.clarabridge.com\/\" rel=\"nofollow\"\u003ECX Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/cxsocial.clarabridge.com\/\" rel=\"nofollow\"\u003EClarabridge CX Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2691,13 +2685,7 @@ Grailbird.data.tweets_2013_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 4, 9 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3515,7 +3503,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "22054297",
       "id" : 22054297
     }, {
-      "name" : "Rachel",
+      "name" : "Rachel is oversharing",
       "screen_name" : "rvedotrc",
       "indices" : [ 16, 25 ],
       "id_str" : "409506562",
@@ -3626,7 +3614,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rachel",
+      "name" : "Rachel is oversharing",
       "screen_name" : "rvedotrc",
       "indices" : [ 0, 9 ],
       "id_str" : "409506562",
@@ -3665,7 +3653,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rachel",
+      "name" : "Rachel is oversharing",
       "screen_name" : "rvedotrc",
       "indices" : [ 0, 9 ],
       "id_str" : "409506562",
@@ -5416,7 +5404,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -5455,7 +5443,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -5494,7 +5482,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",

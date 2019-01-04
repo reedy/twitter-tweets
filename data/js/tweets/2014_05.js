@@ -115,7 +115,13 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -500,7 +506,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -777,7 +783,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weebl The Bee Whisperer",
+      "name" : "[\uD83D\uDD34 LIVE] The Weebl",
       "screen_name" : "TheWeebl",
       "indices" : [ 0, 9 ],
       "id_str" : "122040755",
@@ -1792,7 +1798,7 @@ Grailbird.data.tweets_2014_05 =
       "id_str" : "2546975091",
       "id" : 2546975091
     }, {
-      "name" : "BBC Eurovision",
+      "name" : "BBC Eurovision\uD83C\uDDEC\uD83C\uDDE7",
       "screen_name" : "bbceurovision",
       "indices" : [ 115, 129 ],
       "id_str" : "24679473",
@@ -1824,7 +1830,7 @@ Grailbird.data.tweets_2014_05 =
         "id_str" : "2546975091",
         "id" : 2546975091
       }, {
-        "name" : "BBC Eurovision",
+        "name" : "BBC Eurovision\uD83C\uDDEC\uD83C\uDDE7",
         "screen_name" : "bbceurovision",
         "indices" : [ 96, 110 ],
         "id_str" : "24679473",
@@ -2532,13 +2538,7 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2551,7 +2551,7 @@ Grailbird.data.tweets_2014_05 =
   "id" : 462575599174041600,
   "in_reply_to_status_id" : 462562566678777856,
   "created_at" : "2014-05-03 12:53:11 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2565,13 +2565,7 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2584,7 +2578,7 @@ Grailbird.data.tweets_2014_05 =
   "id" : 462376047515025408,
   "in_reply_to_status_id" : 462318645528768512,
   "created_at" : "2014-05-02 23:40:14 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2598,13 +2592,7 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2617,7 +2605,7 @@ Grailbird.data.tweets_2014_05 =
   "id" : 462375996562628608,
   "in_reply_to_status_id" : 462318645528768512,
   "created_at" : "2014-05-02 23:40:02 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",

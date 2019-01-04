@@ -2,6 +2,28 @@ Grailbird.data.tweets_2010_06 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17424508464",
+  "text" : "Why does my work email always give \"Service Temporarily Unavailable\" on VMWares site? But my personal email account is fine? :\/",
+  "id" : 17424508464,
+  "created_at" : "2010-06-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Strongspace",
       "screen_name" : "Strongspace",
@@ -281,28 +303,6 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17424508464",
-  "text" : "Why does my work email always give \"Service Temporarily Unavailable\" on VMWares site? But my personal email account is fine? :\/",
-  "id" : 17424508464,
-  "created_at" : "2010-06-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -474,7 +474,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "Ebuyer",
       "protected" : false,
       "id_str" : "20662765",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726019679060373504\/TgmHksP__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029711095538352128\/t3ilpZ0c_normal.jpg",
       "id" : 20662765,
       "verified" : false
     }
@@ -1358,6 +1358,28 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "16525866772",
+  "text" : "It's raining, and I have no coat. Ffs",
+  "id" : 16525866772,
+  "created_at" : "2010-06-19 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1544,7 +1566,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andy Taylor \uD83D\uDD79",
+      "name" : "Andy Taylor",
       "screen_name" : "andytuk",
       "indices" : [ 3, 11 ],
       "id_str" : "14919826",
@@ -1589,11 +1611,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 16575310533,
     "created_at" : "2010-06-19 22:37:35 +0000",
     "user" : {
-      "name" : "Andy Taylor \uD83D\uDD79",
+      "name" : "Andy Taylor",
       "screen_name" : "andytuk",
       "protected" : false,
       "id_str" : "14919826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/974398573935841280\/4aq8CR9M_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071459644114128896\/LyWZBpjr_normal.jpg",
       "id" : 14919826,
       "verified" : false
     }
@@ -1633,28 +1655,6 @@ Grailbird.data.tweets_2010_06 =
   "created_at" : "2010-06-19 00:00:00 +0000",
   "in_reply_to_screen_name" : "tjlawrence",
   "in_reply_to_user_id_str" : "28587521",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16525866772",
-  "text" : "It's raining, and I have no coat. Ffs",
-  "id" : 16525866772,
-  "created_at" : "2010-06-19 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3031,7 +3031,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "indices" : [ 3, 11 ],
       "id_str" : "621583",
@@ -3058,7 +3058,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15717104052,
     "created_at" : "2010-06-08 16:30:35 +0000",
     "user" : {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
@@ -3069,6 +3069,57 @@ Grailbird.data.tweets_2010_06 =
   },
   "id" : 15717810843,
   "created_at" : "2010-06-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brion Vibber",
+      "screen_name" : "brionv",
+      "indices" : [ 3, 10 ],
+      "id_str" : "16488676",
+      "id" : 16488676
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15647295198",
+  "text" : "RT @brionv: Hmm, curious how Apple worked out the 'iOS' trademark with Cisco.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "15646870292",
+    "text" : "Hmm, curious how Apple worked out the 'iOS' trademark with Cisco.",
+    "id" : 15646870292,
+    "created_at" : "2010-06-07 18:13:08 +0000",
+    "user" : {
+      "name" : "Brion Vibber",
+      "screen_name" : "brionv",
+      "protected" : false,
+      "id_str" : "16488676",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1041074765807595522\/XSPeN1m0_normal.jpg",
+      "id" : 16488676,
+      "verified" : false
+    }
+  },
+  "id" : 15647295198,
+  "created_at" : "2010-06-07 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3125,7 +3176,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "brionv",
       "protected" : false,
       "id_str" : "16488676",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856367753\/Avatar-120-Brion_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1041074765807595522\/XSPeN1m0_normal.jpg",
       "id" : 16488676,
       "verified" : false
     }
@@ -3252,57 +3303,6 @@ Grailbird.data.tweets_2010_06 =
   "created_at" : "2010-06-07 00:00:00 +0000",
   "in_reply_to_screen_name" : "1stvamp",
   "in_reply_to_user_id_str" : "1856171",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Brion Vibber",
-      "screen_name" : "brionv",
-      "indices" : [ 3, 10 ],
-      "id_str" : "16488676",
-      "id" : 16488676
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15647295198",
-  "text" : "RT @brionv: Hmm, curious how Apple worked out the 'iOS' trademark with Cisco.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15646870292",
-    "text" : "Hmm, curious how Apple worked out the 'iOS' trademark with Cisco.",
-    "id" : 15646870292,
-    "created_at" : "2010-06-07 18:13:08 +0000",
-    "user" : {
-      "name" : "Brion Vibber",
-      "screen_name" : "brionv",
-      "protected" : false,
-      "id_str" : "16488676",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856367753\/Avatar-120-Brion_normal.jpg",
-      "id" : 16488676,
-      "verified" : false
-    }
-  },
-  "id" : 15647295198,
-  "created_at" : "2010-06-07 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3476,12 +3476,6 @@ Grailbird.data.tweets_2010_06 =
       "indices" : [ 0, 14 ],
       "id_str" : "44114848",
       "id" : 44114848
-    }, {
-      "name" : "Tom Hulton-Harrop",
-      "screen_name" : "pr0g89",
-      "indices" : [ 15, 22 ],
-      "id_str" : "15777293",
-      "id" : 15777293
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3808,7 +3802,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952822354807312384\/LymP40q-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061930092207792129\/BUNaTT42_normal.jpg",
       "id" : 7905122,
       "verified" : true
     }

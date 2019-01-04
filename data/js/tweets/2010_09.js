@@ -3,7 +3,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "indices" : [ 0, 8 ],
       "id_str" : "621583",
@@ -655,7 +655,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "1856851",
       "id" : 1856851
     }, {
-      "name" : "Jono Cole",
+      "name" : "Jono Handley-Cole",
       "screen_name" : "jonocole",
       "indices" : [ 31, 40 ],
       "id_str" : "2005091",
@@ -1623,7 +1623,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The ScottishGeek",
+      "name" : "Zylo The Hedgefox",
       "screen_name" : "scottishgeek",
       "indices" : [ 0, 13 ],
       "id_str" : "959234577653948416",
@@ -1804,7 +1804,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952822354807312384\/LymP40q-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061930092207792129\/BUNaTT42_normal.jpg",
       "id" : 7905122,
       "verified" : true
     }
@@ -2637,7 +2637,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "dueledge",
       "protected" : false,
       "id_str" : "25743312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606152216844619776\/44eo0po-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058360312456536064\/1Pk36Hj9_normal.jpg",
       "id" : 25743312,
       "verified" : false
     }
@@ -3406,57 +3406,6 @@ Grailbird.data.tweets_2010_09 =
   "created_at" : "2010-09-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "phpstorm",
   "in_reply_to_user_id_str" : "115180931",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Miles",
-      "screen_name" : "MilesTails",
-      "indices" : [ 3, 14 ],
-      "id_str" : "17048726",
-      "id" : 17048726
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "22837281312",
-  "text" : "RT @MilesTails: I don't think you understand. I FUCKING LOVE PASSPORTS http:\/\/bit.ly\/c6Uzmq",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "22836888622",
-    "text" : "I don't think you understand. I FUCKING LOVE PASSPORTS http:\/\/bit.ly\/c6Uzmq",
-    "id" : 22836888622,
-    "created_at" : "2010-09-02 22:52:56 +0000",
-    "user" : {
-      "name" : "Miles",
-      "screen_name" : "MilesTails",
-      "protected" : true,
-      "id_str" : "17048726",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592747474537848834\/V-YL1t2O_normal.jpg",
-      "id" : 17048726,
-      "verified" : false
-    }
-  },
-  "id" : 22837281312,
-  "created_at" : "2010-09-02 00:00:00 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

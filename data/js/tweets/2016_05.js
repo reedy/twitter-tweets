@@ -167,7 +167,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "FiloSottile",
       "protected" : false,
       "id_str" : "51049452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796495993487302656\/K6rX3ZSn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028703543174225920\/3cm3bMWC_normal.jpg",
       "id" : 51049452,
       "verified" : true
     }
@@ -790,7 +790,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "SquidDLane",
       "protected" : false,
       "id_str" : "15911738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871513826859995136\/G0eeLF3d_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002725267293462528\/y5fvM3GG_normal.jpg",
       "id" : 15911738,
       "verified" : false
     }
@@ -832,7 +832,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GiveBlood NHS  \uD83D\uDC89",
+      "name" : "GiveBlood NHS \uD83C\uDF89\uD83E\uDDE8",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 0, 13 ],
       "id_str" : "304952647",
@@ -865,7 +865,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GiveBlood NHS  \uD83D\uDC89",
+      "name" : "GiveBlood NHS \uD83C\uDF89\uD83E\uDDE8",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 0, 13 ],
       "id_str" : "304952647",
@@ -1191,7 +1191,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1246,7 +1246,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ClubWifi",
+      "name" : "ClubWifi Networks",
       "screen_name" : "clubwifi",
       "indices" : [ 0, 9 ],
       "id_str" : "117674099",
@@ -1457,7 +1457,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UK CAA",
+      "name" : "UK Civil Aviation Authority",
       "screen_name" : "UK_CAA",
       "indices" : [ 0, 7 ],
       "id_str" : "135453038",

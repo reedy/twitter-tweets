@@ -483,7 +483,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "duncanp",
       "protected" : false,
       "id_str" : "19364386",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614619983\/me_normal.JPG",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
       "id" : 19364386,
       "verified" : false
     }
@@ -831,7 +831,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "guardiantech",
       "protected" : false,
       "id_str" : "7905122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952822354807312384\/LymP40q-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061930092207792129\/BUNaTT42_normal.jpg",
       "id" : 7905122,
       "verified" : true
     }
@@ -1458,17 +1458,50 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Solwise",
+      "screen_name" : "Solwise",
+      "indices" : [ 0, 8 ],
+      "id_str" : "19596204",
+      "id" : 19596204
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18601012771",
+  "geo" : { },
+  "id_str" : "18604423672",
+  "in_reply_to_user_id" : 19596204,
+  "text" : "@Solwise Thanks! :D Can't reply to your DM, as you're not following me ;)",
+  "id" : 18604423672,
+  "in_reply_to_status_id" : 18601012771,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Solwise",
+  "in_reply_to_user_id_str" : "19596204",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "OpenDNS",
-      "screen_name" : "opendns",
+      "screen_name" : "OpenDNS",
       "indices" : [ 3, 11 ],
-      "id_str" : "689273",
-      "id" : 689273
+      "id_str" : "975857943462666240",
+      "id" : 975857943462666240
     }, {
       "name" : "OpenDNS",
-      "screen_name" : "opendns",
+      "screen_name" : "OpenDNS",
       "indices" : [ 93, 101 ],
-      "id_str" : "689273",
-      "id" : 689273
+      "id_str" : "975857943462666240",
+      "id" : 975857943462666240
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1485,10 +1518,10 @@ Grailbird.data.tweets_2010_07 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "OpenDNS",
-        "screen_name" : "opendns",
+        "screen_name" : "OpenDNS",
         "indices" : [ 80, 88 ],
-        "id_str" : "689273",
-        "id" : 689273
+        "id_str" : "975857943462666240",
+        "id" : 975857943462666240
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -1503,8 +1536,8 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18612989948,
     "created_at" : "2010-07-15 16:05:09 +0000",
     "user" : {
-      "name" : "OpenDNS",
-      "screen_name" : "opendns",
+      "name" : "Cisco Umbrella",
+      "screen_name" : "CiscoUmbrella",
       "protected" : false,
       "id_str" : "689273",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979482655564578817\/ubcoYV7F_normal.jpg",
@@ -1860,39 +1893,6 @@ Grailbird.data.tweets_2010_07 =
   "text" : "@Solwise Seems Netgear use both. TIAS me thinks! :)",
   "id" : 18600680780,
   "in_reply_to_status_id" : 18599561141,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Solwise",
-  "in_reply_to_user_id_str" : "19596204",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Solwise",
-      "screen_name" : "Solwise",
-      "indices" : [ 0, 8 ],
-      "id_str" : "19596204",
-      "id" : 19596204
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18601012771",
-  "geo" : { },
-  "id_str" : "18604423672",
-  "in_reply_to_user_id" : 19596204,
-  "text" : "@Solwise Thanks! :D Can't reply to your DM, as you're not following me ;)",
-  "id" : 18604423672,
-  "in_reply_to_status_id" : 18601012771,
   "created_at" : "2010-07-15 00:00:00 +0000",
   "in_reply_to_screen_name" : "Solwise",
   "in_reply_to_user_id_str" : "19596204",

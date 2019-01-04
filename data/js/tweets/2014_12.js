@@ -220,7 +220,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -253,7 +253,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -482,12 +482,6 @@ Grailbird.data.tweets_2014_12 =
       "indices" : [ 0, 7 ],
       "id_str" : "17307429",
       "id" : 17307429
-    }, {
-      "name" : "Lenovo Forums",
-      "screen_name" : "lenovoforums",
-      "indices" : [ 8, 21 ],
-      "id_str" : "107116995",
-      "id" : 107116995
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -858,7 +852,7 @@ Grailbird.data.tweets_2014_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -875,7 +869,7 @@ Grailbird.data.tweets_2014_12 =
   "id" : 548150863194509312,
   "in_reply_to_status_id" : 548145781904269315,
   "created_at" : "2014-12-25 16:18:44 +0000",
-  "in_reply_to_screen_name" : "veeam",
+  "in_reply_to_screen_name" : "Veeam",
   "in_reply_to_user_id_str" : "14908404",
   "user" : {
     "name" : "Sam Reed",
@@ -2325,13 +2319,7 @@ Grailbird.data.tweets_2014_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2344,7 +2332,7 @@ Grailbird.data.tweets_2014_12 =
   "id" : 539760677985198080,
   "in_reply_to_status_id" : 539755644673609728,
   "created_at" : "2014-12-02 12:39:08 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",

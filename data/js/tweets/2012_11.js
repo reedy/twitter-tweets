@@ -426,13 +426,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -445,7 +439,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 274483390928003072,
   "in_reply_to_status_id" : 274481462311526400,
   "created_at" : "2012-11-30 12:01:54 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -946,13 +940,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "1&1\u00AE Web Hosting",
-      "screen_name" : "1and1",
-      "indices" : [ 132, 138 ],
-      "id_str" : "43218848",
-      "id" : 43218848
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1038,7 +1026,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "Ebuyer",
       "protected" : false,
       "id_str" : "20662765",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726019679060373504\/TgmHksP__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029711095538352128\/t3ilpZ0c_normal.jpg",
       "id" : 20662765,
       "verified" : false
     }
@@ -1495,7 +1483,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "amazonmusic",
       "protected" : false,
       "id_str" : "14740219",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864188937857753088\/BtJhueGj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1048071124855271425\/6MB8uL-N_normal.jpg",
       "id" : 14740219,
       "verified" : true
     }
@@ -1860,7 +1848,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "271707278875430912",
   "text" : "RT @serverdensity: Google opens up on seven years of its data center history - http:\/\/t.co\/kvMrhib7",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1882,7 +1870,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "serverdensity",
       "protected" : false,
       "id_str" : "23840756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/909668281161830400\/v__fC49Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047501116399915008\/wKzxCFLv_normal.jpg",
       "id" : 23840756,
       "verified" : true
     }
@@ -2207,13 +2195,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2224,7 +2206,7 @@ Grailbird.data.tweets_2012_11 =
   "text" : "@d0od Y U NO REPLY ON SKYPE!?!",
   "id" : 270578461440094208,
   "created_at" : "2012-11-19 17:25:06 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2501,13 +2483,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2520,7 +2496,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 270229225674514433,
   "in_reply_to_status_id" : 270223765424730113,
   "created_at" : "2012-11-18 18:17:22 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2853,7 +2829,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "269125691386253312",
   "text" : "RT @thetechreport: Windows 7 update brings some DX11.1 features http:\/\/t.co\/mheghFQw",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2985,13 +2961,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3004,7 +2974,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 268782614113054720,
   "in_reply_to_status_id" : 268766289470840832,
   "created_at" : "2012-11-14 18:29:03 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3018,13 +2988,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3037,7 +3001,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 268766356231581697,
   "in_reply_to_status_id" : 268766289470840832,
   "created_at" : "2012-11-14 17:24:27 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3051,13 +3015,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3070,7 +3028,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 268765723566948352,
   "in_reply_to_status_id" : 268765424504684544,
   "created_at" : "2012-11-14 17:21:56 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3107,6 +3065,12 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
+    }, {
       "name" : "Microsoft",
       "screen_name" : "Microsoft",
       "indices" : [ 14, 24 ],
@@ -3139,7 +3103,13 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3394,13 +3364,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3413,7 +3377,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 268689062800547840,
   "in_reply_to_status_id" : 268688792788025345,
   "created_at" : "2012-11-14 12:17:19 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3521,13 +3485,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3540,7 +3498,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 268688243577454593,
   "in_reply_to_status_id" : 268688025859538945,
   "created_at" : "2012-11-14 12:14:03 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4478,7 +4436,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Quickline",
+      "name" : "QuicklineTTV",
       "screen_name" : "Quickline",
       "indices" : [ 46, 56 ],
       "id_str" : "810461718488854528",
@@ -4683,13 +4641,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4702,7 +4654,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 264836624230264832,
   "in_reply_to_status_id" : 264836512917626880,
   "created_at" : "2012-11-03 21:09:06 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",

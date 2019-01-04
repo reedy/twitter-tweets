@@ -941,7 +941,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -974,7 +974,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1534,7 +1534,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Follow @CamxFly",
+      "name" : "Old Account",
       "screen_name" : "CamRChapman",
       "indices" : [ 0, 12 ],
       "id_str" : "932983099725697024",
@@ -1578,7 +1578,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Follow @CamxFly",
+      "name" : "Old Account",
       "screen_name" : "CamRChapman",
       "indices" : [ 0, 12 ],
       "id_str" : "932983099725697024",
@@ -2176,13 +2176,7 @@ Grailbird.data.tweets_2017_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2195,7 +2189,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 930097435392856065,
   "in_reply_to_status_id" : 930097065077731328,
   "created_at" : "2017-11-13 15:38:03 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2499,7 +2493,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03A6\u03AC\u03C1\u03B1\u03BD",
+      "name" : "\u03A6\u03AC\u03C1\u03C1\u03B1\u03BD",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -2510,12 +2504,6 @@ Grailbird.data.tweets_2017_11 =
       "indices" : [ 9, 19 ],
       "id_str" : "10454082",
       "id" : 10454082
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 20, 25 ],
-      "id_str" : "14822382",
-      "id" : 14822382
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2659,8 +2647,8 @@ Grailbird.data.tweets_2017_11 =
       "name" : "Grant Gustin",
       "screen_name" : "grantgust",
       "indices" : [ 10, 20 ],
-      "id_str" : "160941691",
-      "id" : 160941691
+      "id_str" : "1480561195",
+      "id" : 1480561195
     } ],
     "media" : [ ],
     "hashtags" : [ ],

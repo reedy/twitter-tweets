@@ -380,13 +380,7 @@ Grailbird.data.tweets_2017_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "GlocalMe",
-      "screen_name" : "GlocalMeOnline",
-      "indices" : [ 0, 15 ],
-      "id_str" : "1533194275",
-      "id" : 1533194275
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -397,7 +391,7 @@ Grailbird.data.tweets_2017_04 =
   "text" : "@GlocalMeOnline Can you please fix your website so that if you visit it without www, it adds the www. Rather than giving a 502 nginx error",
   "id" : 854346832310398976,
   "created_at" : "2017-04-18 14:52:12 +0000",
-  "in_reply_to_screen_name" : "GlocalMeOnline",
+  "in_reply_to_screen_name" : "GlocalMeMoments",
   "in_reply_to_user_id_str" : "1533194275",
   "user" : {
     "name" : "Sam Reed",
@@ -467,7 +461,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flubit",
+      "name" : "Flubit.com",
       "screen_name" : "flubitweet",
       "indices" : [ 0, 11 ],
       "id_str" : "298973853",
@@ -500,7 +494,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flubit",
+      "name" : "Flubit.com",
       "screen_name" : "flubitweet",
       "indices" : [ 0, 11 ],
       "id_str" : "298973853",
@@ -572,7 +566,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flubit",
+      "name" : "Flubit.com",
       "screen_name" : "flubitweet",
       "indices" : [ 4, 15 ],
       "id_str" : "298973853",
@@ -2037,7 +2031,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "let \u007Borta\u007D = therox",
+      "name" : ".\/orta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -2424,7 +2418,7 @@ Grailbird.data.tweets_2017_04 =
       "id_str" : "836623419311591424",
       "id" : 836623419311591424
     }, {
-      "name" : "Gigaclear plc",
+      "name" : "Gigaclear",
       "screen_name" : "gigaclear",
       "indices" : [ 15, 25 ],
       "id_str" : "156555282",
@@ -2457,7 +2451,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gigaclear plc",
+      "name" : "Gigaclear",
       "screen_name" : "gigaclear",
       "indices" : [ 0, 10 ],
       "id_str" : "156555282",
@@ -2806,12 +2800,6 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
       "name" : "H&M",
       "screen_name" : "hm",
       "indices" : [ 6, 9 ],
@@ -2830,7 +2818,7 @@ Grailbird.data.tweets_2017_04 =
   "id" : 849320591517782016,
   "in_reply_to_status_id" : 849320088230649856,
   "created_at" : "2017-04-04 17:59:43 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2845,12 +2833,6 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
       "name" : "H&M",
       "screen_name" : "hm",
       "indices" : [ 6, 9 ],
@@ -2869,7 +2851,7 @@ Grailbird.data.tweets_2017_04 =
   "id" : 849319838208200704,
   "in_reply_to_status_id" : 849319301211443200,
   "created_at" : "2017-04-04 17:56:43 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",

@@ -1690,7 +1690,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weebl The Bee Whisperer",
+      "name" : "[\uD83D\uDD34 LIVE] The Weebl",
       "screen_name" : "TheWeebl",
       "indices" : [ 0, 9 ],
       "id_str" : "122040755",
@@ -2664,7 +2664,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/mariotaku\/twidere\/\" rel=\"nofollow\"\u003ETwidere for Android #7\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Niharika Kohli",
+      "name" : "Niharika \u2615\uFE0F",
       "screen_name" : "niharikakohli29",
       "indices" : [ 0, 16 ],
       "id_str" : "2588726972",
@@ -3169,13 +3169,7 @@ Grailbird.data.tweets_2017_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3188,7 +3182,7 @@ Grailbird.data.tweets_2017_08 =
   "id" : 898514252511805444,
   "in_reply_to_status_id" : 898513778651930624,
   "created_at" : "2017-08-18 11:57:46 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4434,7 +4428,7 @@ Grailbird.data.tweets_2017_08 =
       "id_str" : "361268597",
       "id" : 361268597
     }, {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 111, 120 ],
       "id_str" : "29484376",
@@ -5228,11 +5222,11 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/mariotaku\/twidere\/\" rel=\"nofollow\"\u003ETwidere for Android #7\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Virgin Trains EC",
+      "name" : "VTEC is now LNER",
       "screen_name" : "Virgin_TrainsEC",
       "indices" : [ 0, 16 ],
-      "id_str" : "313306238",
-      "id" : 313306238
+      "id_str" : "984210638036766721",
+      "id" : 984210638036766721
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5244,7 +5238,7 @@ Grailbird.data.tweets_2017_08 =
   "text" : "@Virgin_TrainsEC Elevator out (but being worked on at least!) at WKF. Had to carry my suitcase down the stairs",
   "id" : 894515313294929923,
   "created_at" : "2017-08-07 11:07:24 +0000",
-  "in_reply_to_screen_name" : "Virgin_TrainsEC",
+  "in_reply_to_screen_name" : "LNER",
   "in_reply_to_user_id_str" : "313306238",
   "user" : {
     "name" : "Sam Reed",
@@ -6096,12 +6090,6 @@ Grailbird.data.tweets_2017_08 =
       "id_str" : "856164314541150208",
       "id" : 856164314541150208
     }, {
-      "name" : "Alesson Nascimento",
-      "screen_name" : "Alesson_Serafim",
-      "indices" : [ 15, 31 ],
-      "id_str" : "903682818894594051",
-      "id" : 903682818894594051
-    }, {
       "name" : "American Airlines",
       "screen_name" : "AmericanAir",
       "indices" : [ 32, 44 ],
@@ -6190,7 +6178,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/mariotaku\/twidere\/\" rel=\"nofollow\"\u003ETwidere for Android #7\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pok\u00E9mon GO",
+      "name" : "Pok\u00E9mon GO is ready to #GOBattle\u2757",
       "screen_name" : "PokemonGoApp",
       "indices" : [ 7, 20 ],
       "id_str" : "2839430431",

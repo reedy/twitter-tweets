@@ -3,7 +3,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -36,7 +36,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -461,7 +461,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "61352707",
       "id" : 61352707
     }, {
-      "name" : "\u767D\u5DE6thirst-worldist\uD83C\uDFF4",
+      "name" : "\u767D\u5DE6thirst-worldist\uD83C\uDFF4\uD83D\uDD30",
       "screen_name" : "bigfack",
       "indices" : [ 20, 28 ],
       "id_str" : "1277435053",
@@ -498,7 +498,7 @@ Grailbird.data.tweets_2016_04 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u767D\u5DE6thirst-worldist\uD83C\uDFF4",
+        "name" : "\u767D\u5DE6thirst-worldist\uD83C\uDFF4\uD83D\uDD30",
         "screen_name" : "bigfack",
         "indices" : [ 1, 9 ],
         "id_str" : "1277435053",
@@ -859,13 +859,7 @@ Grailbird.data.tweets_2016_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -876,7 +870,7 @@ Grailbird.data.tweets_2016_04 =
   "text" : "@d0od Whatsapp. Gogogogo",
   "id" : 724346483064094720,
   "created_at" : "2016-04-24 21:17:13 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1632,7 +1626,7 @@ Grailbird.data.tweets_2016_04 =
   "id_str" : "723179760235335680",
   "text" : "RT @planefinder: Now this might explain why the aircraft that got hit by a drone returned to service so quick! https:\/\/t.co\/0qBUgw0CV1",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1790,13 +1784,13 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JAFF.",
+      "name" : "\uD83E\uDD8B",
       "screen_name" : "JAFFTAG",
       "indices" : [ 0, 8 ],
       "id_str" : "18614262",
       "id" : 18614262
     }, {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 22, 33 ],
       "id_str" : "116534927",
@@ -3213,7 +3207,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -4177,7 +4171,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "j00zt1n",
       "protected" : false,
       "id_str" : "643163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979455637938618368\/eSB8Ag9r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019683807593558016\/zvoaGgTY_normal.jpg",
       "id" : 643163,
       "verified" : false
     }
@@ -4291,7 +4285,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JAFF.",
+      "name" : "\uD83E\uDD8B",
       "screen_name" : "JAFFTAG",
       "indices" : [ 0, 8 ],
       "id_str" : "18614262",
@@ -4324,7 +4318,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JAFF.",
+      "name" : "\uD83E\uDD8B",
       "screen_name" : "JAFFTAG",
       "indices" : [ 0, 8 ],
       "id_str" : "18614262",
@@ -4405,7 +4399,7 @@ Grailbird.data.tweets_2016_04 =
   "id_str" : "718544481625227265",
   "text" : "RT @techradar: Finally! SpaceX successfully lands a rocket at sea https:\/\/t.co\/pkYsPVvBfE https:\/\/t.co\/2mGhIgUfHz",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -4539,7 +4533,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -5084,11 +5078,11 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "256493047",
       "id" : 256493047
     }, {
-      "name" : "Carl",
+      "name" : "Carl Thomas",
       "screen_name" : "CarlTSpeak",
       "indices" : [ 21, 32 ],
-      "id_str" : "19297923",
-      "id" : 19297923
+      "id_str" : "1030784535502438401",
+      "id" : 1030784535502438401
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5134,11 +5128,11 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "256493047",
       "id" : 256493047
     }, {
-      "name" : "Carl",
+      "name" : "Carl Thomas",
       "screen_name" : "CarlTSpeak",
       "indices" : [ 21, 32 ],
-      "id_str" : "19297923",
-      "id" : 19297923
+      "id_str" : "1030784535502438401",
+      "id" : 1030784535502438401
     } ],
     "media" : [ ],
     "hashtags" : [ ],

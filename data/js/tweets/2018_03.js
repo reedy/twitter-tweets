@@ -134,7 +134,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sleepy bit rot \u260E\uD83C\uDF0D\uD83D\uDCBB\u2728\u2728\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "sleepy bit rot  \u260E\uD83C\uDF0D\uD83D\uDCBB\u23F0\u2728\u2728\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "0x47DF",
       "indices" : [ 0, 7 ],
       "id_str" : "758555881",
@@ -1057,7 +1057,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UK CAA",
+      "name" : "UK Civil Aviation Authority",
       "screen_name" : "UK_CAA",
       "indices" : [ 24, 31 ],
       "id_str" : "135453038",
@@ -1224,12 +1224,6 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
       "name" : "eBay",
       "screen_name" : "eBay",
       "indices" : [ 6, 11 ],
@@ -1248,7 +1242,7 @@ Grailbird.data.tweets_2018_03 =
   "id" : 971898196728401920,
   "in_reply_to_status_id" : 971897867718799361,
   "created_at" : "2018-03-08 23:59:21 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1263,12 +1257,6 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
       "name" : "eBay",
       "screen_name" : "eBay",
       "indices" : [ 6, 11 ],
@@ -1287,7 +1275,7 @@ Grailbird.data.tweets_2018_03 =
   "id" : 971897696410849280,
   "in_reply_to_status_id" : 971897381645103110,
   "created_at" : "2018-03-08 23:57:22 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1715,7 +1703,7 @@ Grailbird.data.tweets_2018_03 =
       "id_str" : "21524950",
       "id" : 21524950
     }, {
-      "name" : "UK CAA",
+      "name" : "UK Civil Aviation Authority",
       "screen_name" : "UK_CAA",
       "indices" : [ 16, 23 ],
       "id_str" : "135453038",

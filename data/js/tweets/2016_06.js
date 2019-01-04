@@ -2,13 +2,7 @@ Grailbird.data.tweets_2016_06 =
  [ {
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "GlocalMe",
-      "screen_name" : "GlocalMeOnline",
-      "indices" : [ 4, 19 ],
-      "id_str" : "1533194275",
-      "id" : 1533194275
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/tehreedy\/status\/748624454545252352\/photo\/1",
       "indices" : [ 93, 116 ],
@@ -718,7 +712,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UK CAA",
+      "name" : "UK Civil Aviation Authority",
       "screen_name" : "UK_CAA",
       "indices" : [ 0, 7 ],
       "id_str" : "135453038",
@@ -1698,13 +1692,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 6, 17 ],
       "id_str" : "116534927",
@@ -1722,7 +1710,7 @@ Grailbird.data.tweets_2016_06 =
   "id" : 745551726908891136,
   "in_reply_to_status_id" : 745550922818805760,
   "created_at" : "2016-06-22 09:39:18 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1737,7 +1725,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1770,7 +1758,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2323,7 +2311,7 @@ Grailbird.data.tweets_2016_06 =
   "id_str" : "743400678790406144",
   "text" : "RT @samknows: Major study links low #internet usage to slow #broadband - BBC News https:\/\/t.co\/7bn0VpqjOr https:\/\/t.co\/tTSMM5KhNn",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2536,7 +2524,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UK CAA",
+      "name" : "UK Civil Aviation Authority",
       "screen_name" : "UK_CAA",
       "indices" : [ 0, 7 ],
       "id_str" : "135453038",
@@ -2569,7 +2557,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UK CAA",
+      "name" : "UK Civil Aviation Authority",
       "screen_name" : "UK_CAA",
       "indices" : [ 0, 7 ],
       "id_str" : "135453038",
@@ -2725,7 +2713,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GiveBlood NHS  \uD83D\uDC89",
+      "name" : "GiveBlood NHS \uD83C\uDF89\uD83E\uDDE8",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 0, 13 ],
       "id_str" : "304952647",
@@ -2758,7 +2746,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GiveBlood NHS  \uD83D\uDC89",
+      "name" : "GiveBlood NHS \uD83C\uDF89\uD83E\uDDE8",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 0, 13 ],
       "id_str" : "304952647",
@@ -2912,7 +2900,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GiveBlood NHS  \uD83D\uDC89",
+      "name" : "GiveBlood NHS \uD83C\uDF89\uD83E\uDDE8",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 0, 13 ],
       "id_str" : "304952647",
@@ -2943,7 +2931,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3297,7 +3285,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UK CAA",
+      "name" : "UK Civil Aviation Authority",
       "screen_name" : "UK_CAA",
       "indices" : [ 0, 7 ],
       "id_str" : "135453038",

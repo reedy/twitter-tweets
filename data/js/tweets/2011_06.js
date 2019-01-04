@@ -2,13 +2,7 @@ Grailbird.data.tweets_2011_06 =
  [ {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -21,7 +15,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 86558733848686593,
   "in_reply_to_status_id" : 86558414238519297,
   "created_at" : "2011-06-30 22:16:25 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -41,12 +35,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 0, 11 ],
       "id_str" : "17854916",
       "id" : 17854916
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 12, 17 ],
-      "id_str" : "14822382",
-      "id" : 14822382
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -80,12 +68,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 0, 11 ],
       "id_str" : "17854916",
       "id" : 17854916
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 57, 62 ],
-      "id_str" : "14822382",
-      "id" : 14822382
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -113,13 +95,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 10, 15 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -163,13 +139,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -182,7 +152,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 86217255880372224,
   "in_reply_to_status_id" : 86217141895954432,
   "created_at" : "2011-06-29 23:39:30 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -296,13 +266,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -313,7 +277,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od Oh, liek hai. Are you there?",
   "id" : 85384509620621313,
   "created_at" : "2011-06-27 16:30:28 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -383,13 +347,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -402,7 +360,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 84882361707278336,
   "in_reply_to_status_id" : 84380570985046016,
   "created_at" : "2011-06-26 07:15:06 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -416,13 +374,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -435,7 +387,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 84673140860526592,
   "in_reply_to_status_id" : 84673068953370625,
   "created_at" : "2011-06-25 17:23:44 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -480,13 +432,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -499,7 +445,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 84381949816344577,
   "in_reply_to_status_id" : 84380570985046016,
   "created_at" : "2011-06-24 22:06:39 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -546,13 +492,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -563,7 +503,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od You'll probably catch me online anyway sometimes, if you're on MSN ;). Whatever works!",
   "id" : 84381054768660480,
   "created_at" : "2011-06-24 22:03:05 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -577,13 +517,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -594,7 +528,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od lols. Awesomes",
   "id" : 84380589259636736,
   "created_at" : "2011-06-24 22:01:14 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -608,13 +542,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -627,7 +555,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 84379853050216448,
   "in_reply_to_status_id" : 84238149697552384,
   "created_at" : "2011-06-24 21:58:19 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -642,7 +570,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weebl The Bee Whisperer",
+      "name" : "[\uD83D\uDD34 LIVE] The Weebl",
       "screen_name" : "TheWeebl",
       "indices" : [ 0, 9 ],
       "id_str" : "122040755",
@@ -733,13 +661,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -750,7 +672,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od I'm on a plane! ;-D",
   "id" : 84184231189823488,
   "created_at" : "2011-06-24 09:00:59 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -892,13 +814,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -909,7 +825,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od is you alive, alert, awake and enthusiastic?",
   "id" : 84002760076435456,
   "created_at" : "2011-06-23 20:59:53 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -923,13 +839,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -942,7 +852,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 83852548888473600,
   "in_reply_to_status_id" : 83852291354009601,
   "created_at" : "2011-06-23 11:03:00 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -956,13 +866,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -975,7 +879,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 83852095983333376,
   "in_reply_to_status_id" : 83851921219264512,
   "created_at" : "2011-06-23 11:01:12 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1022,13 +926,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1041,7 +939,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 83849623525011456,
   "in_reply_to_status_id" : 83848230831534080,
   "created_at" : "2011-06-23 10:51:22 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1055,13 +953,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1074,7 +966,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 83847903742922752,
   "in_reply_to_status_id" : 83846929099927552,
   "created_at" : "2011-06-23 10:44:32 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1224,7 +1116,7 @@ Grailbird.data.tweets_2011_06 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -1241,7 +1133,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 83588522736484352,
   "in_reply_to_status_id" : 83588325209948160,
   "created_at" : "2011-06-22 17:33:51 +0000",
-  "in_reply_to_screen_name" : "veeam",
+  "in_reply_to_screen_name" : "Veeam",
   "in_reply_to_user_id_str" : "14908404",
   "user" : {
     "name" : "Sam Reed",
@@ -1257,7 +1149,7 @@ Grailbird.data.tweets_2011_06 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -1274,7 +1166,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 83588059429474305,
   "in_reply_to_status_id" : 83587538136207360,
   "created_at" : "2011-06-22 17:32:01 +0000",
-  "in_reply_to_screen_name" : "veeam",
+  "in_reply_to_screen_name" : "Veeam",
   "in_reply_to_user_id_str" : "14908404",
   "user" : {
     "name" : "Sam Reed",
@@ -1449,13 +1341,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1466,7 +1352,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od MSN nao pl0x?",
   "id" : 83265552931495937,
   "created_at" : "2011-06-21 20:10:29 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1518,7 +1404,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "puppetize",
       "protected" : false,
       "id_str" : "88982108",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881253548335390721\/IFp4TBFt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013939388194025472\/khHX14kN_normal.jpg",
       "id" : 88982108,
       "verified" : true
     }
@@ -1537,13 +1423,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003ETwidroyd for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 12, 17 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1920,7 +1800,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "AeroSociety",
       "protected" : false,
       "id_str" : "119789725",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539779471016865793\/d3GWeFj0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1062026561958957057\/O8IWVmfm_normal.jpg",
       "id" : 119789725,
       "verified" : true
     }
@@ -1964,13 +1844,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1983,7 +1857,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 82943406300606464,
   "in_reply_to_status_id" : 82941846397009920,
   "created_at" : "2011-06-20 22:50:23 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2421,13 +2295,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2440,7 +2308,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 82794552360058882,
   "in_reply_to_status_id" : 82537463486222336,
   "created_at" : "2011-06-20 12:58:54 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2479,13 +2347,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2498,7 +2360,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 82745584280289280,
   "in_reply_to_status_id" : 82739790096769025,
   "created_at" : "2011-06-20 09:44:19 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2512,13 +2374,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2531,7 +2387,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 82567898530447360,
   "in_reply_to_status_id" : 82537463486222336,
   "created_at" : "2011-06-19 21:58:15 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2545,13 +2401,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2564,7 +2414,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 82547133231804417,
   "in_reply_to_status_id" : 82537463486222336,
   "created_at" : "2011-06-19 20:35:44 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2578,19 +2428,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 120, 125 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2603,7 +2441,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 82537090608398337,
   "in_reply_to_status_id" : 82530116093218816,
   "created_at" : "2011-06-19 19:55:50 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2617,13 +2455,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2636,7 +2468,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 82498700982759424,
   "in_reply_to_status_id" : 81648175055777792,
   "created_at" : "2011-06-19 17:23:17 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2650,13 +2482,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2667,7 +2493,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od Liek, ohaider.",
   "id" : 82459177213100033,
   "created_at" : "2011-06-19 14:46:14 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2725,13 +2551,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2742,7 +2562,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od You alive, liek?",
   "id" : 81830966129209344,
   "created_at" : "2011-06-17 21:09:57 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2911,13 +2731,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2930,7 +2744,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 81731265199484928,
   "in_reply_to_status_id" : 81648175055777792,
   "created_at" : "2011-06-17 14:33:46 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2944,13 +2758,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2963,7 +2771,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 81726070507831296,
   "in_reply_to_status_id" : 81726008641855488,
   "created_at" : "2011-06-17 14:13:08 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3011,13 +2819,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3028,7 +2830,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od ls and ls -al, cat, cd foo (into dir) cat .. (out of dir) cat ~ (home!), and then maybe cp and mv?",
   "id" : 81655704456404992,
   "created_at" : "2011-06-17 09:33:31 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3064,13 +2866,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3083,7 +2879,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 81644930363166720,
   "in_reply_to_status_id" : 81640094074802176,
   "created_at" : "2011-06-17 08:50:42 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3163,13 +2959,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3182,7 +2972,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 81487421312745472,
   "in_reply_to_status_id" : 81482944077774849,
   "created_at" : "2011-06-16 22:24:49 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3196,13 +2986,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3215,7 +2999,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 81483074969407488,
   "in_reply_to_status_id" : 81482944077774849,
   "created_at" : "2011-06-16 22:07:33 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3229,13 +3013,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3248,7 +3026,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 81482726577934336,
   "in_reply_to_status_id" : 81482668193226752,
   "created_at" : "2011-06-16 22:06:10 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3466,12 +3244,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 0, 7 ],
       "id_str" : "426970001",
       "id" : 426970001
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 119, 124 ],
-      "id_str" : "14822382",
-      "id" : 14822382
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3692,13 +3464,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3711,7 +3477,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 81304783406891008,
   "in_reply_to_status_id" : 81304600287772672,
   "created_at" : "2011-06-16 10:19:05 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3725,13 +3491,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 12, 17 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3753,13 +3513,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 12, 17 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3781,13 +3535,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3800,7 +3548,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 81303079651262464,
   "in_reply_to_status_id" : 81298406248677376,
   "created_at" : "2011-06-16 10:12:19 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3814,13 +3562,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3833,7 +3575,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 81301000295694336,
   "in_reply_to_status_id" : 81298406248677376,
   "created_at" : "2011-06-16 10:04:03 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3847,13 +3589,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3866,7 +3602,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 81298243341918208,
   "in_reply_to_status_id" : 81292207134482432,
   "created_at" : "2011-06-16 09:53:06 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4085,13 +3821,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4104,7 +3834,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 81018696553865216,
   "in_reply_to_status_id" : 80924692755656704,
   "created_at" : "2011-06-15 15:22:17 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4118,13 +3848,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4137,7 +3861,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80935795489374208,
   "in_reply_to_status_id" : 80924692755656704,
   "created_at" : "2011-06-15 09:52:52 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4190,12 +3914,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 0, 7 ],
       "id_str" : "426970001",
       "id" : 426970001
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 8, 13 ],
-      "id_str" : "14822382",
-      "id" : 14822382
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4256,13 +3974,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4275,7 +3987,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80928620603904000,
   "in_reply_to_status_id" : 80925694921687040,
   "created_at" : "2011-06-15 09:24:21 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4289,13 +4001,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4308,7 +4014,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80928226825867264,
   "in_reply_to_status_id" : 80924692755656704,
   "created_at" : "2011-06-15 09:22:47 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4322,13 +4028,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4341,7 +4041,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80890650731614208,
   "in_reply_to_status_id" : 80674595727884290,
   "created_at" : "2011-06-15 06:53:28 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4355,13 +4055,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4374,7 +4068,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80750456963477504,
   "in_reply_to_status_id" : 80748928156442627,
   "created_at" : "2011-06-14 21:36:23 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4656,13 +4350,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4675,7 +4363,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80713890111041537,
   "in_reply_to_status_id" : 80674595727884290,
   "created_at" : "2011-06-14 19:11:05 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4689,13 +4377,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4708,7 +4390,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80694082812395520,
   "in_reply_to_status_id" : 80674595727884290,
   "created_at" : "2011-06-14 17:52:23 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4744,13 +4426,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4761,7 +4437,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od Imma beat you. ;-D",
   "id" : 80687289465974784,
   "created_at" : "2011-06-14 17:25:23 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4775,13 +4451,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4794,7 +4464,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80674507441971201,
   "in_reply_to_status_id" : 80672752947838976,
   "created_at" : "2011-06-14 16:34:36 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4808,13 +4478,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4827,7 +4491,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80672490497650688,
   "in_reply_to_status_id" : 80658176793518080,
   "created_at" : "2011-06-14 16:26:35 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4841,13 +4505,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4860,7 +4518,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80625950664044545,
   "in_reply_to_status_id" : 80566856544567296,
   "created_at" : "2011-06-14 13:21:39 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4874,13 +4532,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4893,7 +4545,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80571759857901568,
   "in_reply_to_status_id" : 80566856544567296,
   "created_at" : "2011-06-14 09:46:19 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4932,13 +4584,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4951,7 +4597,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80542845194354688,
   "in_reply_to_status_id" : 80534689605099520,
   "created_at" : "2011-06-14 07:51:25 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4965,13 +4611,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4984,7 +4624,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80541183142670336,
   "in_reply_to_status_id" : 80534689605099520,
   "created_at" : "2011-06-14 07:44:49 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5031,13 +4671,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5050,7 +4684,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80347251205083137,
   "in_reply_to_status_id" : 80323815481151489,
   "created_at" : "2011-06-13 18:54:12 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5064,13 +4698,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5083,7 +4711,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80261022455308288,
   "in_reply_to_status_id" : 80256618146705408,
   "created_at" : "2011-06-13 13:11:33 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5136,12 +4764,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 0, 11 ],
       "id_str" : "17854916",
       "id" : 17854916
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 35, 40 ],
-      "id_str" : "14822382",
-      "id" : 14822382
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5187,12 +4809,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 35, 46 ],
       "id_str" : "17854916",
       "id" : 17854916
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 62, 67 ],
-      "id_str" : "14822382",
-      "id" : 14822382
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5206,7 +4822,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80229592580882432,
   "in_reply_to_status_id" : 80228776176390144,
   "created_at" : "2011-06-13 11:06:40 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5220,13 +4836,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 9, 14 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5239,7 +4849,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80221569003163648,
   "in_reply_to_status_id" : 80219987863801856,
   "created_at" : "2011-06-13 10:34:47 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5253,13 +4863,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5272,7 +4876,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80219132863332352,
   "in_reply_to_status_id" : 80216853959540736,
   "created_at" : "2011-06-13 10:25:06 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5286,13 +4890,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5305,7 +4903,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80172066292244480,
   "in_reply_to_status_id" : 80059411892150272,
   "created_at" : "2011-06-13 07:18:04 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5344,13 +4942,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5363,7 +4955,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 80005356037738496,
   "in_reply_to_status_id" : 79999519265259520,
   "created_at" : "2011-06-12 20:15:37 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5377,13 +4969,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5396,7 +4982,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 79985170471600129,
   "in_reply_to_status_id" : 79983946942791680,
   "created_at" : "2011-06-12 18:55:25 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5513,13 +5099,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5530,7 +5110,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od You alive?",
   "id" : 79567729723576320,
   "created_at" : "2011-06-11 15:16:39 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5544,13 +5124,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5563,7 +5137,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 79277820043476992,
   "in_reply_to_status_id" : 79172882873331713,
   "created_at" : "2011-06-10 20:04:39 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5577,13 +5151,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5596,7 +5164,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 79228151938551809,
   "in_reply_to_status_id" : 79172882873331713,
   "created_at" : "2011-06-10 16:47:18 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5610,13 +5178,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5629,7 +5191,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 79187901681893376,
   "in_reply_to_status_id" : 79172882873331713,
   "created_at" : "2011-06-10 14:07:21 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5643,13 +5205,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5662,7 +5218,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 79174540890079232,
   "in_reply_to_status_id" : 79172882873331713,
   "created_at" : "2011-06-10 13:14:16 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5676,13 +5232,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5695,7 +5245,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 79164970616635392,
   "in_reply_to_status_id" : 79130027895169024,
   "created_at" : "2011-06-10 12:36:14 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5742,13 +5292,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5761,7 +5305,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 79132148887601152,
   "in_reply_to_status_id" : 79130027895169024,
   "created_at" : "2011-06-10 10:25:49 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5775,13 +5319,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5794,7 +5332,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 79128258075045888,
   "in_reply_to_status_id" : 79125622064021504,
   "created_at" : "2011-06-10 10:10:21 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5808,13 +5346,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5825,7 +5357,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od You up and responsive yet? Phone, biznitch ;-D",
   "id" : 79119099887759360,
   "created_at" : "2011-06-10 09:33:58 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5895,13 +5427,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5914,7 +5440,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 78879415551004672,
   "in_reply_to_status_id" : 78875267816370176,
   "created_at" : "2011-06-09 17:41:32 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5928,13 +5454,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5945,7 +5465,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od Imma darn souf, innit liek",
   "id" : 78809614384250880,
   "created_at" : "2011-06-09 13:04:10 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5959,13 +5479,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5978,7 +5492,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 78589399260078080,
   "in_reply_to_status_id" : 78401589357969408,
   "created_at" : "2011-06-08 22:29:07 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5992,13 +5506,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6011,7 +5519,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 78551822385684480,
   "in_reply_to_status_id" : 78549167152177152,
   "created_at" : "2011-06-08 19:59:48 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -6124,13 +5632,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6143,7 +5645,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 78491522206666752,
   "in_reply_to_status_id" : 78401589357969408,
   "created_at" : "2011-06-08 16:00:11 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -6163,6 +5665,12 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 0, 10 ],
       "id_str" : "57927199",
       "id" : 57927199
+    }, {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 11, 24 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6254,7 +5762,13 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6281,13 +5795,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 22, 27 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6300,7 +5808,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 78402882235408384,
   "in_reply_to_status_id" : 78401589357969408,
   "created_at" : "2011-06-08 10:07:58 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -6314,13 +5822,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6331,7 +5833,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od Are you sleeping again and ignoring your phone cause its on silent? Useless!! ;-P",
   "id" : 78209659290394624,
   "created_at" : "2011-06-07 21:20:10 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -6345,13 +5847,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6364,7 +5860,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 78165588089896960,
   "in_reply_to_status_id" : 78156525956374528,
   "created_at" : "2011-06-07 18:25:03 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -6378,13 +5874,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 10, 15 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6406,13 +5896,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6425,7 +5909,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 78139884287705089,
   "in_reply_to_status_id" : 78056510218973185,
   "created_at" : "2011-06-07 16:42:54 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -6557,13 +6041,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6576,7 +6054,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 78060951307423745,
   "in_reply_to_status_id" : 78056510218973185,
   "created_at" : "2011-06-07 11:29:15 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -6590,13 +6068,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6607,7 +6079,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od U R TEH SUCK. KTHX",
   "id" : 78059437180456961,
   "created_at" : "2011-06-07 11:23:14 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -6621,13 +6093,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6640,7 +6106,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 78049067074191361,
   "in_reply_to_status_id" : 78046694574530560,
   "created_at" : "2011-06-07 10:42:02 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -6654,13 +6120,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 10, 15 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6682,13 +6142,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 12, 17 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6717,7 +6171,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "426970001",
       "id" : 426970001
     }, {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 31, 40 ],
       "id_str" : "29484376",
@@ -6954,7 +6408,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "426970001",
       "id" : 426970001
     }, {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 8, 17 ],
       "id_str" : "29484376",
@@ -6987,7 +6441,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 0, 9 ],
       "id_str" : "29484376",
@@ -7020,7 +6474,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 0, 9 ],
       "id_str" : "29484376",
@@ -7051,7 +6505,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 0, 9 ],
       "id_str" : "29484376",
@@ -7227,13 +6681,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 13, 18 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7255,13 +6703,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7274,7 +6716,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 77317451725017088,
   "in_reply_to_status_id" : 77314438377635840,
   "created_at" : "2011-06-05 10:14:51 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -7288,13 +6730,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7307,7 +6743,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 77299767524335617,
   "in_reply_to_status_id" : 77290672234831872,
   "created_at" : "2011-06-05 09:04:35 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -7544,13 +6980,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 25, 30 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7597,13 +7027,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7616,7 +7040,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 76618225210765312,
   "in_reply_to_status_id" : 76592755396190208,
   "created_at" : "2011-06-03 11:56:23 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -7663,13 +7087,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7682,7 +7100,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 76594544258449409,
   "in_reply_to_status_id" : 76592755396190208,
   "created_at" : "2011-06-03 10:22:17 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -7696,64 +7114,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "bassdread",
-      "screen_name" : "bassdread",
-      "indices" : [ 3, 13 ],
-      "id_str" : "7431352",
-      "id" : 7431352
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "76380919900024832",
-  "text" : "RT @bassdread: http:\/\/i.imgur.com\/SEipa.jpg lolz",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "76365704844161024",
-    "text" : "http:\/\/i.imgur.com\/SEipa.jpg lolz",
-    "id" : 76365704844161024,
-    "created_at" : "2011-06-02 19:12:57 +0000",
-    "user" : {
-      "name" : "bassdread",
-      "screen_name" : "bassdread",
-      "protected" : false,
-      "id_str" : "7431352",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775748819971629056\/p4tqN41q_normal.jpg",
-      "id" : 7431352,
-      "verified" : false
-    }
-  },
-  "id" : 76380919900024832,
-  "created_at" : "2011-06-02 20:13:25 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 10, 15 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7833,13 +7194,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 3, 8 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7861,11 +7216,11 @@ Grailbird.data.tweets_2011_06 =
     "id" : 76260623272513536,
     "created_at" : "2011-06-02 12:15:24 +0000",
     "user" : {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "protected" : false,
+      "name" : "Joey",
+      "screen_name" : "joeywritesblogs",
+      "protected" : true,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979079978838122497\/zwMYJkCN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079094356886413312\/tuby6M6X_normal.jpg",
       "id" : 14822382,
       "verified" : false
     }
@@ -7884,13 +7239,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7903,7 +7252,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 76260946007437312,
   "in_reply_to_status_id" : 76260623272513536,
   "created_at" : "2011-06-02 12:16:41 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -7990,13 +7339,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -8009,7 +7352,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 76028518500282368,
   "in_reply_to_status_id" : 75867647555796992,
   "created_at" : "2011-06-01 20:53:06 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -8081,13 +7424,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -8100,7 +7437,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 75870512521289728,
   "in_reply_to_status_id" : 75867647555796992,
   "created_at" : "2011-06-01 10:25:14 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -8114,13 +7451,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -8133,7 +7464,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 75867715776151552,
   "in_reply_to_status_id" : 75867647555796992,
   "created_at" : "2011-06-01 10:14:07 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -8147,13 +7478,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -8166,7 +7491,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 75867152707624960,
   "in_reply_to_status_id" : 75866929360932864,
   "created_at" : "2011-06-01 10:11:53 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -8180,13 +7505,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -8199,7 +7518,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 75865767534538752,
   "in_reply_to_status_id" : 75853453154455552,
   "created_at" : "2011-06-01 10:06:23 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -8213,13 +7532,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -8230,7 +7543,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@d0od Thats still 5 whole months. Anyway weird is good, who wants to be \"normal\" anyway?",
   "id" : 75854448441827329,
   "created_at" : "2011-06-01 09:21:24 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -8244,13 +7557,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -8263,7 +7570,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 75852508983066625,
   "in_reply_to_status_id" : 75851205179478016,
   "created_at" : "2011-06-01 09:13:42 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -8277,13 +7584,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\" rel=\"nofollow\"\u003EEchofon  Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -8296,7 +7597,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 75851060253696000,
   "in_reply_to_status_id" : 75638195177525248,
   "created_at" : "2011-06-01 09:07:56 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",

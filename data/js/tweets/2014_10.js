@@ -246,7 +246,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -808,13 +808,7 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -827,7 +821,7 @@ Grailbird.data.tweets_2014_10 =
   "id" : 525613114675720192,
   "in_reply_to_status_id" : 525612793450741760,
   "created_at" : "2014-10-24 11:41:46 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -842,7 +836,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -902,7 +896,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DS trains",
+      "name" : "Dan",
       "screen_name" : "DsTrains",
       "indices" : [ 0, 9 ],
       "id_str" : "2835304534",
@@ -1273,7 +1267,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1541,7 +1535,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1574,7 +1568,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1607,7 +1601,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1640,7 +1634,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 16, 27 ],
       "id_str" : "116534927",
@@ -1658,7 +1652,7 @@ Grailbird.data.tweets_2014_10 =
   "id" : 523924632605577217,
   "in_reply_to_status_id" : 523923241438810112,
   "created_at" : "2014-10-19 19:52:21 +0000",
-  "in_reply_to_screen_name" : "BrotherTeresza",
+  "in_reply_to_screen_name" : "ChiefHunstable",
   "in_reply_to_user_id_str" : "2155912515",
   "user" : {
     "name" : "Sam Reed",
@@ -1673,7 +1667,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 16, 27 ],
       "id_str" : "116534927",
@@ -1691,7 +1685,7 @@ Grailbird.data.tweets_2014_10 =
   "id" : 523924173840994307,
   "in_reply_to_status_id" : 523923241438810112,
   "created_at" : "2014-10-19 19:50:31 +0000",
-  "in_reply_to_screen_name" : "BrotherTeresza",
+  "in_reply_to_screen_name" : "ChiefHunstable",
   "in_reply_to_user_id_str" : "2155912515",
   "user" : {
     "name" : "Sam Reed",
@@ -1706,7 +1700,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1745,7 +1739,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2537,7 +2531,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -2609,7 +2603,7 @@ Grailbird.data.tweets_2014_10 =
   "id_str" : "522789031483281408",
   "text" : "RT @planefinder: Also, you can type in an aircraft tail number to see if the aircraft you are about to get on has been to West Africa http:\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2727,7 +2721,7 @@ Grailbird.data.tweets_2014_10 =
   "id_str" : "522789014345363456",
   "text" : "RT @planefinder: Our new Ebola Tracker shows routes &amp; planes from affected countries http:\/\/t.co\/vYZxWJZPp7 http:\/\/t.co\/WivXl3FbtG",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2994,7 +2988,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3014,57 +3008,6 @@ Grailbird.data.tweets_2014_10 =
   "created_at" : "2014-10-14 20:37:51 +0000",
   "in_reply_to_screen_name" : "Toadsanime",
   "in_reply_to_user_id_str" : "116534927",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "James Cook",
-      "screen_name" : "JamesLiamCook",
-      "indices" : [ 3, 17 ],
-      "id_str" : "207420832",
-      "id" : 207420832
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "522046518044659713",
-  "text" : "RT @JamesLiamCook: Snapchat blames its poor security on the fact that a public API \"takes time and a lot of resources.\u201D Not good enough.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "522046335579877377",
-    "text" : "Snapchat blames its poor security on the fact that a public API \"takes time and a lot of resources.\u201D Not good enough.",
-    "id" : 522046335579877377,
-    "created_at" : "2014-10-14 15:28:40 +0000",
-    "user" : {
-      "name" : "James Cook",
-      "screen_name" : "JamesLiamCook",
-      "protected" : false,
-      "id_str" : "207420832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814875836323139584\/Q6uhjQBf_normal.jpg",
-      "id" : 207420832,
-      "verified" : true
-    }
-  },
-  "id" : 522046518044659713,
-  "created_at" : "2014-10-14 15:29:23 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -3363,68 +3306,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James Cook",
-      "screen_name" : "JamesLiamCook",
-      "indices" : [ 3, 17 ],
-      "id_str" : "207420832",
-      "id" : 207420832
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 98, 120 ],
-      "url" : "http:\/\/t.co\/E5UH3X8lsT",
-      "expanded_url" : "http:\/\/read.bi\/1xJHmvR",
-      "display_url" : "read.bi\/1xJHmvR"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "521623101030027264",
-  "text" : "RT @JamesLiamCook: The prime minister of Finland blames Apple for his country's economic problems http:\/\/t.co\/E5UH3X8lsT",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.businessinsider.com\" rel=\"nofollow\"\u003EBusiness Insider Login\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 79, 101 ],
-        "url" : "http:\/\/t.co\/E5UH3X8lsT",
-        "expanded_url" : "http:\/\/read.bi\/1xJHmvR",
-        "display_url" : "read.bi\/1xJHmvR"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "521623032486719488",
-    "text" : "The prime minister of Finland blames Apple for his country's economic problems http:\/\/t.co\/E5UH3X8lsT",
-    "id" : 521623032486719488,
-    "created_at" : "2014-10-13 11:26:36 +0000",
-    "user" : {
-      "name" : "James Cook",
-      "screen_name" : "JamesLiamCook",
-      "protected" : false,
-      "id_str" : "207420832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814875836323139584\/Q6uhjQBf_normal.jpg",
-      "id" : 207420832,
-      "verified" : true
-    }
-  },
-  "id" : 521623101030027264,
-  "created_at" : "2014-10-13 11:26:53 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3457,7 +3339,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03A6\u03AC\u03C1\u03B1\u03BD",
+      "name" : "\u03A6\u03AC\u03C1\u03C1\u03B1\u03BD",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -3502,7 +3384,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "21513566",
       "id" : 21513566
     }, {
-      "name" : "\u03A6\u03AC\u03C1\u03B1\u03BD",
+      "name" : "\u03A6\u03AC\u03C1\u03C1\u03B1\u03BD",
       "screen_name" : "fazzaan",
       "indices" : [ 9, 17 ],
       "id_str" : "53681528",
@@ -4400,7 +4282,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -4439,7 +4321,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "20583184",
       "id" : 20583184
     }, {
-      "name" : "Josh R \uD83D\uDC1D\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "Josh R \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "technicalfault",
       "indices" : [ 25, 40 ],
       "id_str" : "17285374",

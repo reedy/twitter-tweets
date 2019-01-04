@@ -62,7 +62,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UK CAA",
+      "name" : "UK Civil Aviation Authority",
       "screen_name" : "UK_CAA",
       "indices" : [ 0, 7 ],
       "id_str" : "135453038",
@@ -285,7 +285,7 @@ Grailbird.data.tweets_2018_02 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 4, 10 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -812,7 +812,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1560,7 +1560,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDE49\uD835\uDE56\uD835\uDE69\uD835\uDE5A \uD835\uDE43\uD835\uDE5E\uD835\uDE5C\uD835\uDE5C\uD835\uDE5E\uD835\uDE63\uD835\uDE68 \uD83C\uDF49",
+      "name" : "Nate Higgins",
       "screen_name" : "natehiggins",
       "indices" : [ 0, 12 ],
       "id_str" : "4690008469",

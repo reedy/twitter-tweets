@@ -306,7 +306,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Peter Hubberstey",
+      "name" : "Pete \uD83D\uDE3F",
       "screen_name" : "unixpro",
       "indices" : [ 0, 8 ],
       "id_str" : "151641752",
@@ -651,7 +651,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tindie",
+      "name" : "Tindie Maker Marketplace",
       "screen_name" : "tindie",
       "indices" : [ 0, 7 ],
       "id_str" : "712685130",
@@ -689,7 +689,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tindie",
+      "name" : "Tindie Maker Marketplace",
       "screen_name" : "tindie",
       "indices" : [ 0, 7 ],
       "id_str" : "712685130",
@@ -1388,7 +1388,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "SquidDLane",
       "protected" : false,
       "id_str" : "15911738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871513826859995136\/G0eeLF3d_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002725267293462528\/y5fvM3GG_normal.jpg",
       "id" : 15911738,
       "verified" : false
     }
@@ -1608,7 +1608,7 @@ Grailbird.data.tweets_2014_06 =
   "id_str" : "479345266920030208",
   "text" : "RT @samknows: Game of Thrones finale breaks torrenting record with 2 petabytes of illegal downloads in 12 hours - Pocket-lint http:\/\/t.co\/f\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1682,13 +1682,7 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 48, 53 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2629,7 +2623,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 6, 18 ],
       "id_str" : "27855118",
@@ -3317,7 +3311,7 @@ Grailbird.data.tweets_2014_06 =
   "id_str" : "475002688414158848",
   "text" : "RT @British_Airways: @tehreedy We'resorry for any inconvenience, a global IT issue has impacted many airlines today. We hope to reunite you\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.spredfast.com\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.spredfast.com\/\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Sam Reed",

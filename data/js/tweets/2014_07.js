@@ -468,7 +468,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 0, 9 ],
       "id_str" : "29484376",
@@ -702,13 +702,7 @@ Grailbird.data.tweets_2014_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -721,7 +715,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 493410328345337856,
   "in_reply_to_status_id" : 493409858360979456,
   "created_at" : "2014-07-27 14:59:24 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1280,9 +1274,9 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "fightfortheftr",
       "protected" : false,
       "id_str" : "382376904",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951599881961033729\/PFOFSSA4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006756518035771392\/WQ8DP55__normal.jpg",
       "id" : 382376904,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 492322701735116800,
@@ -1344,7 +1338,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1377,7 +1371,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1410,7 +1404,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1782,7 +1776,7 @@ Grailbird.data.tweets_2014_07 =
   "id_str" : "491256371489546240",
   "text" : "RT @bytemark: Do you use ElasticSearch? There is a 0-day exploit for it being used in the wild. Have you updated yet? http:\/\/t.co\/oh3BzkxbQ\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2015,7 +2009,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "boomerangmouth",
       "protected" : false,
       "id_str" : "28117032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823857783032475648\/63AA72gQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058044973894062082\/WScKBncL_normal.jpg",
       "id" : 28117032,
       "verified" : false
     }
@@ -2224,7 +2218,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "indices" : [ 0, 8 ],
       "id_str" : "621583",
@@ -2738,13 +2732,7 @@ Grailbird.data.tweets_2014_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2757,7 +2745,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 489782606049726464,
   "in_reply_to_status_id" : 489782528346427392,
   "created_at" : "2014-07-17 14:44:07 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3111,10 +3099,10 @@ Grailbird.data.tweets_2014_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "OpenDNS",
-      "screen_name" : "opendns",
+      "screen_name" : "OpenDNS",
       "indices" : [ 0, 8 ],
-      "id_str" : "689273",
-      "id" : 689273
+      "id_str" : "975857943462666240",
+      "id" : 975857943462666240
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3126,7 +3114,7 @@ Grailbird.data.tweets_2014_07 =
   "text" : "@opendns Seems your Miami servers don't have any idea where anything is on the internet (according to your CacheCheck)...",
   "id" : 489576690440761344,
   "created_at" : "2014-07-17 01:05:53 +0000",
-  "in_reply_to_screen_name" : "opendns",
+  "in_reply_to_screen_name" : "CiscoUmbrella",
   "in_reply_to_user_id_str" : "689273",
   "user" : {
     "name" : "Sam Reed",
@@ -3524,7 +3512,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "Airbus",
       "protected" : false,
       "id_str" : "15425377",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820893018026872832\/q2NDdAqW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1007497242264076293\/XLNMqJRx_normal.jpg",
       "id" : 15425377,
       "verified" : true
     }
@@ -3761,12 +3749,6 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
       "name" : "Amazon.co.uk",
       "screen_name" : "AmazonUK",
       "indices" : [ 6, 15 ],
@@ -3785,7 +3767,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 488682835642179584,
   "in_reply_to_status_id" : 488681926992351232,
   "created_at" : "2014-07-14 13:54:01 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4042,8 +4024,8 @@ Grailbird.data.tweets_2014_07 =
       "name" : "tanner",
       "screen_name" : "tannerfilip",
       "indices" : [ 10, 22 ],
-      "id_str" : "18496297",
-      "id" : 18496297
+      "id_str" : "1072700041985486848",
+      "id" : 1072700041985486848
     }, {
       "name" : "Firefox \uD83D\uDD25",
       "screen_name" : "firefox",
@@ -4086,8 +4068,8 @@ Grailbird.data.tweets_2014_07 =
       "name" : "tanner",
       "screen_name" : "tannerfilip",
       "indices" : [ 0, 12 ],
-      "id_str" : "18496297",
-      "id" : 18496297
+      "id_str" : "1072700041985486848",
+      "id" : 1072700041985486848
     }, {
       "name" : "Robat Das Orvi",
       "screen_name" : "Orvimozillian",
@@ -4107,7 +4089,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 488359561641078784,
   "in_reply_to_status_id" : 488359308967436289,
   "created_at" : "2014-07-13 16:29:27 +0000",
-  "in_reply_to_screen_name" : "tannerfilip",
+  "in_reply_to_screen_name" : "tanner4a46",
   "in_reply_to_user_id_str" : "18496297",
   "user" : {
     "name" : "Sam Reed",
@@ -4125,8 +4107,8 @@ Grailbird.data.tweets_2014_07 =
       "name" : "tanner",
       "screen_name" : "tannerfilip",
       "indices" : [ 0, 12 ],
-      "id_str" : "18496297",
-      "id" : 18496297
+      "id_str" : "1072700041985486848",
+      "id" : 1072700041985486848
     }, {
       "name" : "Robat Das Orvi",
       "screen_name" : "Orvimozillian",
@@ -4146,7 +4128,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 488359246971826176,
   "in_reply_to_status_id" : 488359156810657792,
   "created_at" : "2014-07-13 16:28:12 +0000",
-  "in_reply_to_screen_name" : "tannerfilip",
+  "in_reply_to_screen_name" : "tanner4a46",
   "in_reply_to_user_id_str" : "18496297",
   "user" : {
     "name" : "Sam Reed",
@@ -4648,9 +4630,9 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "fightfortheftr",
       "protected" : false,
       "id_str" : "382376904",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951599881961033729\/PFOFSSA4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006756518035771392\/WQ8DP55__normal.jpg",
       "id" : 382376904,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 487327064442568704,
@@ -4957,7 +4939,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -4969,7 +4951,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "551426814",
       "id" : 551426814
     }, {
-      "name" : "GiveBlood NHS  \uD83D\uDC89",
+      "name" : "GiveBlood NHS \uD83C\uDF89\uD83E\uDDE8",
       "screen_name" : "GiveBloodNHS",
       "indices" : [ 28, 41 ],
       "id_str" : "304952647",
@@ -5002,7 +4984,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -5041,7 +5023,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -5460,13 +5442,7 @@ Grailbird.data.tweets_2014_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5479,7 +5455,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 485047075282120704,
   "in_reply_to_status_id" : 485046726009847808,
   "created_at" : "2014-07-04 13:06:49 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5522,7 +5498,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 18, 27 ],
       "id_str" : "29484376",
@@ -5588,12 +5564,6 @@ Grailbird.data.tweets_2014_07 =
       "indices" : [ 8, 19 ],
       "id_str" : "1566608652",
       "id" : 1566608652
-    }, {
-      "name" : "Lenovo Forums",
-      "screen_name" : "lenovoforums",
-      "indices" : [ 20, 33 ],
-      "id_str" : "107116995",
-      "id" : 107116995
     } ],
     "media" : [ ],
     "hashtags" : [ ],

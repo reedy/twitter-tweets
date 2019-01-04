@@ -154,6 +154,39 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Miles",
+      "screen_name" : "MilesTails",
+      "indices" : [ 0, 11 ],
+      "id_str" : "17048726",
+      "id" : 17048726
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "4110126007",
+  "geo" : { },
+  "id_str" : "4111081571",
+  "in_reply_to_user_id" : 17048726,
+  "text" : "@MilesTails bf2. Ftw",
+  "id" : 4111081571,
+  "in_reply_to_status_id" : 4110126007,
+  "created_at" : "2009-09-19 00:00:00 +0000",
+  "in_reply_to_screen_name" : "MilesTails",
+  "in_reply_to_user_id_str" : "17048726",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "carlos contreras",
       "screen_name" : "120789",
       "indices" : [ 0, 7 ],
@@ -271,39 +304,6 @@ Grailbird.data.tweets_2009_09 =
   "text" : "RT @120789 Yargh! Happy #talklikeapirateday all ye scurvy landlubbers! Ye wonders how ye can keep this up all day, yargh!",
   "id" : 4099053157,
   "created_at" : "2009-09-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Miles",
-      "screen_name" : "MilesTails",
-      "indices" : [ 0, 11 ],
-      "id_str" : "17048726",
-      "id" : 17048726
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "4110126007",
-  "geo" : { },
-  "id_str" : "4111081571",
-  "in_reply_to_user_id" : 17048726,
-  "text" : "@MilesTails bf2. Ftw",
-  "id" : 4111081571,
-  "in_reply_to_status_id" : 4110126007,
-  "created_at" : "2009-09-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "MilesTails",
-  "in_reply_to_user_id_str" : "17048726",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

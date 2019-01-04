@@ -252,12 +252,6 @@ Grailbird.data.tweets_2018_01 =
       "id_str" : "1856171",
       "id" : 1856171
     }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 9, 14 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
       "name" : "Wileyfox",
       "screen_name" : "Wileyfox",
       "indices" : [ 15, 24 ],
@@ -1054,12 +1048,6 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
       "name" : "HMRC Customer Support",
       "screen_name" : "HMRCcustomers",
       "indices" : [ 6, 20 ],
@@ -1078,7 +1066,7 @@ Grailbird.data.tweets_2018_01 =
   "id" : 955562105402400769,
   "in_reply_to_status_id" : 955561895888646144,
   "created_at" : "2018-01-22 22:05:34 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1177,7 +1165,7 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1718,12 +1706,6 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 3, 8 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
       "name" : "The Guardian",
       "screen_name" : "guardian",
       "indices" : [ 68, 77 ],
@@ -1762,11 +1744,11 @@ Grailbird.data.tweets_2018_01 =
     "id" : 951426284567040000,
     "created_at" : "2018-01-11 12:11:17 +0000",
     "user" : {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "protected" : false,
+      "name" : "Joey",
+      "screen_name" : "joeywritesblogs",
+      "protected" : true,
       "id_str" : "14822382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979079978838122497\/zwMYJkCN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079094356886413312\/tuby6M6X_normal.jpg",
       "id" : 14822382,
       "verified" : false
     }
@@ -1980,12 +1962,6 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
       "name" : "OMG! UBUNTU!",
       "screen_name" : "omgubuntu",
       "indices" : [ 6, 16 ],
@@ -2004,7 +1980,7 @@ Grailbird.data.tweets_2018_01 =
   "id" : 950712642137722885,
   "in_reply_to_status_id" : 950711409813475329,
   "created_at" : "2018-01-09 12:55:31 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2797,7 +2773,7 @@ Grailbird.data.tweets_2018_01 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -2892,7 +2868,7 @@ Grailbird.data.tweets_2018_01 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -2943,7 +2919,7 @@ Grailbird.data.tweets_2018_01 =
   "text" : "@veeam Where do I find this? https:\/\/t.co\/AbVE3dOfcv I can't seem to find any of the media pool wizard stuff beyond creating a new one in the backup job wizard... 9.5.0.1536. Thanks! https:\/\/t.co\/i0LLJwZHb0",
   "id" : 948526156143349760,
   "created_at" : "2018-01-03 12:07:13 +0000",
-  "in_reply_to_screen_name" : "veeam",
+  "in_reply_to_screen_name" : "Veeam",
   "in_reply_to_user_id_str" : "14908404",
   "user" : {
     "name" : "Sam Reed",

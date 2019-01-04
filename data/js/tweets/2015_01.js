@@ -739,7 +739,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "TheRealRevK",
       "protected" : false,
       "id_str" : "227666609",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980113696654491653\/1brSP4Vj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005433381109354496\/dzSAAWff_normal.jpg",
       "id" : 227666609,
       "verified" : false
     }
@@ -945,7 +945,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 3, 14 ],
       "id_str" : "116534927",
@@ -1015,11 +1015,11 @@ Grailbird.data.tweets_2015_01 =
     "id" : 554957997190176769,
     "created_at" : "2015-01-13 11:07:51 +0000",
     "user" : {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "protected" : false,
       "id_str" : "116534927",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/982424535399108608\/VG7wxWin_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1073250288797134848\/bpkdbHWb_normal.jpg",
       "id" : 116534927,
       "verified" : true
     }
@@ -2031,7 +2031,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "lenovo",
       "protected" : false,
       "id_str" : "17307429",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/970785434908360706\/PU8gvK1n_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057955319639351296\/FP8hhGTv_normal.jpg",
       "id" : 17307429,
       "verified" : true
     }
@@ -2152,25 +2152,16 @@ Grailbird.data.tweets_2015_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lenovo Forums",
-      "screen_name" : "lenovoforums",
-      "indices" : [ 0, 13 ],
-      "id_str" : "107116995",
-      "id" : 107116995
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "551444354532143104",
-  "in_reply_to_user_id" : 107116995,
   "text" : "@lenovoforums Any idea why my X220 doesn't see it's bluetooth adapter? Doesn't show in Fn + F5... :\/",
   "id" : 551444354532143104,
   "created_at" : "2015-01-03 18:25:54 +0000",
-  "in_reply_to_screen_name" : "lenovoforums",
-  "in_reply_to_user_id_str" : "107116995",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",

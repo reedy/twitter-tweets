@@ -132,7 +132,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "let \u007Borta\u007D = therox",
+      "name" : ".\/orta",
       "screen_name" : "orta",
       "indices" : [ 3, 8 ],
       "id_str" : "2569881",
@@ -159,7 +159,7 @@ Grailbird.data.tweets_2016_10 =
     "id" : 792774579068530688,
     "created_at" : "2016-10-30 17:06:03 +0000",
     "user" : {
-      "name" : "let \u007Borta\u007D = therox",
+      "name" : ".\/orta",
       "screen_name" : "orta",
       "protected" : false,
       "id_str" : "2569881",
@@ -858,7 +858,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anthony (Tony) Evans #FBPE",
+      "name" : "Anthony (Tony) Evans",
       "screen_name" : "Dukevfr",
       "indices" : [ 0, 8 ],
       "id_str" : "234342821",
@@ -1283,7 +1283,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03A6\u03AC\u03C1\u03B1\u03BD",
+      "name" : "\u03A6\u03AC\u03C1\u03C1\u03B1\u03BD",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
@@ -1316,7 +1316,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jingle Dells",
+      "name" : "Deez Nuts Roasting On An Open Fire",
       "screen_name" : "UdellGames",
       "indices" : [ 3, 14 ],
       "id_str" : "1609105514",
@@ -1405,11 +1405,11 @@ Grailbird.data.tweets_2016_10 =
     "id" : 788690145822306304,
     "created_at" : "2016-10-19 10:35:58 +0000",
     "user" : {
-      "name" : "Jingle Dells",
+      "name" : "Deez Nuts Roasting On An Open Fire",
       "screen_name" : "UdellGames",
       "protected" : false,
       "id_str" : "1609105514",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/959056652237451265\/3IVV2N2N_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039851161875111936\/VUHAvtq1_normal.jpg",
       "id" : 1609105514,
       "verified" : false
     }
@@ -1435,7 +1435,7 @@ Grailbird.data.tweets_2016_10 =
       "id_str" : "227666609",
       "id" : 227666609
     }, {
-      "name" : "FireBrick Ltd",
+      "name" : "FireBrick",
       "screen_name" : "firebrickltd",
       "indices" : [ 17, 30 ],
       "id_str" : "243601494",
@@ -1452,7 +1452,7 @@ Grailbird.data.tweets_2016_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "FireBrick Ltd",
+        "name" : "FireBrick",
         "screen_name" : "firebrickltd",
         "indices" : [ 0, 13 ],
         "id_str" : "243601494",
@@ -1477,7 +1477,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "TheRealRevK",
       "protected" : false,
       "id_str" : "227666609",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980113696654491653\/1brSP4Vj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005433381109354496\/dzSAAWff_normal.jpg",
       "id" : 227666609,
       "verified" : false
     }
@@ -1503,7 +1503,7 @@ Grailbird.data.tweets_2016_10 =
       "id_str" : "227666609",
       "id" : 227666609
     }, {
-      "name" : "FireBrick Ltd",
+      "name" : "FireBrick",
       "screen_name" : "firebrickltd",
       "indices" : [ 58, 71 ],
       "id_str" : "243601494",
@@ -1523,7 +1523,7 @@ Grailbird.data.tweets_2016_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "FireBrick Ltd",
+        "name" : "FireBrick",
         "screen_name" : "firebrickltd",
         "indices" : [ 41, 54 ],
         "id_str" : "243601494",
@@ -1546,7 +1546,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "TheRealRevK",
       "protected" : false,
       "id_str" : "227666609",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980113696654491653\/1brSP4Vj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005433381109354496\/dzSAAWff_normal.jpg",
       "id" : 227666609,
       "verified" : false
     }
@@ -2022,7 +2022,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2055,7 +2055,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2520,7 +2520,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3095,17 +3095,11 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u03A6\u03AC\u03C1\u03B1\u03BD",
+      "name" : "\u03A6\u03AC\u03C1\u03C1\u03B1\u03BD",
       "screen_name" : "fazzaan",
       "indices" : [ 0, 8 ],
       "id_str" : "53681528",
       "id" : 53681528
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 35, 40 ],
-      "id_str" : "14822382",
-      "id" : 14822382
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3133,13 +3127,7 @@ Grailbird.data.tweets_2016_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3152,7 +3140,7 @@ Grailbird.data.tweets_2016_10 =
   "id" : 785259631144820736,
   "in_reply_to_status_id" : 785258206088065024,
   "created_at" : "2016-10-09 23:24:20 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -3453,7 +3441,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3719,7 +3707,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -4825,7 +4813,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -4885,7 +4873,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",

@@ -505,7 +505,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "AirlineFlyer",
       "protected" : false,
       "id_str" : "58913244",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823351416769093632\/QPqPeT7C_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1056968892998975490\/TpBYCj2N_normal.jpg",
       "id" : 58913244,
       "verified" : true
     }
@@ -564,7 +564,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "122748008",
       "id" : 122748008
     }, {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 16, 25 ],
       "id_str" : "29484376",
@@ -603,7 +603,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "122748008",
       "id" : 122748008
     }, {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 16, 25 ],
       "id_str" : "29484376",
@@ -636,7 +636,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 0, 9 ],
       "id_str" : "29484376",
@@ -786,11 +786,11 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Virgin Trains EC",
+      "name" : "VTEC is now LNER",
       "screen_name" : "Virgin_TrainsEC",
       "indices" : [ 3, 19 ],
-      "id_str" : "313306238",
-      "id" : 313306238
+      "id_str" : "984210638036766721",
+      "id" : 984210638036766721
     } ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/Virgin_TrainsEC\/status\/702805317004992512\/photo\/1",
@@ -881,11 +881,11 @@ Grailbird.data.tweets_2016_02 =
     "id" : 702805317004992512,
     "created_at" : "2016-02-25 10:40:19 +0000",
     "user" : {
-      "name" : "Virgin Trains EC",
-      "screen_name" : "Virgin_TrainsEC",
+      "name" : "London North Eastern Railway",
+      "screen_name" : "LNER",
       "protected" : false,
       "id_str" : "313306238",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/872490895882452992\/XBhNuzZF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061910853027545088\/mu6MN4RY_normal.jpg",
       "id" : 313306238,
       "verified" : true
     }
@@ -1246,13 +1246,7 @@ Grailbird.data.tweets_2016_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Break Up BT",
-      "screen_name" : "breakupbt",
-      "indices" : [ 0, 10 ],
-      "id_str" : "3945480616",
-      "id" : 3945480616
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -1262,16 +1256,11 @@ Grailbird.data.tweets_2016_02 =
       "display_url" : "en.wikipedia.org\/wiki\/Special:C\u2026"
     } ]
   },
-  "in_reply_to_status_id_str" : "695560321696669696",
   "geo" : { },
   "id_str" : "701895331936608259",
-  "in_reply_to_user_id" : 3945480616,
   "text" : "@breakupbt Thanksfully, https:\/\/t.co\/RttdK2Zoog (is that you? ;)) reverted them! :)",
   "id" : 701895331936608259,
-  "in_reply_to_status_id" : 695560321696669696,
   "created_at" : "2016-02-22 22:24:22 +0000",
-  "in_reply_to_screen_name" : "breakupbt",
-  "in_reply_to_user_id_str" : "3945480616",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1284,13 +1273,7 @@ Grailbird.data.tweets_2016_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Break Up BT",
-      "screen_name" : "breakupbt",
-      "indices" : [ 1, 11 ],
-      "id_str" : "3945480616",
-      "id" : 3945480616
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "troll",
@@ -1298,70 +1281,11 @@ Grailbird.data.tweets_2016_02 =
     } ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "701893310185611264",
   "geo" : { },
   "id_str" : "701893821983019008",
-  "in_reply_to_user_id" : 3945480616,
   "text" : ".@breakupbt Well, 0.5 Mbps is \"up to 80 Mbps\" #troll",
   "id" : 701893821983019008,
-  "in_reply_to_status_id" : 701893310185611264,
   "created_at" : "2016-02-22 22:18:22 +0000",
-  "in_reply_to_screen_name" : "breakupbt",
-  "in_reply_to_user_id_str" : "3945480616",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Break Up BT",
-      "screen_name" : "breakupbt",
-      "indices" : [ 3, 13 ],
-      "id_str" : "3945480616",
-      "id" : 3945480616
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "701892364781150209",
-  "text" : "RT @breakupbt: Britain's electric\/gas\/water distribution monopolies make about 5p profit in the \u00A3\n\nBT\u2019s Openreach monopoly makes 52p in the\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "breakupbt",
-        "indices" : [ 127, 137 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "701891781416325120",
-    "text" : "Britain's electric\/gas\/water distribution monopolies make about 5p profit in the \u00A3\n\nBT\u2019s Openreach monopoly makes 52p in the \u00A3 #breakupbt",
-    "id" : 701891781416325120,
-    "created_at" : "2016-02-22 22:10:15 +0000",
-    "user" : {
-      "name" : "Break Up BT",
-      "screen_name" : "breakupbt",
-      "protected" : false,
-      "id_str" : "3945480616",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/654283343261896705\/sIRV48fS_normal.png",
-      "id" : 3945480616,
-      "verified" : false
-    }
-  },
-  "id" : 701892364781150209,
-  "created_at" : "2016-02-22 22:12:34 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1562,7 +1486,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2318,7 +2242,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2500,13 +2424,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    }, {
-      "name" : "Sam, but for databases",
+      "name" : "Sam, but for gondolas",
       "screen_name" : "samvtran",
       "indices" : [ 6, 15 ],
       "id_str" : "14972539",
@@ -2524,7 +2442,7 @@ Grailbird.data.tweets_2016_02 =
   "id" : 698884151915716609,
   "in_reply_to_status_id" : 698883721978650625,
   "created_at" : "2016-02-14 14:59:01 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -2539,7 +2457,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -2572,7 +2490,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3373,7 +3291,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -3685,7 +3603,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "TheRealRevK",
       "protected" : false,
       "id_str" : "227666609",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980113696654491653\/1brSP4Vj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005433381109354496\/dzSAAWff_normal.jpg",
       "id" : 227666609,
       "verified" : false
     }

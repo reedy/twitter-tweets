@@ -35,13 +35,7 @@ Grailbird.data.tweets_2013_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -54,7 +48,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 362307273248342016,
   "in_reply_to_status_id" : 362306961083076610,
   "created_at" : "2013-07-30 20:22:39 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -422,13 +416,7 @@ Grailbird.data.tweets_2013_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -441,7 +429,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 361548312463151104,
   "in_reply_to_status_id" : 361543385670107136,
   "created_at" : "2013-07-28 18:06:49 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -479,7 +467,7 @@ Grailbird.data.tweets_2013_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -496,7 +484,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 361358482672328704,
   "in_reply_to_status_id" : 361313631280959489,
   "created_at" : "2013-07-28 05:32:30 +0000",
-  "in_reply_to_screen_name" : "veeam",
+  "in_reply_to_screen_name" : "Veeam",
   "in_reply_to_user_id_str" : "14908404",
   "user" : {
     "name" : "Sam Reed",
@@ -512,7 +500,7 @@ Grailbird.data.tweets_2013_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -529,7 +517,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 361330410971598848,
   "in_reply_to_status_id" : 361313631280959489,
   "created_at" : "2013-07-28 03:40:57 +0000",
-  "in_reply_to_screen_name" : "veeam",
+  "in_reply_to_screen_name" : "Veeam",
   "in_reply_to_user_id_str" : "14908404",
   "user" : {
     "name" : "Sam Reed",
@@ -545,7 +533,7 @@ Grailbird.data.tweets_2013_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -562,7 +550,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 361315144791371776,
   "in_reply_to_status_id" : 361313631280959489,
   "created_at" : "2013-07-28 02:40:18 +0000",
-  "in_reply_to_screen_name" : "veeam",
+  "in_reply_to_screen_name" : "Veeam",
   "in_reply_to_user_id_str" : "14908404",
   "user" : {
     "name" : "Sam Reed",
@@ -578,7 +566,7 @@ Grailbird.data.tweets_2013_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -616,7 +604,7 @@ Grailbird.data.tweets_2013_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -649,7 +637,7 @@ Grailbird.data.tweets_2013_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 26, 32 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -862,7 +850,7 @@ Grailbird.data.tweets_2013_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 7, 13 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -1003,16 +991,11 @@ Grailbird.data.tweets_2013_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "360882169255702528",
   "geo" : { },
   "id_str" : "360883310152515585",
-  "in_reply_to_user_id" : 61773382,
   "text" : "@Kahless2001 Say what now?",
   "id" : 360883310152515585,
-  "in_reply_to_status_id" : 360882169255702528,
   "created_at" : "2013-07-26 22:04:20 +0000",
-  "in_reply_to_screen_name" : "Bal_demnic",
-  "in_reply_to_user_id_str" : "61773382",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1177,7 +1160,13 @@ Grailbird.data.tweets_2013_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1204,7 +1193,13 @@ Grailbird.data.tweets_2013_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Simon A V Butcher",
+      "screen_name" : "SimonButcher",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1009735879605309440",
+      "id" : 1009735879605309440
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1477,7 +1472,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -1516,7 +1511,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -1885,7 +1880,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "indices" : [ 3, 11 ],
       "id_str" : "621583",
@@ -1922,7 +1917,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 359695336454885378,
     "created_at" : "2013-07-23 15:23:45 +0000",
     "user" : {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
@@ -2255,7 +2250,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "let \u007Borta\u007D = therox",
+      "name" : ".\/orta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -3030,7 +3025,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "boomerangmouth",
       "protected" : false,
       "id_str" : "28117032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823857783032475648\/63AA72gQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058044973894062082\/WScKBncL_normal.jpg",
       "id" : 28117032,
       "verified" : false
     }
@@ -3303,13 +3298,7 @@ Grailbird.data.tweets_2013_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3322,7 +3311,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 357872166911475712,
   "in_reply_to_status_id" : 357871915815288835,
   "created_at" : "2013-07-18 14:39:08 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -4382,7 +4371,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 0, 9 ],
       "id_str" : "29484376",
@@ -4776,67 +4765,6 @@ Grailbird.data.tweets_2013_07 =
   "text" : "So that's where the other engine went from the Asiana 777...",
   "id" : 353924953587990528,
   "created_at" : "2013-07-07 17:14:19 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "David Mytton",
-      "screen_name" : "davidmytton",
-      "indices" : [ 3, 15 ],
-      "id_str" : "18075516",
-      "id" : 18075516
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 98, 121 ],
-      "url" : "https:\/\/t.co\/WJjsaiTlYt",
-      "expanded_url" : "https:\/\/worksthatwork.com\/2\/boeing-747",
-      "display_url" : "worksthatwork.com\/2\/boeing-747"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "353894513518968832",
-  "text" : "RT @davidmytton: \"When Boeing originally designed the 747 they considered it a low-end product\" - https:\/\/t.co\/WJjsaiTlYt",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 81, 104 ],
-        "url" : "https:\/\/t.co\/WJjsaiTlYt",
-        "expanded_url" : "https:\/\/worksthatwork.com\/2\/boeing-747",
-        "display_url" : "worksthatwork.com\/2\/boeing-747"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "353893168233709569",
-    "text" : "\"When Boeing originally designed the 747 they considered it a low-end product\" - https:\/\/t.co\/WJjsaiTlYt",
-    "id" : 353893168233709569,
-    "created_at" : "2013-07-07 15:08:00 +0000",
-    "user" : {
-      "name" : "David Mytton",
-      "screen_name" : "davidmytton",
-      "protected" : false,
-      "id_str" : "18075516",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/783338884285472768\/zFjgjSPD_normal.jpg",
-      "id" : 18075516,
-      "verified" : false
-    }
-  },
-  "id" : 353894513518968832,
-  "created_at" : "2013-07-07 15:13:21 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -5529,7 +5457,7 @@ Grailbird.data.tweets_2013_07 =
     "user" : {
       "name" : "HPE ProLiant",
       "screen_name" : "HPE_ProLiant",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "17531482",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/659439685756829696\/_5ecFDnj_normal.png",
       "id" : 17531482,

@@ -362,7 +362,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -395,7 +395,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -1623,7 +1623,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "letsencrypt",
       "protected" : false,
       "id_str" : "2887837801",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912323218312019968\/KcfbLNDe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004735262209896448\/lSuJvwXU_normal.jpg",
       "id" : 2887837801,
       "verified" : true
     }
@@ -3199,7 +3199,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "TimesONeill",
       "protected" : false,
       "id_str" : "32417875",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881970733370552320\/WyJcK1te_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1007178720644423681\/bbdkMEBQ_normal.jpg",
       "id" : 32417875,
       "verified" : true
     }
@@ -3578,7 +3578,7 @@ Grailbird.data.tweets_2016_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -3593,7 +3593,7 @@ Grailbird.data.tweets_2016_07 =
   "text" : "@veeam OOI, do you guys do free licences for charitable organisations or similar? :)",
   "id" : 754611451613024256,
   "created_at" : "2016-07-17 09:39:24 +0000",
-  "in_reply_to_screen_name" : "veeam",
+  "in_reply_to_screen_name" : "Veeam",
   "in_reply_to_user_id_str" : "14908404",
   "user" : {
     "name" : "Sam Reed",
@@ -4356,7 +4356,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gigaclear plc",
+      "name" : "Gigaclear",
       "screen_name" : "gigaclear",
       "indices" : [ 1, 11 ],
       "id_str" : "156555282",
@@ -4853,7 +4853,7 @@ Grailbird.data.tweets_2016_07 =
       "id" : 897478758134886400
     }, {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 9, 15 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -4891,7 +4891,7 @@ Grailbird.data.tweets_2016_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 0, 6 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -4908,7 +4908,7 @@ Grailbird.data.tweets_2016_07 =
   "id" : 750315616876331008,
   "in_reply_to_status_id" : 750314354977935360,
   "created_at" : "2016-07-05 13:09:17 +0000",
-  "in_reply_to_screen_name" : "veeam",
+  "in_reply_to_screen_name" : "Veeam",
   "in_reply_to_user_id_str" : "14908404",
   "user" : {
     "name" : "Sam Reed",
@@ -4957,7 +4957,7 @@ Grailbird.data.tweets_2016_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Veeam\u00AE Software",
-      "screen_name" : "veeam",
+      "screen_name" : "Veeam",
       "indices" : [ 53, 59 ],
       "id_str" : "14908404",
       "id" : 14908404
@@ -5267,7 +5267,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hull Uni Alumni",
+      "name" : "University of Hull Alumni",
       "screen_name" : "hullalumni",
       "indices" : [ 10, 21 ],
       "id_str" : "2237655414",
@@ -5553,7 +5553,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "MrMcEnaney",
       "protected" : false,
       "id_str" : "1369732866",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729637449480196096\/8zUCHMEB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044621403981590529\/BrzQwr3y_normal.jpg",
       "id" : 1369732866,
       "verified" : false
     }
@@ -5645,7 +5645,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"https:\/\/github.com\/TwidereProject\/Twidere-Android\/\" rel=\"nofollow\"\u003ETwidere for Android #5\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UK CAA",
+      "name" : "UK Civil Aviation Authority",
       "screen_name" : "UK_CAA",
       "indices" : [ 0, 7 ],
       "id_str" : "135453038",
@@ -5858,13 +5858,7 @@ Grailbird.data.tweets_2016_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5877,7 +5871,7 @@ Grailbird.data.tweets_2016_07 =
   "id" : 748879910677143552,
   "in_reply_to_status_id" : 748879494446981120,
   "created_at" : "2016-07-01 14:04:18 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -5891,13 +5885,7 @@ Grailbird.data.tweets_2016_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5910,7 +5898,7 @@ Grailbird.data.tweets_2016_07 =
   "id" : 748879263730917376,
   "in_reply_to_status_id" : 748878597100888064,
   "created_at" : "2016-07-01 14:01:44 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",

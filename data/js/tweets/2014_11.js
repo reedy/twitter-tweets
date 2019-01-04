@@ -228,7 +228,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -292,7 +292,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Brown \uD83C\uDFAE #EGXRezzed",
+      "name" : "Ryan Brown",
       "screen_name" : "Toadsanime",
       "indices" : [ 0, 11 ],
       "id_str" : "116534927",
@@ -386,7 +386,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -623,67 +623,6 @@ Grailbird.data.tweets_2014_11 =
   },
   "id" : 532618786059612160,
   "created_at" : "2014-11-12 19:39:48 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sandy Armstrong",
-      "screen_name" : "sandyarmstrong",
-      "indices" : [ 3, 18 ],
-      "id_str" : "14391487",
-      "id" : 14391487
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 53, 76 ],
-      "url" : "https:\/\/t.co\/HVinzKsNTO",
-      "expanded_url" : "https:\/\/gigaom.com\/2014\/11\/12\/a-milestone-moment-for-microsoft-net-is-now-an-open-source-project\/",
-      "display_url" : "gigaom.com\/2014\/11\/12\/a-m\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "532558948264869888",
-  "text" : "RT @sandyarmstrong: .NET now open source! holy shit! https:\/\/t.co\/HVinzKsNTO",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 33, 56 ],
-        "url" : "https:\/\/t.co\/HVinzKsNTO",
-        "expanded_url" : "https:\/\/gigaom.com\/2014\/11\/12\/a-milestone-moment-for-microsoft-net-is-now-an-open-source-project\/",
-        "display_url" : "gigaom.com\/2014\/11\/12\/a-m\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "532557856835256320",
-    "text" : ".NET now open source! holy shit! https:\/\/t.co\/HVinzKsNTO",
-    "id" : 532557856835256320,
-    "created_at" : "2014-11-12 15:37:42 +0000",
-    "user" : {
-      "name" : "Sandy Armstrong",
-      "screen_name" : "sandyarmstrong",
-      "protected" : false,
-      "id_str" : "14391487",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/52823310\/sandy3_normal.jpg",
-      "id" : 14391487,
-      "verified" : false
-    }
-  },
-  "id" : 532558948264869888,
-  "created_at" : "2014-11-12 15:42:02 +0000",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -1144,7 +1083,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -1291,13 +1230,7 @@ Grailbird.data.tweets_2014_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1310,7 +1243,7 @@ Grailbird.data.tweets_2014_11 =
   "id" : 531932690724188161,
   "in_reply_to_status_id" : 531932385106198528,
   "created_at" : "2014-11-10 22:13:30 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1324,13 +1257,7 @@ Grailbird.data.tweets_2014_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1343,7 +1270,7 @@ Grailbird.data.tweets_2014_11 =
   "id" : 531931942032510977,
   "in_reply_to_status_id" : 531930736673427458,
   "created_at" : "2014-11-10 22:10:32 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -1620,7 +1547,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tindie",
+      "name" : "Tindie Maker Marketplace",
       "screen_name" : "tindie",
       "indices" : [ 0, 7 ],
       "id_str" : "712685130",
@@ -3426,7 +3353,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -3459,7 +3386,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -3497,7 +3424,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -3646,68 +3573,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James Cook",
-      "screen_name" : "JamesLiamCook",
-      "indices" : [ 3, 17 ],
-      "id_str" : "207420832",
-      "id" : 207420832
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 70, 92 ],
-      "url" : "http:\/\/t.co\/3NnrHI84DF",
-      "expanded_url" : "http:\/\/cryptome.org\/2014\/10\/BTAgent-cpe-backdoor.htm",
-      "display_url" : "cryptome.org\/2014\/10\/BTAgen\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "528543387562291200",
-  "text" : "RT @JamesLiamCook: GCHQ has backdoors in every single BT Wi-Fi router http:\/\/t.co\/3NnrHI84DF",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 51, 73 ],
-        "url" : "http:\/\/t.co\/3NnrHI84DF",
-        "expanded_url" : "http:\/\/cryptome.org\/2014\/10\/BTAgent-cpe-backdoor.htm",
-        "display_url" : "cryptome.org\/2014\/10\/BTAgen\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "528543300635332608",
-    "text" : "GCHQ has backdoors in every single BT Wi-Fi router http:\/\/t.co\/3NnrHI84DF",
-    "id" : 528543300635332608,
-    "created_at" : "2014-11-01 13:45:17 +0000",
-    "user" : {
-      "name" : "James Cook",
-      "screen_name" : "JamesLiamCook",
-      "protected" : false,
-      "id_str" : "207420832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814875836323139584\/Q6uhjQBf_normal.jpg",
-      "id" : 207420832,
-      "verified" : true
-    }
-  },
-  "id" : 528543387562291200,
-  "created_at" : "2014-11-01 13:45:38 +0000",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "let \u007Borta\u007D = therox",
+      "name" : ".\/orta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",

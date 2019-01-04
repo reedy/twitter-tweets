@@ -58,7 +58,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 0, 12 ],
       "id_str" : "27855118",
@@ -89,7 +89,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 9, 21 ],
       "id_str" : "27855118",
@@ -117,17 +117,11 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
       "id" : 60264283
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 12, 17 ],
-      "id_str" : "14822382",
-      "id" : 14822382
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -156,17 +150,11 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
       "id" : 60264283
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 12, 17 ],
-      "id_str" : "14822382",
-      "id" : 14822382
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -200,17 +188,11 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
       "id" : 60264283
-    }, {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 12, 17 ],
-      "id_str" : "14822382",
-      "id" : 14822382
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -238,13 +220,7 @@ Grailbird.data.tweets_2012_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Sneddon",
-      "screen_name" : "d0od",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14822382",
-      "id" : 14822382
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -257,7 +233,7 @@ Grailbird.data.tweets_2012_09 =
   "id" : 252390785524330497,
   "in_reply_to_status_id" : 252356542366642176,
   "created_at" : "2012-09-30 12:53:47 +0000",
-  "in_reply_to_screen_name" : "d0od",
+  "in_reply_to_screen_name" : "joeywritesblogs",
   "in_reply_to_user_id_str" : "14822382",
   "user" : {
     "name" : "Sam Reed",
@@ -369,7 +345,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 0, 12 ],
       "id_str" : "27855118",
@@ -494,7 +470,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 0, 12 ],
       "id_str" : "27855118",
@@ -1540,7 +1516,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -1717,8 +1693,8 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "American",
-      "screen_name" : "american",
+      "name" : "AMERICAN",
+      "screen_name" : "American",
       "indices" : [ 6, 15 ],
       "id_str" : "2537961",
       "id" : 2537961
@@ -3744,39 +3720,6 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "American Airlines",
-      "screen_name" : "AmericanAir",
-      "indices" : [ 0, 12 ],
-      "id_str" : "22536055",
-      "id" : 22536055
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "246829036616171520",
-  "geo" : { },
-  "id_str" : "246836883911483392",
-  "in_reply_to_user_id" : 22536055,
-  "text" : "@AmericanAir Was already done at check-in. Thanks!",
-  "id" : 246836883911483392,
-  "in_reply_to_status_id" : 246829036616171520,
-  "created_at" : "2012-09-15 05:04:33 +0000",
-  "in_reply_to_screen_name" : "AmericanAir",
-  "in_reply_to_user_id_str" : "22536055",
-  "user" : {
-    "name" : "Sam Reed",
-    "screen_name" : "tehreedy",
-    "protected" : false,
-    "id_str" : "19903171",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
-    "id" : 19903171,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Siebrand Mazeland",
       "screen_name" : "translatewiki",
       "indices" : [ 0, 14 ],
@@ -3797,6 +3740,39 @@ Grailbird.data.tweets_2012_09 =
   "created_at" : "2012-09-15 05:04:33 +0000",
   "in_reply_to_screen_name" : "translatewiki",
   "in_reply_to_user_id_str" : "70758310",
+  "user" : {
+    "name" : "Sam Reed",
+    "screen_name" : "tehreedy",
+    "protected" : false,
+    "id_str" : "19903171",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668470125885038594\/JzhCj5tf_normal.jpg",
+    "id" : 19903171,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "American Airlines",
+      "screen_name" : "AmericanAir",
+      "indices" : [ 0, 12 ],
+      "id_str" : "22536055",
+      "id" : 22536055
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "246829036616171520",
+  "geo" : { },
+  "id_str" : "246836883911483392",
+  "in_reply_to_user_id" : 22536055,
+  "text" : "@AmericanAir Was already done at check-in. Thanks!",
+  "id" : 246836883911483392,
+  "in_reply_to_status_id" : 246829036616171520,
+  "created_at" : "2012-09-15 05:04:33 +0000",
+  "in_reply_to_screen_name" : "AmericanAir",
+  "in_reply_to_user_id_str" : "22536055",
   "user" : {
     "name" : "Sam Reed",
     "screen_name" : "tehreedy",
@@ -4334,7 +4310,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "digininja",
       "protected" : false,
       "id_str" : "16170178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949289244765360130\/Bm5IWoE__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1075695793204551680\/pmA1xmdM_normal.jpg",
       "id" : 16170178,
       "verified" : false
     }
@@ -4373,7 +4349,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "245659959830929408",
   "text" : "RT @thetechreport: New Steam beta lets you install games to other drives http:\/\/t.co\/yPa5Qhxs",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4481,7 +4457,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "giffgaff",
+      "name" : "giffgaff | The mobile network run by you",
       "screen_name" : "giffgaff",
       "indices" : [ 0, 9 ],
       "id_str" : "29484376",
@@ -4512,7 +4488,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carlos Montero",
+      "name" : "\uD83E\uDDD9 Carlos Montero \uD83E\uDD96",
       "screen_name" : "cman2k",
       "indices" : [ 3, 10 ],
       "id_str" : "10416942",
@@ -4539,11 +4515,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 245603655640821762,
     "created_at" : "2012-09-11 19:24:09 +0000",
     "user" : {
-      "name" : "Carlos Montero",
+      "name" : "\uD83E\uDDD9 Carlos Montero \uD83E\uDD96",
       "screen_name" : "cman2k",
       "protected" : false,
       "id_str" : "10416942",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/720077499053400064\/AuGXptmg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1060040493579419648\/tUMZXTon_normal.jpg",
       "id" : 10416942,
       "verified" : false
     }
@@ -5312,7 +5288,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 0, 11 ],
       "id_str" : "60264283",
@@ -5574,7 +5550,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "indices" : [ 3, 11 ],
       "id_str" : "621583",
@@ -5611,7 +5587,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 244063134543908865,
     "created_at" : "2012-09-07 13:22:40 +0000",
     "user" : {
-      "name" : "BBC Technology",
+      "name" : "BBC News Technology",
       "screen_name" : "BBCTech",
       "protected" : false,
       "id_str" : "621583",
@@ -5635,7 +5611,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 34, 46 ],
       "id_str" : "27855118",
@@ -5799,7 +5775,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "15016389",
       "id" : 15016389
     }, {
-      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory",
+      "name" : "James \u300C\u30B8\u30E3\u30E0\u300D Gregory-Monk",
       "screen_name" : "jamgregory",
       "indices" : [ 14, 25 ],
       "id_str" : "60264283",
@@ -5836,7 +5812,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "782961206550208513",
       "id" : 782961206550208513
     }, {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 11, 23 ],
       "id_str" : "27855118",
@@ -5869,7 +5845,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 5, 17 ],
       "id_str" : "27855118",
@@ -5897,7 +5873,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 32, 44 ],
       "id_str" : "27855118",
@@ -6044,7 +6020,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Battlefield",
+      "name" : "#Battlefield V",
       "screen_name" : "Battlefield",
       "indices" : [ 7, 19 ],
       "id_str" : "27855118",
@@ -6444,7 +6420,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Such Much Such",
+      "name" : "Jeroen De Dauw",
       "screen_name" : "JeroenDeDauw",
       "indices" : [ 0, 13 ],
       "id_str" : "112745660",
